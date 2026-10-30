@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Scraper streamxhd.sbs — corre en GitHub Actions.
+Estrategia: regex sobre texto plano (más robusto para este sitio).
 Salida: output/eventos_YYYYMMDD.txt + .json
 """
 
@@ -15,7 +16,6 @@ from dataclasses import dataclass, field, asdict
 from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import List, Optional, Dict
-from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -26,7 +26,6 @@ BASE_URL = "https://streamxhd.sbs/"
 AGENDA_URLS = [
     "https://streamxhd.sbs/",
     "https://streamxhd.sbs/?embed=1",
-    "https://streamxhd.sbs/index.php",
 ]
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
 
@@ -40,7 +39,7 @@ HEADERS_BASE = {
     "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
     "Referer": BASE_URL,
 }
-TIMEOUT = 20
+TIMEOUT = 25
 LOG = logging.getLogger("streamxhd")
 
 
@@ -98,67 +97,179 @@ def fetch_agenda(session) -> Optional[str]:
     return None
 
 
-URL_RE = re.compile(r"https?://streamxhd\.sbs/live1\.php\?stream=[A-Za-z0-9_\-]+")
+# ─── Regex principales ───────────────────────────────────────────────────────
+URL_RE = re.compile(r"https?://streamxhd\.sbs/live1\.php\?stream=([A-Za-z0-9_\-]+)")
 TIME_RE = re.compile(r"\b([0-2]?\d:[0-5]\d)\b")
+DATE_RE = re.compile(
+    r"(?:HOY|AYER)?\s*(?:Lunes|Martes|Mi[eé]rcoles|Jueves|Viernes|S[aá]bado|Domingo)[,\s]+"
+    r"(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})",
+    re.IGNORECASE,
+)
+MESES = {
+    "enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
+    "julio": 7, "agosto": 8, "septiembre": 9, "setiembre": 9, "octubre": 10,
+    "noviembre": 11, "diciembre": 12,
+}
+DEPORTES = ("F1", "MotoGP", "NBA", "MLB", "NFL", "NHL", "UFC", "ESPN KnockOut",
+            "Ligue 1", "La Liga", "Premier League", "Serie A", "Bundesliga",
+            "Champions", "Europa League", "Copa")
 
 
 def _norm(t: str) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
-def parse_html_blocks(html: str, fecha: str) -> List[Evento]:
+def html_to_text(html: str) -> str:
+    """Convierte HTML a texto plano con saltos de línea preservados."""
     soup = BeautifulSoup(html, "lxml")
-    eventos, seen = [], set()
-    for a in soup.find_all("a", href=True):
-        if "live1.php?stream=" not in a["href"]:
+    for tag in soup(["script", "style", "noscript"]):
+        tag.decompose()
+    text = soup.get_text("\n", strip=True)
+    return text
+
+
+def parse_fecha_encabezado(text: str) -> str:
+    """Busca el primer 'HOY Sábado, 31 de octubre de 2026' del texto."""
+    m = DATE_RE.search(text)
+    if not m:
+        return ""
+    dia = int(m.group(1))
+    mes = MESES.get(m.group(2).lower())
+    anio = int(m.group(3))
+    if mes:
+        try:
+            return date(anio, mes, dia).isoformat()
+        except ValueError:
+            return ""
+    return ""
+
+
+def parse_eventos(text: str, fecha_default: str) -> List[Evento]:
+    """
+    Parte el texto plano por 'Servidores disponibles N'.
+    Cada bloque = un evento. Se extrae info del bloque + links posteriores.
+    """
+    eventos: List[Evento] = []
+
+    # Partir por 'Servidores disponibles'
+    partes = re.split(r"\n?Servidores disponibles\s*\d*\n?", text)
+    if len(partes) < 2:
+        LOG.warning("No se encontró 'Servidores disponibles' en el texto")
+        return []
+
+    # Para cada parte posterior a la primera, el "cuerpo" del evento viene ANTES
+    # y los links vienen en la parte siguiente. Por eso iteramos sobre índices.
+    for i in range(1, len(partes)):
+        cuerpo = partes[i - 1]  # texto del evento (sin links aún)
+        links_bloque = partes[i].split("Servidores disponibles")[0]  # hasta el próximo evento
+
+        # Extraer servidores: buscar pares "nombre\nurl"
+        servidores: List[Servidor] = []
+        seen_urls = set()
+        # Buscar cada URL y tomar las 1-2 líneas anteriores como nombre
+        for m_url in URL_RE.finditer(links_bloque):
+            url = m_url.group(0)
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            # Buscar nombre antes de la URL en el bloque de links
+            start = m_url.start()
+            prev_text = links_bloque[max(0, start - 80):start]
+            lines_prev = [l.strip() for l in prev_text.split("\n") if l.strip()]
+            nombre = "Desconocido"
+            if lines_prev:
+                # El último token con letras que no sea número ni "Servidor"
+                for cand in reversed(lines_prev):
+                    cand_clean = re.sub(r"^\d+\s+", "", cand).strip()
+                    if cand_clean and not cand_clean.isdigit() and cand_clean != "Servidor":
+                        nombre = cand_clean
+                        break
+            numero = None
+            # número de servidor
+            num_match = re.match(r"^(\d+)\s+", lines_prev[-1]) if lines_prev else None
+            if num_match:
+                numero = int(num_match.group(1))
+            servidores.append(Servidor(nombre=nombre, url=url, numero=numero))
+
+        if not servidores:
             continue
-        block = a
-        for _ in range(8):
-            p = block.parent
-            if p is None or p.name in ("html", "body"):
+
+        # Analizar el cuerpo para título, equipos, hora, estado, deporte
+        lineas = [_norm(l) for l in cuerpo.split("\n") if l.strip()]
+        if not lineas:
+            continue
+
+        # Hora: última ocurrencia de HH:MM en el cuerpo
+        hora = ""
+        for l in reversed(lineas):
+            if l.upper() in ("EN VIVO", "PRONTO", "FINALIZADO"):
+                continue
+            m = TIME_RE.fullmatch(l.strip())
+            if m:
+                hora = m.group(1)
                 break
-            block = p
-            if TIME_RE.search(_norm(block.get_text(" ", strip=True))):
+
+        # Estado
+        estado = ""
+        for l in lineas:
+            lu = l.upper()
+            if lu in ("EN VIVO", "PRONTO", "FINALIZADO"):
+                estado = lu
                 break
-        if id(block) in seen:
-            continue
-        seen.add(id(block))
-        servers, surls = [], set()
-        for link in block.find_all("a", href=True):
-            if "live1.php?stream=" in link["href"]:
-                url = urljoin(BASE_URL, link["href"])
-                if url in surls:
-                    continue
-                surls.add(url)
-                parent = link.find_parent(["div", "li", "td", "tr", "p"]) or link
-                txt = _norm(parent.get_text(" ", strip=True))
-                txt = URL_RE.sub("", txt).replace("Ver aquí", "").replace("Copiar", "")
-                nm = re.sub(r"^\d+\s*", "", txt).strip() or "Desconocido"
-                num = None
-                m = re.match(r"^(\d+)\s+(.*)$", txt)
-                if m:
-                    num, nm = int(m.group(1)), m.group(2)
-                servers.append(Servidor(nombre=nm, url=url, numero=num))
-        if not servers:
-            continue
-        txt = _norm(block.get_text(" ", strip=True))
-        m_t = TIME_RE.search(txt)
-        if not m_t:
-            continue
-        estado = next((t for t in ("EN VIVO", "PRONTO", "FINALIZADO") if t in txt.upper()), "")
+
+        # Equipos: buscar línea "X" seguida de "VS" seguida de "Y"
         equipos = []
-        m_vs = re.search(r"([A-Za-z0-9À-ÿ\.\-\s]{2,40})\s+(?:VS|vs)\s+([A-Za-z0-9À-ÿ\.\-\s]{2,40})", txt)
-        if m_vs:
-            equipos = [_norm(m_vs.group(1)), _norm(m_vs.group(2))]
-        h = block.find(["h2", "h3", "h4"])
-        titulo = _norm(h.get_text(" ", strip=True)) if h else (f"{equipos[0]} vs {equipos[1]}" if equipos else txt[:80])
-        titulo = re.sub(r"^\d{1,2}:\d{2}\s*", "", titulo)
-        titulo = re.sub(r"\b(EN VIVO|PRONTO|FINALIZADO)\b", "", titulo, flags=re.I).strip()
-        deporte = "F1" if ("🏎" in txt or "GP " in txt or "F1" in txt) else ("NBA" if "NBA" in txt else ("Fútbol" if equipos else ""))
-        torneo = next((t for t in ("NBA League Pass","Ligue 1","La Liga","Premier League","Serie A","Bundesliga","F1","NBA","Champions","Copa") if t.lower() in txt.lower()), "")
-        eventos.append(Evento(hora=m_t.group(1), titulo=titulo, deporte=deporte,
-                              torneo=torneo, estado=estado, equipos=equipos,
-                              servidores=servers, fecha=fecha))
+        for idx_l, l in enumerate(lineas):
+            if l.upper() == "VS" and idx_l > 0 and idx_l + 1 < len(lineas):
+                eq1 = lineas[idx_l - 1]
+                eq2 = lineas[idx_l + 1]
+                # Evitar falsos positivos
+                if eq1 and eq2 and eq1.upper() not in ("VS",) and eq2.upper() not in ("VS",):
+                    equipos = [eq1, eq2]
+                    break
+
+        # Título: si hay equipos "X vs Y". Si no, buscar línea con "GP" o emoji de deporte.
+        titulo = ""
+        if equipos:
+            titulo = f"{equipos[0]} vs {equipos[1]}"
+        else:
+            # Buscar línea que parezca título (contiene "GP " o una palabra >3 letras)
+            for l in lineas:
+                if l.upper() in ("EN VIVO", "PRONTO", "FINALIZADO", "VS"):
+                    continue
+                if TIME_RE.fullmatch(l):
+                    continue
+                if "GP " in l or len(l) > 5:
+                    titulo = l
+                    break
+
+        # Deporte
+        deporte = ""
+        for tok in DEPORTES:
+            if tok.lower() in cuerpo.lower():
+                deporte = tok
+                break
+        if not deporte and "🏎" in cuerpo:
+            deporte = "F1"
+        elif not deporte and "🥊" in cuerpo:
+            deporte = "Boxeo"
+        elif not deporte and equipos:
+            deporte = "Fútbol"
+
+        if not titulo:
+            continue
+
+        eventos.append(Evento(
+            hora=hora,
+            titulo=titulo,
+            deporte=deporte,
+            torneo=deporte if deporte in DEPORTES else "",
+            estado=estado,
+            equipos=equipos,
+            servidores=servidores,
+            fecha=fecha_default,
+        ))
+
     return eventos
 
 
@@ -217,11 +328,23 @@ def main() -> int:
     if not html:
         LOG.error("Sin HTML de agenda")
         return 1
-    fecha = date.today().isoformat()
-    eventos = merge(parse_html_blocks(html, fecha))
+
+    text = html_to_text(html)
+    LOG.info(f"Texto plano: {len(text)} caracteres")
+
+    fecha_ctx = parse_fecha_encabezado(text) or date.today().isoformat()
+    LOG.info(f"Fecha detectada: {fecha_ctx}")
+
+    eventos = parse_eventos(text, fecha_ctx)
+    LOG.info(f"Eventos parseados: {len(eventos)}")
+
     if not eventos:
-        LOG.error("Sin eventos parseados")
+        # Guardar debug para inspeccionar
+        (OUTPUT_DIR / "debug_text.txt").write_text(text[:20000], encoding="utf-8")
+        LOG.error("Sin eventos parseados (debug_text.txt guardado)")
         return 1
+
+    eventos = merge(eventos)
     stamp = datetime.now(timezone.utc).strftime("%Y%m%d")
     write_txt(eventos, OUTPUT_DIR / f"eventos_{stamp}.txt")
     write_json(eventos, OUTPUT_DIR / f"eventos_{stamp}.json")
