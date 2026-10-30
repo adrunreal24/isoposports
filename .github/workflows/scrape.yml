@@ -2,7 +2,6 @@ name: Scrape streamxhd
 
 on:
   schedule:
-    # 06:30 UTC todos los días (~03:30 Uruguay)
     - cron: "30 6 * * *"
   workflow_dispatch: {}
 
@@ -12,7 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repo
@@ -24,8 +23,11 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
         run: python scraper.py
