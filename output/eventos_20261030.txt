@@ -1,6 +1,6 @@
 ======================================================================
-EVENTOS STREAMXHD — 2026-10-30T20:43:44.031712+00:00
-Total: 81 eventos
+EVENTOS STREAMXHD — 2026-10-30T21:10:22.001868+00:00
+Total: 80 eventos
 ======================================================================
 
 ── 05:30  Abha vs Al Ittihad
@@ -84,18 +84,8 @@ Total: 81 eventos
         https://streamxhd.sbs/live1.php?stream=disney3
 
 ── 11:30  Disney +
-   [F1 | F1 | EN VIVO]
-   Servidores: 3
-     1. Disney + · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=disney4
-     2. Disney +
-        https://streamxhd.sbs/live1.php?stream=disney5
-     3. Disney +
-        https://streamxhd.sbs/live1.php?stream=disney6
-
-── 11:30  Embed Live Sports - Agenda
-   [F1 | F1 | EN VIVO]
-   Servidores: 6
+   [F1 | F1 | FINALIZADO]
+   Servidores: 8
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney4
      2. ESPN 3
@@ -108,6 +98,10 @@ Total: 81 eventos
         https://streamxhd.sbs/live1.php?stream=canal5mx
      6. SporTV 3
         https://streamxhd.sbs/live1.php?stream=sporttvbr3
+     7. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney5
+     8. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney6
 
 ── 12:30  ESPN 5
    [EN VIVO]
@@ -199,7 +193,7 @@ Total: 81 eventos
 
 ── 14:00  Deportivo Pereira vs Jaguares de Córdoba
    Deportivo Pereira  VS  Jaguares de Córdoba
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 2
      1. Win Sports +
         https://streamxhd.sbs/live1.php?stream=winplus
@@ -207,20 +201,20 @@ Total: 81 eventos
         https://streamxhd.sbs/live1.php?stream=winsports
 
 ── 14:00  Disney +
-   [PRONTO]
+   [EN VIVO]
    Servidores: 1
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney9
 
 ── 14:00  Inter Miami vs Inter
    Inter Miami  VS  Inter
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney9
 
 ── 14:00  Win Sports +
-   [PRONTO]
+   [EN VIVO]
    Servidores: 1
      1. Win Sports + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winplus

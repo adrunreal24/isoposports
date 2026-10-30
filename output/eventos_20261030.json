@@ -218,33 +218,7 @@
     "titulo": "Disney +",
     "deporte": "F1",
     "torneo": "F1",
-    "estado": "EN VIVO",
-    "equipos": [],
-    "servidores": [
-      {
-        "nombre": "Disney + · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-        "numero": null
-      },
-      {
-        "nombre": "Disney +",
-        "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-        "numero": null
-      },
-      {
-        "nombre": "Disney +",
-        "url": "https://streamxhd.sbs/live1.php?stream=disney6",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-10-30"
-  },
-  {
-    "hora": "11:30",
-    "titulo": "Embed Live Sports - Agenda",
-    "deporte": "F1",
-    "torneo": "F1",
-    "estado": "EN VIVO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -275,6 +249,16 @@
       {
         "nombre": "SporTV 3",
         "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney5",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney6",
         "numero": null
       }
     ],
@@ -520,7 +504,7 @@
     "titulo": "Deportivo Pereira vs Jaguares de Córdoba",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Deportivo Pereira",
       "Jaguares de Córdoba"
@@ -544,7 +528,7 @@
     "titulo": "Disney +",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
@@ -560,7 +544,7 @@
     "titulo": "Inter Miami vs Inter",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Inter Miami",
       "Inter"
@@ -579,7 +563,7 @@
     "titulo": "Win Sports +",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
