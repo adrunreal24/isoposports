@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Scraper streamxhd.sbs — usa Playwright (navegador real headless).
-Corre en GitHub Actions.
+Scraper streamxhd.sbs — Playwright + exportadores TXT/JSON/CSV/M3U/HTML.
 """
 
+import csv
 import json
 import logging
 import os
@@ -84,15 +84,12 @@ async def fetch_html() -> Optional[str]:
         try:
             LOG.info(f"Cargando {BASE_URL}")
             await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
-            # esperar a que aparezcan links live1.php en el DOM
             try:
                 await page.wait_for_selector('a[href*="live1.php"]', timeout=TIMEOUT_MS)
                 LOG.info("Links live1.php detectados en el DOM")
             except Exception:
                 LOG.warning("No aparecieron links live1.php (continuamos igual)")
-            # Esperar extra por si renderiza más
             await page.wait_for_timeout(4000)
-            # Scroll para forzar render de lazy content
             for _ in range(5):
                 await page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
                 await page.wait_for_timeout(800)
@@ -253,6 +250,8 @@ def merge(eventos: List[Evento]) -> List[Evento]:
     return sorted(idx.values(), key=lambda e: (e.hora or "99:99", e.titulo))
 
 
+# ─── EXPORTADORES ────────────────────────────────────────────────────────────
+
 def write_txt(eventos, path: Path):
     now = datetime.now(timezone.utc).isoformat()
     lines = [
@@ -284,6 +283,131 @@ def write_json(eventos, path: Path):
     )
 
 
+def write_csv(eventos, path: Path):
+    """Una fila por servidor (evento-servidor)."""
+    with path.open("w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow([
+            "fecha", "hora", "titulo", "equipo_local", "equipo_visitante",
+            "deporte", "torneo", "estado",
+            "servidor_numero", "servidor_nombre", "servidor_url",
+        ])
+        for ev in eventos:
+            if not ev.servidores:
+                w.writerow([ev.fecha, ev.hora, ev.titulo,
+                            ev.equipos[0] if len(ev.equipos) > 0 else "",
+                            ev.equipos[1] if len(ev.equipos) > 1 else "",
+                            ev.deporte, ev.torneo, ev.estado,
+                            "", "", ""])
+                continue
+            for i, s in enumerate(ev.servidores, 1):
+                w.writerow([
+                    ev.fecha, ev.hora, ev.titulo,
+                    ev.equipos[0] if len(ev.equipos) > 0 else "",
+                    ev.equipos[1] if len(ev.equipos) > 1 else "",
+                    ev.deporte, ev.torneo, ev.estado,
+                    s.numero or i, s.nombre, s.url,
+                ])
+
+
+def _safe_group(name: str) -> str:
+    """Nombre de grupo M3U válido."""
+    name = re.sub(r"[^\w\s\-]", "", name).strip()
+    return name or "Otros"
+
+
+def write_m3u(eventos, path: Path):
+    """Playlist M3U para VLC/TiviMate/etc. Un canal por servidor."""
+    lines = ["#EXTM3U"]
+    for ev in eventos:
+        grupo = _safe_group(ev.deporte or "Otros")
+        for i, s in enumerate(ev.servidores, 1):
+            display = f"{ev.hora} | {ev.titulo}"
+            if s.nombre:
+                display += f" [{s.nombre}]"
+            lines.append(
+                f'#EXTINF:-1 tvg-name="{ev.titulo}" group-title="{grupo}", {display}'
+            )
+            lines.append(s.url)
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_html(eventos, path: Path):
+    """HTML estático con diseño responsive."""
+    now = datetime.now(timezone.utc).isoformat()
+    import html as _html
+
+    rows = []
+    for ev in eventos:
+        meta = " · ".join(x for x in [ev.deporte, ev.torneo, ev.estado] if x)
+        servs = ""
+        for i, s in enumerate(ev.servidores, 1):
+            nombre = _html.escape(s.nombre or f"Servidor {i}")
+            servs += (
+                f'<li><span class="num">{i}</span>'
+                f'<span class="sname">{nombre}</span>'
+                f'<a class="btn" href="{_html.escape(s.url)}" target="_blank" rel="noopener">Ver aquí</a>'
+                f'</li>'
+            )
+        rows.append(f"""
+        <div class="event">
+          <div class="head">
+            <div class="time">{_html.escape(ev.hora or '--:--')}</div>
+            <div class="title">{_html.escape(ev.titulo)}</div>
+          </div>
+          <div class="meta">{_html.escape(meta)}</div>
+          <ul class="servers">{servs}</ul>
+        </div>
+        """)
+
+    doc = f"""<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eventos StreamXHD — {now}</title>
+<style>
+  :root {{
+    --bg: #0d1117; --card: #161b22; --border: #30363d;
+    --text: #e6edf3; --muted: #8b949e; --accent: #2f81f7; --green: #3fb950;
+  }}
+  * {{ box-sizing: border-box; }}
+  body {{ margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+         background: var(--bg); color: var(--text); padding: 20px; }}
+  h1 {{ font-size: 22px; margin: 0 0 4px; }}
+  .sub {{ color: var(--muted); font-size: 13px; margin-bottom: 24px; }}
+  .grid {{ display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }}
+  .event {{ background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }}
+  .head {{ display: flex; gap: 10px; align-items: baseline; margin-bottom: 6px; }}
+  .time {{ color: var(--green); font-weight: 600; font-variant-numeric: tabular-nums; min-width: 48px; }}
+  .title {{ font-weight: 600; }}
+  .meta {{ color: var(--muted); font-size: 12px; margin-bottom: 10px; }}
+  .servers {{ list-style: none; margin: 0; padding: 0; }}
+  .servers li {{ display: flex; align-items: center; gap: 8px; padding: 6px 0;
+                 border-top: 1px solid var(--border); }}
+  .servers li:first-child {{ border-top: 0; }}
+  .num {{ display: inline-flex; width: 20px; height: 20px; border-radius: 50%;
+          background: var(--border); align-items: center; justify-content: center;
+          font-size: 11px; color: var(--muted); flex-shrink: 0; }}
+  .sname {{ flex: 1; font-size: 14px; }}
+  .btn {{ background: var(--accent); color: #fff; text-decoration: none;
+          padding: 4px 12px; border-radius: 6px; font-size: 12px; font-weight: 600; }}
+  .btn:hover {{ opacity: .85; }}
+</style>
+</head>
+<body>
+  <h1>Eventos StreamXHD</h1>
+  <div class="sub">{len(eventos)} eventos · actualizado {now}</div>
+  <div class="grid">
+    {''.join(rows)}
+  </div>
+</body>
+</html>"""
+    path.write_text(doc, encoding="utf-8")
+
+
+# ─── MAIN ────────────────────────────────────────────────────────────────────
+
 def main() -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -296,7 +420,6 @@ def main() -> int:
     text = html_to_text(html)
     LOG.info(f"Texto plano: {len(text)} caracteres")
 
-    # guardar texto completo para debug
     (OUTPUT_DIR / "debug_text.txt").write_text(text, encoding="utf-8")
 
     fecha_ctx = parse_fecha_encabezado(text) or date.today().isoformat()
@@ -311,9 +434,15 @@ def main() -> int:
 
     eventos = merge(eventos)
     stamp = datetime.now(timezone.utc).strftime("%Y%m%d")
-    write_txt(eventos, OUTPUT_DIR / f"eventos_{stamp}.txt")
-    write_json(eventos, OUTPUT_DIR / f"eventos_{stamp}.json")
-    LOG.info(f"{len(eventos)} eventos guardados")
+    base = OUTPUT_DIR / f"eventos_{stamp}"
+
+    write_txt(eventos, base.with_suffix(".txt"))
+    write_json(eventos, base.with_suffix(".json"))
+    write_csv(eventos, base.with_suffix(".csv"))
+    write_m3u(eventos, base.with_suffix(".m3u"))
+    write_html(eventos, base.with_suffix(".html"))
+
+    LOG.info(f"{len(eventos)} eventos guardados en 5 formatos (TXT/JSON/CSV/M3U/HTML)")
     return 0
 
 
