@@ -1,33 +1,28 @@
-2026-10-31 15:58:57,859 [INFO] === TEST v2 (fetch desde dentro del navegador) ===
-2026-10-31 15:58:57,859 [INFO] --- Probando disney3 ---
-2026-10-31 15:58:57,859 [INFO] [disney3] Abriendo https://streamxhd.sbs/live1.php?stream=disney3
-2026-10-31 15:58:59,040 [INFO] [disney3] 🎯 m3u8: https://khala.futlivehd.com/global/disney3/index.m3u8?ip=20.59.242.2&token=f46a03423976f40114578aadbc68606a086a270e-99-1793507338-1793453338
-2026-10-31 15:58:59,398 [INFO] [disney3] 🎯 m3u8: https://lala4.futlivehd.com/disney3/index.m3u8?ip=20.59.242.2&token=f46a03423976f40114578aadbc68606a086a270e-99-1793507338-1793453338
-2026-10-31 15:59:12,355 [INFO] [disney3] m3u8 status=0 ct=None len=0
-2026-10-31 15:59:12,398 [INFO] [disney3] PLAYABLE=False
-2026-10-31 15:59:12,399 [INFO] --- Probando espn5 ---
-2026-10-31 15:59:12,399 [INFO] [espn5] Abriendo https://streamxhd.sbs/live1.php?stream=espn5
-2026-10-31 15:59:13,368 [INFO] [espn5] 🎯 m3u8: https://khala.futlivehd.com/global/espn5/index.m3u8?ip=20.59.242.2&token=1cb3e5b3f588a499dd6525397ac387807920bc30-a2-1793507353-1793453353
-2026-10-31 15:59:13,668 [INFO] [espn5] 🎯 m3u8: https://khala.futlivehd.com/espn5/index.m3u8?ip=20.59.242.2&token=1cb3e5b3f588a499dd6525397ac387807920bc30-a2-1793507353-1793453353
-2026-10-31 15:59:26,695 [INFO] [espn5] m3u8 status=0 ct=None len=0
-2026-10-31 15:59:26,797 [INFO] [espn5] PLAYABLE=False
-2026-10-31 15:59:26,798 [INFO] --- Probando telemundo ---
-2026-10-31 15:59:26,798 [INFO] [telemundo] Abriendo https://streamxhd.sbs/live1.php?stream=telemundo
-2026-10-31 15:59:28,371 [INFO] [telemundo] 🎯 m3u8: https://khala.futlivehd.com/global/telemundo/index.m3u8?ip=20.59.242.2&token=7ea944e779f948852b0f082e46e2542effe8dedd-b8-1793507368-17934533
-2026-10-31 15:59:28,669 [INFO] [telemundo] 🎯 m3u8: https://mileixd.futlivehd.com/telemundo/index.m3u8?ip=20.59.242.2&token=7ea944e779f948852b0f082e46e2542effe8dedd-b8-1793507368-1793453368
-2026-10-31 15:59:41,704 [INFO] [telemundo] m3u8 status=0 ct=None len=0
-2026-10-31 15:59:41,746 [INFO] [telemundo] PLAYABLE=False
-2026-10-31 15:59:41,747 [INFO] --- Probando disney15 ---
-2026-10-31 15:59:41,747 [INFO] [disney15] Abriendo https://streamxhd.sbs/live1.php?stream=disney15
-2026-10-31 15:59:42,712 [INFO] [disney15] 🎯 m3u8: https://khala.futlivehd.com/global/disney15/index.m3u8?ip=20.59.242.2&token=e632a1a3d163570ddb79c17f975ea3565830cc35-dd-1793507382-179345338
-2026-10-31 15:59:43,028 [INFO] [disney15] 🎯 m3u8: https://fala.futlivehd.com/disney15/index.m3u8?ip=20.59.242.2&token=e632a1a3d163570ddb79c17f975ea3565830cc35-dd-1793507382-1793453382
-2026-10-31 15:59:56,028 [INFO] [disney15] m3u8 status=0 ct=None len=0
-2026-10-31 15:59:56,074 [INFO] [disney15] PLAYABLE=False
-2026-10-31 15:59:56,074 [INFO] --- Probando disney7 ---
-2026-10-31 15:59:56,074 [INFO] [disney7] Abriendo https://streamxhd.sbs/live1.php?stream=disney7
-2026-10-31 15:59:57,029 [INFO] [disney7] 🎯 m3u8: https://khala.futlivehd.com/global/disney7/index.m3u8?ip=20.59.242.2&token=5b99095fad0a45001de7330cdb535050e2b9f5fb-7e-1793507396-1793453396
-2026-10-31 15:59:57,326 [INFO] [disney7] 🎯 m3u8: https://lala4.futlivehd.com/disney7/index.m3u8?ip=20.59.242.2&token=5b99095fad0a45001de7330cdb535050e2b9f5fb-7e-1793507396-1793453396
-2026-10-31 16:00:10,339 [INFO] [disney7] m3u8 status=0 ct=None len=0
-2026-10-31 16:00:10,386 [INFO] [disney7] PLAYABLE=False
-2026-10-31 16:00:10,387 [INFO] === FIN ===
-2026-10-31 16:00:10,387 [INFO] Total: 5 | con m3u8: 5 | reproducibles: 0
+2026-10-31 16:12:08,797 [INFO] === TEST v3 (mide estado real del reproductor) ===
+2026-10-31 16:12:08,797 [INFO] --- Probando disney3 ---
+2026-10-31 16:12:08,797 [INFO] [disney3] Abriendo https://streamxhd.sbs/live1.php?stream=disney3
+2026-10-31 16:12:10,465 [INFO] [disney3] 🎯 m3u8: https://khala.futlivehd.com/global/disney3/index.m3u8?ip=52.154.132.168&token=62f705bc30475a592756f6744303ec85d1c0b086-85-1793508129-1793454
+2026-10-31 16:12:10,577 [INFO] [disney3] 🎯 m3u8: https://khala.futlivehd.com/disney3/index.m3u8?ip=52.154.132.168&token=62f705bc30475a592756f6744303ec85d1c0b086-85-1793508129-1793454129
+2026-10-31 16:12:35,254 [INFO] [disney3] PLAYABLE=False · segmentos=0 · buffer=0s · resolución=0x0
+2026-10-31 16:12:35,254 [INFO] --- Probando espn5 ---
+2026-10-31 16:12:35,254 [INFO] [espn5] Abriendo https://streamxhd.sbs/live1.php?stream=espn5
+2026-10-31 16:12:36,639 [INFO] [espn5] 🎯 m3u8: https://khala.futlivehd.com/global/espn5/index.m3u8?ip=52.154.132.168&token=c5b5555fb0d6cfe9bd7096382294cbeb0fd18d04-df-1793508155-179345415
+2026-10-31 16:12:37,048 [INFO] [espn5] 🎯 m3u8: https://lala4.futlivehd.com/espn5/index.m3u8?ip=52.154.132.168&token=c5b5555fb0d6cfe9bd7096382294cbeb0fd18d04-df-1793508155-1793454155
+2026-10-31 16:13:01,458 [INFO] [espn5] PLAYABLE=False · segmentos=0 · buffer=0s · resolución=0x0
+2026-10-31 16:13:01,458 [INFO] --- Probando telemundo ---
+2026-10-31 16:13:01,458 [INFO] [telemundo] Abriendo https://streamxhd.sbs/live1.php?stream=telemundo
+2026-10-31 16:13:02,852 [INFO] [telemundo] 🎯 m3u8: https://khala.futlivehd.com/global/telemundo/index.m3u8?ip=52.154.132.168&token=6463a40bea0e3f20f699a35083cd02703d182f68-90-1793508182-17934
+2026-10-31 16:13:03,223 [INFO] [telemundo] 🎯 m3u8: https://razen.futlivehd.com/telemundo/index.m3u8?ip=52.154.132.168&token=6463a40bea0e3f20f699a35083cd02703d182f68-90-1793508182-1793454182
+2026-10-31 16:13:27,656 [INFO] [telemundo] PLAYABLE=False · segmentos=0 · buffer=0s · resolución=0x0
+2026-10-31 16:13:27,656 [INFO] --- Probando disney15 ---
+2026-10-31 16:13:27,656 [INFO] [disney15] Abriendo https://streamxhd.sbs/live1.php?stream=disney15
+2026-10-31 16:13:29,037 [INFO] [disney15] 🎯 m3u8: https://khala.futlivehd.com/global/disney15/index.m3u8?ip=52.154.132.168&token=9f4df449d557254889dd8e2a3cff0dc52146c23d-8e-1793508208-179345
+2026-10-31 16:13:29,420 [INFO] [disney15] 🎯 m3u8: https://mileixd.futlivehd.com/disney15/index.m3u8?ip=52.154.132.168&token=9f4df449d557254889dd8e2a3cff0dc52146c23d-8e-1793508208-1793454208
+2026-10-31 16:13:53,861 [INFO] [disney15] PLAYABLE=False · segmentos=0 · buffer=0s · resolución=0x0
+2026-10-31 16:13:53,861 [INFO] --- Probando disney7 ---
+2026-10-31 16:13:53,861 [INFO] [disney7] Abriendo https://streamxhd.sbs/live1.php?stream=disney7
+2026-10-31 16:13:55,269 [INFO] [disney7] 🎯 m3u8: https://khala.futlivehd.com/global/disney7/index.m3u8?ip=52.154.132.168&token=7551793d9637fc52e04a0fc60f5e51ce9cc86ed1-07-1793508234-1793454
+2026-10-31 16:13:55,608 [INFO] [disney7] 🎯 m3u8: https://razen.futlivehd.com/disney7/index.m3u8?ip=52.154.132.168&token=7551793d9637fc52e04a0fc60f5e51ce9cc86ed1-07-1793508234-1793454234
+2026-10-31 16:14:20,085 [INFO] [disney7] PLAYABLE=False · segmentos=1 · buffer=0s · resolución=0x0
+2026-10-31 16:14:20,085 [INFO] === FIN ===
+2026-10-31 16:14:20,085 [INFO] Total: 5 | con m3u8: 5 | con segmentos: 1 | reproducibles: 0

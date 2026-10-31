@@ -1,131 +1,154 @@
 {
-  "fecha_test": "2026-10-31T16:00:10.386746+00:00",
+  "fecha_test": "2026-10-31T16:14:20.085254+00:00",
   "total_probados": 5,
   "con_m3u8": 5,
+  "con_segmentos": 1,
   "reproducibles": 0,
   "detalle": [
     {
       "stream": "disney3",
       "live1_url": "https://streamxhd.sbs/live1.php?stream=disney3",
-      "m3u8_encontrado": "https://lala4.futlivehd.com/disney3/index.m3u8?ip=20.59.242.2&token=f46a03423976f40114578aadbc68606a086a270e-99-1793507338-1793453338",
-      "m3u8_candidatos": [
-        "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=20.59.242.2&token=f46a03423976f40114578aadbc68606a086a270e-99-1793507338-1793453338",
-        "https://lala4.futlivehd.com/disney3/index.m3u8?ip=20.59.242.2&token=f46a03423976f40114578aadbc68606a086a270e-99-1793507338-1793453338"
+      "m3u8_detectados": [
+        "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=52.154.132.168&token=62f705bc30475a592756f6744303ec85d1c0b086-85-1793508129-1793454129",
+        "https://khala.futlivehd.com/disney3/index.m3u8?ip=52.154.132.168&token=62f705bc30475a592756f6744303ec85d1c0b086-85-1793508129-1793454129"
       ],
-      "m3u8_test": {
-        "status": 0,
-        "content_type": null,
-        "tamano": 0,
-        "es_extm3u": false,
-        "primeras_lineas": [
-          ""
-        ]
-      },
-      "segmento_test": {
-        "url": "",
-        "status": null,
-        "content_type": "",
-        "primeros_bytes": 0
+      "num_segmentos_descargados": 0,
+      "primeros_segmentos": [],
+      "respuestas_200": 59,
+      "respuestas_error": 0,
+      "tamanio_total_red": 249575,
+      "estado_reproductor": {
+        "has_video": true,
+        "currentSrc": "blob:https://streamxhd.sbs/ce476586-a202-4bad-8cfd-935a8e2ed2d7",
+        "src": "blob:https://streamxhd.sbs/ce476586-a202-4bad-8cfd-935a8e2ed2d7",
+        "readyState": 0,
+        "networkState": 2,
+        "paused": false,
+        "currentTime": 0,
+        "duration": null,
+        "buffered_end": 0,
+        "videoWidth": 0,
+        "videoHeight": 0,
+        "error": null,
+        "hls_url": null
       },
       "playable": false
     },
     {
       "stream": "espn5",
       "live1_url": "https://streamxhd.sbs/live1.php?stream=espn5",
-      "m3u8_encontrado": "https://khala.futlivehd.com/espn5/index.m3u8?ip=20.59.242.2&token=1cb3e5b3f588a499dd6525397ac387807920bc30-a2-1793507353-1793453353",
-      "m3u8_candidatos": [
-        "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=20.59.242.2&token=1cb3e5b3f588a499dd6525397ac387807920bc30-a2-1793507353-1793453353",
-        "https://khala.futlivehd.com/espn5/index.m3u8?ip=20.59.242.2&token=1cb3e5b3f588a499dd6525397ac387807920bc30-a2-1793507353-1793453353"
+      "m3u8_detectados": [
+        "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=52.154.132.168&token=c5b5555fb0d6cfe9bd7096382294cbeb0fd18d04-df-1793508155-1793454155",
+        "https://lala4.futlivehd.com/espn5/index.m3u8?ip=52.154.132.168&token=c5b5555fb0d6cfe9bd7096382294cbeb0fd18d04-df-1793508155-1793454155"
       ],
-      "m3u8_test": {
-        "status": 0,
-        "content_type": null,
-        "tamano": 0,
-        "es_extm3u": false,
-        "primeras_lineas": [
-          ""
-        ]
-      },
-      "segmento_test": {
-        "url": "",
-        "status": null,
-        "content_type": "",
-        "primeros_bytes": 0
+      "num_segmentos_descargados": 0,
+      "primeros_segmentos": [],
+      "respuestas_200": 60,
+      "respuestas_error": 0,
+      "tamanio_total_red": 249022,
+      "estado_reproductor": {
+        "has_video": true,
+        "currentSrc": "blob:https://streamxhd.sbs/0539f8d3-ff5f-4f22-8898-8fa43578654b",
+        "src": "blob:https://streamxhd.sbs/0539f8d3-ff5f-4f22-8898-8fa43578654b",
+        "readyState": 0,
+        "networkState": 2,
+        "paused": false,
+        "currentTime": 0,
+        "duration": null,
+        "buffered_end": 0,
+        "videoWidth": 0,
+        "videoHeight": 0,
+        "error": null,
+        "hls_url": null
       },
       "playable": false
     },
     {
       "stream": "telemundo",
       "live1_url": "https://streamxhd.sbs/live1.php?stream=telemundo",
-      "m3u8_encontrado": "https://mileixd.futlivehd.com/telemundo/index.m3u8?ip=20.59.242.2&token=7ea944e779f948852b0f082e46e2542effe8dedd-b8-1793507368-1793453368",
-      "m3u8_candidatos": [
-        "https://khala.futlivehd.com/global/telemundo/index.m3u8?ip=20.59.242.2&token=7ea944e779f948852b0f082e46e2542effe8dedd-b8-1793507368-1793453368",
-        "https://mileixd.futlivehd.com/telemundo/index.m3u8?ip=20.59.242.2&token=7ea944e779f948852b0f082e46e2542effe8dedd-b8-1793507368-1793453368"
+      "m3u8_detectados": [
+        "https://khala.futlivehd.com/global/telemundo/index.m3u8?ip=52.154.132.168&token=6463a40bea0e3f20f699a35083cd02703d182f68-90-1793508182-1793454182",
+        "https://razen.futlivehd.com/telemundo/index.m3u8?ip=52.154.132.168&token=6463a40bea0e3f20f699a35083cd02703d182f68-90-1793508182-1793454182"
       ],
-      "m3u8_test": {
-        "status": 0,
-        "content_type": null,
-        "tamano": 0,
-        "es_extm3u": false,
-        "primeras_lineas": [
-          ""
-        ]
-      },
-      "segmento_test": {
-        "url": "",
-        "status": null,
-        "content_type": "",
-        "primeros_bytes": 0
+      "num_segmentos_descargados": 0,
+      "primeros_segmentos": [],
+      "respuestas_200": 59,
+      "respuestas_error": 0,
+      "tamanio_total_red": 249431,
+      "estado_reproductor": {
+        "has_video": true,
+        "currentSrc": "blob:https://streamxhd.sbs/a4c1012e-d89d-4927-8040-cfc8122220e4",
+        "src": "blob:https://streamxhd.sbs/a4c1012e-d89d-4927-8040-cfc8122220e4",
+        "readyState": 0,
+        "networkState": 2,
+        "paused": false,
+        "currentTime": 0,
+        "duration": null,
+        "buffered_end": 0,
+        "videoWidth": 0,
+        "videoHeight": 0,
+        "error": null,
+        "hls_url": null
       },
       "playable": false
     },
     {
       "stream": "disney15",
       "live1_url": "https://streamxhd.sbs/live1.php?stream=disney15",
-      "m3u8_encontrado": "https://fala.futlivehd.com/disney15/index.m3u8?ip=20.59.242.2&token=e632a1a3d163570ddb79c17f975ea3565830cc35-dd-1793507382-1793453382",
-      "m3u8_candidatos": [
-        "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=20.59.242.2&token=e632a1a3d163570ddb79c17f975ea3565830cc35-dd-1793507382-1793453382",
-        "https://fala.futlivehd.com/disney15/index.m3u8?ip=20.59.242.2&token=e632a1a3d163570ddb79c17f975ea3565830cc35-dd-1793507382-1793453382"
+      "m3u8_detectados": [
+        "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=52.154.132.168&token=9f4df449d557254889dd8e2a3cff0dc52146c23d-8e-1793508208-1793454208",
+        "https://mileixd.futlivehd.com/disney15/index.m3u8?ip=52.154.132.168&token=9f4df449d557254889dd8e2a3cff0dc52146c23d-8e-1793508208-1793454208"
       ],
-      "m3u8_test": {
-        "status": 0,
-        "content_type": null,
-        "tamano": 0,
-        "es_extm3u": false,
-        "primeras_lineas": [
-          ""
-        ]
-      },
-      "segmento_test": {
-        "url": "",
-        "status": null,
-        "content_type": "",
-        "primeros_bytes": 0
+      "num_segmentos_descargados": 0,
+      "primeros_segmentos": [],
+      "respuestas_200": 60,
+      "respuestas_error": 0,
+      "tamanio_total_red": 249485,
+      "estado_reproductor": {
+        "has_video": true,
+        "currentSrc": "blob:https://streamxhd.sbs/02058190-7056-493b-ae88-25d27bed12bb",
+        "src": "blob:https://streamxhd.sbs/02058190-7056-493b-ae88-25d27bed12bb",
+        "readyState": 0,
+        "networkState": 2,
+        "paused": false,
+        "currentTime": 0,
+        "duration": null,
+        "buffered_end": 0,
+        "videoWidth": 0,
+        "videoHeight": 0,
+        "error": null,
+        "hls_url": null
       },
       "playable": false
     },
     {
       "stream": "disney7",
       "live1_url": "https://streamxhd.sbs/live1.php?stream=disney7",
-      "m3u8_encontrado": "https://lala4.futlivehd.com/disney7/index.m3u8?ip=20.59.242.2&token=5b99095fad0a45001de7330cdb535050e2b9f5fb-7e-1793507396-1793453396",
-      "m3u8_candidatos": [
-        "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=20.59.242.2&token=5b99095fad0a45001de7330cdb535050e2b9f5fb-7e-1793507396-1793453396",
-        "https://lala4.futlivehd.com/disney7/index.m3u8?ip=20.59.242.2&token=5b99095fad0a45001de7330cdb535050e2b9f5fb-7e-1793507396-1793453396"
+      "m3u8_detectados": [
+        "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=52.154.132.168&token=7551793d9637fc52e04a0fc60f5e51ce9cc86ed1-07-1793508234-1793454234",
+        "https://razen.futlivehd.com/disney7/index.m3u8?ip=52.154.132.168&token=7551793d9637fc52e04a0fc60f5e51ce9cc86ed1-07-1793508234-1793454234"
       ],
-      "m3u8_test": {
-        "status": 0,
-        "content_type": null,
-        "tamano": 0,
-        "es_extm3u": false,
-        "primeras_lineas": [
-          ""
-        ]
-      },
-      "segmento_test": {
-        "url": "",
-        "status": null,
-        "content_type": "",
-        "primeros_bytes": 0
+      "num_segmentos_descargados": 1,
+      "primeros_segmentos": [
+        "https://thrtle.com/sync?vxii_pid=5038&vxii_pdid=y-9hYdBmhE2oT7afVpZyWnx.TsDP3oPgwjV._wgQ--~A"
+      ],
+      "respuestas_200": 59,
+      "respuestas_error": 0,
+      "tamanio_total_red": 248597,
+      "estado_reproductor": {
+        "has_video": true,
+        "currentSrc": "blob:https://streamxhd.sbs/688c9463-3ffd-4189-86e2-d904719615de",
+        "src": "blob:https://streamxhd.sbs/688c9463-3ffd-4189-86e2-d904719615de",
+        "readyState": 0,
+        "networkState": 2,
+        "paused": false,
+        "currentTime": 0,
+        "duration": null,
+        "buffered_end": 0,
+        "videoWidth": 0,
+        "videoHeight": 0,
+        "error": null,
+        "hls_url": null
       },
       "playable": false
     }
