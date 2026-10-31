@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Test rápido: prueba 5 streams EN VIVO ahora mismo.
-No depende de la portada. Prueba extracción + manifest + segmento.
+Test v2: descarga m3u8 y segmento DESDE DENTRO del navegador Playwright.
+Así el CDN ve un Chrome real y no bloquea por fingerprint TLS.
 """
 
 import asyncio
@@ -13,7 +13,6 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
-import requests
 from playwright.async_api import async_playwright
 
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
@@ -31,16 +30,21 @@ sh = logging.StreamHandler()
 sh.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
 LOG.addHandler(sh)
 
-# 5 streams que están EN VIVO según tu captura de hoy
 STREAMS_A_PROBAR = ["disney3", "espn5", "telemundo", "disney15", "disney7"]
 
 
-async def extract_m3u8(stream: str) -> dict:
+async def probar_desde_navegador(stream: str) -> dict:
     url = f"https://streamxhd.sbs/live1.php?stream={stream}"
     LOG.info(f"[{stream}] Abriendo {url}")
-    captured_m3u8: list[str] = []
-    network_log: list[dict] = []
-    html_snippet = ""
+
+    captured_m3u8 = []
+    m3u8_status = None
+    m3u8_content_type = None
+    m3u8_body = ""
+    segment_status = None
+    segment_bytes = 0
+    segment_url = ""
+    segment_content_type = ""
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
@@ -49,124 +53,143 @@ async def extract_m3u8(stream: str) -> dict:
 
         def on_request(req):
             u = req.url
-            if ".m3u8" in u.lower():
+            if ".m3u8" in u.lower() and u not in captured_m3u8:
                 captured_m3u8.append(u)
                 LOG.info(f"[{stream}] 🎯 m3u8: {u[:140]}")
-            network_log.append({"method": req.method, "url": u[:250], "type": req.resource_type})
 
         page.on("request", on_request)
 
         try:
             await page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
-            await page.wait_for_timeout(8000)
+            await page.wait_for_timeout(6000)
             try:
                 await page.evaluate("""
                     () => {
-                        const sels = ['video', '.jw-icon-display', '.vjs-big-play-button',
-                                      'button[aria-label*="play" i]', '.play-button'];
-                        for (const s of sels) {
-                            const el = document.querySelector(s);
-                            if (el) { try { el.click(); el.dispatchEvent(new MouseEvent('click', {bubbles:true})); } catch(e){} }
-                        }
                         const v = document.querySelector('video');
                         if (v) { try { v.muted = true; v.play(); } catch(e){} }
+                        const sels = ['.jw-icon-display', '.vjs-big-play-button', 'button[aria-label*="play" i]'];
+                        for (const s of sels) { const el = document.querySelector(s); if (el) { try { el.click(); } catch(e){} } }
                     }
                 """)
             except Exception:
                 pass
-            await page.wait_for_timeout(8000)
-            try:
-                content = await page.content()
-                html_snippet = content[:2000]
-            except Exception:
-                pass
+            await page.wait_for_timeout(7000)
+
+            # Descargar el m3u8 DESDE DENTRO del navegador
+            if captured_m3u8:
+                m3u8_final = captured_m3u8[-1]
+                fetch_js = """
+                    async (m3u8_url) => {
+                        try {
+                            const r = await fetch(m3u8_url, { credentials: 'include' });
+                            const text = await r.text();
+                            return { status: r.status, content_type: r.headers.get('content-type') || '', body: text };
+                        } catch (e) {
+                            return { status: 0, error: String(e), body: '' };
+                        }
+                    }
+                """
+                try:
+                    res = await page.evaluate(fetch_js, m3u8_final)
+                    m3u8_status = res.get("status")
+                    m3u8_content_type = res.get("content_type")
+                    m3u8_body = res.get("body", "")
+                    LOG.info(f"[{stream}] m3u8 status={m3u8_status} ct={m3u8_content_type} len={len(m3u8_body)}")
+                except Exception as e:
+                    LOG.warning(f"[{stream}] error fetch m3u8: {e}")
+
+                # Extraer primer segmento
+                if m3u8_body:
+                    segments = re.findall(r"^(?!#)(https?://\S+|\S+\.(?:ts|m4s|mp4|aac))", m3u8_body, re.MULTILINE)
+                    segments = [x for x in segments if not x.startswith("#")]
+                    if segments:
+                        seg = segments[0]
+                        if not seg.startswith("http"):
+                            base = m3u8_final.rsplit("/", 1)[0]
+                            seg = base + "/" + seg.lstrip("/")
+                        segment_url = seg
+                        # Descargar primer chunk del segmento desde el navegador
+                        seg_js = """
+                            async (seg_url) => {
+                                try {
+                                    const r = await fetch(seg_url, { credentials: 'include' });
+                                    if (!r.ok) return { status: r.status, bytes: 0, content_type: r.headers.get('content-type') || '' };
+                                    const reader = r.body.getReader();
+                                    let total = 0;
+                                    while (true) {
+                                        const { done, value } = await reader.read();
+                                        if (done) break;
+                                        total += value.length;
+                                        if (total >= 32768) { try { reader.cancel(); } catch(e){} break; }
+                                    }
+                                    return { status: r.status, bytes: total, content_type: r.headers.get('content-type') || '' };
+                                } catch (e) {
+                                    return { status: 0, bytes: 0, error: String(e) };
+                                }
+                            }
+                        """
+                        try:
+                            res2 = await page.evaluate(seg_js, seg)
+                            segment_status = res2.get("status")
+                            segment_bytes = res2.get("bytes", 0)
+                            segment_content_type = res2.get("content_type", "")
+                            LOG.info(f"[{stream}] segmento status={segment_status} bytes={segment_bytes} ct={segment_content_type}")
+                        except Exception as e:
+                            LOG.warning(f"[{stream}] error fetch segmento: {e}")
         except Exception as e:
-            LOG.warning(f"[{stream}] Error navegando: {e}")
+            LOG.warning(f"[{stream}] Error general: {e}")
         finally:
             await context.close()
             await browser.close()
+
+    es_extm3u = m3u8_body.strip().startswith("#EXTM3U")
+    playable = (
+        m3u8_status == 200
+        and es_extm3u
+        and segment_status == 200
+        and segment_bytes > 1000
+    )
 
     return {
         "stream": stream,
         "live1_url": url,
         "m3u8_encontrado": captured_m3u8[-1] if captured_m3u8 else None,
         "m3u8_candidatos": captured_m3u8,
-        "peticiones_red_total": len(network_log),
-        "peticiones_red_muestra": network_log[-20:],
-        "html_snippet": html_snippet,
-    }
-
-
-def probar_manifest(m3u8: str) -> dict:
-    if not m3u8:
-        return {"ok": False, "motivo": "sin_m3u8"}
-
-    headers = {
-        "User-Agent": UA,
-        "Referer": "https://streamxhd.sbs/",
-        "Origin": "https://streamxhd.sbs",
-        "Accept": "*/*",
-        "Accept-Language": "es-ES,es;q=0.9",
-    }
-    s = requests.Session()
-    try:
-        r = s.get(m3u8, headers=headers, timeout=20, allow_redirects=True)
-    except Exception as e:
-        return {"ok": False, "error": str(e)}
-
-    status = r.status_code
-    content_type = r.headers.get("content-type", "")
-    body = r.text
-    es_extm3u = body.strip().startswith("#EXTM3U")
-    segments = re.findall(r"^(?!#)(https?://\S+|\S+\.(?:ts|m4s|mp4|aac))", body, re.MULTILINE)
-    segments = [x for x in segments if not x.startswith("#")][:3]
-
-    seg_result = {"probado": False}
-    if segments:
-        seg_url = segments[0]
-        if not seg_url.startswith("http"):
-            base = m3u8.rsplit("/", 1)[0]
-            seg_url = base + "/" + seg_url.lstrip("/")
-        try:
-            rs = s.get(seg_url, headers=headers, timeout=20, stream=True)
-            first_bytes = next(rs.iter_content(chunk_size=4096), b"")
-            seg_result = {
-                "probado": True,
-                "status": rs.status_code,
-                "content_type": rs.headers.get("content-type", ""),
-                "primeros_bytes": len(first_bytes),
-                "ok": rs.status_code == 200 and len(first_bytes) > 0,
-            }
-        except Exception as e:
-            seg_result = {"probado": True, "error": str(e), "ok": False}
-
-    return {
-        "status": status,
-        "content_type": content_type,
-        "tamano": len(body),
-        "es_extm3u": es_extm3u,
-        "num_segmentos": len(segments),
-        "segmento_prueba": seg_result,
-        "ok": status == 200 and es_extm3u and seg_result.get("ok", False),
+        "m3u8_test": {
+            "status": m3u8_status,
+            "content_type": m3u8_content_type,
+            "tamano": len(m3u8_body),
+            "es_extm3u": es_extm3u,
+            "primeras_lineas": m3u8_body.split("\n")[:6],
+        },
+        "segmento_test": {
+            "url": segment_url[:160],
+            "status": segment_status,
+            "content_type": segment_content_type,
+            "primeros_bytes": segment_bytes,
+        },
+        "playable": playable,
     }
 
 
 async def main():
-    LOG.info("=== TEST RÁPIDO (5 streams EN VIVO) ===")
+    LOG.info("=== TEST v2 (fetch desde dentro del navegador) ===")
     resultados = []
     for s in STREAMS_A_PROBAR:
         LOG.info(f"--- Probando {s} ---")
-        info = await extract_m3u8(s)
-        manifest = probar_manifest(info.get("m3u8_encontrado"))
-        info["test_manifest"] = manifest
-        resultados.append(info)
-        LOG.info(f"[{s}] m3u8={bool(info.get('m3u8_encontrado'))} playable={manifest.get('ok')}")
+        try:
+            r = await probar_desde_navegador(s)
+            resultados.append(r)
+            LOG.info(f"[{s}] PLAYABLE={r['playable']}")
+        except Exception as e:
+            LOG.error(f"Error en {s}: {e}")
+            resultados.append({"stream": s, "error": str(e), "playable": False})
 
     resumen = {
         "fecha_test": datetime.now(timezone.utc).isoformat(),
         "total_probados": len(resultados),
         "con_m3u8": sum(1 for r in resultados if r.get("m3u8_encontrado")),
-        "reproducibles": sum(1 for r in resultados if r.get("test_manifest", {}).get("ok")),
+        "reproducibles": sum(1 for r in resultados if r.get("playable")),
         "detalle": resultados,
     }
     out = OUTPUT_DIR / "test_m3u8.json"
