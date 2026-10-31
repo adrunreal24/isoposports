@@ -1,0 +1,628 @@
+{
+  "fecha_test": "2026-10-31T15:52:27.683946+00:00",
+  "total_probados": 5,
+  "con_m3u8": 5,
+  "reproducibles": 0,
+  "detalle": [
+    {
+      "stream": "disney3",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney3",
+      "m3u8_encontrado": "https://khala.futlivehd.com/disney3/index.m3u8?ip=13.71.228.81&token=2a83a97306dad5c428235de1e772f2479760019c-ea-1793506859-1793452859",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=13.71.228.81&token=2a83a97306dad5c428235de1e772f2479760019c-ea-1793506859-1793452859",
+        "https://khala.futlivehd.com/disney3/index.m3u8?ip=13.71.228.81&token=2a83a97306dad5c428235de1e772f2479760019c-ea-1793506859-1793452859"
+      ],
+      "peticiones_red_total": 104,
+      "peticiones_red_muestra": [
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=213030605782008731072&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=43994e18424de26f5428e45f291de1b7",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://agent.intentiq.com/Agent/Hints/IIQUniversalID-sync.js",
+          "type": "script"
+        },
+        {
+          "method": "GET",
+          "url": "https://px.mountain.com/signal/v1/page_view?data_source_key=BpoVSK24RZ&url=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney3&ip=13.71.228.81&referer=streamxhd.sbs%2Flive1.php%3Fstream%3Ddisney3&user_agent=Mozilla%2F5.0%20(Windows%20NT%2010.0",
+          "type": "fetch"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=02k6b1yl7qnfp&us_privacy=$(US_PRIVACY)",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/c.gif?cc=1&t=50288&r=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D5110%263pid%3D%5BUID%5D",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i.liadm.com/s/76929?bidder_id=204553&bidder_uuid=na&rnd=1793461871487&_li_chk=true&previous_uuid=87ca87cac44644a5a6e198280f01fbf2",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=24269aff-8711-4b11-3ba9-279510c7262f&iiqpciddate=1793461871761&tsrnd=960_1793461871762&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsve",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=CPX12&google_cm&google_hm=ODkzOTEyMDExNzMwMTQ4ODAzNw==&svnrd=1&cb=1793461871749",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=liveintent&ttd_tpi=1&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/m.gif?id=&svnrd=1&cb=1793461871749&google_gid=CAESENCaCLd3qKWrIFsv8iyWPBI&google_cver=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=02k6b1yl7qnfp&us_privacy=%24%28US_PRIVACY%29&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=43994e18424de26f5428e45f291de1b7&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=213030605782008731072&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i.liadm.com/s/35759?bidder_id=44489&bidder_uuid=676a2809-4186-4f25-9934-2db4a353f445",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/r.pixel?sid=9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i6.liadm.com/s/35759?bidder_id=44489&bidder_uuid=676a2809-4186-4f25-9934-2db4a353f445&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=24269aff-8711-4b11-3ba9-279510c7262f&iiqpciddate=1793461871761&tsrnd=960_1793461871762&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsve",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://d.agkn.com/pixel/6644/?che=1793461871873&sk=213030605782008731072",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5110&3pid=8939120117301488037",
+          "type": "image"
+        }
+      ],
+      "html_snippet": "<!DOCTYPE html><html lang=\"es\" data-ads-turn=\"adcash\"><head><meta charset=\"UTF-8\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title></title><link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\" crossorigin=\"\"><link rel=\"dns-prefetch\" href=\"//cdn.jsdelivr.net\"><script async=\"\" referrerpolicy=\"unsafe-url\" type=\"text/javascript\" src=\"https://de.tynt.com/deb/v2?id=wu!&amp;dn=AFWU&amp;cc=1&amp;chpv=10.0&amp;chuav=Chromium%3Bv%3D130.0.6723.31%2C%20HeadlessChrome%3Bv%3D130.0.6723.31%2C%20Not%3FA_Brand%3Bv%3D99.0.0.0&amp;chp=Windows&amp;chmob=0&amp;chua=Chromium%3Bv%3D130%2C%20HeadlessChrome%3Bv%3D130%2C%20Not%3FA_Brand%3Bv%3D99&amp;r=&amp;pu=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney3\"></script><script src=\"//e.dtscout.com/e/?v=1a&amp;pid=5200&amp;site=1&amp;l=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney3&amp;j=\" async=\"\" type=\"text/javascript\"></script><script src=\"//cdn.jsdelivr.net/npm/@clappr/player@0.8/dist/clappr.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/p2p-engine.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/clappr-p2p-plugin.min.js\"></script><style> html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; } #player { position: absolute; inset: 0; width: 100%; height: 100%; background: #000; } #playerError { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; background: #000; z-index: 9999; pointer-events: none; } .loader-circle { width: 44px; height: 44px; border: 4px solid rgba(255,255,255,.18); border-top-color: #fff; border-radius: 50%; animation: spinLoader .8s linear infinite; } @keyframes spinLoader { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .media-control[data-media-control] { z-index: 9998 !important; } .media-control[data-media-control] button, .media-control[dat",
+      "test_manifest": {
+        "status": 200,
+        "content_type": "application/vnd.apple.mpegurl",
+        "tamano": 269,
+        "es_extm3u": true,
+        "num_segmentos": 0,
+        "segmento_prueba": {
+          "probado": false
+        },
+        "ok": false
+      }
+    },
+    {
+      "stream": "espn5",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn5",
+      "m3u8_encontrado": "https://mileixd.futlivehd.com/espn5/index.m3u8?ip=13.71.228.81&token=99d915664d94e665fd3ca4fa886fdf0d7bf50424-94-1793506877-1793452877",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=13.71.228.81&token=99d915664d94e665fd3ca4fa886fdf0d7bf50424-94-1793506877-1793452877",
+        "https://mileixd.futlivehd.com/espn5/index.m3u8?ip=13.71.228.81&token=99d915664d94e665fd3ca4fa886fdf0d7bf50424-94-1793506877-1793452877"
+      ],
+      "peticiones_red_total": 106,
+      "peticiones_red_muestra": [
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=43994e18424de26f5428e45f291de1b7",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://agent.intentiq.com/Agent/Hints/IIQUniversalID-sync.js",
+          "type": "script"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=1sam4nvt33hxb&us_privacy=$(US_PRIVACY)",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/c.gif?cc=1&t=50288&r=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D5110%263pid%3D%5BUID%5D",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=b3430105-b221-33d8-2614-db45e61b4fca&iiqpciddate=1793461888903&tsrnd=23_1793461888904&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsver",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i.liadm.com/s/76929?bidder_id=204553&bidder_uuid=na&rnd=1793461888717&_li_chk=true&previous_uuid=4df86ed408134f8299de0cdc7cd57f3d",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=212650605782008731137&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=43994e18424de26f5428e45f291de1b7&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=CPX12&google_cm&google_hm=Nzc3NjgzODI4NTE0NDY2NTkz&svnrd=1&cb=1793461888919",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=1sam4nvt33hxb&us_privacy=%24%28US_PRIVACY%29&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/m.gif?id=&svnrd=1&cb=1793461888919&google_gid=CAESEAcheIFViQHuu7Y90n_4gok&google_cver=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://x.bidswitch.net/sync?ssp=liveintent&user_id=4df86ed4-0813-4f82-99de-0cdc7cd57f3d&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/r.pixel?sid=9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=b3430105-b221-33d8-2614-db45e61b4fca&iiqpciddate=1793461888903&tsrnd=23_1793461888904&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsver",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=adadvisor&ttd_tpi=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/g.pixel?sid=9312270958&tdid=c8b745bb-2834-44ea-8c5b-242192c20f7f",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://x.bidswitch.net/ul_cb/sync?ssp=liveintent&user_id=4df86ed4-0813-4f82-99de-0cdc7cd57f3d&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5110&3pid=777683828514466593",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.srv.stackadapt.com/sync?nid=50&gdpr=0&gdpr_consent=&gdpr_pd=&ssp=liveintent",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://x.bidswitch.net/sync?dsp_id=188&user_id=CiQwMWExOTJhOC1hOTUyLTc0NDQtOWJjMy03NWNmOGZmZGNmNGQQBBoCTkEgYQ&user_group=1&ssp=liveintent&gdpr=0",
+          "type": "image"
+        }
+      ],
+      "html_snippet": "<!DOCTYPE html><html lang=\"es\" data-ads-turn=\"adcash\"><head><meta charset=\"UTF-8\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title></title><link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\" crossorigin=\"\"><link rel=\"dns-prefetch\" href=\"//cdn.jsdelivr.net\"><script async=\"\" referrerpolicy=\"unsafe-url\" type=\"text/javascript\" src=\"https://de.tynt.com/deb/v2?id=wu!&amp;dn=AFWU&amp;cc=1&amp;chpv=10.0&amp;chuav=Chromium%3Bv%3D130.0.6723.31%2C%20HeadlessChrome%3Bv%3D130.0.6723.31%2C%20Not%3FA_Brand%3Bv%3D99.0.0.0&amp;chp=Windows&amp;chmob=0&amp;chua=Chromium%3Bv%3D130%2C%20HeadlessChrome%3Bv%3D130%2C%20Not%3FA_Brand%3Bv%3D99&amp;r=&amp;pu=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn5\"></script><script src=\"//e.dtscout.com/e/?v=1a&amp;pid=5200&amp;site=1&amp;l=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Despn5&amp;j=\" async=\"\" type=\"text/javascript\"></script><script src=\"//cdn.jsdelivr.net/npm/@clappr/player@0.8/dist/clappr.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/p2p-engine.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/clappr-p2p-plugin.min.js\"></script><style> html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; } #player { position: absolute; inset: 0; width: 100%; height: 100%; background: #000; } #playerError { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; background: #000; z-index: 9999; pointer-events: none; } .loader-circle { width: 44px; height: 44px; border: 4px solid rgba(255,255,255,.18); border-top-color: #fff; border-radius: 50%; animation: spinLoader .8s linear infinite; } @keyframes spinLoader { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .media-control[data-media-control] { z-index: 9998 !important; } .media-control[data-media-control] button, .media-control[data-me",
+      "test_manifest": {
+        "status": 200,
+        "content_type": "application/vnd.apple.mpegurl",
+        "tamano": 269,
+        "es_extm3u": true,
+        "num_segmentos": 0,
+        "segmento_prueba": {
+          "probado": false
+        },
+        "ok": false
+      }
+    },
+    {
+      "stream": "telemundo",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=telemundo",
+      "m3u8_encontrado": "https://fala.futlivehd.com/telemundo/index.m3u8?ip=13.71.228.81&token=b2e925341769d6dccc325ef1358f2a9b3fbadeb0-bf-1793506895-1793452895",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/telemundo/index.m3u8?ip=13.71.228.81&token=b2e925341769d6dccc325ef1358f2a9b3fbadeb0-bf-1793506895-1793452895",
+        "https://fala.futlivehd.com/telemundo/index.m3u8?ip=13.71.228.81&token=b2e925341769d6dccc325ef1358f2a9b3fbadeb0-bf-1793506895-1793452895"
+      ],
+      "peticiones_red_total": 113,
+      "peticiones_red_muestra": [
+        {
+          "method": "GET",
+          "url": "https://d.turn.com/r/dd/id/L21rdC8xOTcxL2NpZC8xNzQ5ODczMjc1L3QvMg/url/https://i.liadm.com/s/53233?bidder_id=183658&bidder_uuid=$!%7BTURN_UUID%7D&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=212520605782008742999&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=1vep86l5tuigo&us_privacy=%24%28US_PRIVACY%29&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=37c7b4a10c963777b4d624f0efc33c4b&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/m.gif?id=&svnrd=1&cb=1793461906632&google_gid=CAESEKZYzUVV9EIoQXI4Gt48UVg&google_cver=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=55a94740-ca42-f539-3136-19810300f460&iiqpciddate=1793461906610&tsrnd=201_1793461906611&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsve",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/r.pixel?sid=9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://loadm.exelator.com/load/?p=204&g=642&buid=212520605782008742999&j=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i.liadm.com/s/53233?bidder_id=183658&bidder_uuid=3473712232008607216&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5110&3pid=4552842794589058578",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=7006&vxii_pdid=9ed1f24b-d467-4ce5-859d-cb4c73fbb9fc&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/g.pixel?sid=9212261738&_g=906&ex=8b62b2f4f7175f1cd9585fc20e350272",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?_reach=1&vxii_pdid=9ed1f24b-d467-4ce5-859d-cb4c73fbb9fc&vxii_pid=12&vxii_pid1=7006&vxii_rcid=a9372961-1dc1-4b92-95e3-34bd53b7ddce&vxii_rmax=3",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://throtle-match.dotomi.com/match/bounce/current?networkId=9254457&version=1&nuid=a9372961-1dc1-4b92-95e3-34bd53b7ddce",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://throtle-match.dotomi.com/match/bounce/current?DotomiTest=c0f0d970ab31db5&is_secure=true&networkId=9254457&version=1&nuid=a9372961-1dc1-4b92-95e3-34bd53b7ddce",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=5052&vxii_pdid=AQAIsrrOetOvVwJQJLEkAQEBAQEBAQCgk6nufwEBAKCTqe5_&expiration=1793548307&nuid=a9372961-1dc1-4b92-95e3-34bd53b7ddce&is_secure=true",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=brgeu23&ttd_tpi=1&TTD_PUID=a9372961-1dc1-4b92-95e3-34bd53b7ddce",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=5015&vxii_pdid=8e211a50-d9eb-42bd-b87c-ff93d307a5ec",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fthrtle.com%2Fsync%3Fvxii_pid%3D5006%26vxii_pdid%3D%24UID%26vxii_ts%3D3%26_t%3D1793461907",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=5006&vxii_pdid=587963783144421368&vxii_ts=3&_t=1793461907",
+          "type": "image"
+        }
+      ],
+      "html_snippet": "<!DOCTYPE html><html lang=\"es\" data-ads-turn=\"adcash\"><head><meta charset=\"UTF-8\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title></title><link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\" crossorigin=\"\"><link rel=\"dns-prefetch\" href=\"//cdn.jsdelivr.net\"><script async=\"\" referrerpolicy=\"unsafe-url\" type=\"text/javascript\" src=\"https://de.tynt.com/deb/v2?id=wu!&amp;dn=AFWU&amp;cc=1&amp;chpv=10.0&amp;chuav=Chromium%3Bv%3D130.0.6723.31%2C%20HeadlessChrome%3Bv%3D130.0.6723.31%2C%20Not%3FA_Brand%3Bv%3D99.0.0.0&amp;chp=Windows&amp;chmob=0&amp;chua=Chromium%3Bv%3D130%2C%20HeadlessChrome%3Bv%3D130%2C%20Not%3FA_Brand%3Bv%3D99&amp;r=&amp;pu=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtelemundo\"></script><script src=\"//e.dtscout.com/e/?v=1a&amp;pid=5200&amp;site=1&amp;l=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Dtelemundo&amp;j=\" async=\"\" type=\"text/javascript\"></script><script src=\"//cdn.jsdelivr.net/npm/@clappr/player@0.8/dist/clappr.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/p2p-engine.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/clappr-p2p-plugin.min.js\"></script><style> html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; } #player { position: absolute; inset: 0; width: 100%; height: 100%; background: #000; } #playerError { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; background: #000; z-index: 9999; pointer-events: none; } .loader-circle { width: 44px; height: 44px; border: 4px solid rgba(255,255,255,.18); border-top-color: #fff; border-radius: 50%; animation: spinLoader .8s linear infinite; } @keyframes spinLoader { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .media-control[data-media-control] { z-index: 9998 !important; } .media-control[data-media-control] button, .media-control",
+      "test_manifest": {
+        "status": 200,
+        "content_type": "application/vnd.apple.mpegurl",
+        "tamano": 269,
+        "es_extm3u": true,
+        "num_segmentos": 0,
+        "segmento_prueba": {
+          "probado": false
+        },
+        "ok": false
+      }
+    },
+    {
+      "stream": "disney15",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney15",
+      "m3u8_encontrado": "https://razen.futlivehd.com/disney15/index.m3u8?ip=13.71.228.81&token=9fe58537f6a0605ac102723987c11de311f33e07-16-1793506913-1793452913",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney15/index.m3u8?ip=13.71.228.81&token=9fe58537f6a0605ac102723987c11de311f33e07-16-1793506913-1793452913",
+        "https://razen.futlivehd.com/disney15/index.m3u8?ip=13.71.228.81&token=9fe58537f6a0605ac102723987c11de311f33e07-16-1793506913-1793452913"
+      ],
+      "peticiones_red_total": 112,
+      "peticiones_red_muestra": [
+        {
+          "method": "GET",
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=CPX12&google_cm&google_hm=ODE3NTYzMTA1NDEwMzQyMDcxMA==&svnrd=1&cb=1793461924283",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=0fxaua2wnknst&us_privacy=%24%28US_PRIVACY%29&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=213560605782008711929&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=37c7b4a10c963777b4d624f0efc33c4b&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/m.gif?id=&svnrd=1&cb=1793461924283&google_gid=CAESEC-ULOB9xiyXgR_HeiI332w&google_cver=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=7006&vxii_pdid=f8569f59-4a46-420a-8e9f-472b276dc745&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/r.pixel?sid=9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=467f4627-e835-25b9-ded5-bd5ae13ea0f4&iiqpciddate=1793461924259&tsrnd=274_1793461924260&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsve",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://match.prod.bidr.io/cookie-sync/neustar?gdpr=&gdpr_consent=&gdpr_pd=",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?_reach=1&vxii_pdid=f8569f59-4a46-420a-8e9f-472b276dc745&vxii_pid=12&vxii_pid1=7006&vxii_rcid=93ef642c-be2f-4fea-8dd6-a32c36650e9e&vxii_rmax=3",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5110&3pid=8175631054103420710",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://throtle-match.dotomi.com/match/bounce/current?networkId=9254457&version=1&nuid=93ef642c-be2f-4fea-8dd6-a32c36650e9e",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://match.prod.bidr.io/cookie-sync/neustar?gdpr=&gdpr_consent=&gdpr_pd=&_bee_ppp=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/g.pixel?sid=9312314998&puid=AARdV07VzB0AAAEnafH4YQ",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://throtle-match.dotomi.com/match/bounce/current?DotomiTest=25f23f26f1ca1b4f&is_secure=true&networkId=9254457&version=1&nuid=93ef642c-be2f-4fea-8dd6-a32c36650e9e",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=5052&vxii_pdid=AQAIsrrOetO9wwJ5uAOgAQEBAQEBAQCgk6gyRwEBAKCTqDJH&expiration=1793548324&nuid=93ef642c-be2f-4fea-8dd6-a32c36650e9e&is_secure=true",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=brgeu23&ttd_tpi=1&TTD_PUID=93ef642c-be2f-4fea-8dd6-a32c36650e9e",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=5015&vxii_pdid=2b8bbd9c-288e-4d21-8101-415691c50bcd",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fthrtle.com%2Fsync%3Fvxii_pid%3D5006%26vxii_pdid%3D%24UID%26vxii_ts%3D3%26_t%3D1793461924",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://thrtle.com/sync?vxii_pid=5006&vxii_pdid=974272880145305290&vxii_ts=3&_t=1793461924",
+          "type": "image"
+        }
+      ],
+      "html_snippet": "<!DOCTYPE html><html lang=\"es\" data-ads-turn=\"adcash\"><head><meta charset=\"UTF-8\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title></title><link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\" crossorigin=\"\"><link rel=\"dns-prefetch\" href=\"//cdn.jsdelivr.net\"><script async=\"\" referrerpolicy=\"unsafe-url\" type=\"text/javascript\" src=\"https://de.tynt.com/deb/v2?id=wu!&amp;dn=AFWU&amp;cc=1&amp;chpv=10.0&amp;chuav=Chromium%3Bv%3D130.0.6723.31%2C%20HeadlessChrome%3Bv%3D130.0.6723.31%2C%20Not%3FA_Brand%3Bv%3D99.0.0.0&amp;chp=Windows&amp;chmob=0&amp;chua=Chromium%3Bv%3D130%2C%20HeadlessChrome%3Bv%3D130%2C%20Not%3FA_Brand%3Bv%3D99&amp;r=&amp;pu=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney15\"></script><script src=\"//e.dtscout.com/e/?v=1a&amp;pid=5200&amp;site=1&amp;l=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney15&amp;j=\" async=\"\" type=\"text/javascript\"></script><script src=\"//cdn.jsdelivr.net/npm/@clappr/player@0.8/dist/clappr.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/p2p-engine.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/clappr-p2p-plugin.min.js\"></script><style> html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; } #player { position: absolute; inset: 0; width: 100%; height: 100%; background: #000; } #playerError { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; background: #000; z-index: 9999; pointer-events: none; } .loader-circle { width: 44px; height: 44px; border: 4px solid rgba(255,255,255,.18); border-top-color: #fff; border-radius: 50%; animation: spinLoader .8s linear infinite; } @keyframes spinLoader { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .media-control[data-media-control] { z-index: 9998 !important; } .media-control[data-media-control] button, .media-control[d",
+      "test_manifest": {
+        "status": 200,
+        "content_type": "application/vnd.apple.mpegurl",
+        "tamano": 269,
+        "es_extm3u": true,
+        "num_segmentos": 0,
+        "segmento_prueba": {
+          "probado": false
+        },
+        "ok": false
+      }
+    },
+    {
+      "stream": "disney7",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney7",
+      "m3u8_encontrado": "https://mileixd.futlivehd.com/disney7/index.m3u8?ip=13.71.228.81&token=8c670e26f5ab3f9c2a8ca047782862464fe5b630-6b-1793506930-1793452930",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=13.71.228.81&token=8c670e26f5ab3f9c2a8ca047782862464fe5b630-6b-1793506930-1793452930",
+        "https://mileixd.futlivehd.com/disney7/index.m3u8?ip=13.71.228.81&token=8c670e26f5ab3f9c2a8ca047782862464fe5b630-6b-1793506930-1793452930"
+      ],
+      "peticiones_red_total": 104,
+      "peticiones_red_muestra": [
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=212610605782008732337&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i.liadm.com/s/76929?bidder_id=204553&bidder_uuid=na&rnd=1793461941871&_li_chk=true&previous_uuid=180511d8fd914773ab16cca258b5cb0b",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/c.gif?cc=1&t=50288&r=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D5110%263pid%3D%5BUID%5D",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=17zuwuaotuhbm&us_privacy=$(US_PRIVACY)",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://live.rezync.com/sync?c=0aa2530f29e4f4a05b5d5d9bb35d60c2&p=93c1662463a616a7155169889dd99651&pid=180511d8-fd91-4773-ab16-cca258b5cb0b&gdpr=0",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5001&3pid=c5766fa3e7a391a3ca12fa793cde332&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5011&3pid=212610605782008732337&location=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fr.pixel%3Fsid%3D9212269778&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://px.mountain.com/signal/v1/page_view?data_source_key=BpoVSK24RZ&url=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7&ip=13.71.228.81&referer=streamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7&user_agent=Mozilla%2F5.0%20(Windows%20NT%2010.0",
+          "type": "fetch"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5&3pid=17zuwuaotuhbm&us_privacy=%24%28US_PRIVACY%29&dnr=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://cm.g.doubleclick.net/pixel?google_nid=CPX12&google_cm&google_hm=MzU3NTQ2NzMyNjg3NjkwOTk1Mw==&svnrd=1&cb=1793461942129",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://aa.agkn.com/adscores/r.pixel?sid=9212269778",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://tag.crsspxl.com/m.gif?id=&svnrd=1&cb=1793461942129&google_gid=CAESEAgwCMVMXE4rvgnwKaDaBJQ&google_cver=1",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=77011b0d-b6b3-a3ca-0494-cdc63264ec98&iiqpciddate=1793461942200&tsrnd=920_1793461942201&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsve",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://d.agkn.com/pixel/6644/?che=1793461942190&sk=212610605782008732337",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://ce.lijit.com/merge?pid=5110&3pid=3575467326876909953",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=182772995&iiqidtype=2&iiqpcid=77011b0d-b6b3-a3ca-0494-cdc63264ec98&iiqpciddate=1793461942200&tsrnd=920_1793461942201&vrref=https%3A%2F%2Fpxdrop.lijit.com%2F&jsve",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://p.rfihub.com/cm?pub=39342&in=1&userid=d87eee82-ca6e-449c-b22d-1a651fe20202%3A1793461942.4415576&forward=https%3A//i.liadm.com/s/56409%3Fbidder_id%3D200442%26bidder_uuid%3Dd87eee82-ca6e-449c-b22d-1a651fe20202%253A1793461942.4415576%26pid%3D500",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=1992631759537138394&referrer=https%3A%2F%2Fpxdrop.lijit.com%2F&forward=https%3A%2F%2Fi.liadm.com%2Fs%2F56409%3Fbidder_id%3D200442%26bidder_uuid%3Dd87eee82-ca6e-449c-b22d-1a651fe2020",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://i.liadm.com/s/56409?bidder_id=200442&bidder_uuid=d87eee82-ca6e-449c-b22d-1a651fe20202%3A1793461942.4415576&pid=500040&it=1&iv=d87eee82-ca6e-449c-b22d-1a651fe20202%3A1793461942.4415576&_=1793461942.442389&gpp_s=&gpp_as=&gdpr=0&gdpr_consent=",
+          "type": "image"
+        },
+        {
+          "method": "GET",
+          "url": "https://pippio.com/api/sync?gdpr=0&it=1&pid=500040&_=1793461942.442389&iv=d87eee82-ca6e-449c-b22d-1a651fe20202:1793461942.4415576",
+          "type": "image"
+        }
+      ],
+      "html_snippet": "<!DOCTYPE html><html lang=\"es\" data-ads-turn=\"adcash\"><head><meta charset=\"UTF-8\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title></title><link rel=\"preconnect\" href=\"https://cdn.jsdelivr.net\" crossorigin=\"\"><link rel=\"dns-prefetch\" href=\"//cdn.jsdelivr.net\"><script async=\"\" referrerpolicy=\"unsafe-url\" type=\"text/javascript\" src=\"https://de.tynt.com/deb/v2?id=wu!&amp;dn=AFWU&amp;cc=1&amp;chpv=10.0&amp;chuav=Chromium%3Bv%3D130.0.6723.31%2C%20HeadlessChrome%3Bv%3D130.0.6723.31%2C%20Not%3FA_Brand%3Bv%3D99.0.0.0&amp;chp=Windows&amp;chmob=0&amp;chua=Chromium%3Bv%3D130%2C%20HeadlessChrome%3Bv%3D130%2C%20Not%3FA_Brand%3Bv%3D99&amp;r=&amp;pu=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7\"></script><script src=\"//e.dtscout.com/e/?v=1a&amp;pid=5200&amp;site=1&amp;l=https%3A%2F%2Fstreamxhd.sbs%2Flive1.php%3Fstream%3Ddisney7&amp;j=\" async=\"\" type=\"text/javascript\"></script><script src=\"//cdn.jsdelivr.net/npm/@clappr/player@0.8/dist/clappr.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/p2p-engine.min.js\"></script><script src=\"https://cdn.jsdelivr.net/npm/swarmcloud-hls@latest/dist/clappr-p2p-plugin.min.js\"></script><style> html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #000; overflow: hidden; } #player { position: absolute; inset: 0; width: 100%; height: 100%; background: #000; } #playerError { position: absolute; inset: 0; display: none; align-items: center; justify-content: center; background: #000; z-index: 9999; pointer-events: none; } .loader-circle { width: 44px; height: 44px; border: 4px solid rgba(255,255,255,.18); border-top-color: #fff; border-radius: 50%; animation: spinLoader .8s linear infinite; } @keyframes spinLoader { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .media-control[data-media-control] { z-index: 9998 !important; } .media-control[data-media-control] button, .media-control[dat",
+      "test_manifest": {
+        "status": 200,
+        "content_type": "application/vnd.apple.mpegurl",
+        "tamano": 269,
+        "es_extm3u": true,
+        "num_segmentos": 0,
+        "segmento_prueba": {
+          "probado": false
+        },
+        "ok": false
+      }
+    }
+  ]
+}
