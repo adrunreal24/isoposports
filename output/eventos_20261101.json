@@ -1,0 +1,2923 @@
+[
+  {
+    "hora": "04:30",
+    "titulo": "Como vs Venezia",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "EN VIVO",
+    "equipos": [
+      "Como",
+      "Venezia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN 3",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "04:30",
+    "titulo": "Disney +",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "05:30",
+    "titulo": "FOX Sports 1 AR",
+    "deporte": "Bundesliga",
+    "torneo": "Bundesliga",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "FOX Sports 1 AR · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "05:30",
+    "titulo": "Hannover 96 vs Dynamo Dresden",
+    "deporte": "Bundesliga",
+    "torneo": "Bundesliga",
+    "estado": "PRONTO",
+    "equipos": [
+      "Hannover 96",
+      "Dynamo Dresden"
+    ],
+    "servidores": [
+      {
+        "nombre": "FOX Sports 1 AR",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "Disney +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "ESPN 2",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 2 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "ESPN 7",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 7 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "Eldense vs Granada",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Eldense",
+      "Granada"
+    ],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "Getafe vs Sevilla",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Getafe",
+      "Sevilla"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN 2 AR",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn2ar",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN +",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "LaLiga Hypermotion",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "Progreso vs Defensor Sporting",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Progreso",
+      "Defensor Sporting"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "06:00",
+    "titulo": "Trabzonspor vs Gaziantep FK",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Trabzonspor",
+      "Gaziantep FK"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn7",
+        "numero": null
+      },
+      {
+        "nombre": "FOX Sports 3 AR",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox3ar",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "07:00",
+    "titulo": "Disney +",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney5",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney6",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "07:00",
+    "titulo": "Frosinone vs Torino",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [
+      "Frosinone",
+      "Torino"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney5",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "07:00",
+    "titulo": "Lazio vs Cagliari",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [
+      "Lazio",
+      "Cagliari"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney6",
+        "numero": null
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://streamxhd.sbs/live1.php?stream=universo",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "07:00",
+    "titulo": "Strasbourg vs Auxerre",
+    "deporte": "Ligue 1",
+    "torneo": "Ligue 1",
+    "estado": "PRONTO",
+    "equipos": [
+      "Strasbourg",
+      "Auxerre"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "07:30",
+    "titulo": "ESPN 5",
+    "deporte": "Bundesliga",
+    "torneo": "Bundesliga",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 5 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "07:30",
+    "titulo": "Union Berlin vs Köln",
+    "deporte": "Bundesliga",
+    "torneo": "Bundesliga",
+    "estado": "PRONTO",
+    "equipos": [
+      "Union Berlin",
+      "Köln"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney8",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:00",
+    "titulo": "Corea del Norte vs Estados Unidos",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [
+      "Corea del Norte",
+      "Estados Unidos"
+    ],
+    "servidores": [
+      {
+        "nombre": "DSports 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "numero": null
+      },
+      {
+        "nombre": "TUDN MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:00",
+    "titulo": "DSports 2",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "DSports 2 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:00",
+    "titulo": "Huachipato vs La Serena",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Huachipato",
+      "La Serena"
+    ],
+    "servidores": [
+      {
+        "nombre": "TNT Sports Chile",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:00",
+    "titulo": "TNT Sports Chile",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TNT Sports Chile · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:15",
+    "titulo": "Ceuta vs Sporting Gijón",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Ceuta",
+      "Sporting Gijón"
+    ],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:15",
+    "titulo": "LaLiga Hypermotion",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "08:15",
+    "titulo": "Racing Santander vs Real Madrid",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Racing Santander",
+      "Real Madrid"
+    ],
+    "servidores": [
+      {
+        "nombre": "DSports",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports",
+        "numero": null
+      },
+      {
+        "nombre": "DAZN LaLiga",
+        "url": "https://streamxhd.sbs/live1.php?stream=daznlaliga",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN +",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnplus2",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "Boston River vs Torque",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Boston River",
+      "Torque"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney9",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "Deportivo Moquegua vs Los Chankas",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Deportivo Moquegua",
+      "Los Chankas"
+    ],
+    "servidores": [
+      {
+        "nombre": "L1 Max",
+        "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "Disney +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney9",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney10",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "Kasimpasa vs Besiktas",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Kasimpasa",
+      "Besiktas"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney10",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "L1 Max",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "L1 Max · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "Universidad Católica vs Aucas",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Universidad Católica",
+      "Aucas"
+    ],
+    "servidores": [
+      {
+        "nombre": "Zapping EC",
+        "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:00",
+    "titulo": "Zapping EC",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Zapping EC · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:15",
+    "titulo": "Disney +",
+    "deporte": "Ligue 1",
+    "torneo": "Ligue 1",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney12",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney13",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:15",
+    "titulo": "Olympique Lyonnais vs Angers SCO",
+    "deporte": "Ligue 1",
+    "torneo": "Ligue 1",
+    "estado": "PRONTO",
+    "equipos": [
+      "Olympique Lyonnais",
+      "Angers SCO"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney12",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:15",
+    "titulo": "Paris vs Monaco",
+    "deporte": "Ligue 1",
+    "torneo": "Ligue 1",
+    "estado": "PRONTO",
+    "equipos": [
+      "Paris",
+      "Monaco"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney13",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:30",
+    "titulo": "Disney +",
+    "deporte": "Bundesliga",
+    "torneo": "Bundesliga",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney15",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney14",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:30",
+    "titulo": "Eintracht Frankfurt vs Hamburger SV",
+    "deporte": "Bundesliga",
+    "torneo": "Bundesliga",
+    "estado": "PRONTO",
+    "equipos": [
+      "Eintracht Frankfurt",
+      "Hamburger SV"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney15",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "09:30",
+    "titulo": "Liverpool vs Arsenal",
+    "deporte": "Premier League",
+    "torneo": "Premier League",
+    "estado": "PRONTO",
+    "equipos": [
+      "Liverpool",
+      "Arsenal"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney14",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN AR",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnar",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://streamxhd.sbs/live1.php?stream=telemundo",
+        "numero": null
+      },
+      {
+        "nombre": "FOX One",
+        "url": "https://streamxhd.sbs/live1.php?stream=foxone",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:00",
+    "titulo": "Disney +",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney16",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:00",
+    "titulo": "Lecce vs Genoa",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [
+      "Lecce",
+      "Genoa"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney16",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:15",
+    "titulo": "Cobresal vs Everton",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Cobresal",
+      "Everton"
+    ],
+    "servidores": [
+      {
+        "nombre": "TNT Sports Chile",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:15",
+    "titulo": "TNT Sports Chile",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TNT Sports Chile · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:30",
+    "titulo": "Burgos vs CD Castellón",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Burgos",
+      "CD Castellón"
+    ],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:30",
+    "titulo": "Disney +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney17",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:30",
+    "titulo": "Elche vs Valencia",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Elche",
+      "Valencia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney17",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN 3",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn3",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN +",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnplus3",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "10:30",
+    "titulo": "LaLiga Hypermotion",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Boca Juniors vs River Plate",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Boca Juniors",
+      "River Plate"
+    ],
+    "servidores": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney18",
+        "numero": null
+      },
+      {
+        "nombre": "Vix +",
+        "url": "https://streamxhd.sbs/live1.php?stream=vix1",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
+        "numero": null
+      },
+      {
+        "nombre": "M Liga Campeones",
+        "url": "https://streamxhd.sbs/live1.php?stream=mligacampeones",
+        "numero": null
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Buffalo Bills vs Baltimore Ravens",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Buffalo Bills",
+      "Baltimore Ravens"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "numero": null
+      },
+      {
+        "nombre": "Canal 9 MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=canal9mx",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "China vs Brasil",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [
+      "China",
+      "Brasil"
+    ],
+    "servidores": [
+      {
+        "nombre": "DSports Plus",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus",
+        "numero": null
+      },
+      {
+        "nombre": "TUDN MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "DSports Plus",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "DSports Plus · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Dallas Cowboys vs Arizona Cardinals",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Dallas Cowboys",
+      "Arizona Cardinals"
+    ],
+    "servidores": [
+      {
+        "nombre": "FOX One 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=foxone2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Disney +",
+    "deporte": "NHL",
+    "torneo": "NHL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney19",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "ESPN 5",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 5 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "ESPN 7",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 7 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "FOX One 2",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "FOX One 2 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=foxone2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Nigeria vs Venezuela",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [
+      "Nigeria",
+      "Venezuela"
+    ],
+    "servidores": [
+      {
+        "nombre": "Universo",
+        "url": "https://streamxhd.sbs/live1.php?stream=universo",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Pittsburgh Steelers vs Cleveland Browns",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Pittsburgh Steelers",
+      "Cleveland Browns"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "TNT Sports",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TNT Sports · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Universo",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Universo · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=universo",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:00",
+    "titulo": "Winnipeg Jets vs Carolina Hurricanes",
+    "deporte": "NHL",
+    "torneo": "NHL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Winnipeg Jets",
+      "Carolina Hurricanes"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney19",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:15",
+    "titulo": "Cusco vs Sport Boys",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Cusco",
+      "Sport Boys"
+    ],
+    "servidores": [
+      {
+        "nombre": "L1 Max",
+        "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:15",
+    "titulo": "L1 Max",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "L1 Max · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:30",
+    "titulo": "Independiente del Valle vs LDU Quito",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Independiente del Valle",
+      "LDU Quito"
+    ],
+    "servidores": [
+      {
+        "nombre": "Zapping EC",
+        "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "11:30",
+    "titulo": "Zapping EC",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Zapping EC · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:00",
+    "titulo": "DSports 2",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "DSports 2 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:00",
+    "titulo": "Palmeiras vs Vasco da Gama",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [
+      "Palmeiras",
+      "Vasco da Gama"
+    ],
+    "servidores": [
+      {
+        "nombre": "DSports 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "numero": null
+      },
+      {
+        "nombre": "SporTV 1",
+        "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:00",
+    "titulo": "Real Soacha vs Tigres FC",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Real Soacha",
+      "Tigres FC"
+    ],
+    "servidores": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=winsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:00",
+    "titulo": "Win Sports +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Win Sports + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:30",
+    "titulo": "Danubio vs Nacional",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Danubio",
+      "Nacional"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney20",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:30",
+    "titulo": "Disney +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney20",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:45",
+    "titulo": "Disney +",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney21",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney22",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:45",
+    "titulo": "Juventus vs Napoli",
+    "deporte": "Serie A",
+    "torneo": "Serie A",
+    "estado": "PRONTO",
+    "equipos": [
+      "Juventus",
+      "Napoli"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney21",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN 3",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "12:45",
+    "titulo": "Olympique Marseille vs Toulouse",
+    "deporte": "Ligue 1",
+    "torneo": "Ligue 1",
+    "estado": "PRONTO",
+    "equipos": [
+      "Olympique Marseille",
+      "Toulouse"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney22",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Athletic Club vs Real Sociedad",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Athletic Club",
+      "Real Sociedad"
+    ],
+    "servidores": [
+      {
+        "nombre": "DSports",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports",
+        "numero": null
+      },
+      {
+        "nombre": "DAZN LaLiga",
+        "url": "https://streamxhd.sbs/live1.php?stream=daznlaliga",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN +",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnplus4",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Cerro Porteño vs Olimpia",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Cerro Porteño",
+      "Olimpia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Tigo Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "DSports",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "DSports · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Disney +",
+    "deporte": "F1",
+    "torneo": "F1",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney23",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney24",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney25",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney26",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney27",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "LaLiga Hypermotion",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Tenerife vs FC Andorra",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Tenerife",
+      "FC Andorra"
+    ],
+    "servidores": [
+      {
+        "nombre": "LaLiga Hypermotion",
+        "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:00",
+    "titulo": "Tigo Sports",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Tigo Sports · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney23",
+        "numero": null
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      },
+      {
+        "nombre": "FOX Sports 1 AR",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
+        "numero": null
+      },
+      {
+        "nombre": "DAZN F1",
+        "url": "https://streamxhd.sbs/live1.php?stream=daznf1",
+        "numero": null
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
+        "numero": null
+      },
+      {
+        "nombre": "SporTV 3",
+        "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:15",
+    "titulo": "TNT Sports Chile",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TNT Sports Chile · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:15",
+    "titulo": "Universidad Católica vs Universidad de Chile",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Universidad Católica",
+      "Universidad de Chile"
+    ],
+    "servidores": [
+      {
+        "nombre": "TNT Sports Chile",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "Apple TV Español",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "Atlético Grau vs Universitario",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Atlético Grau",
+      "Universitario"
+    ],
+    "servidores": [
+      {
+        "nombre": "L1 Max",
+        "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "Disney +",
+    "deporte": "NHL",
+    "torneo": "NHL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney28",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "L1 Max",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "L1 Max · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "Minnesota Wild vs Washington Capitals",
+    "deporte": "NHL",
+    "torneo": "NHL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Minnesota Wild",
+      "Washington Capitals"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney28",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "NBA League Pass",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "Orlando Magic vs Boston Celtics",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Orlando Magic",
+      "Boston Celtics"
+    ],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "13:30",
+    "titulo": "Vancouver Whitecaps vs Seattle Sounders FC",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Vancouver Whitecaps",
+      "Seattle Sounders FC"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:00",
+    "titulo": "Guayaquil City vs Libertad",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Guayaquil City",
+      "Libertad"
+    ],
+    "servidores": [
+      {
+        "nombre": "Zapping EC",
+        "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:00",
+    "titulo": "Zapping EC",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Zapping EC · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:05",
+    "titulo": "Deportivo Cali vs Boyacá Chicó",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Deportivo Cali",
+      "Boyacá Chicó"
+    ],
+    "servidores": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=winsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:05",
+    "titulo": "FOX One",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "FOX One · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=foxone",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:05",
+    "titulo": "Los Angeles Rams vs Los Angeles Chargers",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Los Angeles Rams",
+      "Los Angeles Chargers"
+    ],
+    "servidores": [
+      {
+        "nombre": "FOX One",
+        "url": "https://streamxhd.sbs/live1.php?stream=foxone",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:05",
+    "titulo": "Win Sports +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Win Sports + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:25",
+    "titulo": "Denver Broncos vs Kansas City Chiefs",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Denver Broncos",
+      "Kansas City Chiefs"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "numero": null
+      },
+      {
+        "nombre": "Canal 9 MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=canal9mx",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:25",
+    "titulo": "ESPN 5",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 5 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:25",
+    "titulo": "ESPN 7",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 7 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:25",
+    "titulo": "Miami Dolphins vs New England Patriots",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Miami Dolphins",
+      "New England Patriots"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn7",
+        "numero": null
+      },
+      {
+        "nombre": "FOX Sports 3 AR",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox3ar",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "Apple TV Español",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv2",
+        "numero": null
+      },
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "Atlanta United vs Toronto FC",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Atlanta United",
+      "Toronto FC"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "Belgrano vs Barracas Central",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Belgrano",
+      "Barracas Central"
+    ],
+    "servidores": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+        "numero": null
+      },
+      {
+        "nombre": "Vix +",
+        "url": "https://streamxhd.sbs/live1.php?stream=vix3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "DSports 2",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "DSports 2 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "ESPN Premium",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN Premium · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "Grêmio vs Atlético Mineiro",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [
+      "Grêmio",
+      "Atlético Mineiro"
+    ],
+    "servidores": [
+      {
+        "nombre": "DSports 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+        "numero": null
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa",
+        "numero": null
+      },
+      {
+        "nombre": "SporTV 1",
+        "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "Nashville SC vs New York RB",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Nashville SC",
+      "New York RB"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "Newell's Old Boys vs Unión Santa Fe",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Newell's Old Boys",
+      "Unión Santa Fe"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney29",
+        "numero": null
+      },
+      {
+        "nombre": "Vix +",
+        "url": "https://streamxhd.sbs/live1.php?stream=vix2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "14:30",
+    "titulo": "TNT Sports",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TNT Sports · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "15:00",
+    "titulo": "Indiana Pacers vs Brooklyn Nets",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Indiana Pacers",
+      "Brooklyn Nets"
+    ],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "15:00",
+    "titulo": "NBA League Pass",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:00",
+    "titulo": "Disney +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney30",
+        "numero": null
+      },
+      {
+        "nombre": "Disney + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:00",
+    "titulo": "Edmonton Oilers vs New York Rangers",
+    "deporte": "NHL",
+    "torneo": "NHL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Edmonton Oilers",
+      "New York Rangers"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:00",
+    "titulo": "Liverpool vs Juventud",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Liverpool",
+      "Juventud"
+    ],
+    "servidores": [
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney30",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:00",
+    "titulo": "Santos Laguna vs Necaxa",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Santos Laguna",
+      "Necaxa"
+    ],
+    "servidores": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
+        "numero": null
+      },
+      {
+        "nombre": "Disney +",
+        "url": "https://streamxhd.sbs/live1.php?stream=disney1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:00",
+    "titulo": "TUDN USA",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TUDN USA · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:10",
+    "titulo": "Medellín vs Alianza",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Medellín",
+      "Alianza"
+    ],
+    "servidores": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=winsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:10",
+    "titulo": "Win Sports +",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Win Sports + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:45",
+    "titulo": "Lanús vs Gimnasia Mendoza",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Lanús",
+      "Gimnasia Mendoza"
+    ],
+    "servidores": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+        "numero": null
+      },
+      {
+        "nombre": "Vix +",
+        "url": "https://streamxhd.sbs/live1.php?stream=vix4",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "16:45",
+    "titulo": "TNT Sports",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TNT Sports · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "17:00",
+    "titulo": "Apple TV Español",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv4",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "17:00",
+    "titulo": "New England vs Inter Miami",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "New England",
+      "Inter Miami"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv4",
+        "numero": null
+      },
+      {
+        "nombre": "Apple TV English",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv5",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:10",
+    "titulo": "Cruz Azul vs León",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [
+      "Cruz Azul",
+      "León"
+    ],
+    "servidores": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
+        "numero": null
+      },
+      {
+        "nombre": "TUDN MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "numero": null
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:10",
+    "titulo": "TUDN USA",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TUDN USA · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:15",
+    "titulo": "Santa Fe vs Once Caldas",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [
+      "Santa Fe",
+      "Once Caldas"
+    ],
+    "servidores": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:15",
+    "titulo": "Win Sports +",
+    "deporte": "Copa",
+    "torneo": "Copa",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Win Sports + · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:20",
+    "titulo": "ESPN 2",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN 2 · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:20",
+    "titulo": "Washington Commanders vs Philadelphia Eagles",
+    "deporte": "NFL",
+    "torneo": "NFL",
+    "estado": "PRONTO",
+    "equipos": [
+      "Washington Commanders",
+      "Philadelphia Eagles"
+    ],
+    "servidores": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:30",
+    "titulo": "Apple TV Español",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv6",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:30",
+    "titulo": "Golden State Warriors vs LA Clippers",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Golden State Warriors",
+      "LA Clippers"
+    ],
+    "servidores": [
+      {
+        "nombre": "Prime Video",
+        "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
+        "numero": null
+      },
+      {
+        "nombre": "NBA League Pass",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba3",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:30",
+    "titulo": "Houston Rockets vs Oklahoma City Thunder",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "FINALIZADO",
+    "equipos": [
+      "Houston Rockets",
+      "Oklahoma City Thunder"
+    ],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:30",
+    "titulo": "Los Angeles FC vs Minnesota United",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Los Angeles FC",
+      "Minnesota United"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv6",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:30",
+    "titulo": "NBA League Pass",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "18:30",
+    "titulo": "Prime Video",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Prime Video · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "19:00",
+    "titulo": "Los Angeles Lakers vs Toronto Raptors",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Los Angeles Lakers",
+      "Toronto Raptors"
+    ],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba4",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "19:00",
+    "titulo": "NBA League Pass",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "NBA League Pass · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=nba4",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "19:30",
+    "titulo": "Apple TV Español",
+    "deporte": "",
+    "torneo": "",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv9",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "19:30",
+    "titulo": "Colorado Rapids vs Chicago Fire",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "FINALIZADO",
+    "equipos": [
+      "Colorado Rapids",
+      "Chicago Fire"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv9",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "19:45",
+    "titulo": "Apple TV Español",
+    "deporte": "",
+    "torneo": "",
+    "estado": "PRONTO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv7",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "19:45",
+    "titulo": "Portland Timbers vs Houston Dynamo",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "PRONTO",
+    "equipos": [
+      "Portland Timbers",
+      "Houston Dynamo"
+    ],
+    "servidores": [
+      {
+        "nombre": "Apple TV Español",
+        "url": "https://streamxhd.sbs/live1.php?stream=appletv7",
+        "numero": null
+      },
+      {
+        "nombre": "FOX Deportes USA",
+        "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "21:10",
+    "titulo": "América vs Toluca",
+    "deporte": "Fútbol",
+    "torneo": "",
+    "estado": "FINALIZADO",
+    "equipos": [
+      "América",
+      "Toluca"
+    ],
+    "servidores": [
+      {
+        "nombre": "TUDN MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "numero": null
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
+        "numero": null
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "21:10",
+    "titulo": "TUDN MX",
+    "deporte": "",
+    "torneo": "",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "TUDN MX · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "21:45",
+    "titulo": "TUDN MX",
+    "deporte": "MotoGP",
+    "torneo": "MotoGP",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "21:45",
+    "titulo": "https://streamxhd.sbs/live1.php?stream=espn",
+    "deporte": "MotoGP",
+    "torneo": "MotoGP",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "23:15",
+    "titulo": "Servidor",
+    "deporte": "MotoGP",
+    "torneo": "MotoGP",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  },
+  {
+    "hora": "23:15",
+    "titulo": "https://streamxhd.sbs/live1.php?stream=espn",
+    "deporte": "MotoGP",
+    "torneo": "MotoGP",
+    "estado": "FINALIZADO",
+    "equipos": [],
+    "servidores": [
+      {
+        "nombre": "ESPN · Live1 manual",
+        "url": "https://streamxhd.sbs/live1.php?stream=espn",
+        "numero": null
+      }
+    ],
+    "fecha": "2026-11-01"
+  }
+]
