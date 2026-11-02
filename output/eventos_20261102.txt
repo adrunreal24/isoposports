@@ -1,17 +1,17 @@
 ======================================================================
-EVENTOS STREAMXHD — 2026-11-02T10:39:18.877441+00:00
-Total: 88 eventos
+EVENTOS STREAMXHD — 2026-11-02T22:59:00.505252+00:00
+Total: 76 eventos
 ======================================================================
 
 ── 08:45  Disney +
-   [Champions | Champions | PRONTO]
+   [Champions | Champions | FINALIZADO]
    Servidores: 1
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney1
 
 ── 08:45  Pakhtakor vs Al Nassr
    Pakhtakor  VS  Al Nassr
-   [Champions | Champions | EN VIVO]
+   [NBA | NBA | FINALIZADO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney1
@@ -19,53 +19,53 @@ Total: 88 eventos
         https://streamxhd.sbs/live1.php?stream=espn4
 
 ── 10:15  LaLiga Hypermotion
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. LaLiga Hypermotion · Live1 manual
         https://streamxhd.sbs/live1.php?stream=laligahypermotion
 
 ── 10:15  Real Oviedo vs Las Palmas
    Real Oviedo  VS  Las Palmas
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. LaLiga Hypermotion
         https://streamxhd.sbs/live1.php?stream=laligahypermotion
 
 ── 11:00  L1 Max
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. L1 Max · Live1 manual
         https://streamxhd.sbs/live1.php?stream=l1max
 
 ── 11:00  Sport Huancayo vs Melgar
    Sport Huancayo  VS  Melgar
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. L1 Max
         https://streamxhd.sbs/live1.php?stream=l1max
 
 ── 12:30  Disney +
-   [Serie A | Serie A | PRONTO]
+   [Serie A | Serie A | FINALIZADO]
    Servidores: 1
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney2
 
 ── 12:30  LaLiga Hypermotion
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. LaLiga Hypermotion · Live1 manual
         https://streamxhd.sbs/live1.php?stream=laligahypermotion
 
 ── 12:30  Real Valladolid vs Leganés
    Real Valladolid  VS  Leganés
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. LaLiga Hypermotion
         https://streamxhd.sbs/live1.php?stream=laligahypermotion
 
 ── 12:30  Sassuolo vs Fiorentina
    Sassuolo  VS  Fiorentina
-   [Serie A | Serie A | PRONTO]
+   [Serie A | Serie A | FINALIZADO]
    Servidores: 3
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney2
@@ -76,52 +76,52 @@ Total: 88 eventos
 
 ── 13:15  Al Gharafa vs Al Qadisiyah
    Al Gharafa  VS  Al Qadisiyah
-   [Champions | Champions | PRONTO]
+   [Champions | Champions | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney3
 
 ── 13:15  Disney +
-   [Champions | Champions | PRONTO]
+   [Champions | Champions | FINALIZADO]
    Servidores: 1
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney3
 
 ── 13:15  L1 Max
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. L1 Max · Live1 manual
         https://streamxhd.sbs/live1.php?stream=l1max
 
 ── 13:15  UTC Cajamarca vs Deportivo Garcilaso
    UTC Cajamarca  VS  Deportivo Garcilaso
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. L1 Max
         https://streamxhd.sbs/live1.php?stream=l1max
 
 ── 14:00  Independiente Yumbo vs Boca Juniors Cali
    Independiente Yumbo  VS  Boca Juniors Cali
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Win Sports +
         https://streamxhd.sbs/live1.php?stream=winplus
 
 ── 14:00  Win Sports +
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. Win Sports + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winplus
 
 ── 14:45  Atalanta vs Parma
    Atalanta  VS  Parma
-   [Serie A | Serie A | PRONTO]
+   [Serie A | Serie A | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney4
 
 ── 14:45  Disney +
-   [Serie A | Serie A | PRONTO]
+   [Serie A | Serie A | FINALIZADO]
    Servidores: 2
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney4
@@ -130,14 +130,14 @@ Total: 88 eventos
 
 ── 14:45  Lorient vs Brest
    Lorient  VS  Brest
-   [Ligue 1 | Ligue 1 | PRONTO]
+   [Ligue 1 | Ligue 1 | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney5
 
 ── 15:00  Deportivo La Coruña vs Osasuna
    Deportivo La Coruña  VS  Osasuna
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 4
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney7
@@ -149,7 +149,7 @@ Total: 88 eventos
         https://streamxhd.sbs/live1.php?stream=espndeportes
 
 ── 15:00  Disney +
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 2
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney7
@@ -157,21 +157,21 @@ Total: 88 eventos
         https://streamxhd.sbs/live1.php?stream=disney6
 
 ── 15:00  LaLiga Hypermotion
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. LaLiga Hypermotion · Live1 manual
         https://streamxhd.sbs/live1.php?stream=laligahypermotion
 
 ── 15:00  Mallorca vs Cádiz
    Mallorca  VS  Cádiz
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. LaLiga Hypermotion
         https://streamxhd.sbs/live1.php?stream=laligahypermotion
 
 ── 15:00  Newcastle United vs Everton
    Newcastle United  VS  Everton
-   [Premier League | Premier League | PRONTO]
+   [Premier League | Premier League | FINALIZADO]
    Servidores: 4
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney6
@@ -184,72 +184,72 @@ Total: 88 eventos
 
 ── 15:15  Benfica vs Alverca
    Benfica  VS  Alverca
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. DSports 2
         https://streamxhd.sbs/live1.php?stream=dsports2
 
 ── 15:15  DSports 2
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. DSports 2 · Live1 manual
         https://streamxhd.sbs/live1.php?stream=dsports2
 
 ── 15:30  L1 Max
-   [PRONTO]
+   [FINALIZADO]
    Servidores: 1
      1. L1 Max · Live1 manual
         https://streamxhd.sbs/live1.php?stream=l1max
 
 ── 15:30  Orense vs Técnico Universitario
    Orense  VS  Técnico Universitario
-   [Serie A | Serie A | PRONTO]
+   [Serie A | Serie A | FINALIZADO]
    Servidores: 1
      1. Zapping EC
         https://streamxhd.sbs/live1.php?stream=zapping_ec
 
 ── 15:30  Sporting Cristal vs FC Cajamarca
    Sporting Cristal  VS  FC Cajamarca
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. L1 Max
         https://streamxhd.sbs/live1.php?stream=l1max
 
 ── 15:30  Zapping EC
-   [Serie A | Serie A | PRONTO]
+   [Serie A | Serie A | FINALIZADO]
    Servidores: 1
      1. Zapping EC · Live1 manual
         https://streamxhd.sbs/live1.php?stream=zapping_ec
 
 ── 16:00  Deportes Limache vs Audax Italiano
    Deportes Limache  VS  Audax Italiano
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. TNT Sports Chile
         https://streamxhd.sbs/live1.php?stream=tntsportschile
 
 ── 16:00  TNT Sports Chile
-   [PRONTO]
+   [EN VIVO]
    Servidores: 1
      1. TNT Sports Chile · Live1 manual
         https://streamxhd.sbs/live1.php?stream=tntsportschile
 
 ── 16:05  Rionegro Águilas vs Fortaleza CEIF
    Rionegro Águilas  VS  Fortaleza CEIF
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Win Sports +
         https://streamxhd.sbs/live1.php?stream=winplus
 
 ── 16:05  Win Sports +
-   [PRONTO]
+   [EN VIVO]
    Servidores: 1
      1. Win Sports + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winplus
 
 ── 17:00  Defensa y Justicia vs Independiente
    Defensa y Justicia  VS  Independiente
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 2
      1. TNT Sports
         https://streamxhd.sbs/live1.php?stream=tntsports
@@ -257,14 +257,14 @@ Total: 88 eventos
         https://streamxhd.sbs/live1.php?stream=disney9
 
 ── 17:00  ESPN Premium
-   [PRONTO]
+   [EN VIVO]
    Servidores: 1
      1. ESPN Premium · Live1 manual
         https://streamxhd.sbs/live1.php?stream=espnpremium
 
 ── 17:00  Platense vs Central Córdoba SdE
    Platense  VS  Central Córdoba SdE
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 2
      1. ESPN Premium
         https://streamxhd.sbs/live1.php?stream=espnpremium
@@ -272,7 +272,7 @@ Total: 88 eventos
         https://streamxhd.sbs/live1.php?stream=disney8
 
 ── 17:00  TNT Sports
-   [PRONTO]
+   [EN VIVO]
    Servidores: 1
      1. TNT Sports · Live1 manual
         https://streamxhd.sbs/live1.php?stream=tntsports
@@ -460,23 +460,6 @@ Total: 88 eventos
      3. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba9
 
-── 20:10  Cruz Azul vs León
-   Cruz Azul  VS  León
-   [NBA | NBA | FINALIZADO]
-   Servidores: 3
-     1. TUDN USA
-        https://streamxhd.sbs/live1.php?stream=tudn_usa
-     2. TUDN MX
-        https://streamxhd.sbs/live1.php?stream=tudnmx
-     3. Canal 5 MX
-        https://streamxhd.sbs/live1.php?stream=canal5mx
-
-── 20:10  TUDN USA
-   [FINALIZADO]
-   Servidores: 1
-     1. TUDN USA · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=tudn_usa
-
 ── 20:15  Atlético Bucaramanga vs Atlético Nacional
    Atlético Bucaramanga  VS  Atlético Nacional
    [NBA | NBA | PRONTO]
@@ -492,13 +475,6 @@ Total: 88 eventos
      1. ESPN 2 · Live1 manual
         https://streamxhd.sbs/live1.php?stream=espn2
 
-── 20:15  Santa Fe vs Once Caldas
-   Santa Fe  VS  Once Caldas
-   [Copa | Copa | FINALIZADO]
-   Servidores: 1
-     1. Win Sports +
-        https://streamxhd.sbs/live1.php?stream=winplus
-
 ── 20:15  Seattle Seahawks vs Chicago Bears
    Seattle Seahawks  VS  Chicago Bears
    [NFL | NFL | PRONTO]
@@ -512,47 +488,12 @@ Total: 88 eventos
      1. Win Sports + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winplus
 
-── 20:20  ESPN 2
-   [NFL | NFL | FINALIZADO]
-   Servidores: 1
-     1. ESPN 2 · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=espn2
-
-── 20:20  Washington Commanders vs Philadelphia Eagles
-   Washington Commanders  VS  Philadelphia Eagles
-   [NFL | NFL | FINALIZADO]
-   Servidores: 1
-     1. ESPN 2
-        https://streamxhd.sbs/live1.php?stream=espn2
-
-── 20:30  Apple TV Español
-   [FINALIZADO]
-   Servidores: 1
-     1. Apple TV Español · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=appletv6
-
-── 20:30  Golden State Warriors vs LA Clippers
-   Golden State Warriors  VS  LA Clippers
-   [NBA | NBA | FINALIZADO]
-   Servidores: 2
-     1. Prime Video
-        https://streamxhd.sbs/live1.php?stream=amazon1
-     2. NBA League Pass
-        https://streamxhd.sbs/live1.php?stream=nba3
-
 ── 20:30  Houston Rockets vs Boston Celtics
    Houston Rockets  VS  Boston Celtics
    [NBA | NBA | PRONTO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba11
-
-── 20:30  Los Angeles FC vs Minnesota United
-   Los Angeles FC  VS  Minnesota United
-   [NBA | NBA | FINALIZADO]
-   Servidores: 1
-     1. Apple TV Español
-        https://streamxhd.sbs/live1.php?stream=appletv6
 
 ── 20:30  NBA League Pass
    [NBA | NBA | PRONTO]
@@ -561,12 +502,6 @@ Total: 88 eventos
         https://streamxhd.sbs/live1.php?stream=nba10
      2. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba11
-
-── 20:30  Prime Video
-   [NBA | NBA | FINALIZADO]
-   Servidores: 1
-     1. Prime Video · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=amazon1
 
 ── 20:30  San Antonio Spurs vs Utah Jazz
    San Antonio Spurs  VS  Utah Jazz
@@ -582,35 +517,11 @@ Total: 88 eventos
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba12
 
-── 21:00  Los Angeles Lakers vs Toronto Raptors
-   Los Angeles Lakers  VS  Toronto Raptors
-   [NBA | NBA | FINALIZADO]
-   Servidores: 1
-     1. NBA League Pass
-        https://streamxhd.sbs/live1.php?stream=nba4
-
 ── 21:00  NBA League Pass
    [NBA | NBA | PRONTO]
-   Servidores: 2
+   Servidores: 1
      1. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba12
-     2. NBA League Pass · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=nba4
-
-── 21:45  Apple TV Español
-   [FINALIZADO]
-   Servidores: 1
-     1. Apple TV Español · Live1 manual
-        https://streamxhd.sbs/live1.php?stream=appletv7
-
-── 21:45  Portland Timbers vs Houston Dynamo
-   Portland Timbers  VS  Houston Dynamo
-   [NBA | NBA | FINALIZADO]
-   Servidores: 2
-     1. Apple TV Español
-        https://streamxhd.sbs/live1.php?stream=appletv7
-     2. FOX Deportes USA
-        https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
 
 ── 22:00  Disney +
    [NBA | NBA | PRONTO]

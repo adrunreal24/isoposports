@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Disney +" group-title="Champions", 08:45 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney1
-#EXTINF:-1 tvg-name="Pakhtakor vs Al Nassr" group-title="Champions", 08:45 | Pakhtakor vs Al Nassr [Disney +]
+#EXTINF:-1 tvg-name="Pakhtakor vs Al Nassr" group-title="NBA", 08:45 | Pakhtakor vs Al Nassr [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney1
-#EXTINF:-1 tvg-name="Pakhtakor vs Al Nassr" group-title="Champions", 08:45 | Pakhtakor vs Al Nassr [ESPN 4]
+#EXTINF:-1 tvg-name="Pakhtakor vs Al Nassr" group-title="NBA", 08:45 | Pakhtakor vs Al Nassr [ESPN 4]
 https://streamxhd.sbs/live1.php?stream=espn4
 #EXTINF:-1 tvg-name="LaLiga Hypermotion" group-title="Otros", 10:15 | LaLiga Hypermotion [LaLiga Hypermotion · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=laligahypermotion
@@ -173,62 +173,28 @@ https://streamxhd.sbs/live1.php?stream=nba7
 https://streamxhd.sbs/live1.php?stream=nba8
 #EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 20:00 | NBA League Pass [NBA League Pass · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=nba9
-#EXTINF:-1 tvg-name="Cruz Azul vs León" group-title="NBA", 20:10 | Cruz Azul vs León [TUDN USA]
-https://streamxhd.sbs/live1.php?stream=tudn_usa
-#EXTINF:-1 tvg-name="Cruz Azul vs León" group-title="NBA", 20:10 | Cruz Azul vs León [TUDN MX]
-https://streamxhd.sbs/live1.php?stream=tudnmx
-#EXTINF:-1 tvg-name="Cruz Azul vs León" group-title="NBA", 20:10 | Cruz Azul vs León [Canal 5 MX]
-https://streamxhd.sbs/live1.php?stream=canal5mx
-#EXTINF:-1 tvg-name="TUDN USA" group-title="Otros", 20:10 | TUDN USA [TUDN USA · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=tudn_usa
 #EXTINF:-1 tvg-name="Atlético Bucaramanga vs Atlético Nacional" group-title="NBA", 20:15 | Atlético Bucaramanga vs Atlético Nacional [Win Sports +]
 https://streamxhd.sbs/live1.php?stream=winplus
 #EXTINF:-1 tvg-name="Atlético Bucaramanga vs Atlético Nacional" group-title="NBA", 20:15 | Atlético Bucaramanga vs Atlético Nacional [Win Sports]
 https://streamxhd.sbs/live1.php?stream=winsports
 #EXTINF:-1 tvg-name="ESPN 2" group-title="NFL", 20:15 | ESPN 2 [ESPN 2 · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Santa Fe vs Once Caldas" group-title="Copa", 20:15 | Santa Fe vs Once Caldas [Win Sports +]
-https://streamxhd.sbs/live1.php?stream=winplus
 #EXTINF:-1 tvg-name="Seattle Seahawks vs Chicago Bears" group-title="NFL", 20:15 | Seattle Seahawks vs Chicago Bears [ESPN 2]
 https://streamxhd.sbs/live1.php?stream=espn2
 #EXTINF:-1 tvg-name="Win Sports +" group-title="Otros", 20:15 | Win Sports + [Win Sports + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=winplus
-#EXTINF:-1 tvg-name="ESPN 2" group-title="NFL", 20:20 | ESPN 2 [ESPN 2 · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Washington Commanders vs Philadelphia Eagles" group-title="NFL", 20:20 | Washington Commanders vs Philadelphia Eagles [ESPN 2]
-https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Apple TV Español" group-title="Otros", 20:30 | Apple TV Español [Apple TV Español · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=appletv6
-#EXTINF:-1 tvg-name="Golden State Warriors vs LA Clippers" group-title="NBA", 20:30 | Golden State Warriors vs LA Clippers [Prime Video]
-https://streamxhd.sbs/live1.php?stream=amazon1
-#EXTINF:-1 tvg-name="Golden State Warriors vs LA Clippers" group-title="NBA", 20:30 | Golden State Warriors vs LA Clippers [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba3
 #EXTINF:-1 tvg-name="Houston Rockets vs Boston Celtics" group-title="NBA", 20:30 | Houston Rockets vs Boston Celtics [NBA League Pass]
 https://streamxhd.sbs/live1.php?stream=nba11
-#EXTINF:-1 tvg-name="Los Angeles FC vs Minnesota United" group-title="NBA", 20:30 | Los Angeles FC vs Minnesota United [Apple TV Español]
-https://streamxhd.sbs/live1.php?stream=appletv6
 #EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 20:30 | NBA League Pass [NBA League Pass · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=nba10
 #EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 20:30 | NBA League Pass [NBA League Pass · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=nba11
-#EXTINF:-1 tvg-name="Prime Video" group-title="NBA", 20:30 | Prime Video [Prime Video · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=amazon1
 #EXTINF:-1 tvg-name="San Antonio Spurs vs Utah Jazz" group-title="NBA", 20:30 | San Antonio Spurs vs Utah Jazz [NBA League Pass]
 https://streamxhd.sbs/live1.php?stream=nba10
 #EXTINF:-1 tvg-name="Denver Nuggets vs Portland Trail Blazers" group-title="NBA", 21:00 | Denver Nuggets vs Portland Trail Blazers [NBA League Pass]
 https://streamxhd.sbs/live1.php?stream=nba12
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Toronto Raptors" group-title="NBA", 21:00 | Los Angeles Lakers vs Toronto Raptors [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba4
 #EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 21:00 | NBA League Pass [NBA League Pass · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=nba12
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 21:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba4
-#EXTINF:-1 tvg-name="Apple TV Español" group-title="Otros", 21:45 | Apple TV Español [Apple TV Español · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=appletv7
-#EXTINF:-1 tvg-name="Portland Timbers vs Houston Dynamo" group-title="NBA", 21:45 | Portland Timbers vs Houston Dynamo [Apple TV Español]
-https://streamxhd.sbs/live1.php?stream=appletv7
-#EXTINF:-1 tvg-name="Portland Timbers vs Houston Dynamo" group-title="NBA", 21:45 | Portland Timbers vs Houston Dynamo [FOX Deportes USA]
-https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
 #EXTINF:-1 tvg-name="Disney +" group-title="NBA", 22:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney12
 #EXTINF:-1 tvg-name="Golden State Warriors vs Phoenix Suns" group-title="NBA", 22:00 | Golden State Warriors vs Phoenix Suns [NBA League Pass]

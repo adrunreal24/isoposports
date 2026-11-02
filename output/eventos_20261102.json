@@ -4,7 +4,7 @@
     "titulo": "Disney +",
     "deporte": "Champions",
     "torneo": "Champions",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -18,9 +18,9 @@
   {
     "hora": "08:45",
     "titulo": "Pakhtakor vs Al Nassr",
-    "deporte": "Champions",
-    "torneo": "Champions",
-    "estado": "EN VIVO",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "FINALIZADO",
     "equipos": [
       "Pakhtakor",
       "Al Nassr"
@@ -44,7 +44,7 @@
     "titulo": "LaLiga Hypermotion",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -60,7 +60,7 @@
     "titulo": "Real Oviedo vs Las Palmas",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Real Oviedo",
       "Las Palmas"
@@ -79,7 +79,7 @@
     "titulo": "L1 Max",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -95,7 +95,7 @@
     "titulo": "Sport Huancayo vs Melgar",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Sport Huancayo",
       "Melgar"
@@ -114,7 +114,7 @@
     "titulo": "Disney +",
     "deporte": "Serie A",
     "torneo": "Serie A",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -130,7 +130,7 @@
     "titulo": "LaLiga Hypermotion",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -146,7 +146,7 @@
     "titulo": "Real Valladolid vs Leganés",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Real Valladolid",
       "Leganés"
@@ -165,7 +165,7 @@
     "titulo": "Sassuolo vs Fiorentina",
     "deporte": "Serie A",
     "torneo": "Serie A",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Sassuolo",
       "Fiorentina"
@@ -194,7 +194,7 @@
     "titulo": "Al Gharafa vs Al Qadisiyah",
     "deporte": "Champions",
     "torneo": "Champions",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Al Gharafa",
       "Al Qadisiyah"
@@ -213,7 +213,7 @@
     "titulo": "Disney +",
     "deporte": "Champions",
     "torneo": "Champions",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -229,7 +229,7 @@
     "titulo": "L1 Max",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -245,7 +245,7 @@
     "titulo": "UTC Cajamarca vs Deportivo Garcilaso",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "UTC Cajamarca",
       "Deportivo Garcilaso"
@@ -264,7 +264,7 @@
     "titulo": "Independiente Yumbo vs Boca Juniors Cali",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Independiente Yumbo",
       "Boca Juniors Cali"
@@ -283,7 +283,7 @@
     "titulo": "Win Sports +",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -299,7 +299,7 @@
     "titulo": "Atalanta vs Parma",
     "deporte": "Serie A",
     "torneo": "Serie A",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Atalanta",
       "Parma"
@@ -318,7 +318,7 @@
     "titulo": "Disney +",
     "deporte": "Serie A",
     "torneo": "Serie A",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -339,7 +339,7 @@
     "titulo": "Lorient vs Brest",
     "deporte": "Ligue 1",
     "torneo": "Ligue 1",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Lorient",
       "Brest"
@@ -358,7 +358,7 @@
     "titulo": "Deportivo La Coruña vs Osasuna",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Deportivo La Coruña",
       "Osasuna"
@@ -392,7 +392,7 @@
     "titulo": "Disney +",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -413,7 +413,7 @@
     "titulo": "LaLiga Hypermotion",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -429,7 +429,7 @@
     "titulo": "Mallorca vs Cádiz",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Mallorca",
       "Cádiz"
@@ -448,7 +448,7 @@
     "titulo": "Newcastle United vs Everton",
     "deporte": "Premier League",
     "torneo": "Premier League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Newcastle United",
       "Everton"
@@ -482,7 +482,7 @@
     "titulo": "Benfica vs Alverca",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Benfica",
       "Alverca"
@@ -501,7 +501,7 @@
     "titulo": "DSports 2",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -517,7 +517,7 @@
     "titulo": "L1 Max",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -533,7 +533,7 @@
     "titulo": "Orense vs Técnico Universitario",
     "deporte": "Serie A",
     "torneo": "Serie A",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Orense",
       "Técnico Universitario"
@@ -552,7 +552,7 @@
     "titulo": "Sporting Cristal vs FC Cajamarca",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Sporting Cristal",
       "FC Cajamarca"
@@ -571,7 +571,7 @@
     "titulo": "Zapping EC",
     "deporte": "Serie A",
     "torneo": "Serie A",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -587,7 +587,7 @@
     "titulo": "Deportes Limache vs Audax Italiano",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Deportes Limache",
       "Audax Italiano"
@@ -606,7 +606,7 @@
     "titulo": "TNT Sports Chile",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
@@ -622,7 +622,7 @@
     "titulo": "Rionegro Águilas vs Fortaleza CEIF",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Rionegro Águilas",
       "Fortaleza CEIF"
@@ -641,7 +641,7 @@
     "titulo": "Win Sports +",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
@@ -657,7 +657,7 @@
     "titulo": "Defensa y Justicia vs Independiente",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Defensa y Justicia",
       "Independiente"
@@ -681,7 +681,7 @@
     "titulo": "ESPN Premium",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
@@ -697,7 +697,7 @@
     "titulo": "Platense vs Central Córdoba SdE",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Platense",
       "Central Córdoba SdE"
@@ -721,7 +721,7 @@
     "titulo": "TNT Sports",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
@@ -1222,51 +1222,6 @@
     "fecha": "2026-11-02"
   },
   {
-    "hora": "20:10",
-    "titulo": "Cruz Azul vs León",
-    "deporte": "NBA",
-    "torneo": "NBA",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Cruz Azul",
-      "León"
-    ],
-    "servidores": [
-      {
-        "nombre": "TUDN USA",
-        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-        "numero": null
-      },
-      {
-        "nombre": "TUDN MX",
-        "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
-        "numero": null
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:10",
-    "titulo": "TUDN USA",
-    "deporte": "",
-    "torneo": "",
-    "estado": "FINALIZADO",
-    "equipos": [],
-    "servidores": [
-      {
-        "nombre": "TUDN USA · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
     "hora": "20:15",
     "titulo": "Atlético Bucaramanga vs Atlético Nacional",
     "deporte": "NBA",
@@ -1308,25 +1263,6 @@
   },
   {
     "hora": "20:15",
-    "titulo": "Santa Fe vs Once Caldas",
-    "deporte": "Copa",
-    "torneo": "Copa",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Santa Fe",
-      "Once Caldas"
-    ],
-    "servidores": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:15",
     "titulo": "Seattle Seahawks vs Chicago Bears",
     "deporte": "NFL",
     "torneo": "NFL",
@@ -1361,81 +1297,6 @@
     "fecha": "2026-11-02"
   },
   {
-    "hora": "20:20",
-    "titulo": "ESPN 2",
-    "deporte": "NFL",
-    "torneo": "NFL",
-    "estado": "FINALIZADO",
-    "equipos": [],
-    "servidores": [
-      {
-        "nombre": "ESPN 2 · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:20",
-    "titulo": "Washington Commanders vs Philadelphia Eagles",
-    "deporte": "NFL",
-    "torneo": "NFL",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Washington Commanders",
-      "Philadelphia Eagles"
-    ],
-    "servidores": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:30",
-    "titulo": "Apple TV Español",
-    "deporte": "",
-    "torneo": "",
-    "estado": "FINALIZADO",
-    "equipos": [],
-    "servidores": [
-      {
-        "nombre": "Apple TV Español · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=appletv6",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:30",
-    "titulo": "Golden State Warriors vs LA Clippers",
-    "deporte": "NBA",
-    "torneo": "NBA",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Golden State Warriors",
-      "LA Clippers"
-    ],
-    "servidores": [
-      {
-        "nombre": "Prime Video",
-        "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
-        "numero": null
-      },
-      {
-        "nombre": "NBA League Pass",
-        "url": "https://streamxhd.sbs/live1.php?stream=nba3",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
     "hora": "20:30",
     "titulo": "Houston Rockets vs Boston Celtics",
     "deporte": "NBA",
@@ -1449,25 +1310,6 @@
       {
         "nombre": "NBA League Pass",
         "url": "https://streamxhd.sbs/live1.php?stream=nba11",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:30",
-    "titulo": "Los Angeles FC vs Minnesota United",
-    "deporte": "NBA",
-    "torneo": "NBA",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Los Angeles FC",
-      "Minnesota United"
-    ],
-    "servidores": [
-      {
-        "nombre": "Apple TV Español",
-        "url": "https://streamxhd.sbs/live1.php?stream=appletv6",
         "numero": null
       }
     ],
@@ -1489,22 +1331,6 @@
       {
         "nombre": "NBA League Pass · Live1 manual",
         "url": "https://streamxhd.sbs/live1.php?stream=nba11",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "20:30",
-    "titulo": "Prime Video",
-    "deporte": "NBA",
-    "torneo": "NBA",
-    "estado": "FINALIZADO",
-    "equipos": [],
-    "servidores": [
-      {
-        "nombre": "Prime Video · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
         "numero": null
       }
     ],
@@ -1550,25 +1376,6 @@
   },
   {
     "hora": "21:00",
-    "titulo": "Los Angeles Lakers vs Toronto Raptors",
-    "deporte": "NBA",
-    "torneo": "NBA",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Los Angeles Lakers",
-      "Toronto Raptors"
-    ],
-    "servidores": [
-      {
-        "nombre": "NBA League Pass",
-        "url": "https://streamxhd.sbs/live1.php?stream=nba4",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "21:00",
     "titulo": "NBA League Pass",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1578,51 +1385,6 @@
       {
         "nombre": "NBA League Pass · Live1 manual",
         "url": "https://streamxhd.sbs/live1.php?stream=nba12",
-        "numero": null
-      },
-      {
-        "nombre": "NBA League Pass · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=nba4",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "21:45",
-    "titulo": "Apple TV Español",
-    "deporte": "",
-    "torneo": "",
-    "estado": "FINALIZADO",
-    "equipos": [],
-    "servidores": [
-      {
-        "nombre": "Apple TV Español · Live1 manual",
-        "url": "https://streamxhd.sbs/live1.php?stream=appletv7",
-        "numero": null
-      }
-    ],
-    "fecha": "2026-11-02"
-  },
-  {
-    "hora": "21:45",
-    "titulo": "Portland Timbers vs Houston Dynamo",
-    "deporte": "NBA",
-    "torneo": "NBA",
-    "estado": "FINALIZADO",
-    "equipos": [
-      "Portland Timbers",
-      "Houston Dynamo"
-    ],
-    "servidores": [
-      {
-        "nombre": "Apple TV Español",
-        "url": "https://streamxhd.sbs/live1.php?stream=appletv7",
-        "numero": null
-      },
-      {
-        "nombre": "FOX Deportes USA",
-        "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa",
         "numero": null
       }
     ],
