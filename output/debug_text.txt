@@ -3,8 +3,8 @@ Embed Live Sports - Agenda
 Embed Live Sports
 Centro de eventos
 Soporte
-04:31:08
-America/Chicago
+20:44:29
+UTC
 🛡️
 Verificador de dominios
 DOMINIOS DISPONIBLES
@@ -22,214 +22,36 @@ Live sports · Eventos en vivo
 Embed Live Sports
 Agenda
 Eventos
-21
+17
 Deportes
-3
+1
 En vivo
-0
+12
 Actualizar
 🌐 Todos
-21
-🏀
-            Basketball
-0
+17
 ⚽
             Football
-21
-🏈
-            American Football
-0
+17
 ◆
 Agenda por días
-21 eventos
+17 eventos
 HOY
 Martes, 03 de noviembre de 2026
-21
+15
                   eventos
-Shakhtar Donetsk
-VS
-Sporting CP
-PRONTO
-11:45
-SH
-VS
-SP
-CHA
-UEFA Champions League
-Shakhtar Donetsk vs Sporting CP
-PRONTO
-Servidores disponibles
-2
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney1
-Ver aquí
-Copiar
-2
-ESPN
-https://streamxhd.sbs/live1.php?stream=espn
-Ver aquí
-Copiar
-⚽
-                  Football
-UEFA Champions League
-11:45
-PRONTO
-Shakhtar Donetsk vs Sporting CP
-martes, 03 de noviembre, 11:45
-Servidores disponibles
-Disney +
-ESPN
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney1
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Shakhtar Donetsk vs Sporting CP
-Cerrar
-Galatasaray
-VS
-Stuttgart
-PRONTO
-11:45
-GA
-VS
-ST
-CHA
-UEFA Champions League
-Galatasaray vs Stuttgart
-PRONTO
-Servidores disponibles
-3
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney2
-Ver aquí
-Copiar
-2
-ESPN 5
-https://streamxhd.sbs/live1.php?stream=espn5
-Ver aquí
-Copiar
-3
-FOX Sports 1 AR
-https://streamxhd.sbs/live1.php?stream=fox1ar
-Ver aquí
-Copiar
-⚽
-                  Football
-UEFA Champions League
-11:45
-PRONTO
-Galatasaray vs Stuttgart
-martes, 03 de noviembre, 11:45
-Servidores disponibles
-Disney +
-ESPN 5
-FOX Sports 1 AR
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney2
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Galatasaray vs Stuttgart
-Cerrar
-Anaitasuna FT
-VS
-Deportivo Alavés
-PRONTO
-12:00
-AN
-VS
-DE
-ES
-ES
-Copa del Rey
-Anaitasuna FT vs Deportivo Alavés
-PRONTO
-Servidores disponibles
-1
-1
-ESPN +
-https://streamxhd.sbs/live1.php?stream=espnplus1
-Ver aquí
-Copiar
-ES
-⚽
-                  Football
-Copa del Rey
-12:00
-PRONTO
-Anaitasuna FT vs Deportivo Alavés
-martes, 03 de noviembre, 12:00
-Servidores disponibles
-ESPN +
-Servidor
-ESPN + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espnplus1
-<iframe src="https://streamxhd.sbs/live1.php?stream=espnplus1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Anaitasuna FT vs Deportivo Alavés
-Cerrar
-Al Hilal
-VS
-Shabab Al Ahli
-PRONTO
-12:15
-AL
-VS
-SH
-AFCCHA
-AFC Champions League Elite
-Al Hilal vs Shabab Al Ahli
-PRONTO
-Servidores disponibles
-1
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney3
-Ver aquí
-Copiar
-⚽
-                  Football
-AFC Champions League Elite
-12:15
-PRONTO
-Al Hilal vs Shabab Al Ahli
-martes, 03 de noviembre, 12:15
-Servidores disponibles
-Disney +
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney3
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Al Hilal vs Shabab Al Ahli
-Cerrar
 Atlético Madrid
 VS
 Bayern München
-PRONTO
-14:00
+EN VIVO
+20:00
 AT
 VS
 BA
 CHA
 UEFA Champions League
 Atlético Madrid vs Bayern München
-PRONTO
+EN VIVO
 Servidores disponibles
 4
 1
@@ -255,10 +77,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 Atlético Madrid vs Bayern München
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN 2
@@ -277,15 +99,15 @@ Cerrar
 Barcelona
 VS
 Aston Villa
-PRONTO
-14:00
+EN VIVO
+20:00
 BA
 VS
 AS
 CHA
 UEFA Champions League
 Barcelona vs Aston Villa
-PRONTO
+EN VIVO
 Servidores disponibles
 4
 1
@@ -311,10 +133,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 Barcelona vs Aston Villa
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN
@@ -333,15 +155,15 @@ Cerrar
 Bodø / Glimt
 VS
 Lille
-PRONTO
-14:00
+EN VIVO
+20:00
 BO
 VS
 LI
 CHA
 UEFA Champions League
 Bodø / Glimt vs Lille
-PRONTO
+EN VIVO
 Servidores disponibles
 2
 1
@@ -357,10 +179,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 Bodø / Glimt vs Lille
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN 4
@@ -377,15 +199,15 @@ Cerrar
 Feyenoord
 VS
 Inter
-PRONTO
-14:00
+EN VIVO
+20:00
 FE
 VS
 IN
 CHA
 UEFA Champions League
 Feyenoord vs Inter
-PRONTO
+EN VIVO
 Servidores disponibles
 3
 1
@@ -406,10 +228,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 Feyenoord vs Inter
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN 7
@@ -427,15 +249,15 @@ Cerrar
 LASK Linz
 VS
 Slovan Bratislava
-PRONTO
-14:00
+EN VIVO
+20:00
 LA
 VS
 SL
 CHA
 UEFA Champions League
 LASK Linz vs Slovan Bratislava
-PRONTO
+EN VIVO
 Servidores disponibles
 2
 1
@@ -451,10 +273,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 LASK Linz vs Slovan Bratislava
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN 6
@@ -471,15 +293,15 @@ Cerrar
 Manchester United
 VS
 Roma
-PRONTO
-14:00
+EN VIVO
+20:00
 MA
 VS
 RO
 CHA
 UEFA Champions League
 Manchester United vs Roma
-PRONTO
+EN VIVO
 Servidores disponibles
 4
 1
@@ -505,10 +327,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 Manchester United vs Roma
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN 3
@@ -527,15 +349,15 @@ Cerrar
 Villarreal
 VS
 PSG
-PRONTO
-14:00
+EN VIVO
+20:00
 VI
 VS
 PS
 CHA
 UEFA Champions League
 Villarreal vs PSG
-PRONTO
+EN VIVO
 Servidores disponibles
 2
 1
@@ -551,10 +373,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-14:00
-PRONTO
+20:00
+EN VIVO
 Villarreal vs PSG
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 ESPN 5
@@ -571,15 +393,15 @@ Cerrar
 2 de Mayo
 VS
 Sportivo Trinidense
-PRONTO
-14:00
+EN VIVO
+20:00
 2
 VS
 SP
 LIGAPY
 Primera División
 2 de Mayo vs Sportivo Trinidense
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -590,10 +412,10 @@ Copiar
 ⚽
                   Football
 Primera División
-14:00
-PRONTO
+20:00
+EN VIVO
 2 de Mayo vs Sportivo Trinidense
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Tigo Sports
 Servidor
@@ -609,8 +431,8 @@ Cerrar
 Comerciantes Unidos
 VS
 ADT
-PRONTO
-14:00
+EN VIVO
+20:00
 CO
 VS
 AD
@@ -618,7 +440,7 @@ PE
 PE
 Liga 1
 Comerciantes Unidos vs ADT
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -630,10 +452,10 @@ PE
 ⚽
                   Football
 Liga 1
-14:00
-PRONTO
+20:00
+EN VIVO
 Comerciantes Unidos vs ADT
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 L1 Max
 Servidor
@@ -649,8 +471,8 @@ Cerrar
 West Bromwich
 VS
 Southampton
-PRONTO
-14:00
+EN VIVO
+20:00
 WE
 VS
 SO
@@ -658,7 +480,7 @@ GB-ENG
 ENG
 Championship
 West Bromwich vs Southampton
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -670,10 +492,10 @@ GB-ENG
 ⚽
                   Football
 Championship
-14:00
-PRONTO
+20:00
+EN VIVO
 West Bromwich vs Southampton
-martes, 03 de noviembre, 14:00
+martes, 03 de noviembre, 20:00
 Servidores disponibles
 Disney +
 Servidor
@@ -689,8 +511,8 @@ Cerrar
 Deportivo Pereira
 VS
 Deportes Tolima
-PRONTO
-14:30
+EN VIVO
+20:30
 DE
 VS
 DE
@@ -698,7 +520,7 @@ CO
 COL
 Liga Colombia
 Deportivo Pereira vs Deportes Tolima
-PRONTO
+EN VIVO
 Servidores disponibles
 2
 1
@@ -715,10 +537,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-14:30
-PRONTO
+20:30
+EN VIVO
 Deportivo Pereira vs Deportes Tolima
-martes, 03 de noviembre, 14:30
+martes, 03 de noviembre, 20:30
 Servidores disponibles
 Win Sports +
 Win Sports
@@ -735,8 +557,8 @@ Cerrar
 Mushuc Runa
 VS
 Manta
-PRONTO
-14:30
+EN VIVO
+20:30
 MU
 VS
 MA
@@ -744,7 +566,7 @@ EC
 ECUA
 Serie A
 Mushuc Runa vs Manta
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -756,10 +578,10 @@ EC
 ⚽
                   Football
 Serie A
-14:30
-PRONTO
+20:30
+EN VIVO
 Mushuc Runa vs Manta
-martes, 03 de noviembre, 14:30
+martes, 03 de noviembre, 20:30
 Servidores disponibles
 Zapping EC
 Servidor
@@ -776,7 +598,7 @@ Nacional Asunción
 VS
 Sportivo San Lorenzo
 PRONTO
-16:30
+22:30
 NA
 VS
 SP
@@ -794,10 +616,10 @@ Copiar
 ⚽
                   Football
 Primera División
-16:30
+22:30
 PRONTO
 Nacional Asunción vs Sportivo San Lorenzo
-martes, 03 de noviembre, 16:30
+martes, 03 de noviembre, 22:30
 Servidores disponibles
 Tigo Sports
 Servidor
@@ -814,7 +636,7 @@ Chapecoense
 VS
 Mirassol
 PRONTO
-16:30
+22:30
 CH
 VS
 MI
@@ -834,10 +656,10 @@ BR
 ⚽
                   Football
 Brasileirão
-16:30
+22:30
 PRONTO
 Chapecoense vs Mirassol
-martes, 03 de noviembre, 16:30
+martes, 03 de noviembre, 22:30
 Servidores disponibles
 Premiere 2
 Servidor
@@ -854,7 +676,7 @@ Deportivo Pasto
 VS
 Jaguares de Córdoba
 PRONTO
-17:20
+23:20
 DE
 VS
 JA
@@ -874,10 +696,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-17:20
+23:20
 PRONTO
 Deportivo Pasto vs Jaguares de Córdoba
-martes, 03 de noviembre, 17:20
+martes, 03 de noviembre, 23:20
 Servidores disponibles
 Win Sports +
 Servidor
@@ -890,11 +712,15 @@ Copiar iframe
 Ver iframe
 Deportivo Pasto vs Jaguares de Córdoba
 Cerrar
+MAÑANA
+Miércoles, 04 de noviembre de 2026
+2
+                  eventos
 Internacional
 VS
 Coritiba
 PRONTO
-18:30
+00:30
 IN
 VS
 CO
@@ -914,10 +740,10 @@ BR
 ⚽
                   Football
 Brasileirão
-18:30
+00:30
 PRONTO
 Internacional vs Coritiba
-martes, 03 de noviembre, 18:30
+miércoles, 04 de noviembre, 00:30
 Servidores disponibles
 Premiere 1
 Servidor
@@ -934,7 +760,7 @@ Alianza Lima
 VS
 Cienciano
 PRONTO
-19:00
+01:00
 AL
 VS
 CI
@@ -954,10 +780,10 @@ PE
 ⚽
                   Football
 Liga 1
-19:00
+01:00
 PRONTO
 Alianza Lima vs Cienciano
-martes, 03 de noviembre, 19:00
+miércoles, 04 de noviembre, 01:00
 Servidores disponibles
 L1 Max
 Servidor
@@ -972,281 +798,141 @@ Alianza Lima vs Cienciano
 Cerrar
 ■
 Finalizados
-7 eventos
-AYER
-Lunes, 02 de noviembre de 2026
-7
+3 eventos
+HOY
+Martes, 03 de noviembre de 2026
+3
                   eventos
-Seattle Seahawks
+Shakhtar Donetsk
 VS
-Chicago Bears
+Sporting CP
 FINALIZADO
-19:15
-SE
+17:45
+SH
 VS
-CH
-NFL
-NFL
-Seattle Seahawks vs Chicago Bears
-FINALIZADO
-Servidores disponibles
-1
-1
-ESPN 2
-https://streamxhd.sbs/live1.php?stream=espn2
-Ver aquí
-Copiar
-🏈
-                  American Football
-NFL
-19:15
-FINALIZADO
-Seattle Seahawks vs Chicago Bears
-lunes, 02 de noviembre, 19:15
-Servidores disponibles
-ESPN 2
-Servidor
-ESPN 2 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn2
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Seattle Seahawks vs Chicago Bears
-Cerrar
-San Antonio Spurs
-VS
-Utah Jazz
-FINALIZADO
-19:30
-SA
-VS
-UT
-NBA
-NBA
-San Antonio Spurs vs Utah Jazz
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba10
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-19:30
-FINALIZADO
-San Antonio Spurs vs Utah Jazz
-lunes, 02 de noviembre, 19:30
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba10
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba10" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-San Antonio Spurs vs Utah Jazz
-Cerrar
-Houston Rockets
-VS
-Boston Celtics
-FINALIZADO
-19:30
-HO
-VS
-BO
-NBA
-NBA
-Houston Rockets vs Boston Celtics
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba11
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-19:30
-FINALIZADO
-Houston Rockets vs Boston Celtics
-lunes, 02 de noviembre, 19:30
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba11
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba11" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Houston Rockets vs Boston Celtics
-Cerrar
-Denver Nuggets
-VS
-Portland Trail Blazers
-FINALIZADO
-20:00
-DE
-VS
-PO
-NBA
-NBA
-Denver Nuggets vs Portland Trail Blazers
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba12
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-20:00
-FINALIZADO
-Denver Nuggets vs Portland Trail Blazers
-lunes, 02 de noviembre, 20:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba12
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba12" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Denver Nuggets vs Portland Trail Blazers
-Cerrar
-Golden State Warriors
-VS
-Phoenix Suns
-FINALIZADO
-21:00
-GO
-VS
-PH
-NBA
-NBA
-Golden State Warriors vs Phoenix Suns
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba1
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-21:00
-FINALIZADO
-Golden State Warriors vs Phoenix Suns
-lunes, 02 de noviembre, 21:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba1
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Golden State Warriors vs Phoenix Suns
-Cerrar
-LA Clippers
-VS
-Toronto Raptors
-FINALIZADO
-21:00
-LA
-VS
-TO
-NBA
-NBA
-LA Clippers vs Toronto Raptors
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba2
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-21:00
-FINALIZADO
-LA Clippers vs Toronto Raptors
-lunes, 02 de noviembre, 21:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba2
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-LA Clippers vs Toronto Raptors
-Cerrar
-Los Angeles Lakers
-VS
-Miami Heat
-FINALIZADO
-21:00
-LO
-VS
-MI
-NBA
-NBA
-Los Angeles Lakers vs Miami Heat
+SP
+CHA
+UEFA Champions League
+Shakhtar Donetsk vs Sporting CP
 FINALIZADO
 Servidores disponibles
 2
 1
 Disney +
-https://streamxhd.sbs/live1.php?stream=disney12
+https://streamxhd.sbs/live1.php?stream=disney1
 Ver aquí
 Copiar
 2
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba3
+ESPN
+https://streamxhd.sbs/live1.php?stream=espn
 Ver aquí
 Copiar
-🏀
-                  Basketball
-NBA
-21:00
+⚽
+                  Football
+UEFA Champions League
+17:45
 FINALIZADO
-Los Angeles Lakers vs Miami Heat
-lunes, 02 de noviembre, 21:00
+Shakhtar Donetsk vs Sporting CP
+martes, 03 de noviembre, 17:45
 Servidores disponibles
 Disney +
-NBA League Pass
+ESPN
 Servidor
 Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney12
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney12" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+https://streamxhd.sbs/live1.php?stream=disney1
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Los Angeles Lakers vs Miami Heat
+Shakhtar Donetsk vs Sporting CP
+Cerrar
+Galatasaray
+VS
+Stuttgart
+FINALIZADO
+17:45
+GA
+VS
+ST
+CHA
+UEFA Champions League
+Galatasaray vs Stuttgart
+FINALIZADO
+Servidores disponibles
+3
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney2
+Ver aquí
+Copiar
+2
+ESPN 5
+https://streamxhd.sbs/live1.php?stream=espn5
+Ver aquí
+Copiar
+3
+FOX Sports 1 AR
+https://streamxhd.sbs/live1.php?stream=fox1ar
+Ver aquí
+Copiar
+⚽
+                  Football
+UEFA Champions League
+17:45
+FINALIZADO
+Galatasaray vs Stuttgart
+martes, 03 de noviembre, 17:45
+Servidores disponibles
+Disney +
+ESPN 5
+FOX Sports 1 AR
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney2
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Galatasaray vs Stuttgart
+Cerrar
+Al Hilal
+VS
+Shabab Al Ahli
+FINALIZADO
+18:15
+AL
+VS
+SH
+AFCCHA
+AFC Champions League Elite
+Al Hilal vs Shabab Al Ahli
+FINALIZADO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney3
+Ver aquí
+Copiar
+⚽
+                  Football
+AFC Champions League Elite
+18:15
+FINALIZADO
+Al Hilal vs Shabab Al Ahli
+martes, 03 de noviembre, 18:15
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney3
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Al Hilal vs Shabab Al Ahli
 Cerrar
 Copiado
