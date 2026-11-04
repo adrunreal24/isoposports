@@ -1,5 +1,5 @@
 {
-  "fecha": "2026-11-04 19:43",
+  "fecha": "2026-11-04 20:30",
   "total": 26,
   "eventos": [
     {
@@ -15,7 +15,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba1/index.m3u8?ip=167.59.238.58&token=44e78fdc814266dbed1f019ffa7a8e73b44eadd7-30-1793866135-1793812135"
+      "m3u8_url": "https://razen.futlivehd.com/nba1/index.m3u8?ip=167.59.238.58&token=86b586d4700dcc533369e2e9ad50d9aedce130bc-01-1793868942-1793814942"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -30,7 +30,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         }
       ],
-      "m3u8_url": "https://razen.futlivehd.com/espn2/index.m3u8?ip=167.59.238.58&token=29a1821f1b0d0dc288ea4da563676afe09e6db58-0e-1793866141-1793812141"
+      "m3u8_url": "https://khala.futlivehd.com/espn2/index.m3u8?ip=167.59.238.58&token=9f69e1908fbc5444ce482772b1e9684b32e6217a-0c-1793868948-1793814948"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -41,7 +41,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
         }
       ],
-      "m3u8_url": "https://fala.futlivehd.com/tigo1/index.m3u8?ip=167.59.238.58&token=9761136a0aaa8752d14ee33643960244147390e7-07-1793866153-1793812153"
+      "m3u8_url": "https://fala.futlivehd.com/tigo1/index.m3u8?ip=167.59.238.58&token=dd3293f45422ca55130fa04b6d41f5992dec5296-9a-1793868960-1793814960"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -56,7 +56,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba3"
         }
       ],
-      "m3u8_url": "https://razen.futlivehd.com/nba3/index.m3u8?ip=167.59.238.58&token=75696c5cf4f71ae7341c4fd2bfe7a5d28f520a62-5a-1793866195-1793812195"
+      "m3u8_url": "https://khala.futlivehd.com/nba3/index.m3u8?ip=167.59.238.58&token=836fefacafcc516b5f1b8997a20ca1a64f0fe34f-92-1793869001-1793815001"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -67,7 +67,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba4"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba4/index.m3u8?ip=167.59.238.58&token=37c67224552751b26d6844926393eb1d5b2678bc-db-1793866201-1793812201"
+      "m3u8_url": "https://razen.futlivehd.com/nba4/index.m3u8?ip=167.59.238.58&token=5d03cf3faed46b2fb100b314f8da519f4fcdc07a-ad-1793869007-1793815007"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -82,7 +82,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba4"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba4/index.m3u8?ip=167.59.238.58&token=6da71ca80e67046e9a3bd3394043680bdd631df5-93-1793866207-1793812207"
+      "m3u8_url": "https://razen.futlivehd.com/nba4/index.m3u8?ip=167.59.238.58&token=faddf3cfa1e897c7c931dfcbbd0dd32eba2140fd-fd-1793869013-1793815013"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -93,7 +93,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba5"
         }
       ],
-      "m3u8_url": "https://lala4.futlivehd.com/nba5/index.m3u8?ip=167.59.238.58&token=4d909669097af1e4d2905f6df8897f84d9430672-7c-1793866213-1793812213"
+      "m3u8_url": "https://fala.futlivehd.com/nba5/index.m3u8?ip=167.59.238.58&token=defd165ad12e3ed22694ce39baf13f78283ad2c1-03-1793869019-1793815019"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -108,7 +108,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba5"
         }
       ],
-      "m3u8_url": "https://khala.futlivehd.com/nba5/index.m3u8?ip=167.59.238.58&token=a04003572e3a849b6a1f9123411ad5a3aabe7b17-b3-1793866219-1793812219"
+      "m3u8_url": "https://lala4.futlivehd.com/nba5/index.m3u8?ip=167.59.238.58&token=246e7482a81f175e7ced440b98707f96c8b8a8f9-97-1793869025-1793815025"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -119,7 +119,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba6"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba6/index.m3u8?ip=167.59.238.58&token=fe1f07cef7a2a5b28ff372f8da5ecf11baca9137-0f-1793866225-1793812225"
+      "m3u8_url": "https://mileixd.futlivehd.com/nba6/index.m3u8?ip=167.59.238.58&token=b82d0af35d09cd6818a921cf871c789c886e09e5-0e-1793869031-1793815031"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -134,7 +134,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba6"
         }
       ],
-      "m3u8_url": "https://razen.futlivehd.com/nba6/index.m3u8?ip=167.59.238.58&token=31d54e23a352696a31053399b9a2344ae664f567-ad-1793866231-1793812231"
+      "m3u8_url": "https://fala.futlivehd.com/nba6/index.m3u8?ip=167.59.238.58&token=99d5966ba27011319f75f21a394922c9e273481a-95-1793869037-1793815037"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -145,7 +145,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba7"
         }
       ],
-      "m3u8_url": "https://lala4.futlivehd.com/nba7/index.m3u8?ip=167.59.238.58&token=c460f85736e4d96f14ac2c094b45fa211786a2bb-a0-1793866238-1793812238"
+      "m3u8_url": "https://fala.futlivehd.com/nba7/index.m3u8?ip=167.59.238.58&token=8acc8df357c7b595bed62b056686913ff0b4e262-7e-1793869043-1793815043"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -160,7 +160,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba7"
         }
       ],
-      "m3u8_url": "https://lala4.futlivehd.com/nba7/index.m3u8?ip=167.59.238.58&token=7202e69be219b98ebfc9086d8f458a27ae1cd502-24-1793866244-1793812244"
+      "m3u8_url": "https://lala4.futlivehd.com/nba7/index.m3u8?ip=167.59.238.58&token=084752aa26c9c12cf6627ca523eafc73fb4f7db4-06-1793869049-1793815049"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -171,7 +171,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba8"
         }
       ],
-      "m3u8_url": "https://razen.futlivehd.com/nba8/index.m3u8?ip=167.59.238.58&token=8e1b19ee79c8284aa1abc35414bc0b530262897a-c9-1793866251-1793812251"
+      "m3u8_url": "https://khala.futlivehd.com/nba8/index.m3u8?ip=167.59.238.58&token=c169ca2088ab5dfaa3af256f646df26792396b6a-42-1793869055-1793815055"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -186,7 +186,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba8"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba8/index.m3u8?ip=167.59.238.58&token=98f697be02fdac89e1bfc5f70f4d1248d124fd1f-ec-1793866257-1793812257"
+      "m3u8_url": "https://mileixd.futlivehd.com/nba8/index.m3u8?ip=167.59.238.58&token=88676b24baa8d8db3d5c507d8d6084da80eb7282-e7-1793869061-1793815061"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -197,7 +197,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney14"
         }
       ],
-      "m3u8_url": "https://fala.futlivehd.com/disney14/index.m3u8?ip=167.59.238.58&token=80126cef0ca3d674461a33c9198cd9b43f01b157-16-1793866263-1793812263"
+      "m3u8_url": "https://lala4.futlivehd.com/disney14/index.m3u8?ip=167.59.238.58&token=4bd5900b05c04e7dce05a03cd3eb06c527ed1091-de-1793869067-1793815067"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -212,7 +212,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba9"
         }
       ],
-      "m3u8_url": "https://razen.futlivehd.com/nba9/index.m3u8?ip=167.59.238.58&token=491d8fc26e50c83347ac7c6ae2d721f2d5e7c948-52-1793866305-1793812305"
+      "m3u8_url": "https://lala4.futlivehd.com/nba9/index.m3u8?ip=167.59.238.58&token=0db2d38910b566cfd23e2b7d5bfe3dfd05508bc2-4b-1793869109-1793815109"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -223,7 +223,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba10"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba10/index.m3u8?ip=167.59.238.58&token=71c17329f01e1e68fed89a26656e69683701ca5d-0c-1793866311-1793812311"
+      "m3u8_url": "https://khala.futlivehd.com/nba10/index.m3u8?ip=167.59.238.58&token=90ade2cea8ab99b74e780f6a20dfb93326a6fd39-5b-1793869115-1793815115"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -238,7 +238,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba10"
         }
       ],
-      "m3u8_url": "https://lala4.futlivehd.com/nba10/index.m3u8?ip=167.59.238.58&token=179a9cc687cf6fe463fb902e5e53756f6ef95cec-0d-1793866317-1793812317"
+      "m3u8_url": "https://mileixd.futlivehd.com/nba10/index.m3u8?ip=167.59.238.58&token=35c8fe8f09a0e2c9f4f574c0cf382095e04e9f36-11-1793869121-1793815121"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -249,7 +249,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba11"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba11/index.m3u8?ip=167.59.238.58&token=fb2f1771d00263601cd6794332edd23a2ffc30c5-01-1793866323-1793812323"
+      "m3u8_url": "https://mileixd.futlivehd.com/nba11/index.m3u8?ip=167.59.238.58&token=b65473b1131beefc354de3ad7891a6ce4a1b1c88-c2-1793869127-1793815127"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -264,7 +264,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba11"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba11/index.m3u8?ip=167.59.238.58&token=30c6e6a658d930e6beeccf3fcde7230b55de2bbf-23-1793866329-1793812329"
+      "m3u8_url": "https://razen.futlivehd.com/nba11/index.m3u8?ip=167.59.238.58&token=68ff2f8d6e7f3691c02254f5ebdd38fc0265374f-56-1793869133-1793815133"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -279,7 +279,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba12"
         }
       ],
-      "m3u8_url": "https://fala.futlivehd.com/espn2/index.m3u8?ip=167.59.238.58&token=2a6e4eda2a7c90fc215766ad6e2259025e5b0111-c8-1793866335-1793812335"
+      "m3u8_url": "https://razen.futlivehd.com/espn2/index.m3u8?ip=167.59.238.58&token=64319ac9bf5356f12e4c91e9ee49575e4e8bedd9-87-1793869139-1793815139"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -290,7 +290,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
       ],
-      "m3u8_url": "https://lala4.futlivehd.com/nba1/index.m3u8?ip=167.59.238.58&token=8a05335a3b1405a08dc19c2d1c3aa6ac34472643-b7-1793866347-1793812347"
+      "m3u8_url": "https://fala.futlivehd.com/nba1/index.m3u8?ip=167.59.238.58&token=f8520d76db5ddd462168aca46f9d131f862ca46a-34-1793869151-1793815151"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -305,7 +305,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
       ],
-      "m3u8_url": "https://mileixd.futlivehd.com/nba1/index.m3u8?ip=167.59.238.58&token=22595378ccbe823c213485a9d0fe3acf7c8bdc78-a2-1793866353-1793812353"
+      "m3u8_url": "https://fala.futlivehd.com/nba1/index.m3u8?ip=167.59.238.58&token=c9331cc8408d6ff273326b59020bca5d8140b77d-d5-1793869157-1793815157"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -316,7 +316,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         }
       ],
-      "m3u8_url": "https://lala4.futlivehd.com/nba2/index.m3u8?ip=167.59.238.58&token=98406f41d14dcdd02f8cfd05957cb24735289380-06-1793866359-1793812359"
+      "m3u8_url": "https://razen.futlivehd.com/nba2/index.m3u8?ip=167.59.238.58&token=f5003c56383c68fb8ad002d3e700421ea016af8a-0c-1793869163-1793815163"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -331,7 +331,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         }
       ],
-      "m3u8_url": "https://razen.futlivehd.com/nba2/index.m3u8?ip=167.59.238.58&token=c1669faf722f2d210802a979ed34bf2e601ea507-8e-1793866365-1793812365"
+      "m3u8_url": "https://lala4.futlivehd.com/nba2/index.m3u8?ip=167.59.238.58&token=893698763890056bc14dbf3ed65e65fd863e250e-37-1793869168-1793815168"
     },
     {
       "titulo": "NBA LEAGUE PASS",
@@ -342,7 +342,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "m3u8_url": "https://fala.futlivehd.com/disney1/index.m3u8?ip=167.59.238.58&token=cc1d3eec388ea1d1e443764adb1e015fa8d5c4ec-1d-1793866371-1793812371"
+      "m3u8_url": "https://khala.futlivehd.com/disney1/index.m3u8?ip=167.59.238.58&token=d13a091e01ba1c41d96c76f67f5be813cdecb3ff-8f-1793869175-1793815175"
     }
   ]
 }
