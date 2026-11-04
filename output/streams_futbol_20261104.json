@@ -1,0 +1,359 @@
+{
+  "fecha": "2026-11-04T02:46:56.630793+00:00",
+  "total": 32,
+  "ok": 32,
+  "streams": [
+    {
+      "stream": "disney1",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney1",
+      "m3u8": "https://khala.futlivehd.com/global/disney1/index.m3u8?ip=190.133.18.195&token=605b340bb8e7e772a4277e838f4e7ab9797dc1e0-6f-1793805196-1793751196",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney1/index.m3u8?ip=190.133.18.195&token=64de734cef111fbc7d12e929300424e8a17d334b-9b-1793805191-1793751191",
+        "https://khala.futlivehd.com/global/disney1/index.m3u8?ip=190.133.18.195&token=605b340bb8e7e772a4277e838f4e7ab9797dc1e0-6f-1793805196-1793751196"
+      ],
+      "extraido_en": "2026-11-04T02:43:17.020090+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney10",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney10",
+      "m3u8": "https://khala.futlivehd.com/global/disney10/index.m3u8?ip=190.133.18.195&token=105169d4c01b982827c0f2fa675a877ea12baea3-dd-1793805203-1793751203",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney10/index.m3u8?ip=190.133.18.195&token=c212885145e455f7636bf2cb3e50c2d038531cf7-27-1793805198-1793751198",
+        "https://khala.futlivehd.com/global/disney10/index.m3u8?ip=190.133.18.195&token=105169d4c01b982827c0f2fa675a877ea12baea3-dd-1793805203-1793751203"
+      ],
+      "extraido_en": "2026-11-04T02:43:24.073013+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney11",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney11",
+      "m3u8": "https://khala.futlivehd.com/global/disney11/index.m3u8?ip=190.133.18.195&token=ba3ad797eae17a4cf619cfabd61b8f502cab85a7-04-1793805210-1793751210",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney11/index.m3u8?ip=190.133.18.195&token=d7ab87833e3591571b5b6fc47bfa8401b9d0e642-4a-1793805205-1793751205",
+        "https://khala.futlivehd.com/global/disney11/index.m3u8?ip=190.133.18.195&token=ba3ad797eae17a4cf619cfabd61b8f502cab85a7-04-1793805210-1793751210"
+      ],
+      "extraido_en": "2026-11-04T02:43:30.989748+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney2",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney2",
+      "m3u8": "https://khala.futlivehd.com/global/disney2/index.m3u8?ip=190.133.18.195&token=b5b6ce389eb739e1dde1d0c40a83ee1f93afea74-ea-1793805217-1793751217",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney2/index.m3u8?ip=190.133.18.195&token=1d58f289dce54c4fbca4d00e628cbfcb43e9ee5b-96-1793805212-1793751212",
+        "https://khala.futlivehd.com/global/disney2/index.m3u8?ip=190.133.18.195&token=b5b6ce389eb739e1dde1d0c40a83ee1f93afea74-ea-1793805217-1793751217"
+      ],
+      "extraido_en": "2026-11-04T02:43:38.170533+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney3",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney3",
+      "m3u8": "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=190.133.18.195&token=1726cce7fbcb44b6b1b1dff4efb7849fd646ed0d-11-1793805224-1793751224",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=190.133.18.195&token=c59a7209f60773a09147f4fff66c7bf8a8fd1261-74-1793805219-1793751219",
+        "https://khala.futlivehd.com/global/disney3/index.m3u8?ip=190.133.18.195&token=1726cce7fbcb44b6b1b1dff4efb7849fd646ed0d-11-1793805224-1793751224"
+      ],
+      "extraido_en": "2026-11-04T02:43:45.252775+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney4",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney4",
+      "m3u8": "https://khala.futlivehd.com/global/disney4/index.m3u8?ip=190.133.18.195&token=39b2a3c383db41c999ec0905990b8b32c2eaa56e-ae-1793805231-1793751231",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney4/index.m3u8?ip=190.133.18.195&token=a4e2642c9c270a261fa0d60d6700a5ee501fc55c-05-1793805226-1793751226",
+        "https://khala.futlivehd.com/global/disney4/index.m3u8?ip=190.133.18.195&token=39b2a3c383db41c999ec0905990b8b32c2eaa56e-ae-1793805231-1793751231"
+      ],
+      "extraido_en": "2026-11-04T02:43:52.472220+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney5",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney5",
+      "m3u8": "https://khala.futlivehd.com/global/disney5/index.m3u8?ip=190.133.18.195&token=51f6fcc6759c4dcb1876a52c3dbdf6b42e848f4a-f5-1793805238-1793751238",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney5/index.m3u8?ip=190.133.18.195&token=eb0a2fa706fe7d51c9cae447d0fb740083f4e1be-fe-1793805233-1793751233",
+        "https://khala.futlivehd.com/global/disney5/index.m3u8?ip=190.133.18.195&token=51f6fcc6759c4dcb1876a52c3dbdf6b42e848f4a-f5-1793805238-1793751238"
+      ],
+      "extraido_en": "2026-11-04T02:43:59.393053+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney6",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney6",
+      "m3u8": "https://khala.futlivehd.com/global/disney6/index.m3u8?ip=190.133.18.195&token=6dfd311e0da69e11094ec61e4fc5e4d9f69df1c5-81-1793805245-1793751245",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney6/index.m3u8?ip=190.133.18.195&token=4778ef7dfdb661f975a7291fee6c8bf02eb09d07-e9-1793805240-1793751240",
+        "https://khala.futlivehd.com/global/disney6/index.m3u8?ip=190.133.18.195&token=6dfd311e0da69e11094ec61e4fc5e4d9f69df1c5-81-1793805245-1793751245"
+      ],
+      "extraido_en": "2026-11-04T02:44:06.343632+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney7",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney7",
+      "m3u8": "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=190.133.18.195&token=ee1afdb89446c5a37dd94ce1d064cc3e9b0e2e45-64-1793805252-1793751252",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=190.133.18.195&token=ce41b376cf8f533e6ad553b1ebb203b914787233-79-1793805247-1793751247",
+        "https://khala.futlivehd.com/global/disney7/index.m3u8?ip=190.133.18.195&token=ee1afdb89446c5a37dd94ce1d064cc3e9b0e2e45-64-1793805252-1793751252"
+      ],
+      "extraido_en": "2026-11-04T02:44:13.217125+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney8",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney8",
+      "m3u8": "https://khala.futlivehd.com/global/disney8/index.m3u8?ip=190.133.18.195&token=672943ea9051fa3c2dfb0b43c1a7bcd1c88624f2-90-1793805259-1793751259",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney8/index.m3u8?ip=190.133.18.195&token=9759e9357e3876993b1fbe8bee2ad0320a7adfd8-69-1793805254-1793751254",
+        "https://khala.futlivehd.com/global/disney8/index.m3u8?ip=190.133.18.195&token=672943ea9051fa3c2dfb0b43c1a7bcd1c88624f2-90-1793805259-1793751259"
+      ],
+      "extraido_en": "2026-11-04T02:44:20.290970+00:00",
+      "ok": true
+    },
+    {
+      "stream": "disney9",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=disney9",
+      "m3u8": "https://khala.futlivehd.com/global/disney9/index.m3u8?ip=190.133.18.195&token=bf522a0570433a02e3b73986d15ba3142b2b9831-bf-1793805266-1793751266",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/disney9/index.m3u8?ip=190.133.18.195&token=0dece2a86eb57af65d20f1bb01d43c013c2b4a19-e7-1793805261-1793751261",
+        "https://khala.futlivehd.com/global/disney9/index.m3u8?ip=190.133.18.195&token=bf522a0570433a02e3b73986d15ba3142b2b9831-bf-1793805266-1793751266"
+      ],
+      "extraido_en": "2026-11-04T02:44:27.158136+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn",
+      "m3u8": "https://khala.futlivehd.com/global/espn/index.m3u8?ip=190.133.18.195&token=7f2c269caf551d21909399b55d9161dbc0c082e5-63-1793805273-1793751273",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn/index.m3u8?ip=190.133.18.195&token=4594a6f429be2be49bd4ddfd7bd35fd90e97b760-a8-1793805268-1793751268",
+        "https://khala.futlivehd.com/global/espn/index.m3u8?ip=190.133.18.195&token=7f2c269caf551d21909399b55d9161dbc0c082e5-63-1793805273-1793751273"
+      ],
+      "extraido_en": "2026-11-04T02:44:34.255759+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn2",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn2",
+      "m3u8": "https://khala.futlivehd.com/global/espn2/index.m3u8?ip=190.133.18.195&token=cd4173bd6a8dbede1c10e0ad9dd8d9938d134970-d9-1793805281-1793751281",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn2/index.m3u8?ip=190.133.18.195&token=6d9238998aa4d62bb801c28c36c35a783d07dfaa-c5-1793805276-1793751276",
+        "https://khala.futlivehd.com/global/espn2/index.m3u8?ip=190.133.18.195&token=cd4173bd6a8dbede1c10e0ad9dd8d9938d134970-d9-1793805281-1793751281"
+      ],
+      "extraido_en": "2026-11-04T02:44:42.576867+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn2ar",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn2ar",
+      "m3u8": "https://khala.futlivehd.com/global/espn2ar/index.m3u8?ip=190.133.18.195&token=39b9581707242899fc2113018d1162070b6e1e33-1b-1793805288-1793751288",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn2ar/index.m3u8?ip=190.133.18.195&token=207340670dcdf582dae48edfd8f35219576af114-3e-1793805283-1793751283",
+        "https://khala.futlivehd.com/global/espn2ar/index.m3u8?ip=190.133.18.195&token=39b9581707242899fc2113018d1162070b6e1e33-1b-1793805288-1793751288"
+      ],
+      "extraido_en": "2026-11-04T02:44:49.591630+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn3",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn3",
+      "m3u8": "https://khala.futlivehd.com/global/espn3/index.m3u8?ip=190.133.18.195&token=5539883ebc9360cd17de8ced489d0b5f226da7a1-6f-1793805296-1793751296",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn3/index.m3u8?ip=190.133.18.195&token=bd393d3e5ac18de5cc8449615f32c2582abf976c-a4-1793805290-1793751290",
+        "https://khala.futlivehd.com/global/espn3/index.m3u8?ip=190.133.18.195&token=5539883ebc9360cd17de8ced489d0b5f226da7a1-6f-1793805296-1793751296"
+      ],
+      "extraido_en": "2026-11-04T02:44:56.687919+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn4",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn4",
+      "m3u8": "https://khala.futlivehd.com/global/espn4/index.m3u8?ip=190.133.18.195&token=c1cf40dc472b2a28c693937b8d6440cb0f86271c-83-1793805302-1793751302",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn4/index.m3u8?ip=190.133.18.195&token=3053036e14b09b2ad5b806c921e26da2c715134c-d8-1793805297-1793751297",
+        "https://khala.futlivehd.com/global/espn4/index.m3u8?ip=190.133.18.195&token=c1cf40dc472b2a28c693937b8d6440cb0f86271c-83-1793805302-1793751302"
+      ],
+      "extraido_en": "2026-11-04T02:45:03.675779+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn5",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn5",
+      "m3u8": "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=190.133.18.195&token=35bdeac62dd5f01338b6694c7e871c9259df4839-87-1793805309-1793751309",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=190.133.18.195&token=dc98178aec350ae94a5fba7be66ff911c23dbd2a-4f-1793805305-1793751305",
+        "https://khala.futlivehd.com/global/espn5/index.m3u8?ip=190.133.18.195&token=35bdeac62dd5f01338b6694c7e871c9259df4839-87-1793805309-1793751309"
+      ],
+      "extraido_en": "2026-11-04T02:45:10.779949+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn6",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn6",
+      "m3u8": "https://khala.futlivehd.com/global/espn6/index.m3u8?ip=190.133.18.195&token=ba13682c92562f594e5584354d7e3d50ef4a0643-d8-1793805316-1793751316",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn6/index.m3u8?ip=190.133.18.195&token=82b9eaa11df9b608be84cb4bb71ca49fb01ac87b-41-1793805312-1793751312",
+        "https://khala.futlivehd.com/global/espn6/index.m3u8?ip=190.133.18.195&token=ba13682c92562f594e5584354d7e3d50ef4a0643-d8-1793805316-1793751316"
+      ],
+      "extraido_en": "2026-11-04T02:45:17.780962+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espn7",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espn7",
+      "m3u8": "https://khala.futlivehd.com/global/espn7/index.m3u8?ip=190.133.18.195&token=48453e3d46e756f60b52bda6a7509b07cdff25a4-dc-1793805323-1793751323",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espn7/index.m3u8?ip=190.133.18.195&token=dc2f049033120486e3200eb77c943973acf9faad-ab-1793805318-1793751318",
+        "https://khala.futlivehd.com/global/espn7/index.m3u8?ip=190.133.18.195&token=48453e3d46e756f60b52bda6a7509b07cdff25a4-dc-1793805323-1793751323"
+      ],
+      "extraido_en": "2026-11-04T02:45:24.689890+00:00",
+      "ok": true
+    },
+    {
+      "stream": "espnar",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=espnar",
+      "m3u8": "https://khala.futlivehd.com/global/espnar/index.m3u8?ip=190.133.18.195&token=aee198c63f2f2109c916e2ce0c4fcb6845e2884f-91-1793805330-1793751330",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/espnar/index.m3u8?ip=190.133.18.195&token=e8931d8673b296eec8379a900c109c93f15ec3f9-f1-1793805325-1793751325",
+        "https://khala.futlivehd.com/global/espnar/index.m3u8?ip=190.133.18.195&token=aee198c63f2f2109c916e2ce0c4fcb6845e2884f-91-1793805330-1793751330"
+      ],
+      "extraido_en": "2026-11-04T02:45:31.638341+00:00",
+      "ok": true
+    },
+    {
+      "stream": "fox1ar",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
+      "m3u8": "https://khala.futlivehd.com/global/fox1ar/index.m3u8?ip=190.133.18.195&token=423c68e387b4a77771c9d5f0e2fae4985ae9999b-13-1793805337-1793751337",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/fox1ar/index.m3u8?ip=190.133.18.195&token=a77c1ea43c6252930203918cf5eda5187583f83a-0e-1793805333-1793751333",
+        "https://khala.futlivehd.com/global/fox1ar/index.m3u8?ip=190.133.18.195&token=423c68e387b4a77771c9d5f0e2fae4985ae9999b-13-1793805337-1793751337"
+      ],
+      "extraido_en": "2026-11-04T02:45:38.802624+00:00",
+      "ok": true
+    },
+    {
+      "stream": "fox2ar",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=fox2ar",
+      "m3u8": "https://khala.futlivehd.com/global/fox2ar/index.m3u8?ip=190.133.18.195&token=48ab64fbff25612ec09071a8eb6d7b23837988ef-d7-1793805344-1793751344",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/fox2ar/index.m3u8?ip=190.133.18.195&token=b08dbf6d50c963a94cba99eada6c95d2f65efb90-fc-1793805340-1793751340",
+        "https://khala.futlivehd.com/global/fox2ar/index.m3u8?ip=190.133.18.195&token=48ab64fbff25612ec09071a8eb6d7b23837988ef-d7-1793805344-1793751344"
+      ],
+      "extraido_en": "2026-11-04T02:45:46.948216+00:00",
+      "ok": true
+    },
+    {
+      "stream": "l1max",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=l1max",
+      "m3u8": "https://khala.futlivehd.com/global/l1max/index.m3u8?ip=190.133.18.195&token=79402cccb1d378fad4d1b4a9bcef36778f125530-73-1793805352-1793751352",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/l1max/index.m3u8?ip=190.133.18.195&token=6dd725e79dcad03a1b2cb0336ab34441d55e6e42-51-1793805348-1793751348",
+        "https://khala.futlivehd.com/global/l1max/index.m3u8?ip=190.133.18.195&token=79402cccb1d378fad4d1b4a9bcef36778f125530-73-1793805352-1793751352"
+      ],
+      "extraido_en": "2026-11-04T02:45:53.976828+00:00",
+      "ok": true
+    },
+    {
+      "stream": "max1",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=max1",
+      "m3u8": "https://khala.futlivehd.com/global/max1/index.m3u8?ip=190.133.18.195&token=688e9c99cab1ac20e2c719397df8502d7c251920-0e-1793805359-1793751359",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/max1/index.m3u8?ip=190.133.18.195&token=a4150ce7772e5bc8d381156478035a75c9b6cf74-8a-1793805355-1793751355",
+        "https://khala.futlivehd.com/global/max1/index.m3u8?ip=190.133.18.195&token=688e9c99cab1ac20e2c719397df8502d7c251920-0e-1793805359-1793751359"
+      ],
+      "extraido_en": "2026-11-04T02:46:00.912546+00:00",
+      "ok": true
+    },
+    {
+      "stream": "max2",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=max2",
+      "m3u8": "https://khala.futlivehd.com/global/max2/index.m3u8?ip=190.133.18.195&token=f42d317ccd188c8418bfcc41d35b60d9ea18226c-fd-1793805366-1793751366",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/max2/index.m3u8?ip=190.133.18.195&token=fdca086bbbd0d4efd553615b54c349df021f9b4a-35-1793805362-1793751362",
+        "https://khala.futlivehd.com/global/max2/index.m3u8?ip=190.133.18.195&token=f42d317ccd188c8418bfcc41d35b60d9ea18226c-fd-1793805366-1793751366"
+      ],
+      "extraido_en": "2026-11-04T02:46:07.901520+00:00",
+      "ok": true
+    },
+    {
+      "stream": "premiere1",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=premiere1",
+      "m3u8": "https://khala.futlivehd.com/global/premiere1/index.m3u8?ip=190.133.18.195&token=9eafe23d6b58bd893cde1dff9ecc7754f87adbb5-b4-1793805373-1793751373",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/premiere1/index.m3u8?ip=190.133.18.195&token=27e533e0da9741ad735582c7261ef56be56e6bc3-a4-1793805369-1793751369",
+        "https://khala.futlivehd.com/global/premiere1/index.m3u8?ip=190.133.18.195&token=9eafe23d6b58bd893cde1dff9ecc7754f87adbb5-b4-1793805373-1793751373"
+      ],
+      "extraido_en": "2026-11-04T02:46:14.810192+00:00",
+      "ok": true
+    },
+    {
+      "stream": "premiere2",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=premiere2",
+      "m3u8": "https://khala.futlivehd.com/global/premiere2/index.m3u8?ip=190.133.18.195&token=a513ba066c22d55bf52cce5b8789faf464aecd0a-ac-1793805380-1793751380",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/premiere2/index.m3u8?ip=190.133.18.195&token=d124a29dad440b4f63c64a86b03226818c4fa098-c8-1793805376-1793751376",
+        "https://khala.futlivehd.com/global/premiere2/index.m3u8?ip=190.133.18.195&token=a513ba066c22d55bf52cce5b8789faf464aecd0a-ac-1793805380-1793751380"
+      ],
+      "extraido_en": "2026-11-04T02:46:21.777075+00:00",
+      "ok": true
+    },
+    {
+      "stream": "tigo1",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=tigo1",
+      "m3u8": "https://khala.futlivehd.com/global/tigo1/index.m3u8?ip=190.133.18.195&token=e8aec410fb236ac22481a7e8af9efb90020c909f-75-1793805387-1793751387",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/tigo1/index.m3u8?ip=190.133.18.195&token=5aa7fcb13341d57d404c36a036b8311d649deeee-32-1793805382-1793751382",
+        "https://khala.futlivehd.com/global/tigo1/index.m3u8?ip=190.133.18.195&token=e8aec410fb236ac22481a7e8af9efb90020c909f-75-1793805387-1793751387"
+      ],
+      "extraido_en": "2026-11-04T02:46:28.674003+00:00",
+      "ok": true
+    },
+    {
+      "stream": "tudn_usa",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
+      "m3u8": "https://khala.futlivehd.com/global/tudn_usa/index.m3u8?ip=190.133.18.195&token=5b5617bc1da35783f330ccfa8645c33334375191-ad-1793805394-1793751394",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/tudn_usa/index.m3u8?ip=190.133.18.195&token=8faea635aee33e0f61229a13167cb42ee7d3d061-a0-1793805389-1793751389",
+        "https://khala.futlivehd.com/global/tudn_usa/index.m3u8?ip=190.133.18.195&token=5b5617bc1da35783f330ccfa8645c33334375191-ad-1793805394-1793751394"
+      ],
+      "extraido_en": "2026-11-04T02:46:35.648280+00:00",
+      "ok": true
+    },
+    {
+      "stream": "winplus",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=winplus",
+      "m3u8": "https://khala.futlivehd.com/global/winplus/index.m3u8?ip=190.133.18.195&token=3c3c6fda5baf40bc6261690b2b4355c9d1d2d435-5c-1793805401-1793751401",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/winplus/index.m3u8?ip=190.133.18.195&token=b4671e70d0317109e9965d95de3e60ca41f4d0ee-08-1793805396-1793751396",
+        "https://khala.futlivehd.com/global/winplus/index.m3u8?ip=190.133.18.195&token=3c3c6fda5baf40bc6261690b2b4355c9d1d2d435-5c-1793805401-1793751401"
+      ],
+      "extraido_en": "2026-11-04T02:46:42.631704+00:00",
+      "ok": true
+    },
+    {
+      "stream": "winsports",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=winsports",
+      "m3u8": "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=190.133.18.195&token=c4dd5284628f994b86a7ee20989cb812393a90d8-a8-1793805408-1793751408",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=190.133.18.195&token=a2d92667d9f039dbb20ad00cdee2c74d1155b7b7-5f-1793805403-1793751403",
+        "https://khala.futlivehd.com/global/winsports/index.m3u8?ip=190.133.18.195&token=c4dd5284628f994b86a7ee20989cb812393a90d8-a8-1793805408-1793751408"
+      ],
+      "extraido_en": "2026-11-04T02:46:49.646634+00:00",
+      "ok": true
+    },
+    {
+      "stream": "zapping_ec",
+      "live1_url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
+      "m3u8": "https://khala.futlivehd.com/global/zapping_ec/index.m3u8?ip=190.133.18.195&token=c773ab97600620bae25aea9c24105ab66f3faf19-2b-1793805415-1793751415",
+      "m3u8_candidatos": [
+        "https://khala.futlivehd.com/global/zapping_ec/index.m3u8?ip=190.133.18.195&token=3a575a5e17e16c4aa09db797a977d3780497d0e6-01-1793805410-1793751410",
+        "https://khala.futlivehd.com/global/zapping_ec/index.m3u8?ip=190.133.18.195&token=c773ab97600620bae25aea9c24105ab66f3faf19-2b-1793805415-1793751415"
+      ],
+      "extraido_en": "2026-11-04T02:46:56.630793+00:00",
+      "ok": true
+    }
+  ]
+}
