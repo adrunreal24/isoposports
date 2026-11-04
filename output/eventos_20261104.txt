@@ -1,0 +1,548 @@
+======================================================================
+EVENTOS STREAMXHD — 2026-11-04T18:29:11.637001+00:00
+Total: 72 eventos
+======================================================================
+
+── 00:00  DSports Eventos
+   [Copa | Copa | PRONTO]
+   Servidores: 1
+     1. DSports Eventos · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=zapping_ec
+
+── 00:00  Detroit Pistons vs Philadelphia 76ers
+   Detroit Pistons  VS  Philadelphia 76ers
+   [NBA | NBA | PRONTO]
+   Servidores: 2
+     1. ESPN 2
+        https://streamxhd.sbs/live1.php?stream=espn2
+     2. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba2
+
+── 00:00  ESPN 2
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. ESPN 2 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=espn2
+
+── 00:00  Evento 1
+   [Copa | Copa | PRONTO]
+   Servidores: 1
+     1. Evento 1 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=evento1
+
+── 00:00  Ferro Carril vs Nacional
+   Ferro Carril  VS  Nacional
+   [Copa | Copa | PRONTO]
+   Servidores: 1
+     1. Evento 1
+        https://streamxhd.sbs/live1.php?stream=evento1
+
+── 00:00  LDU Quito vs Universidad Católica
+   LDU Quito  VS  Universidad Católica
+   [Copa | Copa | PRONTO]
+   Servidores: 1
+     1. DSports Eventos
+        https://streamxhd.sbs/live1.php?stream=zapping_ec
+
+── 00:00  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba1
+
+── 00:00  Washington Wizards vs Atlanta Hawks
+   Washington Wizards  VS  Atlanta Hawks
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba1
+
+── 00:15  Olimpia vs Deportivo Recoleta
+   Olimpia  VS  Deportivo Recoleta
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. Tigo Sports
+        https://streamxhd.sbs/live1.php?stream=tigo1
+
+── 00:15  Tigo Sports
+   [PRONTO]
+   Servidores: 1
+     1. Tigo Sports · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=tigo1
+
+── 00:30  Boston Celtics vs Milwaukee Bucks
+   Boston Celtics  VS  Milwaukee Bucks
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba4
+
+── 00:30  Botafogo vs Atlético Mineiro
+   Botafogo  VS  Atlético Mineiro
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Premiere 2
+        https://streamxhd.sbs/live1.php?stream=premiere2
+
+── 00:30  Brooklyn Nets vs Charlotte Hornets
+   Brooklyn Nets  VS  Charlotte Hornets
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba3
+
+── 00:30  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 3
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba3
+     2. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba4
+     3. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba5
+
+── 00:30  New York Knicks vs Chicago Bulls
+   New York Knicks  VS  Chicago Bulls
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba5
+
+── 00:30  Premiere 2
+   [PRONTO]
+   Servidores: 1
+     1. Premiere 2 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=premiere2
+
+── 00:30  Premiere 4
+   [PRONTO]
+   Servidores: 1
+     1. Premiere 4 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=premiere4
+
+── 00:30  São Paulo vs Corinthians
+   São Paulo  VS  Corinthians
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Premiere 4
+        https://streamxhd.sbs/live1.php?stream=premiere4
+
+── 01:00  Memphis Grizzlies vs Indiana Pacers
+   Memphis Grizzlies  VS  Indiana Pacers
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba7
+
+── 01:00  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 3
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba6
+     2. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba7
+     3. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba8
+
+── 01:00  New Orleans Pelicans vs Utah Jazz
+   New Orleans Pelicans  VS  Utah Jazz
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba6
+
+── 01:00  Oklahoma City Thunder vs Cleveland Cavaliers
+   Oklahoma City Thunder  VS  Cleveland Cavaliers
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba8
+
+── 01:05  Disney +
+   [PRONTO]
+   Servidores: 1
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney14
+
+── 01:05  Tlaxcala vs Atlético La Paz
+   Tlaxcala  VS  Atlético La Paz
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney14
+
+── 01:30  Houston Rockets vs Minnesota Timberwolves
+   Houston Rockets  VS  Minnesota Timberwolves
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba9
+
+── 01:30  L1 Max
+   [PRONTO]
+   Servidores: 1
+     1. L1 Max · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=l1max
+
+── 01:30  Millonarios vs América de Cali
+   Millonarios  VS  América de Cali
+   [Fútbol | PRONTO]
+   Servidores: 2
+     1. Win Sports +
+        https://streamxhd.sbs/live1.php?stream=winplus
+     2. Win Sports
+        https://streamxhd.sbs/live1.php?stream=winsports
+
+── 01:30  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba9
+
+── 01:30  Universitario vs Sport Boys
+   Universitario  VS  Sport Boys
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. L1 Max
+        https://streamxhd.sbs/live1.php?stream=l1max
+
+── 01:30  Win Sports +
+   [PRONTO]
+   Servidores: 1
+     1. Win Sports + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=winplus
+
+── 02:00  Denver Nuggets vs Toronto Raptors
+   Denver Nuggets  VS  Toronto Raptors
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba11
+
+── 02:00  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 2
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba10
+     2. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba11
+
+── 02:00  Phoenix Suns vs Portland Trail Blazers
+   Phoenix Suns  VS  Portland Trail Blazers
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba10
+
+── 02:30  ESPN 2
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. ESPN 2 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=espn2
+
+── 02:30  San Antonio Spurs vs Dallas Mavericks
+   San Antonio Spurs  VS  Dallas Mavericks
+   [NBA | NBA | PRONTO]
+   Servidores: 2
+     1. ESPN 2
+        https://streamxhd.sbs/live1.php?stream=espn2
+     2. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba12
+
+── 03:00  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba1
+
+── 03:00  Sacramento Kings vs Los Angeles Lakers
+   Sacramento Kings  VS  Los Angeles Lakers
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba1
+
+── 03:30  Los Angeles Clippers vs Miami Heat
+   Los Angeles Clippers  VS  Miami Heat
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass
+        https://streamxhd.sbs/live1.php?stream=nba2
+
+── 03:30  NBA League Pass
+   [NBA | NBA | PRONTO]
+   Servidores: 1
+     1. NBA League Pass · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=nba2
+
+── 12:15  Buriram United vs Kashima Antlers
+   Buriram United  VS  Kashima Antlers
+   [NBA | NBA | FINALIZADO]
+   Servidores: 1
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney1
+
+── 12:15  Disney +
+   [Champions | Champions | FINALIZADO]
+   Servidores: 1
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney1
+
+── 15:00  DSports 2
+   [Copa | Copa | FINALIZADO]
+   Servidores: 1
+     1. DSports 2 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=dsports2
+
+── 15:00  Japón vs Corea del Norte
+   Japón  VS  Corea del Norte
+   [Copa | Copa | FINALIZADO]
+   Servidores: 1
+     1. DSports 2
+        https://streamxhd.sbs/live1.php?stream=dsports2
+
+── 15:30  Disney +
+   [Europa League | Europa League | FINALIZADO]
+   Servidores: 1
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney2
+
+── 15:30  Rennes vs Olympiacos
+   Rennes  VS  Olympiacos
+   [Europa League | Europa League | FINALIZADO]
+   Servidores: 1
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney2
+
+── 16:00  Al Wahda vs Khalidiya
+   Al Wahda  VS  Khalidiya
+   [Champions | Champions | FINALIZADO]
+   Servidores: 1
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney3
+
+── 16:00  Disney +
+   [Champions | Champions | FINALIZADO]
+   Servidores: 1
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney3
+
+── 17:45  AEK Athens vs Real Madrid
+   AEK Athens  VS  Real Madrid
+   [Champions | Champions | EN VIVO]
+   Servidores: 5
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney5
+     2. ESPN
+        https://streamxhd.sbs/live1.php?stream=espn
+     3. FOX Sports 1 AR
+        https://streamxhd.sbs/live1.php?stream=fox1ar
+     4. M Liga Campeones
+        https://streamxhd.sbs/live1.php?stream=mligacampeones
+     5. TUDN USA
+        https://streamxhd.sbs/live1.php?stream=tudn_usa
+
+── 17:45  Disney +
+   [Champions | Champions | EN VIVO]
+   Servidores: 2
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney4
+     2. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney5
+
+── 17:45  Fenerbahçe vs Liverpool
+   Fenerbahçe  VS  Liverpool
+   [Champions | Champions | EN VIVO]
+   Servidores: 4
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney4
+     2. ESPN 2
+        https://streamxhd.sbs/live1.php?stream=espn2
+     3. ESPN AR
+        https://streamxhd.sbs/live1.php?stream=espnar
+     4. HBO Max 1
+        https://streamxhd.sbs/live1.php?stream=max1
+
+── 18:00  Brasil vs Nigeria
+   Brasil  VS  Nigeria
+   [Copa | Copa | EN VIVO]
+   Servidores: 1
+     1. DSports 2
+        https://streamxhd.sbs/live1.php?stream=dsports2
+
+── 18:00  DSports 2
+   [Copa | Copa | EN VIVO]
+   Servidores: 1
+     1. DSports 2 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=dsports2
+
+── 20:00  Borussia Dortmund vs Real Betis
+   Borussia Dortmund  VS  Real Betis
+   [Champions | Champions | PRONTO]
+   Servidores: 4
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney6
+     2. ESPN 2
+        https://streamxhd.sbs/live1.php?stream=espn2
+     3. FOX Sports 2 AR
+        https://streamxhd.sbs/live1.php?stream=fox2ar
+     4. TUDN USA
+        https://streamxhd.sbs/live1.php?stream=tudn_usa
+
+── 20:00  Disney +
+   [Champions | Champions | PRONTO]
+   Servidores: 7
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney6
+     2. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney7
+     3. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney8
+     4. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney9
+     5. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney10
+     6. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney11
+     7. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney12
+
+── 20:00  Lens vs Como
+   Lens  VS  Como
+   [Champions | Champions | PRONTO]
+   Servidores: 2
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney11
+     2. ESPN 3
+        https://streamxhd.sbs/live1.php?stream=espn3
+
+── 20:00  PSV vs Club Brugge
+   PSV  VS  Club Brugge
+   [Champions | Champions | PRONTO]
+   Servidores: 2
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney10
+     2. ESPN 4
+        https://streamxhd.sbs/live1.php?stream=espn4
+
+── 20:00  Porto vs Napoli
+   Porto  VS  Napoli
+   [Champions | Champions | PRONTO]
+   Servidores: 3
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney12
+     2. ESPN 7
+        https://streamxhd.sbs/live1.php?stream=espn7
+     3. FOX Sports 1 AR
+        https://streamxhd.sbs/live1.php?stream=fox1ar
+
+── 20:00  RB Leipzig vs Manchester City
+   RB Leipzig  VS  Manchester City
+   [Champions | Champions | PRONTO]
+   Servidores: 3
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney9
+     2. ESPN
+        https://streamxhd.sbs/live1.php?stream=espn
+     3. ESPN AR
+        https://streamxhd.sbs/live1.php?stream=espnar
+
+── 20:00  Slavia Praha vs Arsenal
+   Slavia Praha  VS  Arsenal
+   [Champions | Champions | PRONTO]
+   Servidores: 3
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney8
+     2. ESPN 5
+        https://streamxhd.sbs/live1.php?stream=espn5
+     3. HBO Max 2
+        https://streamxhd.sbs/live1.php?stream=max2
+
+── 20:00  Viking vs Sabah
+   Viking  VS  Sabah
+   [Champions | Champions | PRONTO]
+   Servidores: 2
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney7
+     2. ESPN 6
+        https://streamxhd.sbs/live1.php?stream=espn6
+
+── 22:00  Libertad vs Cerro Porteño
+   Libertad  VS  Cerro Porteño
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Tigo Sports 2
+        https://streamxhd.sbs/live1.php?stream=tigo2
+
+── 22:00  Sportivo Ameliano vs Guaraní
+   Sportivo Ameliano  VS  Guaraní
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Tigo Sports
+        https://streamxhd.sbs/live1.php?stream=tigo1
+
+── 22:00  Tigo Sports
+   [PRONTO]
+   Servidores: 1
+     1. Tigo Sports · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=tigo1
+
+── 22:00  Tigo Sports 2
+   [PRONTO]
+   Servidores: 1
+     1. Tigo Sports 2 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=tigo2
+
+── 22:30  Athletico-PR vs Vasco da Gama
+   Athletico-PR  VS  Vasco da Gama
+   [Fútbol | PRONTO]
+   Servidores: 2
+     1. Win Sports
+        https://streamxhd.sbs/live1.php?stream=winsports
+     2. Premiere 5
+        https://streamxhd.sbs/live1.php?stream=premiere5
+
+── 22:30  Flamengo vs Grêmio
+   Flamengo  VS  Grêmio
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Premiere 1
+        https://streamxhd.sbs/live1.php?stream=premiere1
+
+── 22:30  Premiere 1
+   [PRONTO]
+   Servidores: 1
+     1. Premiere 1 · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=premiere1
+
+── 22:30  Win Sports
+   [PRONTO]
+   Servidores: 1
+     1. Win Sports · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=winsports
+
+── 23:00  Disney +
+   [PRONTO]
+   Servidores: 1
+     1. Disney + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=disney13
+
+── 23:00  Venados vs Atlético Morelia
+   Venados  VS  Atlético Morelia
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Disney +
+        https://streamxhd.sbs/live1.php?stream=disney13
+
+── 23:30  Cúcuta Deportivo vs Santa Fe
+   Cúcuta Deportivo  VS  Santa Fe
+   [Fútbol | PRONTO]
+   Servidores: 1
+     1. Win Sports +
+        https://streamxhd.sbs/live1.php?stream=winplus
+
+── 23:30  Win Sports +
+   [PRONTO]
+   Servidores: 1
+     1. Win Sports + · Live1 manual
+        https://streamxhd.sbs/live1.php?stream=winplus
