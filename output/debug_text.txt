@@ -3,8 +3,8 @@ Embed Live Sports - Agenda
 Embed Live Sports
 Centro de eventos
 Soporte
-13:40:11
-America/Denver
+15:01:23
+America/Chicago
 🛡️
 Verificador de dominios
 DOMINIOS DISPONIBLES
@@ -47,7 +47,7 @@ Borussia Dortmund
 VS
 Real Betis
 EN VIVO
-13:00
+14:00
 BO
 VS
 RE
@@ -80,10 +80,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 Borussia Dortmund vs Real Betis
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 2
@@ -103,7 +103,7 @@ Viking
 VS
 Sabah
 EN VIVO
-13:00
+14:00
 VI
 VS
 SA
@@ -126,10 +126,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 Viking vs Sabah
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 6
@@ -147,7 +147,7 @@ Slavia Praha
 VS
 Arsenal
 EN VIVO
-13:00
+14:00
 SL
 VS
 AR
@@ -175,10 +175,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 Slavia Praha vs Arsenal
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 5
@@ -197,7 +197,7 @@ RB Leipzig
 VS
 Manchester City
 EN VIVO
-13:00
+14:00
 RB
 VS
 MA
@@ -225,10 +225,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 RB Leipzig vs Manchester City
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN
@@ -247,7 +247,7 @@ PSV
 VS
 Club Brugge
 EN VIVO
-13:00
+14:00
 PS
 VS
 CL
@@ -270,10 +270,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 PSV vs Club Brugge
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 4
@@ -291,7 +291,7 @@ Lens
 VS
 Como
 EN VIVO
-13:00
+14:00
 LE
 VS
 CO
@@ -314,10 +314,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 Lens vs Como
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 3
@@ -335,7 +335,7 @@ Porto
 VS
 Napoli
 EN VIVO
-13:00
+14:00
 PO
 VS
 NA
@@ -363,10 +363,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-13:00
+14:00
 EN VIVO
 Porto vs Napoli
-miércoles, 04 de noviembre, 13:00
+miércoles, 04 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 7
@@ -385,7 +385,7 @@ Sportivo Ameliano
 VS
 Guaraní
 PRONTO
-15:00
+16:00
 SP
 VS
 GU
@@ -403,10 +403,10 @@ Copiar
 ⚽
                   Football
 Primera División
-15:00
+16:00
 PRONTO
 Sportivo Ameliano vs Guaraní
-miércoles, 04 de noviembre, 15:00
+miércoles, 04 de noviembre, 16:00
 Servidores disponibles
 Tigo Sports
 Servidor
@@ -423,7 +423,7 @@ Libertad
 VS
 Cerro Porteño
 PRONTO
-15:00
+16:00
 LI
 VS
 CE
@@ -441,10 +441,10 @@ Copiar
 ⚽
                   Football
 Primera División
-15:00
+16:00
 PRONTO
 Libertad vs Cerro Porteño
-miércoles, 04 de noviembre, 15:00
+miércoles, 04 de noviembre, 16:00
 Servidores disponibles
 Tigo Sports 2
 Servidor
@@ -461,7 +461,7 @@ Athletico-PR
 VS
 Vasco da Gama
 PRONTO
-15:30
+16:30
 AT
 VS
 VA
@@ -486,10 +486,10 @@ BR
 ⚽
                   Football
 Brasileirão
-15:30
+16:30
 PRONTO
 Athletico-PR vs Vasco da Gama
-miércoles, 04 de noviembre, 15:30
+miércoles, 04 de noviembre, 16:30
 Servidores disponibles
 Win Sports
 Premiere 5
@@ -507,7 +507,7 @@ Flamengo
 VS
 Grêmio
 PRONTO
-15:30
+16:30
 FL
 VS
 GR
@@ -527,10 +527,10 @@ BR
 ⚽
                   Football
 Brasileirão
-15:30
+16:30
 PRONTO
 Flamengo vs Grêmio
-miércoles, 04 de noviembre, 15:30
+miércoles, 04 de noviembre, 16:30
 Servidores disponibles
 Premiere 1
 Servidor
@@ -547,7 +547,7 @@ Venados
 VS
 Atlético Morelia
 PRONTO
-16:00
+17:00
 VE
 VS
 AT
@@ -567,10 +567,10 @@ MX
 ⚽
                   Football
 Liga de Expansión MX
-16:00
+17:00
 PRONTO
 Venados vs Atlético Morelia
-miércoles, 04 de noviembre, 16:00
+miércoles, 04 de noviembre, 17:00
 Servidores disponibles
 Disney +
 Servidor
@@ -587,7 +587,7 @@ Cúcuta Deportivo
 VS
 Santa Fe
 PRONTO
-16:30
+17:30
 CÚ
 VS
 SA
@@ -607,10 +607,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-16:30
+17:30
 PRONTO
 Cúcuta Deportivo vs Santa Fe
-miércoles, 04 de noviembre, 16:30
+miércoles, 04 de noviembre, 17:30
 Servidores disponibles
 Win Sports +
 Servidor
@@ -627,7 +627,7 @@ LDU Quito
 VS
 Universidad Católica
 PRONTO
-17:00
+18:00
 LD
 VS
 UN
@@ -647,10 +647,10 @@ EC
 ⚽
                   Football
 Copa Ecuador
-17:00
+18:00
 PRONTO
 LDU Quito vs Universidad Católica
-miércoles, 04 de noviembre, 17:00
+miércoles, 04 de noviembre, 18:00
 Servidores disponibles
 DSports Eventos
 Servidor
@@ -667,7 +667,7 @@ Ferro Carril
 VS
 Nacional
 PRONTO
-17:00
+18:00
 FE
 VS
 NA
@@ -687,10 +687,10 @@ UY
 ⚽
                   Football
 Copa Uruguay
-17:00
+18:00
 PRONTO
 Ferro Carril vs Nacional
-miércoles, 04 de noviembre, 17:00
+miércoles, 04 de noviembre, 18:00
 Servidores disponibles
 Evento 1
 Servidor
@@ -707,7 +707,7 @@ Washington Wizards
 VS
 Atlanta Hawks
 PRONTO
-17:00
+18:00
 WA
 VS
 AT
@@ -725,10 +725,10 @@ Copiar
 🏀
                   Basketball
 NBA
-17:00
+18:00
 PRONTO
 Washington Wizards vs Atlanta Hawks
-miércoles, 04 de noviembre, 17:00
+miércoles, 04 de noviembre, 18:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -745,7 +745,7 @@ Detroit Pistons
 VS
 Philadelphia 76ers
 PRONTO
-17:00
+18:00
 DE
 VS
 PH
@@ -768,10 +768,10 @@ Copiar
 🏀
                   Basketball
 NBA
-17:00
+18:00
 PRONTO
 Detroit Pistons vs Philadelphia 76ers
-miércoles, 04 de noviembre, 17:00
+miércoles, 04 de noviembre, 18:00
 Servidores disponibles
 ESPN 2
 NBA League Pass
@@ -789,7 +789,7 @@ Olimpia
 VS
 Deportivo Recoleta
 PRONTO
-17:15
+18:15
 OL
 VS
 DE
@@ -809,10 +809,10 @@ PY
 ⚽
                   Football
 Primera División
-17:15
+18:15
 PRONTO
 Olimpia vs Deportivo Recoleta
-miércoles, 04 de noviembre, 17:15
+miércoles, 04 de noviembre, 18:15
 Servidores disponibles
 Tigo Sports
 Servidor
@@ -829,7 +829,7 @@ São Paulo
 VS
 Corinthians
 PRONTO
-17:30
+18:30
 SÃ
 VS
 CO
@@ -849,10 +849,10 @@ BR
 ⚽
                   Football
 Brasileirão
-17:30
+18:30
 PRONTO
 São Paulo vs Corinthians
-miércoles, 04 de noviembre, 17:30
+miércoles, 04 de noviembre, 18:30
 Servidores disponibles
 Premiere 4
 Servidor
@@ -869,7 +869,7 @@ Botafogo
 VS
 Atlético Mineiro
 PRONTO
-17:30
+18:30
 BO
 VS
 AT
@@ -889,10 +889,10 @@ BR
 ⚽
                   Football
 Brasileirão
-17:30
+18:30
 PRONTO
 Botafogo vs Atlético Mineiro
-miércoles, 04 de noviembre, 17:30
+miércoles, 04 de noviembre, 18:30
 Servidores disponibles
 Premiere 2
 Servidor
@@ -909,7 +909,7 @@ Brooklyn Nets
 VS
 Charlotte Hornets
 PRONTO
-17:30
+18:30
 BR
 VS
 CH
@@ -927,10 +927,10 @@ Copiar
 🏀
                   Basketball
 NBA
-17:30
+18:30
 PRONTO
 Brooklyn Nets vs Charlotte Hornets
-miércoles, 04 de noviembre, 17:30
+miércoles, 04 de noviembre, 18:30
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -947,7 +947,7 @@ Boston Celtics
 VS
 Milwaukee Bucks
 PRONTO
-17:30
+18:30
 BO
 VS
 MI
@@ -965,10 +965,10 @@ Copiar
 🏀
                   Basketball
 NBA
-17:30
+18:30
 PRONTO
 Boston Celtics vs Milwaukee Bucks
-miércoles, 04 de noviembre, 17:30
+miércoles, 04 de noviembre, 18:30
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -985,7 +985,7 @@ New York Knicks
 VS
 Chicago Bulls
 PRONTO
-17:30
+18:30
 NE
 VS
 CH
@@ -1003,10 +1003,10 @@ Copiar
 🏀
                   Basketball
 NBA
-17:30
+18:30
 PRONTO
 New York Knicks vs Chicago Bulls
-miércoles, 04 de noviembre, 17:30
+miércoles, 04 de noviembre, 18:30
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1023,7 +1023,7 @@ New Orleans Pelicans
 VS
 Utah Jazz
 PRONTO
-18:00
+19:00
 NE
 VS
 UT
@@ -1041,10 +1041,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:00
+19:00
 PRONTO
 New Orleans Pelicans vs Utah Jazz
-miércoles, 04 de noviembre, 18:00
+miércoles, 04 de noviembre, 19:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1061,7 +1061,7 @@ Memphis Grizzlies
 VS
 Indiana Pacers
 PRONTO
-18:00
+19:00
 ME
 VS
 IN
@@ -1079,10 +1079,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:00
+19:00
 PRONTO
 Memphis Grizzlies vs Indiana Pacers
-miércoles, 04 de noviembre, 18:00
+miércoles, 04 de noviembre, 19:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1099,7 +1099,7 @@ Oklahoma City Thunder
 VS
 Cleveland Cavaliers
 PRONTO
-18:00
+19:00
 OK
 VS
 CL
@@ -1117,10 +1117,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:00
+19:00
 PRONTO
 Oklahoma City Thunder vs Cleveland Cavaliers
-miércoles, 04 de noviembre, 18:00
+miércoles, 04 de noviembre, 19:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1137,7 +1137,7 @@ Tlaxcala
 VS
 Atlético La Paz
 PRONTO
-18:05
+19:05
 TL
 VS
 AT
@@ -1157,10 +1157,10 @@ MX
 ⚽
                   Football
 Liga de Expansión MX
-18:05
+19:05
 PRONTO
 Tlaxcala vs Atlético La Paz
-miércoles, 04 de noviembre, 18:05
+miércoles, 04 de noviembre, 19:05
 Servidores disponibles
 Disney +
 Servidor
@@ -1177,7 +1177,7 @@ Millonarios
 VS
 América de Cali
 PRONTO
-18:30
+19:30
 MI
 VS
 AM
@@ -1202,10 +1202,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-18:30
+19:30
 PRONTO
 Millonarios vs América de Cali
-miércoles, 04 de noviembre, 18:30
+miércoles, 04 de noviembre, 19:30
 Servidores disponibles
 Win Sports +
 Win Sports
@@ -1223,7 +1223,7 @@ Universitario
 VS
 Sport Boys
 PRONTO
-18:30
+19:30
 UN
 VS
 SP
@@ -1243,10 +1243,10 @@ PE
 ⚽
                   Football
 Liga 1
-18:30
+19:30
 PRONTO
 Universitario vs Sport Boys
-miércoles, 04 de noviembre, 18:30
+miércoles, 04 de noviembre, 19:30
 Servidores disponibles
 L1 Max
 Servidor
@@ -1263,7 +1263,7 @@ Houston Rockets
 VS
 Minnesota Timberwolves
 PRONTO
-18:30
+19:30
 HO
 VS
 MI
@@ -1281,10 +1281,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:30
+19:30
 PRONTO
 Houston Rockets vs Minnesota Timberwolves
-miércoles, 04 de noviembre, 18:30
+miércoles, 04 de noviembre, 19:30
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1301,7 +1301,7 @@ Phoenix Suns
 VS
 Portland Trail Blazers
 PRONTO
-19:00
+20:00
 PH
 VS
 PO
@@ -1319,10 +1319,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:00
+20:00
 PRONTO
 Phoenix Suns vs Portland Trail Blazers
-miércoles, 04 de noviembre, 19:00
+miércoles, 04 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1339,7 +1339,7 @@ Denver Nuggets
 VS
 Toronto Raptors
 PRONTO
-19:00
+20:00
 DE
 VS
 TO
@@ -1357,10 +1357,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:00
+20:00
 PRONTO
 Denver Nuggets vs Toronto Raptors
-miércoles, 04 de noviembre, 19:00
+miércoles, 04 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1377,7 +1377,7 @@ San Antonio Spurs
 VS
 Dallas Mavericks
 PRONTO
-19:30
+20:30
 SA
 VS
 DA
@@ -1400,10 +1400,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:30
+20:30
 PRONTO
 San Antonio Spurs vs Dallas Mavericks
-miércoles, 04 de noviembre, 19:30
+miércoles, 04 de noviembre, 20:30
 Servidores disponibles
 ESPN 2
 NBA League Pass
@@ -1421,7 +1421,7 @@ Sacramento Kings
 VS
 Los Angeles Lakers
 PRONTO
-20:00
+21:00
 SA
 VS
 LO
@@ -1439,10 +1439,10 @@ Copiar
 🏀
                   Basketball
 NBA
-20:00
+21:00
 PRONTO
 Sacramento Kings vs Los Angeles Lakers
-miércoles, 04 de noviembre, 20:00
+miércoles, 04 de noviembre, 21:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1459,7 +1459,7 @@ Los Angeles Clippers
 VS
 Miami Heat
 PRONTO
-20:30
+21:30
 LO
 VS
 MI
@@ -1477,10 +1477,10 @@ Copiar
 🏀
                   Basketball
 NBA
-20:30
+21:30
 PRONTO
 Los Angeles Clippers vs Miami Heat
-miércoles, 04 de noviembre, 20:30
+miércoles, 04 de noviembre, 21:30
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1504,7 +1504,7 @@ Buriram United
 VS
 Kashima Antlers
 FINALIZADO
-05:15
+06:15
 BU
 VS
 KA
@@ -1522,10 +1522,10 @@ Copiar
 ⚽
                   Football
 AFC Champions League Elite
-05:15
+06:15
 FINALIZADO
 Buriram United vs Kashima Antlers
-miércoles, 04 de noviembre, 05:15
+miércoles, 04 de noviembre, 06:15
 Servidores disponibles
 Disney +
 Servidor
@@ -1542,7 +1542,7 @@ Japón
 VS
 Corea del Norte
 FINALIZADO
-08:00
+09:00
 JA
 VS
 CO
@@ -1560,10 +1560,10 @@ Copiar
 ⚽
                   Football
 Copa Mundial Femenina Sub-17
-08:00
+09:00
 FINALIZADO
 Japón vs Corea del Norte
-miércoles, 04 de noviembre, 08:00
+miércoles, 04 de noviembre, 09:00
 Servidores disponibles
 DSports 2
 Servidor
@@ -1580,7 +1580,7 @@ Rennes
 VS
 Olympiacos
 FINALIZADO
-08:30
+09:30
 RE
 VS
 OL
@@ -1598,10 +1598,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-08:30
+09:30
 FINALIZADO
 Rennes vs Olympiacos
-miércoles, 04 de noviembre, 08:30
+miércoles, 04 de noviembre, 09:30
 Servidores disponibles
 Disney +
 Servidor
@@ -1618,7 +1618,7 @@ Al Wahda
 VS
 Khalidiya
 FINALIZADO
-09:00
+10:00
 AL
 VS
 KH
@@ -1636,10 +1636,10 @@ Copiar
 ⚽
                   Football
 AFC Champions League Two
-09:00
+10:00
 FINALIZADO
 Al Wahda vs Khalidiya
-miércoles, 04 de noviembre, 09:00
+miércoles, 04 de noviembre, 10:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1656,7 +1656,7 @@ Fenerbahçe
 VS
 Liverpool
 FINALIZADO
-10:45
+11:45
 FE
 VS
 LI
@@ -1689,10 +1689,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-10:45
+11:45
 FINALIZADO
 Fenerbahçe vs Liverpool
-miércoles, 04 de noviembre, 10:45
+miércoles, 04 de noviembre, 11:45
 Servidores disponibles
 Disney +
 ESPN 2
@@ -1712,7 +1712,7 @@ AEK Athens
 VS
 Real Madrid
 FINALIZADO
-10:45
+11:45
 AE
 VS
 RE
@@ -1750,10 +1750,10 @@ Copiar
 ⚽
                   Football
 UEFA Champions League
-10:45
+11:45
 FINALIZADO
 AEK Athens vs Real Madrid
-miércoles, 04 de noviembre, 10:45
+miércoles, 04 de noviembre, 11:45
 Servidores disponibles
 Disney +
 ESPN
@@ -1774,7 +1774,7 @@ Brasil
 VS
 Nigeria
 FINALIZADO
-11:00
+12:00
 BR
 VS
 NI
@@ -1792,10 +1792,10 @@ Copiar
 ⚽
                   Football
 Copa Mundial Femenina Sub-17
-11:00
+12:00
 FINALIZADO
 Brasil vs Nigeria
-miércoles, 04 de noviembre, 11:00
+miércoles, 04 de noviembre, 12:00
 Servidores disponibles
 DSports 2
 Servidor
