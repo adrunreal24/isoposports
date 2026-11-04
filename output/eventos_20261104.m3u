@@ -1,215 +1,215 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DSports Eventos" group-title="Copa", 00:00 | DSports Eventos [DSports Eventos · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=zapping_ec
-#EXTINF:-1 tvg-name="Detroit Pistons vs Philadelphia 76ers" group-title="NBA", 00:00 | Detroit Pistons vs Philadelphia 76ers [ESPN 2]
-https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Detroit Pistons vs Philadelphia 76ers" group-title="NBA", 00:00 | Detroit Pistons vs Philadelphia 76ers [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba2
-#EXTINF:-1 tvg-name="ESPN 2" group-title="NBA", 00:00 | ESPN 2 [ESPN 2 · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Evento 1" group-title="Copa", 00:00 | Evento 1 [Evento 1 · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=evento1
-#EXTINF:-1 tvg-name="Ferro Carril vs Nacional" group-title="Copa", 00:00 | Ferro Carril vs Nacional [Evento 1]
-https://streamxhd.sbs/live1.php?stream=evento1
-#EXTINF:-1 tvg-name="LDU Quito vs Universidad Católica" group-title="Copa", 00:00 | LDU Quito vs Universidad Católica [DSports Eventos]
-https://streamxhd.sbs/live1.php?stream=zapping_ec
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 00:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba1
-#EXTINF:-1 tvg-name="Washington Wizards vs Atlanta Hawks" group-title="NBA", 00:00 | Washington Wizards vs Atlanta Hawks [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba1
-#EXTINF:-1 tvg-name="Olimpia vs Deportivo Recoleta" group-title="NBA", 00:15 | Olimpia vs Deportivo Recoleta [Tigo Sports]
-https://streamxhd.sbs/live1.php?stream=tigo1
-#EXTINF:-1 tvg-name="Tigo Sports" group-title="Otros", 00:15 | Tigo Sports [Tigo Sports · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=tigo1
-#EXTINF:-1 tvg-name="Boston Celtics vs Milwaukee Bucks" group-title="NBA", 00:30 | Boston Celtics vs Milwaukee Bucks [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba4
-#EXTINF:-1 tvg-name="Botafogo vs Atlético Mineiro" group-title="Fútbol", 00:30 | Botafogo vs Atlético Mineiro [Premiere 2]
-https://streamxhd.sbs/live1.php?stream=premiere2
-#EXTINF:-1 tvg-name="Brooklyn Nets vs Charlotte Hornets" group-title="NBA", 00:30 | Brooklyn Nets vs Charlotte Hornets [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba3
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 00:30 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba3
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 00:30 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba4
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 00:30 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba5
-#EXTINF:-1 tvg-name="New York Knicks vs Chicago Bulls" group-title="NBA", 00:30 | New York Knicks vs Chicago Bulls [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba5
-#EXTINF:-1 tvg-name="Premiere 2" group-title="Otros", 00:30 | Premiere 2 [Premiere 2 · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=premiere2
-#EXTINF:-1 tvg-name="Premiere 4" group-title="Otros", 00:30 | Premiere 4 [Premiere 4 · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=premiere4
-#EXTINF:-1 tvg-name="São Paulo vs Corinthians" group-title="Fútbol", 00:30 | São Paulo vs Corinthians [Premiere 4]
-https://streamxhd.sbs/live1.php?stream=premiere4
-#EXTINF:-1 tvg-name="Memphis Grizzlies vs Indiana Pacers" group-title="NBA", 01:00 | Memphis Grizzlies vs Indiana Pacers [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba7
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 01:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba6
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 01:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba7
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 01:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba8
-#EXTINF:-1 tvg-name="New Orleans Pelicans vs Utah Jazz" group-title="NBA", 01:00 | New Orleans Pelicans vs Utah Jazz [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba6
-#EXTINF:-1 tvg-name="Oklahoma City Thunder vs Cleveland Cavaliers" group-title="NBA", 01:00 | Oklahoma City Thunder vs Cleveland Cavaliers [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba8
-#EXTINF:-1 tvg-name="Disney +" group-title="Otros", 01:05 | Disney + [Disney + · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=disney14
-#EXTINF:-1 tvg-name="Tlaxcala vs Atlético La Paz" group-title="NBA", 01:05 | Tlaxcala vs Atlético La Paz [Disney +]
-https://streamxhd.sbs/live1.php?stream=disney14
-#EXTINF:-1 tvg-name="Houston Rockets vs Minnesota Timberwolves" group-title="NBA", 01:30 | Houston Rockets vs Minnesota Timberwolves [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba9
-#EXTINF:-1 tvg-name="L1 Max" group-title="Otros", 01:30 | L1 Max [L1 Max · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=l1max
-#EXTINF:-1 tvg-name="Millonarios vs América de Cali" group-title="Fútbol", 01:30 | Millonarios vs América de Cali [Win Sports +]
-https://streamxhd.sbs/live1.php?stream=winplus
-#EXTINF:-1 tvg-name="Millonarios vs América de Cali" group-title="Fútbol", 01:30 | Millonarios vs América de Cali [Win Sports]
-https://streamxhd.sbs/live1.php?stream=winsports
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 01:30 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba9
-#EXTINF:-1 tvg-name="Universitario vs Sport Boys" group-title="Fútbol", 01:30 | Universitario vs Sport Boys [L1 Max]
-https://streamxhd.sbs/live1.php?stream=l1max
-#EXTINF:-1 tvg-name="Win Sports +" group-title="Otros", 01:30 | Win Sports + [Win Sports + · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=winplus
-#EXTINF:-1 tvg-name="Denver Nuggets vs Toronto Raptors" group-title="NBA", 02:00 | Denver Nuggets vs Toronto Raptors [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba11
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 02:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba10
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 02:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba11
-#EXTINF:-1 tvg-name="Phoenix Suns vs Portland Trail Blazers" group-title="NBA", 02:00 | Phoenix Suns vs Portland Trail Blazers [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba10
-#EXTINF:-1 tvg-name="ESPN 2" group-title="NBA", 02:30 | ESPN 2 [ESPN 2 · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="San Antonio Spurs vs Dallas Mavericks" group-title="NBA", 02:30 | San Antonio Spurs vs Dallas Mavericks [ESPN 2]
-https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="San Antonio Spurs vs Dallas Mavericks" group-title="NBA", 02:30 | San Antonio Spurs vs Dallas Mavericks [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba12
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 03:00 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba1
-#EXTINF:-1 tvg-name="Sacramento Kings vs Los Angeles Lakers" group-title="NBA", 03:00 | Sacramento Kings vs Los Angeles Lakers [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba1
-#EXTINF:-1 tvg-name="Los Angeles Clippers vs Miami Heat" group-title="NBA", 03:30 | Los Angeles Clippers vs Miami Heat [NBA League Pass]
-https://streamxhd.sbs/live1.php?stream=nba2
-#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 03:30 | NBA League Pass [NBA League Pass · Live1 manual]
-https://streamxhd.sbs/live1.php?stream=nba2
-#EXTINF:-1 tvg-name="Buriram United vs Kashima Antlers" group-title="NBA", 12:15 | Buriram United vs Kashima Antlers [Disney +]
+#EXTINF:-1 tvg-name="Buriram United vs Kashima Antlers" group-title="NBA", 05:15 | Buriram United vs Kashima Antlers [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney1
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 12:15 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 05:15 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney1
-#EXTINF:-1 tvg-name="DSports 2" group-title="Copa", 15:00 | DSports 2 [DSports 2 · Live1 manual]
+#EXTINF:-1 tvg-name="DSports 2" group-title="Copa", 08:00 | DSports 2 [DSports 2 · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=dsports2
-#EXTINF:-1 tvg-name="Japón vs Corea del Norte" group-title="Copa", 15:00 | Japón vs Corea del Norte [DSports 2]
+#EXTINF:-1 tvg-name="Japón vs Corea del Norte" group-title="Copa", 08:00 | Japón vs Corea del Norte [DSports 2]
 https://streamxhd.sbs/live1.php?stream=dsports2
-#EXTINF:-1 tvg-name="Disney +" group-title="Europa League", 15:30 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Europa League", 08:30 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney2
-#EXTINF:-1 tvg-name="Rennes vs Olympiacos" group-title="Europa League", 15:30 | Rennes vs Olympiacos [Disney +]
+#EXTINF:-1 tvg-name="Rennes vs Olympiacos" group-title="Europa League", 08:30 | Rennes vs Olympiacos [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney2
-#EXTINF:-1 tvg-name="Al Wahda vs Khalidiya" group-title="Champions", 16:00 | Al Wahda vs Khalidiya [Disney +]
+#EXTINF:-1 tvg-name="Al Wahda vs Khalidiya" group-title="Champions", 09:00 | Al Wahda vs Khalidiya [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney3
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 16:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 09:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney3
-#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 17:45 | AEK Athens vs Real Madrid [Disney +]
+#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 10:45 | AEK Athens vs Real Madrid [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney5
-#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 17:45 | AEK Athens vs Real Madrid [ESPN]
+#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 10:45 | AEK Athens vs Real Madrid [ESPN]
 https://streamxhd.sbs/live1.php?stream=espn
-#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 17:45 | AEK Athens vs Real Madrid [FOX Sports 1 AR]
+#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 10:45 | AEK Athens vs Real Madrid [FOX Sports 1 AR]
 https://streamxhd.sbs/live1.php?stream=fox1ar
-#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 17:45 | AEK Athens vs Real Madrid [M Liga Campeones]
+#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 10:45 | AEK Athens vs Real Madrid [M Liga Campeones]
 https://streamxhd.sbs/live1.php?stream=mligacampeones
-#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 17:45 | AEK Athens vs Real Madrid [TUDN USA]
+#EXTINF:-1 tvg-name="AEK Athens vs Real Madrid" group-title="Champions", 10:45 | AEK Athens vs Real Madrid [TUDN USA]
 https://streamxhd.sbs/live1.php?stream=tudn_usa
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 17:45 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 10:45 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney4
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 17:45 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 10:45 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney5
-#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 17:45 | Fenerbahçe vs Liverpool [Disney +]
+#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 10:45 | Fenerbahçe vs Liverpool [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney4
-#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 17:45 | Fenerbahçe vs Liverpool [ESPN 2]
+#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 10:45 | Fenerbahçe vs Liverpool [ESPN 2]
 https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 17:45 | Fenerbahçe vs Liverpool [ESPN AR]
+#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 10:45 | Fenerbahçe vs Liverpool [ESPN AR]
 https://streamxhd.sbs/live1.php?stream=espnar
-#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 17:45 | Fenerbahçe vs Liverpool [HBO Max 1]
+#EXTINF:-1 tvg-name="Fenerbahçe vs Liverpool" group-title="Champions", 10:45 | Fenerbahçe vs Liverpool [HBO Max 1]
 https://streamxhd.sbs/live1.php?stream=max1
-#EXTINF:-1 tvg-name="Brasil vs Nigeria" group-title="Copa", 18:00 | Brasil vs Nigeria [DSports 2]
+#EXTINF:-1 tvg-name="Brasil vs Nigeria" group-title="Copa", 11:00 | Brasil vs Nigeria [DSports 2]
 https://streamxhd.sbs/live1.php?stream=dsports2
-#EXTINF:-1 tvg-name="DSports 2" group-title="Copa", 18:00 | DSports 2 [DSports 2 · Live1 manual]
+#EXTINF:-1 tvg-name="DSports 2" group-title="Copa", 11:00 | DSports 2 [DSports 2 · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=dsports2
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 20:00 | Borussia Dortmund vs Real Betis [Disney +]
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 13:00 | Borussia Dortmund vs Real Betis [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney6
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 20:00 | Borussia Dortmund vs Real Betis [ESPN 2]
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 13:00 | Borussia Dortmund vs Real Betis [ESPN 2]
 https://streamxhd.sbs/live1.php?stream=espn2
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 20:00 | Borussia Dortmund vs Real Betis [FOX Sports 2 AR]
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 13:00 | Borussia Dortmund vs Real Betis [FOX Sports 2 AR]
 https://streamxhd.sbs/live1.php?stream=fox2ar
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 20:00 | Borussia Dortmund vs Real Betis [TUDN USA]
+#EXTINF:-1 tvg-name="Borussia Dortmund vs Real Betis" group-title="Champions", 13:00 | Borussia Dortmund vs Real Betis [TUDN USA]
 https://streamxhd.sbs/live1.php?stream=tudn_usa
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney6
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney7
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney8
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney9
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney10
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney11
-#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 20:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Champions", 13:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney12
-#EXTINF:-1 tvg-name="Lens vs Como" group-title="Champions", 20:00 | Lens vs Como [Disney +]
+#EXTINF:-1 tvg-name="Lens vs Como" group-title="Champions", 13:00 | Lens vs Como [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney11
-#EXTINF:-1 tvg-name="Lens vs Como" group-title="Champions", 20:00 | Lens vs Como [ESPN 3]
+#EXTINF:-1 tvg-name="Lens vs Como" group-title="Champions", 13:00 | Lens vs Como [ESPN 3]
 https://streamxhd.sbs/live1.php?stream=espn3
-#EXTINF:-1 tvg-name="PSV vs Club Brugge" group-title="Champions", 20:00 | PSV vs Club Brugge [Disney +]
+#EXTINF:-1 tvg-name="PSV vs Club Brugge" group-title="Champions", 13:00 | PSV vs Club Brugge [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney10
-#EXTINF:-1 tvg-name="PSV vs Club Brugge" group-title="Champions", 20:00 | PSV vs Club Brugge [ESPN 4]
+#EXTINF:-1 tvg-name="PSV vs Club Brugge" group-title="Champions", 13:00 | PSV vs Club Brugge [ESPN 4]
 https://streamxhd.sbs/live1.php?stream=espn4
-#EXTINF:-1 tvg-name="Porto vs Napoli" group-title="Champions", 20:00 | Porto vs Napoli [Disney +]
+#EXTINF:-1 tvg-name="Porto vs Napoli" group-title="Champions", 13:00 | Porto vs Napoli [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney12
-#EXTINF:-1 tvg-name="Porto vs Napoli" group-title="Champions", 20:00 | Porto vs Napoli [ESPN 7]
+#EXTINF:-1 tvg-name="Porto vs Napoli" group-title="Champions", 13:00 | Porto vs Napoli [ESPN 7]
 https://streamxhd.sbs/live1.php?stream=espn7
-#EXTINF:-1 tvg-name="Porto vs Napoli" group-title="Champions", 20:00 | Porto vs Napoli [FOX Sports 1 AR]
+#EXTINF:-1 tvg-name="Porto vs Napoli" group-title="Champions", 13:00 | Porto vs Napoli [FOX Sports 1 AR]
 https://streamxhd.sbs/live1.php?stream=fox1ar
-#EXTINF:-1 tvg-name="RB Leipzig vs Manchester City" group-title="Champions", 20:00 | RB Leipzig vs Manchester City [Disney +]
+#EXTINF:-1 tvg-name="RB Leipzig vs Manchester City" group-title="Champions", 13:00 | RB Leipzig vs Manchester City [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney9
-#EXTINF:-1 tvg-name="RB Leipzig vs Manchester City" group-title="Champions", 20:00 | RB Leipzig vs Manchester City [ESPN]
+#EXTINF:-1 tvg-name="RB Leipzig vs Manchester City" group-title="Champions", 13:00 | RB Leipzig vs Manchester City [ESPN]
 https://streamxhd.sbs/live1.php?stream=espn
-#EXTINF:-1 tvg-name="RB Leipzig vs Manchester City" group-title="Champions", 20:00 | RB Leipzig vs Manchester City [ESPN AR]
+#EXTINF:-1 tvg-name="RB Leipzig vs Manchester City" group-title="Champions", 13:00 | RB Leipzig vs Manchester City [ESPN AR]
 https://streamxhd.sbs/live1.php?stream=espnar
-#EXTINF:-1 tvg-name="Slavia Praha vs Arsenal" group-title="Champions", 20:00 | Slavia Praha vs Arsenal [Disney +]
+#EXTINF:-1 tvg-name="Slavia Praha vs Arsenal" group-title="Champions", 13:00 | Slavia Praha vs Arsenal [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney8
-#EXTINF:-1 tvg-name="Slavia Praha vs Arsenal" group-title="Champions", 20:00 | Slavia Praha vs Arsenal [ESPN 5]
+#EXTINF:-1 tvg-name="Slavia Praha vs Arsenal" group-title="Champions", 13:00 | Slavia Praha vs Arsenal [ESPN 5]
 https://streamxhd.sbs/live1.php?stream=espn5
-#EXTINF:-1 tvg-name="Slavia Praha vs Arsenal" group-title="Champions", 20:00 | Slavia Praha vs Arsenal [HBO Max 2]
+#EXTINF:-1 tvg-name="Slavia Praha vs Arsenal" group-title="Champions", 13:00 | Slavia Praha vs Arsenal [HBO Max 2]
 https://streamxhd.sbs/live1.php?stream=max2
-#EXTINF:-1 tvg-name="Viking vs Sabah" group-title="Champions", 20:00 | Viking vs Sabah [Disney +]
+#EXTINF:-1 tvg-name="Viking vs Sabah" group-title="Champions", 13:00 | Viking vs Sabah [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney7
-#EXTINF:-1 tvg-name="Viking vs Sabah" group-title="Champions", 20:00 | Viking vs Sabah [ESPN 6]
+#EXTINF:-1 tvg-name="Viking vs Sabah" group-title="Champions", 13:00 | Viking vs Sabah [ESPN 6]
 https://streamxhd.sbs/live1.php?stream=espn6
-#EXTINF:-1 tvg-name="Libertad vs Cerro Porteño" group-title="Fútbol", 22:00 | Libertad vs Cerro Porteño [Tigo Sports 2]
+#EXTINF:-1 tvg-name="Libertad vs Cerro Porteño" group-title="Fútbol", 15:00 | Libertad vs Cerro Porteño [Tigo Sports 2]
 https://streamxhd.sbs/live1.php?stream=tigo2
-#EXTINF:-1 tvg-name="Sportivo Ameliano vs Guaraní" group-title="Fútbol", 22:00 | Sportivo Ameliano vs Guaraní [Tigo Sports]
+#EXTINF:-1 tvg-name="Sportivo Ameliano vs Guaraní" group-title="Fútbol", 15:00 | Sportivo Ameliano vs Guaraní [Tigo Sports]
 https://streamxhd.sbs/live1.php?stream=tigo1
-#EXTINF:-1 tvg-name="Tigo Sports" group-title="Otros", 22:00 | Tigo Sports [Tigo Sports · Live1 manual]
+#EXTINF:-1 tvg-name="Tigo Sports" group-title="Otros", 15:00 | Tigo Sports [Tigo Sports · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=tigo1
-#EXTINF:-1 tvg-name="Tigo Sports 2" group-title="Otros", 22:00 | Tigo Sports 2 [Tigo Sports 2 · Live1 manual]
+#EXTINF:-1 tvg-name="Tigo Sports 2" group-title="Otros", 15:00 | Tigo Sports 2 [Tigo Sports 2 · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=tigo2
-#EXTINF:-1 tvg-name="Athletico-PR vs Vasco da Gama" group-title="Fútbol", 22:30 | Athletico-PR vs Vasco da Gama [Win Sports]
+#EXTINF:-1 tvg-name="Athletico-PR vs Vasco da Gama" group-title="Fútbol", 15:30 | Athletico-PR vs Vasco da Gama [Win Sports]
 https://streamxhd.sbs/live1.php?stream=winsports
-#EXTINF:-1 tvg-name="Athletico-PR vs Vasco da Gama" group-title="Fútbol", 22:30 | Athletico-PR vs Vasco da Gama [Premiere 5]
+#EXTINF:-1 tvg-name="Athletico-PR vs Vasco da Gama" group-title="Fútbol", 15:30 | Athletico-PR vs Vasco da Gama [Premiere 5]
 https://streamxhd.sbs/live1.php?stream=premiere5
-#EXTINF:-1 tvg-name="Flamengo vs Grêmio" group-title="Fútbol", 22:30 | Flamengo vs Grêmio [Premiere 1]
+#EXTINF:-1 tvg-name="Flamengo vs Grêmio" group-title="Fútbol", 15:30 | Flamengo vs Grêmio [Premiere 1]
 https://streamxhd.sbs/live1.php?stream=premiere1
-#EXTINF:-1 tvg-name="Premiere 1" group-title="Otros", 22:30 | Premiere 1 [Premiere 1 · Live1 manual]
+#EXTINF:-1 tvg-name="Premiere 1" group-title="Otros", 15:30 | Premiere 1 [Premiere 1 · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=premiere1
-#EXTINF:-1 tvg-name="Win Sports" group-title="Otros", 22:30 | Win Sports [Win Sports · Live1 manual]
+#EXTINF:-1 tvg-name="Win Sports" group-title="Otros", 15:30 | Win Sports [Win Sports · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=winsports
-#EXTINF:-1 tvg-name="Disney +" group-title="Otros", 23:00 | Disney + [Disney + · Live1 manual]
+#EXTINF:-1 tvg-name="Disney +" group-title="Otros", 16:00 | Disney + [Disney + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=disney13
-#EXTINF:-1 tvg-name="Venados vs Atlético Morelia" group-title="Fútbol", 23:00 | Venados vs Atlético Morelia [Disney +]
+#EXTINF:-1 tvg-name="Venados vs Atlético Morelia" group-title="Fútbol", 16:00 | Venados vs Atlético Morelia [Disney +]
 https://streamxhd.sbs/live1.php?stream=disney13
-#EXTINF:-1 tvg-name="Cúcuta Deportivo vs Santa Fe" group-title="Fútbol", 23:30 | Cúcuta Deportivo vs Santa Fe [Win Sports +]
+#EXTINF:-1 tvg-name="Cúcuta Deportivo vs Santa Fe" group-title="Fútbol", 16:30 | Cúcuta Deportivo vs Santa Fe [Win Sports +]
 https://streamxhd.sbs/live1.php?stream=winplus
-#EXTINF:-1 tvg-name="Win Sports +" group-title="Otros", 23:30 | Win Sports + [Win Sports + · Live1 manual]
+#EXTINF:-1 tvg-name="Win Sports +" group-title="Otros", 16:30 | Win Sports + [Win Sports + · Live1 manual]
 https://streamxhd.sbs/live1.php?stream=winplus
+#EXTINF:-1 tvg-name="DSports Eventos" group-title="Copa", 17:00 | DSports Eventos [DSports Eventos · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=zapping_ec
+#EXTINF:-1 tvg-name="Detroit Pistons vs Philadelphia 76ers" group-title="NBA", 17:00 | Detroit Pistons vs Philadelphia 76ers [ESPN 2]
+https://streamxhd.sbs/live1.php?stream=espn2
+#EXTINF:-1 tvg-name="Detroit Pistons vs Philadelphia 76ers" group-title="NBA", 17:00 | Detroit Pistons vs Philadelphia 76ers [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba2
+#EXTINF:-1 tvg-name="ESPN 2" group-title="NBA", 17:00 | ESPN 2 [ESPN 2 · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=espn2
+#EXTINF:-1 tvg-name="Evento 1" group-title="Copa", 17:00 | Evento 1 [Evento 1 · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=evento1
+#EXTINF:-1 tvg-name="Ferro Carril vs Nacional" group-title="Copa", 17:00 | Ferro Carril vs Nacional [Evento 1]
+https://streamxhd.sbs/live1.php?stream=evento1
+#EXTINF:-1 tvg-name="LDU Quito vs Universidad Católica" group-title="Copa", 17:00 | LDU Quito vs Universidad Católica [DSports Eventos]
+https://streamxhd.sbs/live1.php?stream=zapping_ec
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 17:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba1
+#EXTINF:-1 tvg-name="Washington Wizards vs Atlanta Hawks" group-title="NBA", 17:00 | Washington Wizards vs Atlanta Hawks [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba1
+#EXTINF:-1 tvg-name="Olimpia vs Deportivo Recoleta" group-title="NBA", 17:15 | Olimpia vs Deportivo Recoleta [Tigo Sports]
+https://streamxhd.sbs/live1.php?stream=tigo1
+#EXTINF:-1 tvg-name="Tigo Sports" group-title="Otros", 17:15 | Tigo Sports [Tigo Sports · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=tigo1
+#EXTINF:-1 tvg-name="Boston Celtics vs Milwaukee Bucks" group-title="NBA", 17:30 | Boston Celtics vs Milwaukee Bucks [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba4
+#EXTINF:-1 tvg-name="Botafogo vs Atlético Mineiro" group-title="Fútbol", 17:30 | Botafogo vs Atlético Mineiro [Premiere 2]
+https://streamxhd.sbs/live1.php?stream=premiere2
+#EXTINF:-1 tvg-name="Brooklyn Nets vs Charlotte Hornets" group-title="NBA", 17:30 | Brooklyn Nets vs Charlotte Hornets [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba3
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 17:30 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba3
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 17:30 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba4
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 17:30 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba5
+#EXTINF:-1 tvg-name="New York Knicks vs Chicago Bulls" group-title="NBA", 17:30 | New York Knicks vs Chicago Bulls [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba5
+#EXTINF:-1 tvg-name="Premiere 2" group-title="Otros", 17:30 | Premiere 2 [Premiere 2 · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=premiere2
+#EXTINF:-1 tvg-name="Premiere 4" group-title="Otros", 17:30 | Premiere 4 [Premiere 4 · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=premiere4
+#EXTINF:-1 tvg-name="São Paulo vs Corinthians" group-title="Fútbol", 17:30 | São Paulo vs Corinthians [Premiere 4]
+https://streamxhd.sbs/live1.php?stream=premiere4
+#EXTINF:-1 tvg-name="Memphis Grizzlies vs Indiana Pacers" group-title="NBA", 18:00 | Memphis Grizzlies vs Indiana Pacers [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba7
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 18:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba6
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 18:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba7
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 18:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba8
+#EXTINF:-1 tvg-name="New Orleans Pelicans vs Utah Jazz" group-title="NBA", 18:00 | New Orleans Pelicans vs Utah Jazz [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba6
+#EXTINF:-1 tvg-name="Oklahoma City Thunder vs Cleveland Cavaliers" group-title="NBA", 18:00 | Oklahoma City Thunder vs Cleveland Cavaliers [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba8
+#EXTINF:-1 tvg-name="Disney +" group-title="Otros", 18:05 | Disney + [Disney + · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=disney14
+#EXTINF:-1 tvg-name="Tlaxcala vs Atlético La Paz" group-title="NBA", 18:05 | Tlaxcala vs Atlético La Paz [Disney +]
+https://streamxhd.sbs/live1.php?stream=disney14
+#EXTINF:-1 tvg-name="Houston Rockets vs Minnesota Timberwolves" group-title="NBA", 18:30 | Houston Rockets vs Minnesota Timberwolves [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba9
+#EXTINF:-1 tvg-name="L1 Max" group-title="Otros", 18:30 | L1 Max [L1 Max · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=l1max
+#EXTINF:-1 tvg-name="Millonarios vs América de Cali" group-title="Fútbol", 18:30 | Millonarios vs América de Cali [Win Sports +]
+https://streamxhd.sbs/live1.php?stream=winplus
+#EXTINF:-1 tvg-name="Millonarios vs América de Cali" group-title="Fútbol", 18:30 | Millonarios vs América de Cali [Win Sports]
+https://streamxhd.sbs/live1.php?stream=winsports
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 18:30 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba9
+#EXTINF:-1 tvg-name="Universitario vs Sport Boys" group-title="Fútbol", 18:30 | Universitario vs Sport Boys [L1 Max]
+https://streamxhd.sbs/live1.php?stream=l1max
+#EXTINF:-1 tvg-name="Win Sports +" group-title="Otros", 18:30 | Win Sports + [Win Sports + · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=winplus
+#EXTINF:-1 tvg-name="Denver Nuggets vs Toronto Raptors" group-title="NBA", 19:00 | Denver Nuggets vs Toronto Raptors [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba11
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 19:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba10
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 19:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba11
+#EXTINF:-1 tvg-name="Phoenix Suns vs Portland Trail Blazers" group-title="NBA", 19:00 | Phoenix Suns vs Portland Trail Blazers [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba10
+#EXTINF:-1 tvg-name="ESPN 2" group-title="NBA", 19:30 | ESPN 2 [ESPN 2 · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=espn2
+#EXTINF:-1 tvg-name="San Antonio Spurs vs Dallas Mavericks" group-title="NBA", 19:30 | San Antonio Spurs vs Dallas Mavericks [ESPN 2]
+https://streamxhd.sbs/live1.php?stream=espn2
+#EXTINF:-1 tvg-name="San Antonio Spurs vs Dallas Mavericks" group-title="NBA", 19:30 | San Antonio Spurs vs Dallas Mavericks [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba12
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 20:00 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba1
+#EXTINF:-1 tvg-name="Sacramento Kings vs Los Angeles Lakers" group-title="NBA", 20:00 | Sacramento Kings vs Los Angeles Lakers [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba1
+#EXTINF:-1 tvg-name="Los Angeles Clippers vs Miami Heat" group-title="NBA", 20:30 | Los Angeles Clippers vs Miami Heat [NBA League Pass]
+https://streamxhd.sbs/live1.php?stream=nba2
+#EXTINF:-1 tvg-name="NBA League Pass" group-title="NBA", 20:30 | NBA League Pass [NBA League Pass · Live1 manual]
+https://streamxhd.sbs/live1.php?stream=nba2
