@@ -438,6 +438,8 @@ def main() -> int:
 
     write_txt(eventos, base.with_suffix(".txt"))
     write_json(eventos, base.with_suffix(".json"))
+    # NUEVO: Guardar copia como _ultimo para el blog
+    write_json(eventos, OUTPUT_DIR / "eventos_ultimo.json")
     write_csv(eventos, base.with_suffix(".csv"))
     write_m3u(eventos, base.with_suffix(".m3u"))
     write_html(eventos, base.with_suffix(".html"))
