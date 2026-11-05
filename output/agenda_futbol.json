@@ -1,41 +1,9 @@
 {
-  "fecha_actualizacion": "2026-11-05T04:33:56Z",
-  "total": 65,
+  "fecha_actualizacion": "2026-11-05T12:32:02Z",
+  "total": 66,
   "eventos": [
     {
-      "id": "evt_4",
-      "titulo": "Denver Nuggets vs Toronto Raptors",
-      "hora": "23:00",
-      "servidores": [
-        {
-          "nombre": "NBA11",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba11"
-        },
-        {
-          "nombre": "NBA11",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba11"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_5",
-      "titulo": "Denver Nuggets vs Toronto Raptors",
-      "hora": "23:30",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        },
-        {
-          "nombre": "NBA12",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba12"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_12",
+      "id": "evt_1",
       "titulo": "Sparta Praha vs AFC Bournemouth",
       "hora": "14:45",
       "servidores": [
@@ -44,8 +12,8 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         },
         {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         },
         {
           "nombre": "DISNEY+ 2",
@@ -63,7 +31,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_14",
+      "id": "evt_4",
       "titulo": "Real Sociedad vs Olympique Lyonnais",
       "hora": "14:45",
       "servidores": [
@@ -87,7 +55,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_16",
+      "id": "evt_6",
       "titulo": "NEC vs Omonia Nicosia",
       "hora": "14:45",
       "servidores": [
@@ -107,7 +75,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_18",
+      "id": "evt_8",
       "titulo": "Lillestrøm vs Viktoria Plzeň",
       "hora": "14:45",
       "servidores": [
@@ -127,7 +95,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_20",
+      "id": "evt_10",
       "titulo": "Levski Sofia vs Jagiellonia Białystok",
       "hora": "14:45",
       "servidores": [
@@ -151,7 +119,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_22",
+      "id": "evt_12",
       "titulo": "Crystal Palace vs Hoffenheim",
       "hora": "14:45",
       "servidores": [
@@ -175,7 +143,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_24",
+      "id": "evt_14",
       "titulo": "Anderlecht vs Salzburg",
       "hora": "14:45",
       "servidores": [
@@ -203,7 +171,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_26",
+      "id": "evt_16",
       "titulo": "Milan vs Ferencváros",
       "hora": "14:45",
       "servidores": [
@@ -223,7 +191,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_28",
+      "id": "evt_18",
       "titulo": "Trabzonspor vs Freiburg",
       "hora": "14:45",
       "servidores": [
@@ -243,7 +211,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_30",
+      "id": "evt_20",
       "titulo": "Midtjylland vs Ajax",
       "hora": "14:45",
       "servidores": [
@@ -263,7 +231,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_32",
+      "id": "evt_22",
       "titulo": "Atalanta vs Kairat",
       "hora": "14:45",
       "servidores": [
@@ -283,7 +251,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_34",
+      "id": "evt_24",
       "titulo": "AGF vs Sporting Braga",
       "hora": "14:45",
       "servidores": [
@@ -303,7 +271,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_36",
+      "id": "evt_26",
       "titulo": "Thun vs Hearts",
       "hora": "14:45",
       "servidores": [
@@ -323,7 +291,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_38",
+      "id": "evt_28",
       "titulo": "KuPS vs Gent",
       "hora": "14:45",
       "servidores": [
@@ -343,7 +311,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_40",
+      "id": "evt_30",
       "titulo": "Crvena Zvezda vs Inter Club d'Escaldes",
       "hora": "14:45",
       "servidores": [
@@ -363,7 +331,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_42",
+      "id": "evt_32",
       "titulo": "Lincoln Red Imps vs Hajduk Split",
       "hora": "14:45",
       "servidores": [
@@ -383,7 +351,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_44",
+      "id": "evt_34",
       "titulo": "Mjällby vs Borac Banja Luka",
       "hora": "14:45",
       "servidores": [
@@ -399,7 +367,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_45",
+      "id": "evt_35",
       "titulo": "Mjällby vs Borac Banja Luka",
       "hora": "15:00",
       "servidores": [
@@ -427,7 +395,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_46",
+      "id": "evt_36",
       "titulo": "Aldosivi vs River Plate",
       "hora": "15:00",
       "servidores": [
@@ -443,7 +411,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_47",
+      "id": "evt_37",
       "titulo": "Aldosivi vs River Plate",
       "hora": "17:00",
       "servidores": [
@@ -455,7 +423,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_48",
+      "id": "evt_38",
       "titulo": "Torreense vs Ararat-Armenia",
       "hora": "17:00",
       "servidores": [
@@ -483,7 +451,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_50",
+      "id": "evt_40",
       "titulo": "AZ vs Juventus",
       "hora": "17:00",
       "servidores": [
@@ -507,7 +475,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_52",
+      "id": "evt_42",
       "titulo": "Sunderland vs Dinamo Zagreb",
       "hora": "17:00",
       "servidores": [
@@ -527,7 +495,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_54",
+      "id": "evt_44",
       "titulo": "Sturm Graz vs Celje",
       "hora": "17:00",
       "servidores": [
@@ -547,7 +515,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_56",
+      "id": "evt_46",
       "titulo": "Hapoel Be'er Sheva vs OFI",
       "hora": "17:00",
       "servidores": [
@@ -571,7 +539,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_58",
+      "id": "evt_48",
       "titulo": "Celtic vs Beşiktaş",
       "hora": "17:00",
       "servidores": [
@@ -595,7 +563,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_60",
+      "id": "evt_50",
       "titulo": "Celta de Vigo vs Union Saint-Gilloise",
       "hora": "17:00",
       "servidores": [
@@ -619,7 +587,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_62",
+      "id": "evt_52",
       "titulo": "Benfica vs Lech Poznań",
       "hora": "17:00",
       "servidores": [
@@ -647,7 +615,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_64",
+      "id": "evt_54",
       "titulo": "Bayer Leverkusen vs Olympique Marseille",
       "hora": "17:00",
       "servidores": [
@@ -667,7 +635,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_66",
+      "id": "evt_56",
       "titulo": "Monaco vs Nordsjælland",
       "hora": "17:00",
       "servidores": [
@@ -687,7 +655,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_68",
+      "id": "evt_58",
       "titulo": "Getafe vs Brighton & Hove Albion",
       "hora": "17:00",
       "servidores": [
@@ -707,7 +675,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_70",
+      "id": "evt_60",
       "titulo": "Panathinaikos vs CSKA Sofia",
       "hora": "17:00",
       "servidores": [
@@ -727,7 +695,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_72",
+      "id": "evt_62",
       "titulo": "Twente vs Paphos",
       "hora": "17:00",
       "servidores": [
@@ -747,7 +715,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_74",
+      "id": "evt_64",
       "titulo": "København vs Iberia 1999",
       "hora": "17:00",
       "servidores": [
@@ -767,7 +735,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_76",
+      "id": "evt_66",
       "titulo": "Sint-Truiden vs Brann",
       "hora": "17:00",
       "servidores": [
@@ -787,7 +755,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_78",
+      "id": "evt_68",
       "titulo": "Lugano vs Kauno Žalgiris",
       "hora": "17:00",
       "servidores": [
@@ -807,7 +775,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_80",
+      "id": "evt_70",
       "titulo": "Riga vs Jablonec",
       "hora": "17:00",
       "servidores": [
@@ -827,7 +795,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_82",
+      "id": "evt_72",
       "titulo": "CSU Craiova vs Egnatia Rrogozhinë",
       "hora": "17:00",
       "servidores": [
@@ -843,7 +811,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_83",
+      "id": "evt_73",
       "titulo": "CSU Craiova vs Egnatia Rrogozhinë",
       "hora": "19:00",
       "servidores": [
@@ -855,7 +823,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_84",
+      "id": "evt_74",
       "titulo": "Rubio Ñu vs Sportivo Luqueño",
       "hora": "19:00",
       "servidores": [
@@ -875,7 +843,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_86",
+      "id": "evt_76",
       "titulo": "Universidad de Chile vs Deportes Antofagasta",
       "hora": "19:00",
       "servidores": [
@@ -891,7 +859,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_87",
+      "id": "evt_77",
       "titulo": "Universidad de Chile vs Deportes Antofagasta",
       "hora": "19:15",
       "servidores": [
@@ -903,7 +871,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_88",
+      "id": "evt_78",
       "titulo": "Gimnasia La Plata vs Belgrano",
       "hora": "19:15",
       "servidores": [
@@ -919,7 +887,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_89",
+      "id": "evt_79",
       "titulo": "Gimnasia La Plata vs Belgrano",
       "hora": "19:30",
       "servidores": [
@@ -935,7 +903,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_90",
+      "id": "evt_80",
       "titulo": "Palmeiras vs Remo",
       "hora": "19:30",
       "servidores": [
@@ -951,7 +919,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_91",
+      "id": "evt_81",
       "titulo": "Palmeiras vs Remo",
       "hora": "20:00",
       "servidores": [
@@ -963,7 +931,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_92",
+      "id": "evt_82",
       "titulo": "Universidad de Concepción vs O'Higgins",
       "hora": "20:00",
       "servidores": [
@@ -979,7 +947,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_93",
+      "id": "evt_83",
       "titulo": "Universidad de Concepción vs O'Higgins",
       "hora": "21:00",
       "servidores": [
@@ -991,7 +959,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_94",
+      "id": "evt_84",
       "titulo": "Independiente del Valle vs Delfín",
       "hora": "21:00",
       "servidores": [
@@ -1011,7 +979,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_96",
+      "id": "evt_86",
       "titulo": "Unión Magdalena vs Independiente Yumbo",
       "hora": "21:00",
       "servidores": [
@@ -1027,7 +995,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_97",
+      "id": "evt_87",
       "titulo": "Unión Magdalena vs Independiente Yumbo",
       "hora": "21:30",
       "servidores": [
@@ -1043,7 +1011,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_98",
+      "id": "evt_88",
       "titulo": "Cruzeiro vs Bahia",
       "hora": "21:30",
       "servidores": [
@@ -1059,7 +1027,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_99",
+      "id": "evt_89",
       "titulo": "Cruzeiro vs Bahia",
       "hora": "22:00",
       "servidores": [
@@ -1071,7 +1039,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_100",
+      "id": "evt_90",
       "titulo": "Cancún vs Piratas",
       "hora": "22:00",
       "servidores": [
@@ -1095,7 +1063,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_102",
+      "id": "evt_92",
       "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
       "hora": "22:00",
       "servidores": [
@@ -1111,7 +1079,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_103",
+      "id": "evt_93",
       "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
       "hora": "23:00",
       "servidores": [
@@ -1123,7 +1091,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_108",
+      "id": "evt_98",
       "titulo": "Durango vs Leones Negros UdeG",
       "hora": "00:05",
       "servidores": [
@@ -1139,7 +1107,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_109",
+      "id": "evt_99",
       "titulo": "Durango vs Leones Negros UdeG",
       "hora": "22:00",
       "servidores": [
@@ -1151,7 +1119,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_110",
+      "id": "evt_100",
       "titulo": "New Orleans Pelicans vs Utah Jazz",
       "hora": "22:00",
       "servidores": [
@@ -1171,7 +1139,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_112",
+      "id": "evt_102",
       "titulo": "Memphis Grizzlies vs Indiana Pacers",
       "hora": "22:00",
       "servidores": [
@@ -1191,7 +1159,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_114",
+      "id": "evt_104",
       "titulo": "Oklahoma City Thunder vs Cleveland Cavaliers",
       "hora": "22:00",
       "servidores": [
@@ -1207,7 +1175,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_115",
+      "id": "evt_105",
       "titulo": "Oklahoma City Thunder vs Cleveland Cavaliers",
       "hora": "22:30",
       "servidores": [
@@ -1219,7 +1187,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_116",
+      "id": "evt_106",
       "titulo": "Houston Rockets vs Minnesota Timberwolves",
       "hora": "22:30",
       "servidores": [
@@ -1230,6 +1198,50 @@
         {
           "nombre": "NBA9",
           "url": "https://streamxhd.sbs/live1.php?stream=nba9"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_107",
+      "titulo": "Houston Rockets vs Minnesota Timberwolves",
+      "hora": "23:00",
+      "servidores": [
+        {
+          "nombre": "NBA10",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba10"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_110",
+      "titulo": "Denver Nuggets vs Toronto Raptors",
+      "hora": "23:00",
+      "servidores": [
+        {
+          "nombre": "NBA11",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba11"
+        },
+        {
+          "nombre": "NBA11",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba11"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_111",
+      "titulo": "Denver Nuggets vs Toronto Raptors",
+      "hora": "23:30",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "NBA12",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba12"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
