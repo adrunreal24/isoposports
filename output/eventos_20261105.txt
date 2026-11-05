@@ -1,49 +1,49 @@
 ======================================================================
-EVENTOS STREAMXHD — 2026-11-05T12:35:39.399461+00:00
+EVENTOS STREAMXHD — 2026-11-05T21:18:46.365249+00:00
 Total: 77 eventos
 ======================================================================
 
-── 11:45  AGF vs Sporting Braga
+── 12:45  AGF vs Sporting Braga
    AGF  VS  Sporting Braga
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney12
 
-── 11:45  Anderlecht vs Salzburg
+── 12:45  Anderlecht vs Salzburg
    Anderlecht  VS  Salzburg
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney7
      2. ESPN 5
         https://streamxhd.sbs/live1.php?stream=espn5
 
-── 11:45  Atalanta vs Kairat
+── 12:45  Atalanta vs Kairat
    Atalanta  VS  Kairat
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney11
 
-── 11:45  Crvena Zvezda vs Inter Club d'Escaldes
+── 12:45  Crvena Zvezda vs Inter Club d'Escaldes
    Crvena Zvezda  VS  Inter Club d'Escaldes
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney15
 
-── 11:45  Crystal Palace vs Hoffenheim
+── 12:45  Crystal Palace vs Hoffenheim
    Crystal Palace  VS  Hoffenheim
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney6
      2. ESPN 2
         https://streamxhd.sbs/live1.php?stream=espn2
 
-── 11:45  Disney +
-   [Europa League | Europa League | PRONTO]
+── 12:45  Disney +
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 17
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney1
@@ -80,44 +80,44 @@ Total: 77 eventos
      17. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney17
 
-── 11:45  KuPS vs Gent
+── 12:45  KuPS vs Gent
    KuPS  VS  Gent
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney14
 
-── 11:45  Levski Sofia vs Jagiellonia Białystok
+── 12:45  Levski Sofia vs Jagiellonia Białystok
    Levski Sofia  VS  Jagiellonia Białystok
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney5
 
-── 11:45  Lillestrøm vs Viktoria Plzeň
+── 12:45  Lillestrøm vs Viktoria Plzeň
    Lillestrøm  VS  Viktoria Plzeň
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney4
 
-── 11:45  Lincoln Red Imps vs Hajduk Split
+── 12:45  Lincoln Red Imps vs Hajduk Split
    Lincoln Red Imps  VS  Hajduk Split
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney16
 
-── 11:45  Midtjylland vs Ajax
+── 12:45  Midtjylland vs Ajax
    Midtjylland  VS  Ajax
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney10
 
-── 11:45  Milan vs Ferencváros
+── 12:45  Milan vs Ferencváros
    Milan  VS  Ferencváros
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 3
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney8
@@ -126,25 +126,25 @@ Total: 77 eventos
      3. ESPN AR
         https://streamxhd.sbs/live1.php?stream=espnar
 
-── 11:45  Mjällby vs Borac Banja Luka
+── 12:45  Mjällby vs Borac Banja Luka
    Mjällby  VS  Borac Banja Luka
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney17
 
-── 11:45  NEC vs Omonia Nicosia
+── 12:45  NEC vs Omonia Nicosia
    NEC  VS  Omonia Nicosia
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney3
      2. ESPN 4
         https://streamxhd.sbs/live1.php?stream=espn4
 
-── 11:45  Real Sociedad vs Olympique Lyonnais
+── 12:45  Real Sociedad vs Olympique Lyonnais
    Real Sociedad  VS  Olympique Lyonnais
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | FINALIZADO]
    Servidores: 3
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney2
@@ -153,32 +153,32 @@ Total: 77 eventos
      3. ESPN 2 AR
         https://streamxhd.sbs/live1.php?stream=espn2ar
 
-── 11:45  Sparta Praha vs AFC Bournemouth
+── 12:45  Sparta Praha vs AFC Bournemouth
    Sparta Praha  VS  AFC Bournemouth
-   [Europa League | Europa League | EN VIVO]
+   [NBA | NBA | FINALIZADO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney1
      2. ESPN 2
         https://streamxhd.sbs/live1.php?stream=espn2
 
-── 11:45  Thun vs Hearts
+── 12:45  Thun vs Hearts
    Thun  VS  Hearts
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney13
 
-── 11:45  Trabzonspor vs Freiburg
+── 12:45  Trabzonspor vs Freiburg
    Trabzonspor  VS  Freiburg
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney9
 
-── 12:00  Aldosivi vs River Plate
+── 13:00  Aldosivi vs River Plate
    Aldosivi  VS  River Plate
-   [Fútbol | PRONTO]
+   [Fútbol | FINALIZADO]
    Servidores: 5
      1. ESPN Premium
         https://streamxhd.sbs/live1.php?stream=espnpremium
@@ -191,15 +191,15 @@ Total: 77 eventos
      5. ESPN 6
         https://streamxhd.sbs/live1.php?stream=espn6
 
-── 12:00  ESPN Premium
-   [PRONTO]
+── 13:00  ESPN Premium
+   [FINALIZADO]
    Servidores: 1
      1. ESPN Premium · Live1 manual
         https://streamxhd.sbs/live1.php?stream=espnpremium
 
-── 14:00  AZ vs Juventus
+── 15:00  AZ vs Juventus
    AZ  VS  Juventus
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 3
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney20
@@ -208,9 +208,9 @@ Total: 77 eventos
      3. ESPN AR
         https://streamxhd.sbs/live1.php?stream=espnar
 
-── 14:00  Bayer Leverkusen vs Olympique Marseille
+── 15:00  Bayer Leverkusen vs Olympique Marseille
    Bayer Leverkusen  VS  Olympique Marseille
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 3
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney27
@@ -219,42 +219,42 @@ Total: 77 eventos
      3. ESPN 2 AR
         https://streamxhd.sbs/live1.php?stream=espn2ar
 
-── 14:00  Benfica vs Lech Poznań
+── 15:00  Benfica vs Lech Poznań
    Benfica  VS  Lech Poznań
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney26
      2. ESPN 2
         https://streamxhd.sbs/live1.php?stream=espn2
 
-── 14:00  CSU Craiova vs Egnatia Rrogozhinë
+── 15:00  CSU Craiova vs Egnatia Rrogozhinë
    CSU Craiova  VS  Egnatia Rrogozhinë
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney6
 
-── 14:00  Celta de Vigo vs Union Saint-Gilloise
+── 15:00  Celta de Vigo vs Union Saint-Gilloise
    Celta de Vigo  VS  Union Saint-Gilloise
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney25
      2. ESPN 4
         https://streamxhd.sbs/live1.php?stream=espn4
 
-── 14:00  Celtic vs Beşiktaş
+── 15:00  Celtic vs Beşiktaş
    Celtic  VS  Beşiktaş
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney24
      2. ESPN 5
         https://streamxhd.sbs/live1.php?stream=espn5
 
-── 14:00  Disney +
-   [Europa League | Europa League | PRONTO]
+── 15:00  Disney +
+   [Europa League | Europa League | EN VIVO]
    Servidores: 18
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney19
@@ -293,132 +293,132 @@ Total: 77 eventos
      18. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney6
 
-── 14:00  Getafe vs Brighton & Hove Albion
+── 15:00  Getafe vs Brighton & Hove Albion
    Getafe  VS  Brighton & Hove Albion
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney29
 
-── 14:00  Hapoel Be'er Sheva vs OFI
+── 15:00  Hapoel Be'er Sheva vs OFI
    Hapoel Be'er Sheva  VS  OFI
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney23
 
-── 14:00  København vs Iberia 1999
+── 15:00  København vs Iberia 1999
    København  VS  Iberia 1999
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney2
 
-── 14:00  Lugano vs Kauno Žalgiris
+── 15:00  Lugano vs Kauno Žalgiris
    Lugano  VS  Kauno Žalgiris
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney4
 
-── 14:00  Monaco vs Nordsjælland
+── 15:00  Monaco vs Nordsjælland
    Monaco  VS  Nordsjælland
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney28
 
-── 14:00  Panathinaikos vs CSKA Sofia
+── 15:00  Panathinaikos vs CSKA Sofia
    Panathinaikos  VS  CSKA Sofia
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney30
 
-── 14:00  Riga vs Jablonec
+── 15:00  Riga vs Jablonec
    Riga  VS  Jablonec
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney5
 
-── 14:00  Sint-Truiden vs Brann
+── 15:00  Sint-Truiden vs Brann
    Sint-Truiden  VS  Brann
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney3
 
-── 14:00  Sturm Graz vs Celje
+── 15:00  Sturm Graz vs Celje
    Sturm Graz  VS  Celje
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney22
 
-── 14:00  Sunderland vs Dinamo Zagreb
+── 15:00  Sunderland vs Dinamo Zagreb
    Sunderland  VS  Dinamo Zagreb
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 2
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney21
      2. ESPN 7
         https://streamxhd.sbs/live1.php?stream=espn7
 
-── 14:00  Torreense vs Ararat-Armenia
+── 15:00  Torreense vs Ararat-Armenia
    Torreense  VS  Ararat-Armenia
-   [Europa League | Europa League | PRONTO]
+   [Europa League | Europa League | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney19
 
-── 14:00  Twente vs Paphos
+── 15:00  Twente vs Paphos
    Twente  VS  Paphos
-   [Fútbol | PRONTO]
+   [Fútbol | EN VIVO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney1
 
-── 16:00  HBO Max
+── 17:00  HBO Max
    [Copa | Copa | PRONTO]
    Servidores: 1
      1. HBO Max · Live1 manual
         https://streamxhd.sbs/live1.php?stream=max1
 
-── 16:00  Rubio Ñu vs Sportivo Luqueño
+── 17:00  Rubio Ñu vs Sportivo Luqueño
    Rubio Ñu  VS  Sportivo Luqueño
    [Fútbol | PRONTO]
    Servidores: 1
      1. Tigo Sports
         https://streamxhd.sbs/live1.php?stream=tigo1
 
-── 16:00  Tigo Sports
+── 17:00  Tigo Sports
    [PRONTO]
    Servidores: 1
      1. Tigo Sports · Live1 manual
         https://streamxhd.sbs/live1.php?stream=tigo1
 
-── 16:00  Universidad de Chile vs Deportes Antofagasta
+── 17:00  Universidad de Chile vs Deportes Antofagasta
    Universidad de Chile  VS  Deportes Antofagasta
    [Copa | Copa | PRONTO]
    Servidores: 1
      1. HBO Max
         https://streamxhd.sbs/live1.php?stream=max1
 
-── 16:15  Gimnasia La Plata vs Belgrano
+── 17:15  Gimnasia La Plata vs Belgrano
    Gimnasia La Plata  VS  Belgrano
    [Fútbol | PRONTO]
    Servidores: 1
      1. TNT Sports
         https://streamxhd.sbs/live1.php?stream=tntsports
 
-── 16:15  TNT Sports
+── 17:15  TNT Sports
    [PRONTO]
    Servidores: 1
      1. TNT Sports · Live1 manual
         https://streamxhd.sbs/live1.php?stream=tntsports
 
-── 16:30  Palmeiras vs Remo
+── 17:30  Palmeiras vs Remo
    Palmeiras  VS  Remo
    [Fútbol | PRONTO]
    Servidores: 2
@@ -427,52 +427,52 @@ Total: 77 eventos
      2. Premiere 1
         https://streamxhd.sbs/live1.php?stream=premiere1
 
-── 16:30  Win Sports
+── 17:30  Win Sports
    [PRONTO]
    Servidores: 1
      1. Win Sports · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winsports
 
-── 17:00  TNT Sports Chile
+── 18:00  TNT Sports Chile
    [PRONTO]
    Servidores: 1
      1. TNT Sports Chile · Live1 manual
         https://streamxhd.sbs/live1.php?stream=tntsportschile
 
-── 17:00  Universidad de Concepción vs O'Higgins
+── 18:00  Universidad de Concepción vs O'Higgins
    Universidad de Concepción  VS  O'Higgins
    [Fútbol | PRONTO]
    Servidores: 1
      1. TNT Sports Chile
         https://streamxhd.sbs/live1.php?stream=tntsportschile
 
-── 18:00  DSports Eventos
+── 19:00  DSports Eventos
    [Copa | Copa | PRONTO]
    Servidores: 1
      1. DSports Eventos · Live1 manual
         https://streamxhd.sbs/live1.php?stream=zapping_ec
 
-── 18:00  Independiente del Valle vs Delfín
+── 19:00  Independiente del Valle vs Delfín
    Independiente del Valle  VS  Delfín
    [Copa | Copa | PRONTO]
    Servidores: 1
      1. DSports Eventos
         https://streamxhd.sbs/live1.php?stream=zapping_ec
 
-── 18:00  Unión Magdalena vs Independiente Yumbo
+── 19:00  Unión Magdalena vs Independiente Yumbo
    Unión Magdalena  VS  Independiente Yumbo
    [Fútbol | PRONTO]
    Servidores: 1
      1. Win Sports +
         https://streamxhd.sbs/live1.php?stream=winplus
 
-── 18:00  Win Sports +
+── 19:00  Win Sports +
    [PRONTO]
    Servidores: 1
      1. Win Sports + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winplus
 
-── 18:30  Cruzeiro vs Bahia
+── 19:30  Cruzeiro vs Bahia
    Cruzeiro  VS  Bahia
    [Fútbol | PRONTO]
    Servidores: 2
@@ -481,13 +481,13 @@ Total: 77 eventos
      2. Prime Video
         https://streamxhd.sbs/live1.php?stream=amazon1
 
-── 18:30  Win Sports
+── 19:30  Win Sports
    [PRONTO]
    Servidores: 1
      1. Win Sports · Live1 manual
         https://streamxhd.sbs/live1.php?stream=winsports
 
-── 19:00  Baltimore Ravens vs Jacksonville Jaguars
+── 20:00  Baltimore Ravens vs Jacksonville Jaguars
    Baltimore Ravens  VS  Jacksonville Jaguars
    [NFL | NFL | PRONTO]
    Servidores: 2
@@ -496,33 +496,33 @@ Total: 77 eventos
      2. Fox Sports 3 AR
         https://streamxhd.sbs/live1.php?stream=fox3ar
 
-── 19:00  Cancún vs Piratas
+── 20:00  Cancún vs Piratas
    Cancún  VS  Piratas
    [Fútbol | PRONTO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney7
 
-── 19:00  Disney +
+── 20:00  Disney +
    [PRONTO]
    Servidores: 1
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney7
 
-── 19:00  ESPN 5
+── 20:00  ESPN 5
    [NFL | NFL | PRONTO]
    Servidores: 1
      1. ESPN 5 · Live1 manual
         https://streamxhd.sbs/live1.php?stream=espn5
 
-── 19:00  Memphis Grizzlies vs Indiana Pacers
+── 20:00  Memphis Grizzlies vs Indiana Pacers
    Memphis Grizzlies  VS  Indiana Pacers
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba7
 
-── 19:00  NBA League Pass
+── 20:00  NBA League Pass
    [NBA | NBA | FINALIZADO]
    Servidores: 3
      1. NBA League Pass · Live1 manual
@@ -532,47 +532,47 @@ Total: 77 eventos
      3. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba8
 
-── 19:00  New Orleans Pelicans vs Utah Jazz
+── 20:00  New Orleans Pelicans vs Utah Jazz
    New Orleans Pelicans  VS  Utah Jazz
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba6
 
-── 19:00  Oklahoma City Thunder vs Cleveland Cavaliers
+── 20:00  Oklahoma City Thunder vs Cleveland Cavaliers
    Oklahoma City Thunder  VS  Cleveland Cavaliers
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba8
 
-── 19:30  Houston Rockets vs Minnesota Timberwolves
+── 20:30  Houston Rockets vs Minnesota Timberwolves
    Houston Rockets  VS  Minnesota Timberwolves
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba9
 
-── 19:30  NBA League Pass
+── 20:30  NBA League Pass
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba9
 
-── 20:00  Denver Nuggets vs Toronto Raptors
+── 21:00  Denver Nuggets vs Toronto Raptors
    Denver Nuggets  VS  Toronto Raptors
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba11
 
-── 20:00  ESPN 5
+── 21:00  ESPN 5
    [NBA | NBA | PRONTO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba1
 
-── 20:00  NBA League Pass
+── 21:00  NBA League Pass
    [NBA | NBA | PRONTO]
    Servidores: 3
      1. NBA League Pass · Live1 manual
@@ -582,20 +582,20 @@ Total: 77 eventos
      3. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba11
 
-── 20:00  Phoenix Suns vs Portland Trail Blazers
+── 21:00  Phoenix Suns vs Portland Trail Blazers
    Phoenix Suns  VS  Portland Trail Blazers
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba10
 
-── 20:30  ESPN 2
+── 21:30  ESPN 2
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. ESPN 2 · Live1 manual
         https://streamxhd.sbs/live1.php?stream=espn2
 
-── 20:30  San Antonio Spurs vs Dallas Mavericks
+── 21:30  San Antonio Spurs vs Dallas Mavericks
    San Antonio Spurs  VS  Dallas Mavericks
    [NBA | NBA | FINALIZADO]
    Servidores: 2
@@ -604,7 +604,7 @@ Total: 77 eventos
      2. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba12
 
-── 21:00  NBA League Pass
+── 22:00  NBA League Pass
    [NBA | NBA | PRONTO]
    Servidores: 2
      1. NBA League Pass
@@ -612,34 +612,34 @@ Total: 77 eventos
      2. NBA League Pass · Live1 manual
         https://streamxhd.sbs/live1.php?stream=nba1
 
-── 21:00  Sacramento Kings vs Los Angeles Lakers
+── 22:00  Sacramento Kings vs Los Angeles Lakers
    Sacramento Kings  VS  Los Angeles Lakers
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba1
 
-── 21:05  Disney +
+── 22:05  Disney +
    [PRONTO]
    Servidores: 1
      1. Disney + · Live1 manual
         https://streamxhd.sbs/live1.php?stream=disney8
 
-── 21:05  Durango vs Leones Negros UdeG
+── 22:05  Durango vs Leones Negros UdeG
    Durango  VS  Leones Negros UdeG
    [NBA | NBA | PRONTO]
    Servidores: 1
      1. Disney +
         https://streamxhd.sbs/live1.php?stream=disney8
 
-── 21:30  Los Angeles Clippers vs Miami Heat
+── 22:30  Los Angeles Clippers vs Miami Heat
    Los Angeles Clippers  VS  Miami Heat
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass
         https://streamxhd.sbs/live1.php?stream=nba2
 
-── 21:30  NBA League Pass
+── 22:30  NBA League Pass
    [NBA | NBA | FINALIZADO]
    Servidores: 1
      1. NBA League Pass · Live1 manual

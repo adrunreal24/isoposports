@@ -1,10 +1,10 @@
 [
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "AGF vs Sporting Braga",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "AGF",
       "Sporting Braga"
@@ -19,11 +19,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Anderlecht vs Salzburg",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Anderlecht",
       "Salzburg"
@@ -43,11 +43,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Atalanta vs Kairat",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Atalanta",
       "Kairat"
@@ -62,11 +62,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Crvena Zvezda vs Inter Club d'Escaldes",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Crvena Zvezda",
       "Inter Club d'Escaldes"
@@ -81,11 +81,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Crystal Palace vs Hoffenheim",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Crystal Palace",
       "Hoffenheim"
@@ -105,11 +105,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Disney +",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -201,11 +201,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "KuPS vs Gent",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "KuPS",
       "Gent"
@@ -220,11 +220,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Levski Sofia vs Jagiellonia Białystok",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Levski Sofia",
       "Jagiellonia Białystok"
@@ -239,11 +239,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Lillestrøm vs Viktoria Plzeň",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Lillestrøm",
       "Viktoria Plzeň"
@@ -258,11 +258,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Lincoln Red Imps vs Hajduk Split",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Lincoln Red Imps",
       "Hajduk Split"
@@ -277,11 +277,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Midtjylland vs Ajax",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Midtjylland",
       "Ajax"
@@ -296,11 +296,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Milan vs Ferencváros",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Milan",
       "Ferencváros"
@@ -325,11 +325,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Mjällby vs Borac Banja Luka",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Mjällby",
       "Borac Banja Luka"
@@ -344,11 +344,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "NEC vs Omonia Nicosia",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "NEC",
       "Omonia Nicosia"
@@ -368,11 +368,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Real Sociedad vs Olympique Lyonnais",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Real Sociedad",
       "Olympique Lyonnais"
@@ -397,11 +397,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Sparta Praha vs AFC Bournemouth",
-    "deporte": "Europa League",
-    "torneo": "Europa League",
-    "estado": "EN VIVO",
+    "deporte": "NBA",
+    "torneo": "NBA",
+    "estado": "FINALIZADO",
     "equipos": [
       "Sparta Praha",
       "AFC Bournemouth"
@@ -421,11 +421,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Thun vs Hearts",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Thun",
       "Hearts"
@@ -440,11 +440,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "11:45",
+    "hora": "12:45",
     "titulo": "Trabzonspor vs Freiburg",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Trabzonspor",
       "Freiburg"
@@ -459,11 +459,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "12:00",
+    "hora": "13:00",
     "titulo": "Aldosivi vs River Plate",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [
       "Aldosivi",
       "River Plate"
@@ -498,11 +498,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "12:00",
+    "hora": "13:00",
     "titulo": "ESPN Premium",
     "deporte": "",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "FINALIZADO",
     "equipos": [],
     "servidores": [
       {
@@ -514,11 +514,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "AZ vs Juventus",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "AZ",
       "Juventus"
@@ -543,11 +543,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Bayer Leverkusen vs Olympique Marseille",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Bayer Leverkusen",
       "Olympique Marseille"
@@ -572,11 +572,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Benfica vs Lech Poznań",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Benfica",
       "Lech Poznań"
@@ -596,11 +596,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "CSU Craiova vs Egnatia Rrogozhinë",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "CSU Craiova",
       "Egnatia Rrogozhinë"
@@ -615,11 +615,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Celta de Vigo vs Union Saint-Gilloise",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Celta de Vigo",
       "Union Saint-Gilloise"
@@ -639,11 +639,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Celtic vs Beşiktaş",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Celtic",
       "Beşiktaş"
@@ -663,11 +663,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Disney +",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [],
     "servidores": [
       {
@@ -764,11 +764,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Getafe vs Brighton & Hove Albion",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Getafe",
       "Brighton & Hove Albion"
@@ -783,11 +783,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Hapoel Be'er Sheva vs OFI",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Hapoel Be'er Sheva",
       "OFI"
@@ -802,11 +802,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "København vs Iberia 1999",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "København",
       "Iberia 1999"
@@ -821,11 +821,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Lugano vs Kauno Žalgiris",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Lugano",
       "Kauno Žalgiris"
@@ -840,11 +840,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Monaco vs Nordsjælland",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Monaco",
       "Nordsjælland"
@@ -859,11 +859,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Panathinaikos vs CSKA Sofia",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Panathinaikos",
       "CSKA Sofia"
@@ -878,11 +878,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Riga vs Jablonec",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Riga",
       "Jablonec"
@@ -897,11 +897,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Sint-Truiden vs Brann",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Sint-Truiden",
       "Brann"
@@ -916,11 +916,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Sturm Graz vs Celje",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Sturm Graz",
       "Celje"
@@ -935,11 +935,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Sunderland vs Dinamo Zagreb",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Sunderland",
       "Dinamo Zagreb"
@@ -959,11 +959,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Torreense vs Ararat-Armenia",
     "deporte": "Europa League",
     "torneo": "Europa League",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Torreense",
       "Ararat-Armenia"
@@ -978,11 +978,11 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "14:00",
+    "hora": "15:00",
     "titulo": "Twente vs Paphos",
     "deporte": "Fútbol",
     "torneo": "",
-    "estado": "PRONTO",
+    "estado": "EN VIVO",
     "equipos": [
       "Twente",
       "Paphos"
@@ -997,7 +997,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:00",
+    "hora": "17:00",
     "titulo": "HBO Max",
     "deporte": "Copa",
     "torneo": "Copa",
@@ -1013,7 +1013,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:00",
+    "hora": "17:00",
     "titulo": "Rubio Ñu vs Sportivo Luqueño",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1032,7 +1032,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:00",
+    "hora": "17:00",
     "titulo": "Tigo Sports",
     "deporte": "",
     "torneo": "",
@@ -1048,7 +1048,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:00",
+    "hora": "17:00",
     "titulo": "Universidad de Chile vs Deportes Antofagasta",
     "deporte": "Copa",
     "torneo": "Copa",
@@ -1067,7 +1067,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:15",
+    "hora": "17:15",
     "titulo": "Gimnasia La Plata vs Belgrano",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1086,7 +1086,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:15",
+    "hora": "17:15",
     "titulo": "TNT Sports",
     "deporte": "",
     "torneo": "",
@@ -1102,7 +1102,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:30",
+    "hora": "17:30",
     "titulo": "Palmeiras vs Remo",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1126,7 +1126,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "16:30",
+    "hora": "17:30",
     "titulo": "Win Sports",
     "deporte": "",
     "torneo": "",
@@ -1142,7 +1142,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "17:00",
+    "hora": "18:00",
     "titulo": "TNT Sports Chile",
     "deporte": "",
     "torneo": "",
@@ -1158,7 +1158,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "17:00",
+    "hora": "18:00",
     "titulo": "Universidad de Concepción vs O'Higgins",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1177,7 +1177,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "18:00",
+    "hora": "19:00",
     "titulo": "DSports Eventos",
     "deporte": "Copa",
     "torneo": "Copa",
@@ -1193,7 +1193,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "18:00",
+    "hora": "19:00",
     "titulo": "Independiente del Valle vs Delfín",
     "deporte": "Copa",
     "torneo": "Copa",
@@ -1212,7 +1212,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "18:00",
+    "hora": "19:00",
     "titulo": "Unión Magdalena vs Independiente Yumbo",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1231,7 +1231,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "18:00",
+    "hora": "19:00",
     "titulo": "Win Sports +",
     "deporte": "",
     "torneo": "",
@@ -1247,7 +1247,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "18:30",
+    "hora": "19:30",
     "titulo": "Cruzeiro vs Bahia",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1271,7 +1271,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "18:30",
+    "hora": "19:30",
     "titulo": "Win Sports",
     "deporte": "",
     "torneo": "",
@@ -1287,7 +1287,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
     "deporte": "NFL",
     "torneo": "NFL",
@@ -1311,7 +1311,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "Cancún vs Piratas",
     "deporte": "Fútbol",
     "torneo": "",
@@ -1330,7 +1330,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "Disney +",
     "deporte": "",
     "torneo": "",
@@ -1346,7 +1346,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "ESPN 5",
     "deporte": "NFL",
     "torneo": "NFL",
@@ -1362,7 +1362,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "Memphis Grizzlies vs Indiana Pacers",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1381,7 +1381,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "NBA League Pass",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1407,7 +1407,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "New Orleans Pelicans vs Utah Jazz",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1426,7 +1426,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:00",
+    "hora": "20:00",
     "titulo": "Oklahoma City Thunder vs Cleveland Cavaliers",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1445,7 +1445,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:30",
+    "hora": "20:30",
     "titulo": "Houston Rockets vs Minnesota Timberwolves",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1464,7 +1464,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "19:30",
+    "hora": "20:30",
     "titulo": "NBA League Pass",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1480,7 +1480,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "20:00",
+    "hora": "21:00",
     "titulo": "Denver Nuggets vs Toronto Raptors",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1499,7 +1499,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "20:00",
+    "hora": "21:00",
     "titulo": "ESPN 5",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1515,7 +1515,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "20:00",
+    "hora": "21:00",
     "titulo": "NBA League Pass",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1541,7 +1541,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "20:00",
+    "hora": "21:00",
     "titulo": "Phoenix Suns vs Portland Trail Blazers",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1560,7 +1560,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "20:30",
+    "hora": "21:30",
     "titulo": "ESPN 2",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1576,7 +1576,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "20:30",
+    "hora": "21:30",
     "titulo": "San Antonio Spurs vs Dallas Mavericks",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1600,7 +1600,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "21:00",
+    "hora": "22:00",
     "titulo": "NBA League Pass",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1621,7 +1621,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "21:00",
+    "hora": "22:00",
     "titulo": "Sacramento Kings vs Los Angeles Lakers",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1640,7 +1640,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "21:05",
+    "hora": "22:05",
     "titulo": "Disney +",
     "deporte": "",
     "torneo": "",
@@ -1656,7 +1656,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "21:05",
+    "hora": "22:05",
     "titulo": "Durango vs Leones Negros UdeG",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1675,7 +1675,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "21:30",
+    "hora": "22:30",
     "titulo": "Los Angeles Clippers vs Miami Heat",
     "deporte": "NBA",
     "torneo": "NBA",
@@ -1694,7 +1694,7 @@
     "fecha": "2026-11-05"
   },
   {
-    "hora": "21:30",
+    "hora": "22:30",
     "titulo": "NBA League Pass",
     "deporte": "NBA",
     "torneo": "NBA",
