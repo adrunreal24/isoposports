@@ -3,8 +3,8 @@ Embed Live Sports - Agenda
 Embed Live Sports
 Centro de eventos
 Soporte
-22:45:08
-America/New York
+03:27:45
+America/Denver
 🛡️
 Verificador de dominios
 DOMINIOS DISPONIBLES
@@ -22,379 +22,27 @@ Live sports · Eventos en vivo
 Embed Live Sports
 Agenda
 Eventos
-58
+49
 Deportes
 3
 En vivo
-9
+0
 Actualizar
 🌐 Todos
-58
+49
 ⚽
             Football
 46
 🏀
             Basketball
-11
+2
 🏈
             American Football
 1
 ◆
 Agenda por días
-58 eventos
+49 eventos
 HOY
-Miércoles, 04 de noviembre de 2026
-9
-                  eventos
-New Orleans Pelicans
-VS
-Utah Jazz
-EN VIVO
-20:00
-NE
-VS
-UT
-NBA
-NBA
-New Orleans Pelicans vs Utah Jazz
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba6
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-20:00
-EN VIVO
-New Orleans Pelicans vs Utah Jazz
-miércoles, 04 de noviembre, 20:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba6
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba6" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-New Orleans Pelicans vs Utah Jazz
-Cerrar
-Memphis Grizzlies
-VS
-Indiana Pacers
-EN VIVO
-20:00
-ME
-VS
-IN
-NBA
-NBA
-Memphis Grizzlies vs Indiana Pacers
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba7
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-20:00
-EN VIVO
-Memphis Grizzlies vs Indiana Pacers
-miércoles, 04 de noviembre, 20:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba7
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Memphis Grizzlies vs Indiana Pacers
-Cerrar
-Oklahoma City Thunder
-VS
-Cleveland Cavaliers
-EN VIVO
-20:00
-OK
-VS
-CL
-NBA
-NBA
-Oklahoma City Thunder vs Cleveland Cavaliers
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba8
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-20:00
-EN VIVO
-Oklahoma City Thunder vs Cleveland Cavaliers
-miércoles, 04 de noviembre, 20:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba8
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba8" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Oklahoma City Thunder vs Cleveland Cavaliers
-Cerrar
-Houston Rockets
-VS
-Minnesota Timberwolves
-EN VIVO
-20:30
-HO
-VS
-MI
-NBA
-NBA
-Houston Rockets vs Minnesota Timberwolves
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba9
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-20:30
-EN VIVO
-Houston Rockets vs Minnesota Timberwolves
-miércoles, 04 de noviembre, 20:30
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba9
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba9" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Houston Rockets vs Minnesota Timberwolves
-Cerrar
-Phoenix Suns
-VS
-Portland Trail Blazers
-EN VIVO
-21:00
-PH
-VS
-PO
-NBA
-NBA
-Phoenix Suns vs Portland Trail Blazers
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba10
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-21:00
-EN VIVO
-Phoenix Suns vs Portland Trail Blazers
-miércoles, 04 de noviembre, 21:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba10
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba10" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Phoenix Suns vs Portland Trail Blazers
-Cerrar
-Denver Nuggets
-VS
-Toronto Raptors
-EN VIVO
-21:00
-DE
-VS
-TO
-NBA
-NBA
-Denver Nuggets vs Toronto Raptors
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba11
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-21:00
-EN VIVO
-Denver Nuggets vs Toronto Raptors
-miércoles, 04 de noviembre, 21:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba11
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba11" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Denver Nuggets vs Toronto Raptors
-Cerrar
-San Antonio Spurs
-VS
-Dallas Mavericks
-EN VIVO
-21:30
-SA
-VS
-DA
-NBA
-NBA
-San Antonio Spurs vs Dallas Mavericks
-EN VIVO
-Servidores disponibles
-2
-1
-ESPN 2
-https://streamxhd.sbs/live1.php?stream=espn2
-Ver aquí
-Copiar
-2
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba12
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-21:30
-EN VIVO
-San Antonio Spurs vs Dallas Mavericks
-miércoles, 04 de noviembre, 21:30
-Servidores disponibles
-ESPN 2
-NBA League Pass
-Servidor
-ESPN 2 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn2
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-San Antonio Spurs vs Dallas Mavericks
-Cerrar
-Sacramento Kings
-VS
-Los Angeles Lakers
-EN VIVO
-22:00
-SA
-VS
-LO
-NBA
-NBA
-Sacramento Kings vs Los Angeles Lakers
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba1
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-22:00
-EN VIVO
-Sacramento Kings vs Los Angeles Lakers
-miércoles, 04 de noviembre, 22:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba1
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Sacramento Kings vs Los Angeles Lakers
-Cerrar
-Los Angeles Clippers
-VS
-Miami Heat
-EN VIVO
-22:30
-LO
-VS
-MI
-NBA
-NBA
-Los Angeles Clippers vs Miami Heat
-EN VIVO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba2
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-22:30
-EN VIVO
-Los Angeles Clippers vs Miami Heat
-miércoles, 04 de noviembre, 22:30
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba2
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Los Angeles Clippers vs Miami Heat
-Cerrar
-MAÑANA
 Jueves, 05 de noviembre de 2026
 49
                   eventos
@@ -402,7 +50,7 @@ Sparta Praha
 VS
 AFC Bournemouth
 PRONTO
-12:45
+10:45
 SP
 VS
 AF
@@ -425,10 +73,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Sparta Praha vs AFC Bournemouth
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 ESPN 2
@@ -446,7 +94,7 @@ Real Sociedad
 VS
 Olympique Lyonnais
 PRONTO
-12:45
+10:45
 RE
 VS
 OL
@@ -474,10 +122,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Real Sociedad vs Olympique Lyonnais
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 ESPN 3
@@ -496,7 +144,7 @@ NEC
 VS
 Omonia Nicosia
 PRONTO
-12:45
+10:45
 NE
 VS
 OM
@@ -519,10 +167,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 NEC vs Omonia Nicosia
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 ESPN 4
@@ -540,7 +188,7 @@ Lillestrøm
 VS
 Viktoria Plzeň
 PRONTO
-12:45
+10:45
 LI
 VS
 VI
@@ -558,10 +206,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Lillestrøm vs Viktoria Plzeň
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -578,7 +226,7 @@ Levski Sofia
 VS
 Jagiellonia Białystok
 PRONTO
-12:45
+10:45
 LE
 VS
 JA
@@ -596,10 +244,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Levski Sofia vs Jagiellonia Białystok
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -616,7 +264,7 @@ Crystal Palace
 VS
 Hoffenheim
 PRONTO
-12:45
+10:45
 CR
 VS
 HO
@@ -639,10 +287,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Crystal Palace vs Hoffenheim
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 ESPN 2
@@ -660,7 +308,7 @@ Anderlecht
 VS
 Salzburg
 PRONTO
-12:45
+10:45
 AN
 VS
 SA
@@ -683,10 +331,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Anderlecht vs Salzburg
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 ESPN 5
@@ -704,7 +352,7 @@ Milan
 VS
 Ferencváros
 PRONTO
-12:45
+10:45
 MI
 VS
 FE
@@ -732,10 +380,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-12:45
+10:45
 PRONTO
 Milan vs Ferencváros
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 ESPN
@@ -754,7 +402,7 @@ Trabzonspor
 VS
 Freiburg
 PRONTO
-12:45
+10:45
 TR
 VS
 FR
@@ -772,10 +420,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Trabzonspor vs Freiburg
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -792,7 +440,7 @@ Midtjylland
 VS
 Ajax
 PRONTO
-12:45
+10:45
 MI
 VS
 AJ
@@ -810,10 +458,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Midtjylland vs Ajax
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -830,7 +478,7 @@ Atalanta
 VS
 Kairat
 PRONTO
-12:45
+10:45
 AT
 VS
 KA
@@ -848,10 +496,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Atalanta vs Kairat
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -868,7 +516,7 @@ AGF
 VS
 Sporting Braga
 PRONTO
-12:45
+10:45
 AG
 VS
 SP
@@ -886,10 +534,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 AGF vs Sporting Braga
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -906,7 +554,7 @@ Thun
 VS
 Hearts
 PRONTO
-12:45
+10:45
 TH
 VS
 HE
@@ -924,10 +572,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Thun vs Hearts
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -944,7 +592,7 @@ KuPS
 VS
 Gent
 PRONTO
-12:45
+10:45
 KU
 VS
 GE
@@ -962,10 +610,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 KuPS vs Gent
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -982,7 +630,7 @@ Crvena Zvezda
 VS
 Inter Club d'Escaldes
 PRONTO
-12:45
+10:45
 CR
 VS
 IN
@@ -1000,10 +648,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Crvena Zvezda vs Inter Club d'Escaldes
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -1020,7 +668,7 @@ Lincoln Red Imps
 VS
 Hajduk Split
 PRONTO
-12:45
+10:45
 LI
 VS
 HA
@@ -1038,10 +686,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Lincoln Red Imps vs Hajduk Split
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -1058,7 +706,7 @@ Mjällby
 VS
 Borac Banja Luka
 PRONTO
-12:45
+10:45
 MJ
 VS
 BO
@@ -1076,10 +724,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-12:45
+10:45
 PRONTO
 Mjällby vs Borac Banja Luka
-jueves, 05 de noviembre, 12:45
+jueves, 05 de noviembre, 10:45
 Servidores disponibles
 Disney +
 Servidor
@@ -1096,7 +744,7 @@ Aldosivi
 VS
 River Plate
 PRONTO
-13:00
+11:00
 AL
 VS
 RI
@@ -1136,10 +784,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-13:00
+11:00
 PRONTO
 Aldosivi vs River Plate
-jueves, 05 de noviembre, 13:00
+jueves, 05 de noviembre, 11:00
 Servidores disponibles
 ESPN Premium
 TNT Sports
@@ -1160,7 +808,7 @@ Torreense
 VS
 Ararat-Armenia
 PRONTO
-15:00
+13:00
 TO
 VS
 AR
@@ -1178,10 +826,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Torreense vs Ararat-Armenia
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1198,7 +846,7 @@ AZ
 VS
 Juventus
 PRONTO
-15:00
+13:00
 AZ
 VS
 JU
@@ -1226,10 +874,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 AZ vs Juventus
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 ESPN
@@ -1248,7 +896,7 @@ Sunderland
 VS
 Dinamo Zagreb
 PRONTO
-15:00
+13:00
 SU
 VS
 DI
@@ -1271,10 +919,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Sunderland vs Dinamo Zagreb
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 ESPN 7
@@ -1292,7 +940,7 @@ Sturm Graz
 VS
 Celje
 PRONTO
-15:00
+13:00
 ST
 VS
 CE
@@ -1310,10 +958,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Sturm Graz vs Celje
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1330,7 +978,7 @@ Hapoel Be'er Sheva
 VS
 OFI
 PRONTO
-15:00
+13:00
 HA
 VS
 OF
@@ -1348,10 +996,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Hapoel Be'er Sheva vs OFI
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1368,7 +1016,7 @@ Celtic
 VS
 Beşiktaş
 PRONTO
-15:00
+13:00
 CE
 VS
 BE
@@ -1391,10 +1039,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Celtic vs Beşiktaş
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 ESPN 5
@@ -1412,7 +1060,7 @@ Celta de Vigo
 VS
 Union Saint-Gilloise
 PRONTO
-15:00
+13:00
 CE
 VS
 UN
@@ -1435,10 +1083,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Celta de Vigo vs Union Saint-Gilloise
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 ESPN 4
@@ -1456,7 +1104,7 @@ Benfica
 VS
 Lech Poznań
 PRONTO
-15:00
+13:00
 BE
 VS
 LE
@@ -1479,10 +1127,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Benfica vs Lech Poznań
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 ESPN 2
@@ -1500,7 +1148,7 @@ Bayer Leverkusen
 VS
 Olympique Marseille
 PRONTO
-15:00
+13:00
 BA
 VS
 OL
@@ -1528,10 +1176,10 @@ Copiar
 ⚽
                   Football
 UEFA Europa League
-15:00
+13:00
 PRONTO
 Bayer Leverkusen vs Olympique Marseille
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 ESPN 3
@@ -1550,7 +1198,7 @@ Monaco
 VS
 Nordsjælland
 PRONTO
-15:00
+13:00
 MO
 VS
 NO
@@ -1568,10 +1216,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Monaco vs Nordsjælland
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1588,7 +1236,7 @@ Getafe
 VS
 Brighton & Hove Albion
 PRONTO
-15:00
+13:00
 GE
 VS
 BR
@@ -1606,10 +1254,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Getafe vs Brighton & Hove Albion
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1626,7 +1274,7 @@ Panathinaikos
 VS
 CSKA Sofia
 PRONTO
-15:00
+13:00
 PA
 VS
 CS
@@ -1644,10 +1292,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Panathinaikos vs CSKA Sofia
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1664,7 +1312,7 @@ Twente
 VS
 Paphos
 PRONTO
-15:00
+13:00
 TW
 VS
 PA
@@ -1682,10 +1330,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Twente vs Paphos
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1702,7 +1350,7 @@ København
 VS
 Iberia 1999
 PRONTO
-15:00
+13:00
 KØ
 VS
 IB
@@ -1720,10 +1368,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 København vs Iberia 1999
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1740,7 +1388,7 @@ Sint-Truiden
 VS
 Brann
 PRONTO
-15:00
+13:00
 SI
 VS
 BR
@@ -1758,10 +1406,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Sint-Truiden vs Brann
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1778,7 +1426,7 @@ Lugano
 VS
 Kauno Žalgiris
 PRONTO
-15:00
+13:00
 LU
 VS
 KA
@@ -1796,10 +1444,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Lugano vs Kauno Žalgiris
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1816,7 +1464,7 @@ Riga
 VS
 Jablonec
 PRONTO
-15:00
+13:00
 RI
 VS
 JA
@@ -1834,10 +1482,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 Riga vs Jablonec
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1854,7 +1502,7 @@ CSU Craiova
 VS
 Egnatia Rrogozhinë
 PRONTO
-15:00
+13:00
 CS
 VS
 EG
@@ -1872,10 +1520,10 @@ Copiar
 ⚽
                   Football
 UEFA Conference League
-15:00
+13:00
 PRONTO
 CSU Craiova vs Egnatia Rrogozhinë
-jueves, 05 de noviembre, 15:00
+jueves, 05 de noviembre, 13:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1892,7 +1540,7 @@ Rubio Ñu
 VS
 Sportivo Luqueño
 PRONTO
-17:00
+15:00
 RU
 VS
 SP
@@ -1910,10 +1558,10 @@ Copiar
 ⚽
                   Football
 Primera División
-17:00
+15:00
 PRONTO
 Rubio Ñu vs Sportivo Luqueño
-jueves, 05 de noviembre, 17:00
+jueves, 05 de noviembre, 15:00
 Servidores disponibles
 Tigo Sports
 Servidor
@@ -1930,7 +1578,7 @@ Universidad de Chile
 VS
 Deportes Antofagasta
 PRONTO
-17:00
+15:00
 UN
 VS
 DE
@@ -1950,10 +1598,10 @@ CH
 ⚽
                   Football
 Copa Chile
-17:00
+15:00
 PRONTO
 Universidad de Chile vs Deportes Antofagasta
-jueves, 05 de noviembre, 17:00
+jueves, 05 de noviembre, 15:00
 Servidores disponibles
 HBO Max
 Servidor
@@ -1970,7 +1618,7 @@ Gimnasia La Plata
 VS
 Belgrano
 PRONTO
-17:15
+15:15
 GI
 VS
 BE
@@ -1990,10 +1638,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-17:15
+15:15
 PRONTO
 Gimnasia La Plata vs Belgrano
-jueves, 05 de noviembre, 17:15
+jueves, 05 de noviembre, 15:15
 Servidores disponibles
 TNT Sports
 Servidor
@@ -2010,7 +1658,7 @@ Palmeiras
 VS
 Remo
 PRONTO
-17:30
+15:30
 PA
 VS
 RE
@@ -2035,10 +1683,10 @@ BR
 ⚽
                   Football
 Brasileirão
-17:30
+15:30
 PRONTO
 Palmeiras vs Remo
-jueves, 05 de noviembre, 17:30
+jueves, 05 de noviembre, 15:30
 Servidores disponibles
 Win Sports
 Premiere 1
@@ -2056,7 +1704,7 @@ Universidad de Concepción
 VS
 O'Higgins
 PRONTO
-18:00
+16:00
 UN
 VS
 O'
@@ -2076,10 +1724,10 @@ CH
 ⚽
                   Football
 Liga Chile
-18:00
+16:00
 PRONTO
 Universidad de Concepción vs O'Higgins
-jueves, 05 de noviembre, 18:00
+jueves, 05 de noviembre, 16:00
 Servidores disponibles
 TNT Sports Chile
 Servidor
@@ -2096,7 +1744,7 @@ Independiente del Valle
 VS
 Delfín
 PRONTO
-19:00
+17:00
 IN
 VS
 DE
@@ -2116,10 +1764,10 @@ EC
 ⚽
                   Football
 Copa Ecuador
-19:00
+17:00
 PRONTO
 Independiente del Valle vs Delfín
-jueves, 05 de noviembre, 19:00
+jueves, 05 de noviembre, 17:00
 Servidores disponibles
 DSports Eventos
 Servidor
@@ -2136,7 +1784,7 @@ Unión Magdalena
 VS
 Independiente Yumbo
 PRONTO
-19:00
+17:00
 UN
 VS
 IN
@@ -2156,10 +1804,10 @@ CO
 ⚽
                   Football
 Torneo BetPlay
-19:00
+17:00
 PRONTO
 Unión Magdalena vs Independiente Yumbo
-jueves, 05 de noviembre, 19:00
+jueves, 05 de noviembre, 17:00
 Servidores disponibles
 Win Sports +
 Servidor
@@ -2176,7 +1824,7 @@ Cruzeiro
 VS
 Bahia
 PRONTO
-19:30
+17:30
 CR
 VS
 BA
@@ -2201,10 +1849,10 @@ BR
 ⚽
                   Football
 Brasileirão
-19:30
+17:30
 PRONTO
 Cruzeiro vs Bahia
-jueves, 05 de noviembre, 19:30
+jueves, 05 de noviembre, 17:30
 Servidores disponibles
 Win Sports
 Prime Video
@@ -2222,7 +1870,7 @@ Cancún
 VS
 Piratas
 PRONTO
-20:00
+18:00
 CA
 VS
 PI
@@ -2242,10 +1890,10 @@ MX
 ⚽
                   Football
 Liga de Expansión MX
-20:00
+18:00
 PRONTO
 Cancún vs Piratas
-jueves, 05 de noviembre, 20:00
+jueves, 05 de noviembre, 18:00
 Servidores disponibles
 Disney +
 Servidor
@@ -2258,11 +1906,14 @@ Copiar iframe
 Ver iframe
 Cancún vs Piratas
 Cerrar
-NFL
-Baltimore Ravens vs Jacksonville Jaguars
+Baltimore Ravens
+VS
+Jacksonville Jaguars
 PRONTO
-20:00
-🏈
+18:00
+BA
+VS
+JA
 NFL
 NFL
 Baltimore Ravens vs Jacksonville Jaguars
@@ -2282,10 +1933,10 @@ Copiar
 🏈
                   American Football
 NFL
-20:00
+18:00
 PRONTO
 Baltimore Ravens vs Jacksonville Jaguars
-jueves, 05 de noviembre, 20:00
+jueves, 05 de noviembre, 18:00
 Servidores disponibles
 ESPN 5
 Fox Sports 3 AR
@@ -2301,7 +1952,7 @@ Baltimore Ravens vs Jacksonville Jaguars
 Cerrar
 NBA
 PRONTO
-21:00
+19:00
 🏀
 NBA
 NBA
@@ -2317,10 +1968,10 @@ Copiar
 🏀
                   Basketball
 NBA
-21:00
+19:00
 PRONTO
 Phoenix Suns vs Orlando Magic
-jueves, 05 de noviembre, 21:00
+jueves, 05 de noviembre, 19:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -2335,7 +1986,7 @@ Phoenix Suns vs Orlando Magic
 Cerrar
 NBA
 PRONTO
-22:00
+20:00
 🏀
 NBA
 NBA
@@ -2351,10 +2002,10 @@ Copiar
 🏀
                   Basketball
 NBA
-22:00
+20:00
 PRONTO
 Golden State Warriors vs Miami Heat
-jueves, 05 de noviembre, 22:00
+jueves, 05 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -2371,7 +2022,7 @@ Durango
 VS
 Leones Negros UdeG
 PRONTO
-22:05
+20:05
 DU
 VS
 LE
@@ -2391,10 +2042,10 @@ MX
 ⚽
                   Football
 Liga de Expansión MX
-22:05
+20:05
 PRONTO
 Durango vs Leones Negros UdeG
-jueves, 05 de noviembre, 22:05
+jueves, 05 de noviembre, 20:05
 Servidores disponibles
 Disney +
 Servidor
@@ -2406,5 +2057,360 @@ Copiar URL
 Copiar iframe
 Ver iframe
 Durango vs Leones Negros UdeG
+Cerrar
+■
+Finalizados
+9 eventos
+AYER
+Miércoles, 04 de noviembre de 2026
+9
+                  eventos
+New Orleans Pelicans
+VS
+Utah Jazz
+FINALIZADO
+18:00
+NE
+VS
+UT
+NBA
+NBA
+New Orleans Pelicans vs Utah Jazz
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba6
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+18:00
+FINALIZADO
+New Orleans Pelicans vs Utah Jazz
+miércoles, 04 de noviembre, 18:00
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba6
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba6" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+New Orleans Pelicans vs Utah Jazz
+Cerrar
+Memphis Grizzlies
+VS
+Indiana Pacers
+FINALIZADO
+18:00
+ME
+VS
+IN
+NBA
+NBA
+Memphis Grizzlies vs Indiana Pacers
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba7
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+18:00
+FINALIZADO
+Memphis Grizzlies vs Indiana Pacers
+miércoles, 04 de noviembre, 18:00
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba7
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Memphis Grizzlies vs Indiana Pacers
+Cerrar
+Oklahoma City Thunder
+VS
+Cleveland Cavaliers
+FINALIZADO
+18:00
+OK
+VS
+CL
+NBA
+NBA
+Oklahoma City Thunder vs Cleveland Cavaliers
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba8
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+18:00
+FINALIZADO
+Oklahoma City Thunder vs Cleveland Cavaliers
+miércoles, 04 de noviembre, 18:00
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba8
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba8" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Oklahoma City Thunder vs Cleveland Cavaliers
+Cerrar
+Houston Rockets
+VS
+Minnesota Timberwolves
+FINALIZADO
+18:30
+HO
+VS
+MI
+NBA
+NBA
+Houston Rockets vs Minnesota Timberwolves
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba9
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+18:30
+FINALIZADO
+Houston Rockets vs Minnesota Timberwolves
+miércoles, 04 de noviembre, 18:30
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba9
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba9" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Houston Rockets vs Minnesota Timberwolves
+Cerrar
+Phoenix Suns
+VS
+Portland Trail Blazers
+FINALIZADO
+19:00
+PH
+VS
+PO
+NBA
+NBA
+Phoenix Suns vs Portland Trail Blazers
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba10
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+19:00
+FINALIZADO
+Phoenix Suns vs Portland Trail Blazers
+miércoles, 04 de noviembre, 19:00
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba10
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba10" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Phoenix Suns vs Portland Trail Blazers
+Cerrar
+Denver Nuggets
+VS
+Toronto Raptors
+FINALIZADO
+19:00
+DE
+VS
+TO
+NBA
+NBA
+Denver Nuggets vs Toronto Raptors
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba11
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+19:00
+FINALIZADO
+Denver Nuggets vs Toronto Raptors
+miércoles, 04 de noviembre, 19:00
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba11
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba11" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Denver Nuggets vs Toronto Raptors
+Cerrar
+San Antonio Spurs
+VS
+Dallas Mavericks
+FINALIZADO
+19:30
+SA
+VS
+DA
+NBA
+NBA
+San Antonio Spurs vs Dallas Mavericks
+FINALIZADO
+Servidores disponibles
+2
+1
+ESPN 2
+https://streamxhd.sbs/live1.php?stream=espn2
+Ver aquí
+Copiar
+2
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba12
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+19:30
+FINALIZADO
+San Antonio Spurs vs Dallas Mavericks
+miércoles, 04 de noviembre, 19:30
+Servidores disponibles
+ESPN 2
+NBA League Pass
+Servidor
+ESPN 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn2
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+San Antonio Spurs vs Dallas Mavericks
+Cerrar
+Sacramento Kings
+VS
+Los Angeles Lakers
+FINALIZADO
+20:00
+SA
+VS
+LO
+NBA
+NBA
+Sacramento Kings vs Los Angeles Lakers
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba1
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+20:00
+FINALIZADO
+Sacramento Kings vs Los Angeles Lakers
+miércoles, 04 de noviembre, 20:00
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba1
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Sacramento Kings vs Los Angeles Lakers
+Cerrar
+Los Angeles Clippers
+VS
+Miami Heat
+FINALIZADO
+20:30
+LO
+VS
+MI
+NBA
+NBA
+Los Angeles Clippers vs Miami Heat
+FINALIZADO
+Servidores disponibles
+1
+1
+NBA League Pass
+https://streamxhd.sbs/live1.php?stream=nba2
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+20:30
+FINALIZADO
+Los Angeles Clippers vs Miami Heat
+miércoles, 04 de noviembre, 20:30
+Servidores disponibles
+NBA League Pass
+Servidor
+NBA League Pass · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba2
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Los Angeles Clippers vs Miami Heat
 Cerrar
 Copiado
