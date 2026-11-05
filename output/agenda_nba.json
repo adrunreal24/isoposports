@@ -1,68 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-04T20:33:47Z",
-  "total": 12,
+  "fecha_actualizacion": "2026-11-05T03:43:03Z",
+  "total": 11,
   "eventos": [
     {
-      "id": "evt_44_1793824426",
-      "titulo": "Boston Celtics vs Milwaukee Bucks",
-      "hora": "21:30",
-      "torneo": "NBA / BALONCESTO",
-      "servidores": [
-        {
-          "nombre": "NBA4",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
-        },
-        {
-          "nombre": "NBA4",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
-        }
-      ]
-    },
-    {
-      "id": "evt_45_1793824426",
-      "titulo": "Boston Celtics vs Milwaukee Bucks",
-      "hora": "21:30",
-      "torneo": "NBA / BALONCESTO",
-      "servidores": [
-        {
-          "nombre": "NBA5",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
-        }
-      ]
-    },
-    {
-      "id": "evt_46_1793824426",
-      "titulo": "New York Knicks vs Chicago Bulls",
-      "hora": "21:30",
-      "torneo": "NBA / BALONCESTO",
-      "servidores": [
-        {
-          "nombre": "NBA5",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
-        },
-        {
-          "nombre": "NBA5",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
-        }
-      ]
-    },
-    {
-      "id": "evt_47_1793824426",
-      "titulo": "New York Knicks vs Chicago Bulls",
-      "hora": "22:00",
-      "torneo": "NBA / BALONCESTO",
-      "servidores": [
-        {
-          "nombre": "NBA6",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
-        }
-      ]
-    },
-    {
-      "id": "evt_62_1793824426",
+      "id": "evt_10",
       "titulo": "Phoenix Suns vs Portland Trail Blazers",
       "hora": "23:00",
-      "torneo": "NBA / BALONCESTO",
       "servidores": [
         {
           "nombre": "NBA10",
@@ -71,26 +14,18 @@
         {
           "nombre": "NBA10",
           "url": "https://streamxhd.sbs/live1.php?stream=nba10"
-        }
-      ]
-    },
-    {
-      "id": "evt_63_1793824426",
-      "titulo": "Phoenix Suns vs Portland Trail Blazers",
-      "hora": "23:00",
-      "torneo": "NBA / BALONCESTO",
-      "servidores": [
+        },
         {
           "nombre": "NBA11",
           "url": "https://streamxhd.sbs/live1.php?stream=nba11"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_66_1793824426",
+      "id": "evt_14",
       "titulo": "San Antonio Spurs vs Dallas Mavericks",
       "hora": "23:30",
-      "torneo": "NBA / BALONCESTO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -100,25 +35,25 @@
           "nombre": "ESPN 2",
           "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_67_1793824426",
+      "id": "evt_15",
       "titulo": "San Antonio Spurs vs Dallas Mavericks",
       "hora": "00:00",
-      "torneo": "NBA / BALONCESTO",
       "servidores": [
         {
           "nombre": "NBA1",
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_68_1793824426",
+      "id": "evt_16",
       "titulo": "Sacramento Kings vs Los Angeles Lakers",
       "hora": "00:00",
-      "torneo": "NBA / BALONCESTO",
       "servidores": [
         {
           "nombre": "NBA1",
@@ -128,25 +63,25 @@
           "nombre": "NBA1",
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_69_1793824426",
+      "id": "evt_17",
       "titulo": "Sacramento Kings vs Los Angeles Lakers",
       "hora": "00:30",
-      "torneo": "NBA / BALONCESTO",
       "servidores": [
         {
           "nombre": "NBA2",
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_70_1793824426",
+      "id": "evt_18",
       "titulo": "Los Angeles Clippers vs Miami Heat",
       "hora": "00:30",
-      "torneo": "NBA / BALONCESTO",
       "servidores": [
         {
           "nombre": "NBA2",
@@ -156,19 +91,80 @@
           "nombre": "NBA2",
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_71_1793824426",
+      "id": "evt_19",
       "titulo": "Los Angeles Clippers vs Miami Heat",
-      "hora": "09:15",
-      "torneo": "NBA / BALONCESTO",
+      "hora": "14:45",
       "servidores": [
         {
           "nombre": "DISNEY+ 1",
           "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
-      ]
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_112",
+      "titulo": "Phoenix Suns vs Orlando Magic",
+      "hora": "23:00",
+      "servidores": [
+        {
+          "nombre": "NBA1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        },
+        {
+          "nombre": "NBA1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_113",
+      "titulo": "Phoenix Suns vs Orlando Magic",
+      "hora": "00:00",
+      "servidores": [
+        {
+          "nombre": "NBA2",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_114",
+      "titulo": "Golden State Warriors vs Miami Heat",
+      "hora": "00:00",
+      "servidores": [
+        {
+          "nombre": "NBA2",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        },
+        {
+          "nombre": "NBA2",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_115",
+      "titulo": "Golden State Warriors vs Miami Heat",
+      "hora": "00:05",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
     }
   ]
 }
