@@ -1,61 +1,9 @@
 {
-  "fecha_actualizacion": "2026-11-06T03:49:39Z",
+  "fecha_actualizacion": "2026-11-06T13:00:25Z",
   "total": 7,
   "eventos": [
     {
-      "id": "evt_4",
-      "titulo": "NBA League Pass",
-      "hora": "23:00",
-      "servidores": [
-        {
-          "nombre": "NBA1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        },
-        {
-          "nombre": "NBA1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_5",
-      "titulo": "NBA League Pass",
-      "hora": "00:00",
-      "servidores": [
-        {
-          "nombre": "NBA2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
-        },
-        {
-          "nombre": "AMAZON2",
-          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
-        },
-        {
-          "nombre": "AMAZON2",
-          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
-        },
-        {
-          "nombre": "NBA9",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba9"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "NBA League Pass",
-      "hora": "00:05",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_62",
+      "id": "evt_54",
       "titulo": "NBA League Pass",
       "hora": "21:00",
       "servidores": [
@@ -75,7 +23,7 @@
       "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_65",
+      "id": "evt_57",
       "titulo": "NBA League Pass",
       "hora": "21:30",
       "servidores": [
@@ -95,7 +43,7 @@
       "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_69",
+      "id": "evt_61",
       "titulo": "NBA League Pass",
       "hora": "22:00",
       "servidores": [
@@ -135,13 +83,65 @@
       "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_87",
+      "id": "evt_79",
       "titulo": "NBA League Pass",
       "hora": "22:06",
       "servidores": [
         {
           "nombre": "UNIVERSO",
           "url": "https://streamxhd.sbs/live1.php?stream=universo"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_86",
+      "titulo": "NBA League Pass",
+      "hora": "00:00",
+      "servidores": [
+        {
+          "nombre": "AMAZON2",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
+        },
+        {
+          "nombre": "AMAZON2",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
+        },
+        {
+          "nombre": "NBA9",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba9"
+        },
+        {
+          "nombre": "NBA2",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_94",
+      "titulo": "NBA League Pass",
+      "hora": "23:00",
+      "servidores": [
+        {
+          "nombre": "NBA1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        },
+        {
+          "nombre": "NBA1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_97",
+      "titulo": "NBA League Pass",
+      "hora": "00:05",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
         }
       ],
       "torneo": "NBA / BALONCESTO"
