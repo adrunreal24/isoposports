@@ -1,10 +1,10 @@
 {
-  "fecha_actualizacion": "2026-11-05T13:33:56Z",
-  "total": 10,
+  "fecha_actualizacion": "2026-11-06T03:49:39Z",
+  "total": 7,
   "eventos": [
     {
-      "id": "evt_94",
-      "titulo": "Phoenix Suns vs Orlando Magic",
+      "id": "evt_4",
+      "titulo": "NBA League Pass",
       "hora": "23:00",
       "servidores": [
         {
@@ -19,20 +19,8 @@
       "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_95",
-      "titulo": "Phoenix Suns vs Orlando Magic",
-      "hora": "00:00",
-      "servidores": [
-        {
-          "nombre": "NBA2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_96",
-      "titulo": "Golden State Warriors vs Miami Heat",
+      "id": "evt_5",
+      "titulo": "NBA League Pass",
       "hora": "00:00",
       "servidores": [
         {
@@ -40,15 +28,23 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         },
         {
-          "nombre": "NBA2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+          "nombre": "AMAZON2",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
+        },
+        {
+          "nombre": "AMAZON2",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
+        },
+        {
+          "nombre": "NBA9",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba9"
         }
       ],
       "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_97",
-      "titulo": "Golden State Warriors vs Miami Heat",
+      "id": "evt_7",
+      "titulo": "NBA League Pass",
       "hora": "00:05",
       "servidores": [
         {
@@ -59,57 +55,9 @@
       "torneo": "NBA / BALONCESTO"
     },
     {
-      "id": "evt_108",
-      "titulo": "Phoenix Suns vs Portland Trail Blazers",
-      "hora": "23:00",
-      "servidores": [
-        {
-          "nombre": "NBA10",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba10"
-        },
-        {
-          "nombre": "NBA10",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba10"
-        },
-        {
-          "nombre": "NBA11",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba11"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_112",
-      "titulo": "San Antonio Spurs vs Dallas Mavericks",
-      "hora": "23:30",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        },
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_113",
-      "titulo": "San Antonio Spurs vs Dallas Mavericks",
-      "hora": "00:00",
-      "servidores": [
-        {
-          "nombre": "NBA1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_114",
-      "titulo": "Sacramento Kings vs Los Angeles Lakers",
-      "hora": "00:00",
+      "id": "evt_62",
+      "titulo": "NBA League Pass",
+      "hora": "21:00",
       "servidores": [
         {
           "nombre": "NBA1",
@@ -118,34 +66,82 @@
         {
           "nombre": "NBA1",
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_115",
-      "titulo": "Sacramento Kings vs Los Angeles Lakers",
-      "hora": "00:30",
-      "servidores": [
-        {
-          "nombre": "NBA2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_116",
-      "titulo": "Los Angeles Clippers vs Miami Heat",
-      "hora": "00:30",
-      "servidores": [
-        {
-          "nombre": "NBA2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         },
         {
           "nombre": "NBA2",
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_65",
+      "titulo": "NBA League Pass",
+      "hora": "21:30",
+      "servidores": [
+        {
+          "nombre": "DISNEY13",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney13"
+        },
+        {
+          "nombre": "AMAZON1",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon1"
+        },
+        {
+          "nombre": "AMAZON1",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon1"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_69",
+      "titulo": "NBA League Pass",
+      "hora": "22:00",
+      "servidores": [
+        {
+          "nombre": "ESPNPREMIUM",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
+        },
+        {
+          "nombre": "DISNEY14",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney14"
+        },
+        {
+          "nombre": "NBA TV 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
+        },
+        {
+          "nombre": "NBA TV 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
+        },
+        {
+          "nombre": "NBA5",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
+        },
+        {
+          "nombre": "NBA6",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
+        },
+        {
+          "nombre": "NBA7",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
+        },
+        {
+          "nombre": "DISNEY+ 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_87",
+      "titulo": "NBA League Pass",
+      "hora": "22:06",
+      "servidores": [
+        {
+          "nombre": "UNIVERSO",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo"
         }
       ],
       "torneo": "NBA / BALONCESTO"
