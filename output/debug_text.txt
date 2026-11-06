@@ -3,8 +3,8 @@ Embed Live Sports - Agenda
 Embed Live Sports
 Centro de eventos
 Soporte
-04:28:35
-America/Chicago
+15:41:00
+America/New York
 🛡️
 Verificador de dominios
 DOMINIOS DISPONIBLES
@@ -22,26 +22,23 @@ Live sports · Eventos en vivo
 Embed Live Sports
 Agenda
 Eventos
-44
+38
 Deportes
-6
+5
 En vivo
-0
+13
 Actualizar
 🌐 Todos
-44
+38
 ⚽
             Football
-26
+24
 🏀
             Basketball
 9
-🏈
-            American Football
-0
 🏎️
             Motor
-7
+3
 🎾
             Tennis
 1
@@ -50,254 +47,19 @@ Actualizar
 1
 ◆
 Agenda por días
-44 eventos
+38 eventos
 HOY
 Viernes, 06 de noviembre de 2026
-44
+38
                   eventos
-MotoGP
-PRONTO
-08:10
-🏎️
-MOTOGP
-MotoGP
-GP Qatar - Práctica Libre Moto3, Moto2 y MotoGP
-PRONTO
-Servidores disponibles
-1
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney4
-Ver aquí
-Copiar
-🏎️
-                  Motor
-MotoGP
-08:10
-PRONTO
-GP Qatar - Práctica Libre Moto3, Moto2 y MotoGP
-viernes, 06 de noviembre, 08:10
-Servidores disponibles
-Disney +
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney4
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-GP Qatar - Práctica Libre Moto3, Moto2 y MotoGP
-Cerrar
-PRONTO
-09:30
-🏎️
-F1
-F1
-GP Brasil - Práctica 1
-PRONTO
-Servidores disponibles
-4
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney1
-Ver aquí
-Copiar
-2
-ESPN 3
-https://streamxhd.sbs/live1.php?stream=espn3
-Ver aquí
-Copiar
-3
-FOX Sports 1 AR
-https://streamxhd.sbs/live1.php?stream=fox1ar
-Ver aquí
-Copiar
-4
-SporTV 3
-https://streamxhd.sbs/live1.php?stream=sporttvbr3
-Ver aquí
-Copiar
-🏎️
-                  Motor
-F1
-09:30
-PRONTO
-GP Brasil - Práctica 1
-viernes, 06 de noviembre, 09:30
-Servidores disponibles
-Disney +
-ESPN 3
-FOX Sports 1 AR
-SporTV 3
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney1
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-GP Brasil - Práctica 1
-Cerrar
-PRONTO
-09:30
-🏎️
-F1
-F1
-GP Brasil - On Board Colapinto
-PRONTO
-Servidores disponibles
-1
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney2
-Ver aquí
-Copiar
-🏎️
-                  Motor
-F1
-09:30
-PRONTO
-GP Brasil - On Board Colapinto
-viernes, 06 de noviembre, 09:30
-Servidores disponibles
-Disney +
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney2
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-GP Brasil - On Board Colapinto
-Cerrar
-PRONTO
-09:30
-🏎️
-F1
-F1
-GP Brasil - On Board Verstappen
-PRONTO
-Servidores disponibles
-1
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney3
-Ver aquí
-Copiar
-🏎️
-                  Motor
-F1
-09:30
-PRONTO
-GP Brasil - On Board Verstappen
-viernes, 06 de noviembre, 09:30
-Servidores disponibles
-Disney +
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney3
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-GP Brasil - On Board Verstappen
-Cerrar
-Eintracht Braunschweig
-VS
-Energie Cottbus
-PRONTO
-11:30
-EI
-VS
-EN
-ALE
-Bundesliga 2
-Eintracht Braunschweig vs Energie Cottbus
-PRONTO
-Servidores disponibles
-1
-1
-FOX Sports 2 AR
-https://streamxhd.sbs/live1.php?stream=fox2ar
-Ver aquí
-Copiar
-⚽
-                  Football
-Bundesliga 2
-11:30
-PRONTO
-Eintracht Braunschweig vs Energie Cottbus
-viernes, 06 de noviembre, 11:30
-Servidores disponibles
-FOX Sports 2 AR
-Servidor
-FOX Sports 2 AR · Live1 manual
-https://streamxhd.sbs/live1.php?stream=fox2ar
-<iframe src="https://streamxhd.sbs/live1.php?stream=fox2ar" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Eintracht Braunschweig vs Energie Cottbus
-Cerrar
-Barracas Central
-VS
-Racing Club
-PRONTO
-12:00
-BA
-VS
-RA
-AR
-AR
-Liga Profesional
-Barracas Central vs Racing Club
-PRONTO
-Servidores disponibles
-2
-1
-ESPN Premium
-https://streamxhd.sbs/live1.php?stream=espnpremium
-Ver aquí
-Copiar
-2
-FOX Deportes USA
-https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
-Ver aquí
-Copiar
-AR
-⚽
-                  Football
-Liga Profesional
-12:00
-PRONTO
-Barracas Central vs Racing Club
-viernes, 06 de noviembre, 12:00
-Servidores disponibles
-ESPN Premium
-FOX Deportes USA
-Servidor
-ESPN Premium · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espnpremium
-<iframe src="https://streamxhd.sbs/live1.php?stream=espnpremium" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Barracas Central vs Racing Club
-Cerrar
 ATP
-PRONTO
-12:00
+EN VIVO
+13:00
 🎾
 ATP
 ATP
 Taylor Fritz vs Carlos Alcaraz
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -308,10 +70,10 @@ Copiar
 🎾
                   Tennis
 ATP
-12:00
-PRONTO
+13:00
+EN VIVO
 Taylor Fritz vs Carlos Alcaraz
-viernes, 06 de noviembre, 12:00
+viernes, 06 de noviembre, 13:00
 Servidores disponibles
 ESPN 2
 Servidor
@@ -324,13 +86,13 @@ Copiar iframe
 Ver iframe
 Taylor Fritz vs Carlos Alcaraz
 Cerrar
-PRONTO
-13:00
+EN VIVO
+14:00
 🏎️
 F1
 F1
 GP Brasil - Práctica 2
-PRONTO
+EN VIVO
 Servidores disponibles
 4
 1
@@ -356,10 +118,10 @@ Copiar
 🏎️
                   Motor
 F1
-13:00
-PRONTO
+14:00
+EN VIVO
 GP Brasil - Práctica 2
-viernes, 06 de noviembre, 13:00
+viernes, 06 de noviembre, 14:00
 Servidores disponibles
 Disney +
 ESPN 3
@@ -375,13 +137,13 @@ Copiar iframe
 Ver iframe
 GP Brasil - Práctica 2
 Cerrar
-PRONTO
-13:00
+EN VIVO
+14:00
 🏎️
 F1
 F1
 GP Brasil - On Board Colapinto
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -392,10 +154,10 @@ Copiar
 🏎️
                   Motor
 F1
-13:00
-PRONTO
+14:00
+EN VIVO
 GP Brasil - On Board Colapinto
-viernes, 06 de noviembre, 13:00
+viernes, 06 de noviembre, 14:00
 Servidores disponibles
 Disney +
 Servidor
@@ -408,13 +170,13 @@ Copiar iframe
 Ver iframe
 GP Brasil - On Board Colapinto
 Cerrar
-PRONTO
-13:00
+EN VIVO
+14:00
 🏎️
 F1
 F1
 GP Brasil - On Board Verstappen
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -425,10 +187,10 @@ Copiar
 🏎️
                   Motor
 F1
-13:00
-PRONTO
+14:00
+EN VIVO
 GP Brasil - On Board Verstappen
-viernes, 06 de noviembre, 13:00
+viernes, 06 de noviembre, 14:00
 Servidores disponibles
 Disney +
 Servidor
@@ -444,15 +206,15 @@ Cerrar
 Hamburger SV
 VS
 Borussia M'gladbach
-PRONTO
-13:30
+EN VIVO
+14:30
 HA
 VS
 BO
 ALE
 Bundesliga
 Hamburger SV vs Borussia M'gladbach
-PRONTO
+EN VIVO
 Servidores disponibles
 2
 1
@@ -468,10 +230,10 @@ Copiar
 ⚽
                   Football
 Bundesliga
-13:30
-PRONTO
+14:30
+EN VIVO
 Hamburger SV vs Borussia M'gladbach
-viernes, 06 de noviembre, 13:30
+viernes, 06 de noviembre, 14:30
 Servidores disponibles
 Disney +
 ESPN 4
@@ -488,8 +250,8 @@ Cerrar
 CD Castellón
 VS
 Eibar
-PRONTO
-13:30
+EN VIVO
+14:30
 CD
 VS
 EI
@@ -497,7 +259,7 @@ ES
 ES
 LaLiga SmartBank
 CD Castellón vs Eibar
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -509,10 +271,10 @@ ES
 ⚽
                   Football
 LaLiga SmartBank
-13:30
-PRONTO
+14:30
+EN VIVO
 CD Castellón vs Eibar
-viernes, 06 de noviembre, 13:30
+viernes, 06 de noviembre, 14:30
 Servidores disponibles
 LaLiga Hypermotion
 Servidor
@@ -528,8 +290,8 @@ Cerrar
 Venezia
 VS
 Udinese
-PRONTO
-13:45
+EN VIVO
+14:45
 VE
 VS
 UD
@@ -537,7 +299,7 @@ IT
 IT
 Serie A
 Venezia vs Udinese
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -549,10 +311,10 @@ IT
 ⚽
                   Football
 Serie A
-13:45
-PRONTO
+14:45
+EN VIVO
 Venezia vs Udinese
-viernes, 06 de noviembre, 13:45
+viernes, 06 de noviembre, 14:45
 Servidores disponibles
 Disney +
 Servidor
@@ -568,8 +330,8 @@ Cerrar
 Toulouse
 VS
 Strasbourg
-PRONTO
-13:45
+EN VIVO
+14:45
 TO
 VS
 ST
@@ -577,7 +339,7 @@ FR
 FRA
 Ligue 1
 Toulouse vs Strasbourg
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -589,10 +351,10 @@ FR
 ⚽
                   Football
 Ligue 1
-13:45
-PRONTO
+14:45
+EN VIVO
 Toulouse vs Strasbourg
-viernes, 06 de noviembre, 13:45
+viernes, 06 de noviembre, 14:45
 Servidores disponibles
 Disney +
 Servidor
@@ -608,8 +370,8 @@ Cerrar
 Oxford City
 VS
 Leicester City
-PRONTO
-13:45
+EN VIVO
+14:45
 OX
 VS
 LE
@@ -617,7 +379,7 @@ GB-ENG
 ENG
 FA Cup
 Oxford City vs Leicester City
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -629,10 +391,10 @@ GB-ENG
 ⚽
                   Football
 FA Cup
-13:45
-PRONTO
+14:45
+EN VIVO
 Oxford City vs Leicester City
-viernes, 06 de noviembre, 13:45
+viernes, 06 de noviembre, 14:45
 Servidores disponibles
 Disney +
 Servidor
@@ -648,8 +410,8 @@ Cerrar
 Everton
 VS
 Coventry City
-PRONTO
-14:00
+EN VIVO
+15:00
 EV
 VS
 CO
@@ -657,7 +419,7 @@ GB-ENG
 ENG
 Premier League
 Everton vs Coventry City
-PRONTO
+EN VIVO
 Servidores disponibles
 2
 1
@@ -674,10 +436,10 @@ GB-ENG
 ⚽
                   Football
 Premier League
-14:00
-PRONTO
+15:00
+EN VIVO
 Everton vs Coventry City
-viernes, 06 de noviembre, 14:00
+viernes, 06 de noviembre, 15:00
 Servidores disponibles
 Universo
 Disney +
@@ -694,8 +456,8 @@ Cerrar
 Sevilla
 VS
 Deportivo Alavés
-PRONTO
-14:00
+EN VIVO
+15:00
 SE
 VS
 DE
@@ -703,7 +465,7 @@ ES
 ES
 LaLiga
 Sevilla vs Deportivo Alavés
-PRONTO
+EN VIVO
 Servidores disponibles
 4
 1
@@ -730,10 +492,10 @@ ES
 ⚽
                   Football
 LaLiga
-14:00
-PRONTO
+15:00
+EN VIVO
 Sevilla vs Deportivo Alavés
-viernes, 06 de noviembre, 14:00
+viernes, 06 de noviembre, 15:00
 Servidores disponibles
 DSports
 ESPN +
@@ -752,8 +514,8 @@ Cerrar
 Atlético Grau
 VS
 Cusco
-PRONTO
-14:00
+EN VIVO
+15:00
 AT
 VS
 CU
@@ -761,7 +523,7 @@ PE
 PE
 Liga 1
 Atlético Grau vs Cusco
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -773,10 +535,10 @@ PE
 ⚽
                   Football
 Liga 1
-14:00
-PRONTO
+15:00
+EN VIVO
 Atlético Grau vs Cusco
-viernes, 06 de noviembre, 14:00
+viernes, 06 de noviembre, 15:00
 Servidores disponibles
 L1 Max
 Servidor
@@ -792,8 +554,8 @@ Cerrar
 Derby County
 VS
 Bolton Wanderers
-PRONTO
-14:00
+EN VIVO
+15:00
 DE
 VS
 BO
@@ -801,7 +563,7 @@ GB-ENG
 ENG
 Championship
 Derby County vs Bolton Wanderers
-PRONTO
+EN VIVO
 Servidores disponibles
 1
 1
@@ -813,10 +575,10 @@ GB-ENG
 ⚽
                   Football
 Championship
-14:00
-PRONTO
+15:00
+EN VIVO
 Derby County vs Bolton Wanderers
-viernes, 06 de noviembre, 14:00
+viernes, 06 de noviembre, 15:00
 Servidores disponibles
 ESPN 7
 Servidor
@@ -833,7 +595,7 @@ Boca Juniors de Cali
 VS
 Envigado
 PRONTO
-15:00
+16:00
 BO
 VS
 EN
@@ -853,10 +615,10 @@ CO
 ⚽
                   Football
 Torneo BetPlay
-15:00
+16:00
 PRONTO
 Boca Juniors de Cali vs Envigado
-viernes, 06 de noviembre, 15:00
+viernes, 06 de noviembre, 16:00
 Servidores disponibles
 Win Sports +
 Servidor
@@ -873,7 +635,7 @@ España
 VS
 Portugal
 PRONTO
-15:30
+16:30
 ES
 VS
 PO
@@ -891,10 +653,10 @@ Copiar
 ⚽
                   Football
 Fútbol Sala
-15:30
+16:30
 PRONTO
 España vs Portugal
-viernes, 06 de noviembre, 15:30
+viernes, 06 de noviembre, 16:30
 Servidores disponibles
 Disney +
 Servidor
@@ -911,7 +673,7 @@ Unión Santa Fe
 VS
 Vélez Sarsfield
 PRONTO
-16:15
+17:15
 UN
 VS
 VÉ
@@ -936,10 +698,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-16:15
+17:15
 PRONTO
 Unión Santa Fe vs Vélez Sarsfield
-viernes, 06 de noviembre, 16:15
+viernes, 06 de noviembre, 17:15
 Servidores disponibles
 Fanatiz 1
 ESPN AR
@@ -957,7 +719,7 @@ San Lorenzo
 VS
 Platense
 PRONTO
-16:15
+17:15
 SA
 VS
 PL
@@ -977,10 +739,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-16:15
+17:15
 PRONTO
 San Lorenzo vs Platense
-viernes, 06 de noviembre, 16:15
+viernes, 06 de noviembre, 17:15
 Servidores disponibles
 ESPN Premium
 Servidor
@@ -997,7 +759,7 @@ Independiente
 VS
 Deportivo Riestra
 PRONTO
-16:15
+17:15
 IN
 VS
 DE
@@ -1017,10 +779,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-16:15
+17:15
 PRONTO
 Independiente vs Deportivo Riestra
-viernes, 06 de noviembre, 16:15
+viernes, 06 de noviembre, 17:15
 Servidores disponibles
 TNT Sports
 Servidor
@@ -1037,7 +799,7 @@ Vitória
 VS
 Fluminense
 PRONTO
-17:00
+18:00
 VI
 VS
 FL
@@ -1062,10 +824,10 @@ BR
 ⚽
                   Football
 Brasileirão
-17:00
+18:00
 PRONTO
 Vitória vs Fluminense
-viernes, 06 de noviembre, 17:00
+viernes, 06 de noviembre, 18:00
 Servidores disponibles
 SporTV 1
 Premiere 1
@@ -1083,7 +845,7 @@ Boyacá Chicó
 VS
 Inter Bogotá
 PRONTO
-17:00
+18:00
 BO
 VS
 IN
@@ -1103,10 +865,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-17:00
+18:00
 PRONTO
 Boyacá Chicó vs Inter Bogotá
-viernes, 06 de noviembre, 17:00
+viernes, 06 de noviembre, 18:00
 Servidores disponibles
 Win Sports +
 Servidor
@@ -1123,7 +885,7 @@ Charlotte Hornets
 VS
 Boston Celtics
 PRONTO
-18:00
+19:00
 CH
 VS
 BO
@@ -1141,10 +903,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:00
+19:00
 PRONTO
 Charlotte Hornets vs Boston Celtics
-viernes, 06 de noviembre, 18:00
+viernes, 06 de noviembre, 19:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1161,7 +923,7 @@ Atlanta Hawks
 VS
 Washington Wizards
 PRONTO
-18:00
+19:00
 AT
 VS
 WA
@@ -1179,10 +941,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:00
+19:00
 PRONTO
 Atlanta Hawks vs Washington Wizards
-viernes, 06 de noviembre, 18:00
+viernes, 06 de noviembre, 19:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1199,7 +961,7 @@ Brasil
 VS
 Argentina
 PRONTO
-18:30
+19:30
 BR
 VS
 AR
@@ -1217,10 +979,10 @@ Copiar
 ⚽
                   Football
 Fútbol Sala
-18:30
+19:30
 PRONTO
 Brasil vs Argentina
-viernes, 06 de noviembre, 18:30
+viernes, 06 de noviembre, 19:30
 Servidores disponibles
 Disney +
 Servidor
@@ -1237,7 +999,7 @@ Cleveland Cavaliers
 VS
 Philadelphia 76ers
 PRONTO
-18:30
+19:30
 CL
 VS
 PH
@@ -1260,10 +1022,10 @@ Copiar
 🏀
                   Basketball
 NBA
-18:30
+19:30
 PRONTO
 Cleveland Cavaliers vs Philadelphia 76ers
-viernes, 06 de noviembre, 18:30
+viernes, 06 de noviembre, 19:30
 Servidores disponibles
 Prime Video
 NBA League Pass
@@ -1281,7 +1043,7 @@ Tigre
 VS
 Sarmiento
 PRONTO
-19:00
+20:00
 TI
 VS
 SA
@@ -1306,10 +1068,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-19:00
+20:00
 PRONTO
 Tigre vs Sarmiento
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 ESPN Premium
 Disney +
@@ -1327,7 +1089,7 @@ Banfield
 VS
 Atlético Tucumán
 PRONTO
-19:00
+20:00
 BA
 VS
 AT
@@ -1347,10 +1109,10 @@ AR
 ⚽
                   Football
 Liga Profesional
-19:00
+20:00
 PRONTO
 Banfield vs Atlético Tucumán
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 TNT Sports
 Servidor
@@ -1367,7 +1129,7 @@ Fortaleza CEIF
 VS
 Medellín
 PRONTO
-19:00
+20:00
 FO
 VS
 ME
@@ -1392,10 +1154,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-19:00
+20:00
 PRONTO
 Fortaleza CEIF vs Medellín
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 Win Sports +
 Win Sports
@@ -1413,7 +1175,7 @@ Atlético San Luis
 VS
 Juárez
 PRONTO
-19:00
+20:00
 AT
 VS
 JU
@@ -1431,10 +1193,10 @@ Copiar
 ⚽
                   Football
 Liga MX
-19:00
+20:00
 PRONTO
 Atlético San Luis vs Juárez
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1451,7 +1213,7 @@ Necaxa
 VS
 Tijuana
 PRONTO
-19:00
+20:00
 NE
 VS
 TI
@@ -1474,10 +1236,10 @@ Copiar
 ⚽
                   Football
 Liga MX
-19:00
+20:00
 PRONTO
 Necaxa vs Tijuana
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 FOX One
 FOX Deportes USA
@@ -1495,7 +1257,7 @@ Milwaukee Bucks
 VS
 Toronto Raptors
 PRONTO
-19:00
+20:00
 MI
 VS
 TO
@@ -1513,10 +1275,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:00
+20:00
 PRONTO
 Milwaukee Bucks vs Toronto Raptors
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1533,7 +1295,7 @@ New Orleans Pelicans
 VS
 Minnesota Timberwolves
 PRONTO
-19:00
+20:00
 NE
 VS
 MI
@@ -1551,10 +1313,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:00
+20:00
 PRONTO
 New Orleans Pelicans vs Minnesota Timberwolves
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1571,7 +1333,7 @@ Dallas Mavericks
 VS
 Utah Jazz
 PRONTO
-19:00
+20:00
 DA
 VS
 UT
@@ -1589,10 +1351,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:00
+20:00
 PRONTO
 Dallas Mavericks vs Utah Jazz
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1609,7 +1371,7 @@ Memphis Grizzlies
 VS
 Oklahoma City Thunder
 PRONTO
-19:00
+20:00
 ME
 VS
 OK
@@ -1627,10 +1389,10 @@ Copiar
 🏀
                   Basketball
 NBA
-19:00
+20:00
 PRONTO
 Memphis Grizzlies vs Oklahoma City Thunder
-viernes, 06 de noviembre, 19:00
+viernes, 06 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1647,7 +1409,7 @@ Guadalajara
 VS
 América
 PRONTO
-19:06
+20:06
 GU
 VS
 AM
@@ -1665,10 +1427,10 @@ Copiar
 ⚽
                   Football
 Liga MX Femenil
-19:06
+20:06
 PRONTO
 Guadalajara vs América
-viernes, 06 de noviembre, 19:06
+viernes, 06 de noviembre, 20:06
 Servidores disponibles
 Universo
 Servidor
@@ -1683,7 +1445,7 @@ Guadalajara vs América
 Cerrar
 ESPN KnockOut - BXSTRS
 PRONTO
-20:00
+21:00
 🥊
 BOX
 ESPN KnockOut - BXSTRS
@@ -1699,10 +1461,10 @@ Copiar
 🥊
                   Boxing
 ESPN KnockOut - BXSTRS
-20:00
+21:00
 PRONTO
 Damián Arce vs Mario Gutiérrez
-viernes, 06 de noviembre, 20:00
+viernes, 06 de noviembre, 21:00
 Servidores disponibles
 ESPN 2
 Servidor
@@ -1719,7 +1481,7 @@ Atlante
 VS
 Santos Laguna
 PRONTO
-21:00
+22:00
 AT
 VS
 SA
@@ -1742,10 +1504,10 @@ Copiar
 ⚽
                   Football
 Liga MX
-21:00
+22:00
 PRONTO
 Atlante vs Santos Laguna
-viernes, 06 de noviembre, 21:00
+viernes, 06 de noviembre, 22:00
 Servidores disponibles
 Disney +
 TUDN USA
@@ -1763,7 +1525,7 @@ Los Angeles Lakers
 VS
 Portland Trail Blazers
 PRONTO
-21:00
+22:00
 LO
 VS
 PO
@@ -1786,10 +1548,10 @@ Copiar
 🏀
                   Basketball
 NBA
-21:00
+22:00
 PRONTO
 Los Angeles Lakers vs Portland Trail Blazers
-viernes, 06 de noviembre, 21:00
+viernes, 06 de noviembre, 22:00
 Servidores disponibles
 Prime Video 2
 NBA League Pass
@@ -1807,7 +1569,7 @@ Sacramento Kings
 VS
 San Antonio Spurs
 PRONTO
-21:00
+22:00
 SA
 VS
 SA
@@ -1825,10 +1587,10 @@ Copiar
 🏀
                   Basketball
 NBA
-21:00
+22:00
 PRONTO
 Sacramento Kings vs San Antonio Spurs
-viernes, 06 de noviembre, 21:00
+viernes, 06 de noviembre, 22:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -1844,208 +1606,209 @@ Cerrar
 ■
 Finalizados
 5 eventos
-AYER
-Jueves, 05 de noviembre de 2026
+HOY
+Viernes, 06 de noviembre de 2026
 5
                   eventos
-Cancún
-VS
-Piratas
 FINALIZADO
-19:00
-CA
-VS
-PI
-MX
-MEX
-Liga de Expansión MX
-Cancún vs Piratas
+10:30
+🏎️
+F1
+F1
+GP Brasil - Práctica 1
 FINALIZADO
 Servidores disponibles
-1
+4
 1
 Disney +
-https://streamxhd.sbs/live1.php?stream=disney7
+https://streamxhd.sbs/live1.php?stream=disney1
 Ver aquí
 Copiar
-MX
-⚽
-                  Football
-Liga de Expansión MX
-19:00
+2
+ESPN 3
+https://streamxhd.sbs/live1.php?stream=espn3
+Ver aquí
+Copiar
+3
+FOX Sports 1 AR
+https://streamxhd.sbs/live1.php?stream=fox1ar
+Ver aquí
+Copiar
+4
+SporTV 3
+https://streamxhd.sbs/live1.php?stream=sporttvbr3
+Ver aquí
+Copiar
+🏎️
+                  Motor
+F1
+10:30
 FINALIZADO
-Cancún vs Piratas
-jueves, 05 de noviembre, 19:00
+GP Brasil - Práctica 1
+viernes, 06 de noviembre, 10:30
 Servidores disponibles
 Disney +
+ESPN 3
+FOX Sports 1 AR
+SporTV 3
 Servidor
 Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney7
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+https://streamxhd.sbs/live1.php?stream=disney1
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Cancún vs Piratas
+GP Brasil - Práctica 1
 Cerrar
-Baltimore Ravens
-VS
-Jacksonville Jaguars
 FINALIZADO
-19:00
+10:30
+🏎️
+F1
+F1
+GP Brasil - On Board Colapinto
+FINALIZADO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney2
+Ver aquí
+Copiar
+🏎️
+                  Motor
+F1
+10:30
+FINALIZADO
+GP Brasil - On Board Colapinto
+viernes, 06 de noviembre, 10:30
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney2
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+GP Brasil - On Board Colapinto
+Cerrar
+FINALIZADO
+10:30
+🏎️
+F1
+F1
+GP Brasil - On Board Verstappen
+FINALIZADO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney3
+Ver aquí
+Copiar
+🏎️
+                  Motor
+F1
+10:30
+FINALIZADO
+GP Brasil - On Board Verstappen
+viernes, 06 de noviembre, 10:30
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney3
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+GP Brasil - On Board Verstappen
+Cerrar
+Eintracht Braunschweig
+VS
+Energie Cottbus
+FINALIZADO
+12:30
+EI
+VS
+EN
+ALE
+Bundesliga 2
+Eintracht Braunschweig vs Energie Cottbus
+FINALIZADO
+Servidores disponibles
+1
+1
+FOX Sports 2 AR
+https://streamxhd.sbs/live1.php?stream=fox2ar
+Ver aquí
+Copiar
+⚽
+                  Football
+Bundesliga 2
+12:30
+FINALIZADO
+Eintracht Braunschweig vs Energie Cottbus
+viernes, 06 de noviembre, 12:30
+Servidores disponibles
+FOX Sports 2 AR
+Servidor
+FOX Sports 2 AR · Live1 manual
+https://streamxhd.sbs/live1.php?stream=fox2ar
+<iframe src="https://streamxhd.sbs/live1.php?stream=fox2ar" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Eintracht Braunschweig vs Energie Cottbus
+Cerrar
+Barracas Central
+VS
+Racing Club
+FINALIZADO
+13:00
 BA
 VS
-JA
-NFL
-NFL
-Baltimore Ravens vs Jacksonville Jaguars
+RA
+AR
+AR
+Liga Profesional
+Barracas Central vs Racing Club
 FINALIZADO
 Servidores disponibles
 2
 1
-ESPN 5
-https://streamxhd.sbs/live1.php?stream=espn5
+ESPN Premium
+https://streamxhd.sbs/live1.php?stream=espnpremium
 Ver aquí
 Copiar
 2
-Fox Sports 3 AR
-https://streamxhd.sbs/live1.php?stream=fox3ar
+FOX Deportes USA
+https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
 Ver aquí
 Copiar
-🏈
-                  American Football
-NFL
-19:00
-FINALIZADO
-Baltimore Ravens vs Jacksonville Jaguars
-jueves, 05 de noviembre, 19:00
-Servidores disponibles
-ESPN 5
-Fox Sports 3 AR
-Servidor
-ESPN 5 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn5
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Baltimore Ravens vs Jacksonville Jaguars
-Cerrar
-Phoenix Suns
-VS
-Orlando Magic
-FINALIZADO
-20:00
-PH
-VS
-OR
-NBA
-NBA
-Phoenix Suns vs Orlando Magic
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba1
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-20:00
-FINALIZADO
-Phoenix Suns vs Orlando Magic
-jueves, 05 de noviembre, 20:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba1
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Phoenix Suns vs Orlando Magic
-Cerrar
-Golden State Warriors
-VS
-Miami Heat
-FINALIZADO
-21:00
-GO
-VS
-MI
-NBA
-NBA
-Golden State Warriors vs Miami Heat
-FINALIZADO
-Servidores disponibles
-1
-1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba2
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-21:00
-FINALIZADO
-Golden State Warriors vs Miami Heat
-jueves, 05 de noviembre, 21:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba2
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Golden State Warriors vs Miami Heat
-Cerrar
-Durango
-VS
-Leones Negros UdeG
-FINALIZADO
-21:05
-DU
-VS
-LE
-MX
-MEX
-Liga de Expansión MX
-Durango vs Leones Negros UdeG
-FINALIZADO
-Servidores disponibles
-1
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney8
-Ver aquí
-Copiar
-MX
+AR
 ⚽
                   Football
-Liga de Expansión MX
-21:05
+Liga Profesional
+13:00
 FINALIZADO
-Durango vs Leones Negros UdeG
-jueves, 05 de noviembre, 21:05
+Barracas Central vs Racing Club
+viernes, 06 de noviembre, 13:00
 Servidores disponibles
-Disney +
+ESPN Premium
+FOX Deportes USA
 Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney8
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney8" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+ESPN Premium · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espnpremium
+<iframe src="https://streamxhd.sbs/live1.php?stream=espnpremium" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Durango vs Leones Negros UdeG
+Barracas Central vs Racing Club
 Cerrar
 Copiado
