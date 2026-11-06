@@ -1,65 +1,9 @@
 {
-  "fecha_actualizacion": "2026-11-06T03:49:39Z",
-  "total": 44,
+  "fecha_actualizacion": "2026-11-06T13:00:25Z",
+  "total": 43,
   "eventos": [
     {
-      "id": "evt_1",
-      "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
-      "hora": "22:00",
-      "servidores": [
-        {
-          "nombre": "ESPN 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
-        },
-        {
-          "nombre": "FOX3AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox3ar"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_3",
-      "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
-      "hora": "23:00",
-      "servidores": [
-        {
-          "nombre": "NBA1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_8",
-      "titulo": "Durango vs Leones Negros UdeG",
-      "hora": "00:05",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        },
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
       "id": "evt_9",
-      "titulo": "Durango vs Leones Negros UdeG",
-      "hora": "11:10",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_17",
       "titulo": "Eintracht Braunschweig vs Energie Cottbus",
       "hora": "14:30",
       "servidores": [
@@ -71,7 +15,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_19",
+      "id": "evt_11",
       "titulo": "Eintracht Braunschweig vs Energie Cottbus",
       "hora": "15:00",
       "servidores": [
@@ -87,7 +31,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_20",
+      "id": "evt_12",
       "titulo": "Barracas Central vs Racing Club",
       "hora": "15:00",
       "servidores": [
@@ -107,7 +51,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_22",
+      "id": "evt_14",
       "titulo": "Taylor Fritz vs Carlos Alcaraz",
       "hora": "15:00",
       "servidores": [
@@ -123,7 +67,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_23",
+      "id": "evt_15",
       "titulo": "Taylor Fritz vs Carlos Alcaraz",
       "hora": "16:00",
       "servidores": [
@@ -147,7 +91,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_29",
+      "id": "evt_21",
       "titulo": "Hamburger SV vs Borussia M'gladbach",
       "hora": "16:30",
       "servidores": [
@@ -167,7 +111,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_32",
+      "id": "evt_24",
       "titulo": "CD Castellón vs Eibar",
       "hora": "16:30",
       "servidores": [
@@ -183,7 +127,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_33",
+      "id": "evt_25",
       "titulo": "CD Castellón vs Eibar",
       "hora": "16:45",
       "servidores": [
@@ -195,7 +139,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_34",
+      "id": "evt_26",
       "titulo": "Venezia vs Udinese",
       "hora": "16:45",
       "servidores": [
@@ -215,7 +159,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_36",
+      "id": "evt_28",
       "titulo": "Toulouse vs Strasbourg",
       "hora": "16:45",
       "servidores": [
@@ -235,7 +179,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_38",
+      "id": "evt_30",
       "titulo": "Oxford City vs Leicester City",
       "hora": "16:45",
       "servidores": [
@@ -251,7 +195,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_39",
+      "id": "evt_31",
       "titulo": "Oxford City vs Leicester City",
       "hora": "17:00",
       "servidores": [
@@ -267,7 +211,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_40",
+      "id": "evt_32",
       "titulo": "Everton vs Coventry City",
       "hora": "17:00",
       "servidores": [
@@ -299,7 +243,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_42",
+      "id": "evt_34",
       "titulo": "Sevilla vs Deportivo Alavés",
       "hora": "17:00",
       "servidores": [
@@ -319,7 +263,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_44",
+      "id": "evt_36",
       "titulo": "Atlético Grau vs Cusco",
       "hora": "17:00",
       "servidores": [
@@ -339,7 +283,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_46",
+      "id": "evt_38",
       "titulo": "Derby County vs Bolton Wanderers",
       "hora": "17:00",
       "servidores": [
@@ -355,7 +299,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_47",
+      "id": "evt_39",
       "titulo": "Derby County vs Bolton Wanderers",
       "hora": "18:00",
       "servidores": [
@@ -367,7 +311,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_48",
+      "id": "evt_40",
       "titulo": "Boca Juniors de Cali vs Envigado",
       "hora": "18:00",
       "servidores": [
@@ -383,7 +327,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_49",
+      "id": "evt_41",
       "titulo": "Boca Juniors de Cali vs Envigado",
       "hora": "18:30",
       "servidores": [
@@ -395,7 +339,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_50",
+      "id": "evt_42",
       "titulo": "España vs Portugal",
       "hora": "18:30",
       "servidores": [
@@ -411,7 +355,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_51",
+      "id": "evt_43",
       "titulo": "España vs Portugal",
       "hora": "19:15",
       "servidores": [
@@ -427,7 +371,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_52",
+      "id": "evt_44",
       "titulo": "Unión Santa Fe vs Vélez Sarsfield",
       "hora": "19:15",
       "servidores": [
@@ -447,7 +391,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_54",
+      "id": "evt_46",
       "titulo": "San Lorenzo vs Platense",
       "hora": "19:15",
       "servidores": [
@@ -467,7 +411,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_56",
+      "id": "evt_48",
       "titulo": "Independiente vs Deportivo Riestra",
       "hora": "19:15",
       "servidores": [
@@ -483,7 +427,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_57",
+      "id": "evt_49",
       "titulo": "Independiente vs Deportivo Riestra",
       "hora": "20:00",
       "servidores": [
@@ -499,7 +443,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_58",
+      "id": "evt_50",
       "titulo": "Vitória vs Fluminense",
       "hora": "20:00",
       "servidores": [
@@ -519,7 +463,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_60",
+      "id": "evt_52",
       "titulo": "Boyacá Chicó vs Inter Bogotá",
       "hora": "20:00",
       "servidores": [
@@ -535,7 +479,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_61",
+      "id": "evt_53",
       "titulo": "Boyacá Chicó vs Inter Bogotá",
       "hora": "21:00",
       "servidores": [
@@ -547,7 +491,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_66",
+      "id": "evt_58",
       "titulo": "Brasil vs Argentina",
       "hora": "21:30",
       "servidores": [
@@ -571,7 +515,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_70",
+      "id": "evt_62",
       "titulo": "Tigre vs Sarmiento",
       "hora": "22:00",
       "servidores": [
@@ -591,7 +535,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_72",
+      "id": "evt_64",
       "titulo": "Banfield vs Atlético Tucumán",
       "hora": "22:00",
       "servidores": [
@@ -615,7 +559,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_74",
+      "id": "evt_66",
       "titulo": "Fortaleza CEIF vs Medellín",
       "hora": "22:00",
       "servidores": [
@@ -635,7 +579,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_76",
+      "id": "evt_68",
       "titulo": "Atlético San Luis vs Juárez",
       "hora": "22:00",
       "servidores": [
@@ -659,7 +603,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_78",
+      "id": "evt_70",
       "titulo": "Necaxa vs Tijuana",
       "hora": "22:00",
       "servidores": [
@@ -679,7 +623,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_88",
+      "id": "evt_80",
       "titulo": "Guadalajara vs América",
       "hora": "22:06",
       "servidores": [
@@ -695,7 +639,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_89",
+      "id": "evt_81",
       "titulo": "Guadalajara vs América",
       "hora": "23:00",
       "servidores": [
@@ -707,7 +651,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_90",
+      "id": "evt_82",
       "titulo": "Damián Arce vs Mario Gutiérrez",
       "hora": "23:00",
       "servidores": [
@@ -723,7 +667,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_91",
+      "id": "evt_83",
       "titulo": "Damián Arce vs Mario Gutiérrez",
       "hora": "00:00",
       "servidores": [
@@ -739,7 +683,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_92",
+      "id": "evt_84",
       "titulo": "Atlante vs Santos Laguna",
       "hora": "00:00",
       "servidores": [
@@ -763,7 +707,7 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_98",
+      "id": "evt_90",
       "titulo": "Cancún vs Piratas",
       "hora": "22:00",
       "servidores": [
@@ -774,6 +718,58 @@
         {
           "nombre": "DISNEY+ 7",
           "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        },
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        },
+        {
+          "nombre": "FOX3AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox3ar"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_92",
+      "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
+      "hora": "22:00",
+      "servidores": [
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        },
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_93",
+      "titulo": "Baltimore Ravens vs Jacksonville Jaguars",
+      "hora": "23:00",
+      "servidores": [
+        {
+          "nombre": "NBA1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_98",
+      "titulo": "Durango vs Leones Negros UdeG",
+      "hora": "00:05",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        },
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
