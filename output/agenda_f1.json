@@ -1,5 +1,106 @@
 {
-  "fecha_actualizacion": "2026-11-06T14:00:22Z",
-  "total": 0,
-  "eventos": []
+  "fecha_actualizacion": "2026-11-07T14:41:27Z",
+  "total": 4,
+  "eventos": [
+    {
+      "id": "evt_8",
+      "titulo": "F1",
+      "hora": "11:30",
+      "status": "EN VIVO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        },
+        {
+          "nombre": "SPORTV 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3"
+        },
+        {
+          "nombre": "DAZNF1",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznf1"
+        },
+        {
+          "nombre": "DISNEY+ 9",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
+        },
+        {
+          "nombre": "DISNEY+ 10",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+        }
+      ],
+      "torneo": "FÓRMULA 1 / MOTOR"
+    },
+    {
+      "id": "evt_17",
+      "titulo": "MOTOGP",
+      "hora": "12:35",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "FÓRMULA 1 / MOTOR"
+    },
+    {
+      "id": "evt_33",
+      "titulo": "F1",
+      "hora": "15:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY23",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney23"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        },
+        {
+          "nombre": "SPORTV 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3"
+        },
+        {
+          "nombre": "DAZNF1",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznf1"
+        },
+        {
+          "nombre": "DISNEY24",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney24"
+        },
+        {
+          "nombre": "DISNEY25",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney25"
+        }
+      ],
+      "torneo": "FÓRMULA 1 / MOTOR"
+    },
+    {
+      "id": "evt_93",
+      "titulo": "MOTOGP",
+      "hora": "08:30",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "FÓRMULA 1 / MOTOR"
+    }
+  ]
 }
