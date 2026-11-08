@@ -3,8 +3,8 @@ Embed Live Sports - Agenda
 Embed Live Sports
 Centro de eventos
 Soporte
-19:14:20
-UTC
+03:56:01
+America/Chicago
 🛡️
 Verificador de dominios
 DOMINIOS DISPONIBLES
@@ -22,94 +22,92 @@ Live sports · Eventos en vivo
 Embed Live Sports
 Agenda
 Eventos
-73
+77
 Deportes
-7
+5
 En vivo
-19
+0
 Actualizar
 🌐 Todos
-73
+77
 ⚽
             Football
-55
+50
 🏀
             Basketball
 7
-🥊
-            Boxing
-1
-🏎️
-            Motor
-3
-🎾
-            Tennis
-1
 🏒
             Hockey
 4
-🥋
-            MMA / UFC
-2
+🏎️
+            Motor
+6
+🏈
+            American Football
+10
 ◆
 Agenda por días
-73 eventos
+77 eventos
 HOY
-Sábado, 07 de noviembre de 2026
-49
+Domingo, 08 de noviembre de 2026
+77
                   eventos
-ATP
-EN VIVO
-16:00
-🎾
-ATP
-ATP
-Casper Ruud vs Carlos Alcaraz
-EN VIVO
+Heerenveen
+VS
+Feyenoord
+PRONTO
+05:15
+HE
+VS
+FE
+HOL
+Eredivisie
+Heerenveen vs Feyenoord
+PRONTO
 Servidores disponibles
 1
 1
-ESPN 3
-https://streamxhd.sbs/live1.php?stream=espn3
+ESPN 2
+https://streamxhd.sbs/live1.php?stream=espn2
 Ver aquí
 Copiar
-🎾
-                  Tennis
-ATP
-16:00
-EN VIVO
-Casper Ruud vs Carlos Alcaraz
-sábado, 07 de noviembre, 16:00
+⚽
+                  Football
+Eredivisie
+05:15
+PRONTO
+Heerenveen vs Feyenoord
+domingo, 08 de noviembre, 05:15
 Servidores disponibles
-ESPN 3
+ESPN 2
 Servidor
-ESPN 3 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn3
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+ESPN 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn2
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Casper Ruud vs Carlos Alcaraz
+Heerenveen vs Feyenoord
 Cerrar
-Nottingham Forest
+Napoli
 VS
-Manchester City
-EN VIVO
-17:30
-NO
+Lazio
+PRONTO
+05:30
+NA
 VS
-MA
-GB-ENG
-ENG
-Premier League
-Nottingham Forest vs Manchester City
-EN VIVO
+LA
+IT
+IT
+Serie A
+Napoli vs Lazio
+PRONTO
 Servidores disponibles
 4
 1
 Disney +
-https://streamxhd.sbs/live1.php?stream=disney16
+https://streamxhd.sbs/live1.php?stream=disney1
 Ver aquí
 Copiar
 2
@@ -123,6 +121,340 @@ https://streamxhd.sbs/live1.php?stream=espnar
 Ver aquí
 Copiar
 4
+Universo
+https://streamxhd.sbs/live1.php?stream=universo
+Ver aquí
+Copiar
+IT
+⚽
+                  Football
+Serie A
+05:30
+PRONTO
+Napoli vs Lazio
+domingo, 08 de noviembre, 05:30
+Servidores disponibles
+Disney +
+ESPN
+ESPN AR
+Universo
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney1
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Napoli vs Lazio
+Cerrar
+Stafford Rangers
+VS
+Grimsby Town
+PRONTO
+06:00
+ST
+VS
+GR
+GB-ENG
+ENG
+FA Cup
+Stafford Rangers vs Grimsby Town
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney2
+Ver aquí
+Copiar
+GB-ENG
+⚽
+                  Football
+FA Cup
+06:00
+PRONTO
+Stafford Rangers vs Grimsby Town
+domingo, 08 de noviembre, 06:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney2
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Stafford Rangers vs Grimsby Town
+Cerrar
+Heidenheim
+VS
+Hannover 96
+PRONTO
+06:30
+HE
+VS
+HA
+ALE
+Bundesliga 2
+Heidenheim vs Hannover 96
+PRONTO
+Servidores disponibles
+1
+1
+FOX Sports 2 AR
+https://streamxhd.sbs/live1.php?stream=fox2ar
+Ver aquí
+Copiar
+⚽
+                  Football
+Bundesliga 2
+06:30
+PRONTO
+Heidenheim vs Hannover 96
+domingo, 08 de noviembre, 06:30
+Servidores disponibles
+FOX Sports 2 AR
+Servidor
+FOX Sports 2 AR · Live1 manual
+https://streamxhd.sbs/live1.php?stream=fox2ar
+<iframe src="https://streamxhd.sbs/live1.php?stream=fox2ar" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Heidenheim vs Hannover 96
+Cerrar
+PRONTO
+06:45
+🏎️
+MOTOGP
+MotoGP
+GP Qatar - Carrera Moto3, Moto2 y MotoGP
+PRONTO
+Servidores disponibles
+1
+1
+ESPN 4
+https://streamxhd.sbs/live1.php?stream=espn4
+Ver aquí
+Copiar
+🏎️
+                  Motor
+MotoGP
+06:45
+PRONTO
+GP Qatar - Carrera Moto3, Moto2 y MotoGP
+domingo, 08 de noviembre, 06:45
+Servidores disponibles
+ESPN 4
+Servidor
+ESPN 4 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn4
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+GP Qatar - Carrera Moto3, Moto2 y MotoGP
+Cerrar
+Twente
+VS
+Ajax
+PRONTO
+07:30
+TW
+VS
+AJ
+HOL
+Eredivisie
+Twente vs Ajax
+PRONTO
+Servidores disponibles
+2
+1
+ESPN 7
+https://streamxhd.sbs/live1.php?stream=espn7
+Ver aquí
+Copiar
+2
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney3
+Ver aquí
+Copiar
+⚽
+                  Football
+Eredivisie
+07:30
+PRONTO
+Twente vs Ajax
+domingo, 08 de noviembre, 07:30
+Servidores disponibles
+ESPN 7
+Disney +
+Servidor
+ESPN 7 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn7
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Twente vs Ajax
+Cerrar
+Genoa
+VS
+Milan
+PRONTO
+08:00
+GE
+VS
+MI
+IT
+IT
+Serie A
+Genoa vs Milan
+PRONTO
+Servidores disponibles
+2
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney8
+Ver aquí
+Copiar
+2
+Universo
+https://streamxhd.sbs/live1.php?stream=universo
+Ver aquí
+Copiar
+IT
+⚽
+                  Football
+Serie A
+08:00
+PRONTO
+Genoa vs Milan
+domingo, 08 de noviembre, 08:00
+Servidores disponibles
+Disney +
+Universo
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney8
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney8" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Genoa vs Milan
+Cerrar
+Monza
+VS
+Atalanta
+PRONTO
+08:00
+MO
+VS
+AT
+IT
+IT
+Serie A
+Monza vs Atalanta
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney9
+Ver aquí
+Copiar
+IT
+⚽
+                  Football
+Serie A
+08:00
+PRONTO
+Monza vs Atalanta
+domingo, 08 de noviembre, 08:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney9
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney9" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Monza vs Atalanta
+Cerrar
+Crystal Palace
+VS
+Liverpool
+PRONTO
+08:00
+CR
+VS
+LI
+GB-ENG
+ENG
+Premier League
+Crystal Palace vs Liverpool
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney4
+Ver aquí
+Copiar
+GB-ENG
+⚽
+                  Football
+Premier League
+08:00
+PRONTO
+Crystal Palace vs Liverpool
+domingo, 08 de noviembre, 08:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney4
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Crystal Palace vs Liverpool
+Cerrar
+Sunderland
+VS
+Chelsea
+PRONTO
+08:00
+SU
+VS
+CH
+GB-ENG
+ENG
+Premier League
+Sunderland vs Chelsea
+PRONTO
+Servidores disponibles
+3
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney5
+Ver aquí
+Copiar
+2
+ESPN
+https://streamxhd.sbs/live1.php?stream=espn
+Ver aquí
+Copiar
+3
 Telemundo
 https://streamxhd.sbs/live1.php?stream=telemundo
 Ver aquí
@@ -131,15 +463,486 @@ GB-ENG
 ⚽
                   Football
 Premier League
-17:30
-EN VIVO
-Nottingham Forest vs Manchester City
-sábado, 07 de noviembre, 17:30
+08:00
+PRONTO
+Sunderland vs Chelsea
+domingo, 08 de noviembre, 08:00
 Servidores disponibles
 Disney +
 ESPN
-ESPN AR
 Telemundo
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney5
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Sunderland vs Chelsea
+Cerrar
+Ipswich Town
+VS
+AFC Bournemouth
+PRONTO
+08:00
+IP
+VS
+AF
+GB-ENG
+ENG
+Premier League
+Ipswich Town vs AFC Bournemouth
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney6
+Ver aquí
+Copiar
+GB-ENG
+⚽
+                  Football
+Premier League
+08:00
+PRONTO
+Ipswich Town vs AFC Bournemouth
+domingo, 08 de noviembre, 08:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney6
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney6" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Ipswich Town vs AFC Bournemouth
+Cerrar
+Brighton & Hove Albion
+VS
+Brentford
+PRONTO
+08:00
+BR
+VS
+BR
+GB-ENG
+ENG
+Premier League
+Brighton & Hove Albion vs Brentford
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney7
+Ver aquí
+Copiar
+GB-ENG
+⚽
+                  Football
+Premier League
+08:00
+PRONTO
+Brighton & Hove Albion vs Brentford
+domingo, 08 de noviembre, 08:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney7
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Brighton & Hove Albion vs Brentford
+Cerrar
+Rennes
+VS
+Lille
+PRONTO
+08:00
+RE
+VS
+LI
+FR
+FRA
+Ligue 1
+Rennes vs Lille
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney10
+Ver aquí
+Copiar
+FR
+⚽
+                  Football
+Ligue 1
+08:00
+PRONTO
+Rennes vs Lille
+domingo, 08 de noviembre, 08:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney10
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney10" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Rennes vs Lille
+Cerrar
+Cray Wanderers
+VS
+Stockport County
+PRONTO
+08:15
+CR
+VS
+ST
+GB-ENG
+ENG
+FA Cup
+Cray Wanderers vs Stockport County
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney11
+Ver aquí
+Copiar
+GB-ENG
+⚽
+                  Football
+FA Cup
+08:15
+PRONTO
+Cray Wanderers vs Stockport County
+domingo, 08 de noviembre, 08:15
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney11
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney11" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Cray Wanderers vs Stockport County
+Cerrar
+Köln
+VS
+Bayer Leverkusen
+PRONTO
+08:30
+KÖ
+VS
+BA
+ALE
+Bundesliga
+Köln vs Bayer Leverkusen
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney12
+Ver aquí
+Copiar
+⚽
+                  Football
+Bundesliga
+08:30
+PRONTO
+Köln vs Bayer Leverkusen
+domingo, 08 de noviembre, 08:30
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney12
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney12" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Köln vs Bayer Leverkusen
+Cerrar
+Atlanta Falcons
+VS
+Cincinnati Bengals
+PRONTO
+08:30
+AT
+VS
+CI
+NFL
+NFL
+Atlanta Falcons vs Cincinnati Bengals
+PRONTO
+Servidores disponibles
+1
+1
+ESPN 5
+https://streamxhd.sbs/live1.php?stream=espn5
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+08:30
+PRONTO
+Atlanta Falcons vs Cincinnati Bengals
+domingo, 08 de noviembre, 08:30
+Servidores disponibles
+ESPN 5
+Servidor
+ESPN 5 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn5
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Atlanta Falcons vs Cincinnati Bengals
+Cerrar
+Universidad Católica
+VS
+Deportes Limache
+PRONTO
+09:30
+UN
+VS
+DE
+CH
+CH
+Liga Chile
+Universidad Católica vs Deportes Limache
+PRONTO
+Servidores disponibles
+1
+1
+HBO Max 1
+https://streamxhd.sbs/live1.php?stream=max1
+Ver aquí
+Copiar
+CH
+⚽
+                  Football
+Liga Chile
+09:30
+PRONTO
+Universidad Católica vs Deportes Limache
+domingo, 08 de noviembre, 09:30
+Servidores disponibles
+HBO Max 1
+Servidor
+HBO Max 1 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=max1
+<iframe src="https://streamxhd.sbs/live1.php?stream=max1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Universidad Católica vs Deportes Limache
+Cerrar
+Audax Italiano
+VS
+Coquimbo Unido
+PRONTO
+09:30
+AU
+VS
+CO
+CH
+CH
+Liga Chile
+Audax Italiano vs Coquimbo Unido
+PRONTO
+Servidores disponibles
+1
+1
+HBO Max 2
+https://streamxhd.sbs/live1.php?stream=max2
+Ver aquí
+Copiar
+CH
+⚽
+                  Football
+Liga Chile
+09:30
+PRONTO
+Audax Italiano vs Coquimbo Unido
+domingo, 08 de noviembre, 09:30
+Servidores disponibles
+HBO Max 2
+Servidor
+HBO Max 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=max2
+<iframe src="https://streamxhd.sbs/live1.php?stream=max2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Audax Italiano vs Coquimbo Unido
+Cerrar
+Alanyaspor
+VS
+Trabzonspor
+PRONTO
+09:30
+AL
+VS
+TR
+TR
+TUR
+Super Lig
+Alanyaspor vs Trabzonspor
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney13
+Ver aquí
+Copiar
+TR
+⚽
+                  Football
+Super Lig
+09:30
+PRONTO
+Alanyaspor vs Trabzonspor
+domingo, 08 de noviembre, 09:30
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney13
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney13" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Alanyaspor vs Trabzonspor
+Cerrar
+AZ
+VS
+Groningen
+PRONTO
+09:45
+AZ
+VS
+GR
+HOL
+Eredivisie
+AZ vs Groningen
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney14
+Ver aquí
+Copiar
+⚽
+                  Football
+Eredivisie
+09:45
+PRONTO
+AZ vs Groningen
+domingo, 08 de noviembre, 09:45
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney14
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney14" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+AZ vs Groningen
+Cerrar
+Cambuur
+VS
+PSV
+PRONTO
+09:45
+CA
+VS
+PS
+HOL
+Eredivisie
+Cambuur vs PSV
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney15
+Ver aquí
+Copiar
+⚽
+                  Football
+Eredivisie
+09:45
+PRONTO
+Cambuur vs PSV
+domingo, 08 de noviembre, 09:45
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney15
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney15" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Cambuur vs PSV
+Cerrar
+Le Mans
+VS
+Monaco
+PRONTO
+10:15
+LE
+VS
+MO
+FR
+FRA
+Ligue 1
+Le Mans vs Monaco
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney16
+Ver aquí
+Copiar
+FR
+⚽
+                  Football
+Ligue 1
+10:15
+PRONTO
+Le Mans vs Monaco
+domingo, 08 de noviembre, 10:15
+Servidores disponibles
+Disney +
 Servidor
 Disney + · Live1 manual
 https://streamxhd.sbs/live1.php?stream=disney16
@@ -148,56 +951,38 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Nottingham Forest vs Manchester City
+Le Mans vs Monaco
 Cerrar
-Osasuna
+Le Havre
 VS
-Athletic Club
-EN VIVO
-17:30
-OS
+Lorient
+PRONTO
+10:15
+LE
 VS
-AT
-ES
-ES
-LaLiga
-Osasuna vs Athletic Club
-EN VIVO
+LO
+FR
+FRA
+Ligue 1
+Le Havre vs Lorient
+PRONTO
 Servidores disponibles
-4
+1
 1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney17
 Ver aquí
 Copiar
-2
-ESPN 4
-https://streamxhd.sbs/live1.php?stream=espn4
-Ver aquí
-Copiar
-3
-ESPN +
-https://streamxhd.sbs/live1.php?stream=espnplus3
-Ver aquí
-Copiar
-4
-ESPN Deportes
-https://streamxhd.sbs/live1.php?stream=espndeportes
-Ver aquí
-Copiar
-ES
+FR
 ⚽
                   Football
-LaLiga
-17:30
-EN VIVO
-Osasuna vs Athletic Club
-sábado, 07 de noviembre, 17:30
+Ligue 1
+10:15
+PRONTO
+Le Havre vs Lorient
+domingo, 08 de noviembre, 10:15
 Servidores disponibles
 Disney +
-ESPN 4
-ESPN +
-ESPN Deportes
 Servidor
 Disney + · Live1 manual
 https://streamxhd.sbs/live1.php?stream=disney17
@@ -206,100 +991,21 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Osasuna vs Athletic Club
+Le Havre vs Lorient
 Cerrar
-Córdoba
+Brest
 VS
-Ceuta
-EN VIVO
-17:30
-CÓ
+Olympique Lyonnais
+PRONTO
+10:15
+BR
 VS
-CE
-ES
-ES
-LaLiga SmartBank
-Córdoba vs Ceuta
-EN VIVO
-Servidores disponibles
-1
-1
-LaLiga Hypermotion 2
-https://streamxhd.sbs/live1.php?stream=laligahypermotion2
-Ver aquí
-Copiar
-ES
-⚽
-                  Football
-LaLiga SmartBank
-17:30
-EN VIVO
-Córdoba vs Ceuta
-sábado, 07 de noviembre, 17:30
-Servidores disponibles
-LaLiga Hypermotion 2
-Servidor
-LaLiga Hypermotion 2 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=laligahypermotion2
-<iframe src="https://streamxhd.sbs/live1.php?stream=laligahypermotion2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Córdoba vs Ceuta
-Cerrar
-Leganés
-VS
-Albacete
-EN VIVO
-17:30
-LE
-VS
-AL
-ES
-ES
-LaLiga SmartBank
-Leganés vs Albacete
-EN VIVO
-Servidores disponibles
-1
-1
-LaLiga Hypermotion
-https://streamxhd.sbs/live1.php?stream=laligahypermotion
-Ver aquí
-Copiar
-ES
-⚽
-                  Football
-LaLiga SmartBank
-17:30
-EN VIVO
-Leganés vs Albacete
-sábado, 07 de noviembre, 17:30
-Servidores disponibles
-LaLiga Hypermotion
-Servidor
-LaLiga Hypermotion · Live1 manual
-https://streamxhd.sbs/live1.php?stream=laligahypermotion
-<iframe src="https://streamxhd.sbs/live1.php?stream=laligahypermotion" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Leganés vs Albacete
-Cerrar
-Stuttgart
-VS
-Werder Bremen
-EN VIVO
-17:30
-ST
-VS
-WE
-ALE
-Bundesliga
-Stuttgart vs Werder Bremen
-EN VIVO
+OL
+FR
+FRA
+Ligue 1
+Brest vs Olympique Lyonnais
+PRONTO
 Servidores disponibles
 1
 1
@@ -307,13 +1013,14 @@ Disney +
 https://streamxhd.sbs/live1.php?stream=disney18
 Ver aquí
 Copiar
+FR
 ⚽
                   Football
-Bundesliga
-17:30
-EN VIVO
-Stuttgart vs Werder Bremen
-sábado, 07 de noviembre, 17:30
+Ligue 1
+10:15
+PRONTO
+Brest vs Olympique Lyonnais
+domingo, 08 de noviembre, 10:15
 Servidores disponibles
 Disney +
 Servidor
@@ -324,21 +1031,21 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Stuttgart vs Werder Bremen
+Brest vs Olympique Lyonnais
 Cerrar
-Altrincham
+Angers SCO
 VS
-Notts County
-EN VIVO
-17:30
-AL
+Nice
+PRONTO
+10:15
+AN
 VS
-NO
-GB-ENG
-ENG
-FA Cup
-Altrincham vs Notts County
-EN VIVO
+NI
+FR
+FRA
+Ligue 1
+Angers SCO vs Nice
+PRONTO
 Servidores disponibles
 1
 1
@@ -346,14 +1053,14 @@ Disney +
 https://streamxhd.sbs/live1.php?stream=disney19
 Ver aquí
 Copiar
-GB-ENG
+FR
 ⚽
                   Football
-FA Cup
-17:30
-EN VIVO
-Altrincham vs Notts County
-sábado, 07 de noviembre, 17:30
+Ligue 1
+10:15
+PRONTO
+Angers SCO vs Nice
+domingo, 08 de noviembre, 10:15
 Servidores disponibles
 Disney +
 Servidor
@@ -364,36 +1071,50 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Altrincham vs Notts County
+Angers SCO vs Nice
 Cerrar
-Florida Panthers
+Manchester United
 VS
-Washington Capitals
-EN VIVO
-17:30
-FL
+Aston Villa
+PRONTO
+10:30
+MA
 VS
-WA
-NHL
-NHL
-Florida Panthers vs Washington Capitals
-EN VIVO
+AS
+GB-ENG
+ENG
+Premier League
+Manchester United vs Aston Villa
+PRONTO
 Servidores disponibles
-1
+3
 1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney20
 Ver aquí
 Copiar
-🏒
-                  Hockey
-NHL
-17:30
-EN VIVO
-Florida Panthers vs Washington Capitals
-sábado, 07 de noviembre, 17:30
+2
+ESPN
+https://streamxhd.sbs/live1.php?stream=espn
+Ver aquí
+Copiar
+3
+Telemundo
+https://streamxhd.sbs/live1.php?stream=telemundo
+Ver aquí
+Copiar
+GB-ENG
+⚽
+                  Football
+Premier League
+10:30
+PRONTO
+Manchester United vs Aston Villa
+domingo, 08 de noviembre, 10:30
 Servidores disponibles
 Disney +
+ESPN
+Telemundo
 Servidor
 Disney + · Live1 manual
 https://streamxhd.sbs/live1.php?stream=disney20
@@ -402,38 +1123,42 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Florida Panthers vs Washington Capitals
+Manchester United vs Aston Villa
 Cerrar
-Auxerre
+Freiburg
 VS
-Paris
-EN VIVO
-18:00
-AU
-VS
-PA
+Union Berlin
+PRONTO
+10:30
 FR
-FRA
-Ligue 1
-Auxerre vs Paris
-EN VIVO
+VS
+UN
+ALE
+Bundesliga
+Freiburg vs Union Berlin
+PRONTO
 Servidores disponibles
-1
+2
 1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney21
 Ver aquí
 Copiar
-FR
+2
+SporTV 1
+https://streamxhd.sbs/live1.php?stream=sporttvbr1
+Ver aquí
+Copiar
 ⚽
                   Football
-Ligue 1
-18:00
-EN VIVO
-Auxerre vs Paris
-sábado, 07 de noviembre, 18:00
+Bundesliga
+10:30
+PRONTO
+Freiburg vs Union Berlin
+domingo, 08 de noviembre, 10:30
 Servidores disponibles
 Disney +
+SporTV 1
 Servidor
 Disney + · Live1 manual
 https://streamxhd.sbs/live1.php?stream=disney21
@@ -442,187 +1167,67 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Auxerre vs Paris
+Freiburg vs Union Berlin
 Cerrar
-Gimnasia Mendoza
+Inter
 VS
-Independiente Rivadavia
-EN VIVO
-18:00
-GI
-VS
+Como
+PRONTO
+11:00
 IN
-AR
-AR
-Liga Profesional
-Gimnasia Mendoza vs Independiente Rivadavia
-EN VIVO
-Servidores disponibles
-1
-1
-TNT Sports
-https://streamxhd.sbs/live1.php?stream=tntsports
-Ver aquí
-Copiar
-AR
-⚽
-                  Football
-Liga Profesional
-18:00
-EN VIVO
-Gimnasia Mendoza vs Independiente Rivadavia
-sábado, 07 de noviembre, 18:00
-Servidores disponibles
-TNT Sports
-Servidor
-TNT Sports · Live1 manual
-https://streamxhd.sbs/live1.php?stream=tntsports
-<iframe src="https://streamxhd.sbs/live1.php?stream=tntsports" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Gimnasia Mendoza vs Independiente Rivadavia
-Cerrar
-Talleres Córdoba
 VS
-Estudiantes
-EN VIVO
-18:00
-TA
-VS
-ES
-AR
-AR
-Liga Profesional
-Talleres Córdoba vs Estudiantes
-EN VIVO
+CO
+IT
+IT
+Serie A
+Inter vs Como
+PRONTO
 Servidores disponibles
 3
 1
-ESPN Premium
-https://streamxhd.sbs/live1.php?stream=espnpremium
-Ver aquí
-Copiar
-2
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney22
 Ver aquí
 Copiar
-3
-Espn 7
+2
+ESPN 7
 https://streamxhd.sbs/live1.php?stream=espn7
 Ver aquí
 Copiar
-AR
+3
+Universo
+https://streamxhd.sbs/live1.php?stream=universo
+Ver aquí
+Copiar
+IT
 ⚽
                   Football
-Liga Profesional
-18:00
-EN VIVO
-Talleres Córdoba vs Estudiantes
-sábado, 07 de noviembre, 18:00
+Serie A
+11:00
+PRONTO
+Inter vs Como
+domingo, 08 de noviembre, 11:00
 Servidores disponibles
-ESPN Premium
 Disney +
-Espn 7
+ESPN 7
+Universo
 Servidor
-ESPN Premium · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espnpremium
-<iframe src="https://streamxhd.sbs/live1.php?stream=espnpremium" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney22
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney22" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Talleres Córdoba vs Estudiantes
+Inter vs Como
 Cerrar
-La Serena
-VS
-Palestino
-EN VIVO
-18:00
-LA
-VS
-PA
-CH
-CH
-Liga Chile
-La Serena vs Palestino
-EN VIVO
-Servidores disponibles
-1
-1
-TNT Sports Chile
-https://streamxhd.sbs/live1.php?stream=tntsportschile
-Ver aquí
-Copiar
-CH
-⚽
-                  Football
-Liga Chile
-18:00
-EN VIVO
-La Serena vs Palestino
-sábado, 07 de noviembre, 18:00
-Servidores disponibles
-TNT Sports Chile
-Servidor
-TNT Sports Chile · Live1 manual
-https://streamxhd.sbs/live1.php?stream=tntsportschile
-<iframe src="https://streamxhd.sbs/live1.php?stream=tntsportschile" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-La Serena vs Palestino
-Cerrar
-ADT
-VS
-Sporting Cristal
-EN VIVO
-18:00
-AD
-VS
-SP
-PE
-PE
-Liga 1
-ADT vs Sporting Cristal
-EN VIVO
-Servidores disponibles
-1
-1
-L1 Max
-https://streamxhd.sbs/live1.php?stream=l1max
-Ver aquí
-Copiar
-PE
-⚽
-                  Football
-Liga 1
-18:00
-EN VIVO
-ADT vs Sporting Cristal
-sábado, 07 de noviembre, 18:00
-Servidores disponibles
-L1 Max
-Servidor
-L1 Max · Live1 manual
-https://streamxhd.sbs/live1.php?stream=l1max
-<iframe src="https://streamxhd.sbs/live1.php?stream=l1max" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-ADT vs Sporting Cristal
-Cerrar
-EN VIVO
-18:00
+PRONTO
+11:00
 🏎️
 F1
 F1
-GP Brasil - Clasificación
-EN VIVO
+GP Brasil - Carrera
+PRONTO
 Servidores disponibles
 5
 1
@@ -653,10 +1258,10 @@ Copiar
 🏎️
                   Motor
 F1
-18:00
-EN VIVO
-GP Brasil - Clasificación
-sábado, 07 de noviembre, 18:00
+11:00
+PRONTO
+GP Brasil - Carrera
+domingo, 08 de noviembre, 11:00
 Servidores disponibles
 Disney +
 ESPN 2
@@ -671,15 +1276,15 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-GP Brasil - Clasificación
+GP Brasil - Carrera
 Cerrar
-EN VIVO
-18:00
+PRONTO
+11:00
 🏎️
 F1
 F1
-GP Brasil - On Board Colapinto
-EN VIVO
+GP Brasil - Race Hub
+PRONTO
 Servidores disponibles
 1
 1
@@ -690,10 +1295,10 @@ Copiar
 🏎️
                   Motor
 F1
-18:00
-EN VIVO
-GP Brasil - On Board Colapinto
-sábado, 07 de noviembre, 18:00
+11:00
+PRONTO
+GP Brasil - Race Hub
+domingo, 08 de noviembre, 11:00
 Servidores disponibles
 Disney +
 Servidor
@@ -704,15 +1309,15 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-GP Brasil - On Board Colapinto
+GP Brasil - Race Hub
 Cerrar
-EN VIVO
-18:00
+PRONTO
+11:00
 🏎️
 F1
 F1
-GP Brasil - On Board Verstappen
-EN VIVO
+GP Brasil - On Board Colapinto
+PRONTO
 Servidores disponibles
 1
 1
@@ -723,10 +1328,10 @@ Copiar
 🏎️
                   Motor
 F1
-18:00
-EN VIVO
-GP Brasil - On Board Verstappen
-sábado, 07 de noviembre, 18:00
+11:00
+PRONTO
+GP Brasil - On Board Colapinto
+domingo, 08 de noviembre, 11:00
 Servidores disponibles
 Disney +
 Servidor
@@ -737,20 +1342,15 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-GP Brasil - On Board Verstappen
+GP Brasil - On Board Colapinto
 Cerrar
-St. Louis Blues
-VS
-Nashville Predators
-EN VIVO
-18:00
-ST
-VS
-NA
-NHL
-NHL
-St. Louis Blues vs Nashville Predators
-EN VIVO
+PRONTO
+11:00
+🏎️
+F1
+F1
+GP Brasil - On Board Verstappen
+PRONTO
 Servidores disponibles
 1
 1
@@ -758,13 +1358,13 @@ Disney +
 https://streamxhd.sbs/live1.php?stream=disney26
 Ver aquí
 Copiar
-🏒
-                  Hockey
-NHL
-18:00
-EN VIVO
-St. Louis Blues vs Nashville Predators
-sábado, 07 de noviembre, 18:00
+🏎️
+                  Motor
+F1
+11:00
+PRONTO
+GP Brasil - On Board Verstappen
+domingo, 08 de noviembre, 11:00
 Servidores disponibles
 Disney +
 Servidor
@@ -775,99 +1375,14 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-St. Louis Blues vs Nashville Predators
+GP Brasil - On Board Verstappen
 Cerrar
-Japón
-VS
-Nigeria
-EN VIVO
-18:30
-JA
-VS
-NI
-FUT
-Copa Mundial Femenina Sub-17
-Japón vs Nigeria
-EN VIVO
-Servidores disponibles
-2
-1
-DSports 2
-https://streamxhd.sbs/live1.php?stream=dsports2
-Ver aquí
-Copiar
-2
-TUDN MX
-https://streamxhd.sbs/live1.php?stream=tudnmx
-Ver aquí
-Copiar
-⚽
-                  Football
-Copa Mundial Femenina Sub-17
-18:30
-EN VIVO
-Japón vs Nigeria
-sábado, 07 de noviembre, 18:30
-Servidores disponibles
-DSports 2
-TUDN MX
-Servidor
-DSports 2 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=dsports2
-<iframe src="https://streamxhd.sbs/live1.php?stream=dsports2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Japón vs Nigeria
-Cerrar
-Libertad
-VS
-Emelec
-EN VIVO
-19:00
-LI
-VS
-EM
-EC
-ECUA
-Serie A
-Libertad vs Emelec
-EN VIVO
-Servidores disponibles
-1
-1
-Zapping EC
-https://streamxhd.sbs/live1.php?stream=zapping_ec
-Ver aquí
-Copiar
-EC
-⚽
-                  Football
-Serie A
-19:00
-EN VIVO
-Libertad vs Emelec
-sábado, 07 de noviembre, 19:00
-Servidores disponibles
-Zapping EC
-Servidor
-Zapping EC · Live1 manual
-https://streamxhd.sbs/live1.php?stream=zapping_ec
-<iframe src="https://streamxhd.sbs/live1.php?stream=zapping_ec" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Libertad vs Emelec
-Cerrar
-ESPN KnockOut
 PRONTO
-19:15
-🥊
-BOX
-ESPN KnockOut
-Joshua Buatsi vs Willy Hutchinson
+11:00
+🏎️
+F1
+F1
+GP Brasil - Cámara On Board
 PRONTO
 Servidores disponibles
 1
@@ -876,13 +1391,13 @@ Disney +
 https://streamxhd.sbs/live1.php?stream=disney27
 Ver aquí
 Copiar
-🥊
-                  Boxing
-ESPN KnockOut
-19:15
+🏎️
+                  Motor
+F1
+11:00
 PRONTO
-Joshua Buatsi vs Willy Hutchinson
-sábado, 07 de noviembre, 19:15
+GP Brasil - Cámara On Board
+domingo, 08 de noviembre, 11:00
 Servidores disponibles
 Disney +
 Servidor
@@ -893,82 +1408,38 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Joshua Buatsi vs Willy Hutchinson
+GP Brasil - Cámara On Board
 Cerrar
-Hertha BSC
+Oldham Athletic
 VS
-Wolfsburg
+Sheffield Wednesday
 PRONTO
-19:30
-HE
+11:15
+OL
 VS
-WO
-ALE
-Bundesliga 2
-Hertha BSC vs Wolfsburg
+SH
+GB-ENG
+ENG
+FA Cup
+Oldham Athletic vs Sheffield Wednesday
 PRONTO
 Servidores disponibles
 1
-1
-FOX Sports 3 AR
-https://streamxhd.sbs/live1.php?stream=fox3ar
-Ver aquí
-Copiar
-⚽
-                  Football
-Bundesliga 2
-19:30
-PRONTO
-Hertha BSC vs Wolfsburg
-sábado, 07 de noviembre, 19:30
-Servidores disponibles
-FOX Sports 3 AR
-Servidor
-FOX Sports 3 AR · Live1 manual
-https://streamxhd.sbs/live1.php?stream=fox3ar
-<iframe src="https://streamxhd.sbs/live1.php?stream=fox3ar" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Hertha BSC vs Wolfsburg
-Cerrar
-Roma
-VS
-Sassuolo
-PRONTO
-19:45
-RO
-VS
-SA
-IT
-IT
-Serie A
-Roma vs Sassuolo
-PRONTO
-Servidores disponibles
-2
 1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney28
 Ver aquí
 Copiar
-2
-Telemundo
-https://streamxhd.sbs/live1.php?stream=telemundo
-Ver aquí
-Copiar
-IT
+GB-ENG
 ⚽
                   Football
-Serie A
-19:45
+FA Cup
+11:15
 PRONTO
-Roma vs Sassuolo
-sábado, 07 de noviembre, 19:45
+Oldham Athletic vs Sheffield Wednesday
+domingo, 08 de noviembre, 11:15
 Servidores disponibles
 Disney +
-Telemundo
 Servidor
 Disney + · Live1 manual
 https://streamxhd.sbs/live1.php?stream=disney28
@@ -977,88 +1448,58 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Roma vs Sassuolo
+Oldham Athletic vs Sheffield Wednesday
 Cerrar
-Valencia
+Seattle Reign FC
 VS
-Real Madrid
+Gotham FC
 PRONTO
-20:00
-VA
+11:30
+SE
 VS
-RE
-ES
-ES
-LaLiga
-Valencia vs Real Madrid
+GO
+NWSL
+NWSL
+Seattle Reign FC vs Gotham FC
 PRONTO
 Servidores disponibles
-5
 1
-DSports Global
-DRM
-https://streamxhd.click/channel/?id=dsports
+1
+ESPN 6
+https://streamxhd.sbs/live1.php?stream=espn6
 Ver aquí
 Copiar
-2
-DSports
-https://streamxhd.sbs/live1.php?stream=dsports
-Ver aquí
-Copiar
-3
-ESPN +
-https://streamxhd.sbs/live1.php?stream=espnplus4
-Ver aquí
-Copiar
-4
-ESPN Deportes
-https://streamxhd.sbs/live1.php?stream=espndeportes
-Ver aquí
-Copiar
-5
-DAZN LaLiga
-https://streamxhd.sbs/live1.php?stream=daznlaliga
-Ver aquí
-Copiar
-ES
 ⚽
                   Football
-LaLiga
-20:00
+NWSL
+11:30
 PRONTO
-DRM
-Valencia vs Real Madrid
-sábado, 07 de noviembre, 20:00
+Seattle Reign FC vs Gotham FC
+domingo, 08 de noviembre, 11:30
 Servidores disponibles
-DSports Global
-DRM
-DSports
-ESPN +
-ESPN Deportes
-DAZN LaLiga
+ESPN 6
 Servidor
-DSports Global · Live1 manual
-DRM
-https://streamxhd.click/channel/?id=dsports
-<iframe src="https://streamxhd.click/channel/?id=dsports" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+ESPN 6 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn6
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn6" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Valencia vs Real Madrid
+Seattle Reign FC vs Gotham FC
 Cerrar
-Peterborough United
+Leones Negros UdeG
 VS
-Reading
+Durango
 PRONTO
-20:00
-PE
+12:00
+LE
 VS
-RE
-GB-ENG
-ENG
-FA Cup
-Peterborough United vs Reading
+DU
+MX
+MEX
+Liga de Expansión MX
+Leones Negros UdeG vs Durango
 PRONTO
 Servidores disponibles
 1
@@ -1067,14 +1508,14 @@ Disney +
 https://streamxhd.sbs/live1.php?stream=disney29
 Ver aquí
 Copiar
-GB-ENG
+MX
 ⚽
                   Football
-FA Cup
-20:00
+Liga de Expansión MX
+12:00
 PRONTO
-Peterborough United vs Reading
-sábado, 07 de noviembre, 20:00
+Leones Negros UdeG vs Durango
+domingo, 08 de noviembre, 12:00
 Servidores disponibles
 Disney +
 Servidor
@@ -1085,262 +1526,682 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Peterborough United vs Reading
+Leones Negros UdeG vs Durango
 Cerrar
-Guaraní
+Ñublense
 VS
-Olimpia
+Colo-Colo
 PRONTO
-20:00
-GU
+12:00
+ÑU
 VS
-OL
-PY
-LIGAPY
-Primera División
-Guaraní vs Olimpia
+CO
+CH
+CH
+Liga Chile
+Ñublense vs Colo-Colo
 PRONTO
 Servidores disponibles
 1
 1
-Tigo Sports
-https://streamxhd.sbs/live1.php?stream=tigo1
+HBO Max 1
+https://streamxhd.sbs/live1.php?stream=max1
 Ver aquí
 Copiar
-PY
+CH
 ⚽
                   Football
-Primera División
-20:00
+Liga Chile
+12:00
 PRONTO
-Guaraní vs Olimpia
-sábado, 07 de noviembre, 20:00
+Ñublense vs Colo-Colo
+domingo, 08 de noviembre, 12:00
 Servidores disponibles
-Tigo Sports
+HBO Max 1
 Servidor
-Tigo Sports · Live1 manual
-https://streamxhd.sbs/live1.php?stream=tigo1
-<iframe src="https://streamxhd.sbs/live1.php?stream=tigo1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+HBO Max 1 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=max1
+<iframe src="https://streamxhd.sbs/live1.php?stream=max1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Guaraní vs Olimpia
+Ñublense vs Colo-Colo
 Cerrar
-PSG
+Universidad de Chile
 VS
-Troyes
+Cobresal
 PRONTO
-20:05
-PS
+12:00
+UN
 VS
-TR
-FR
-FRA
-Ligue 1
-PSG vs Troyes
+CO
+CH
+CH
+Liga Chile
+Universidad de Chile vs Cobresal
 PRONTO
 Servidores disponibles
-2
 1
-Espn 4
-https://streamxhd.sbs/live1.php?stream=espn4
+1
+HBO Max 2
+https://streamxhd.sbs/live1.php?stream=max2
 Ver aquí
 Copiar
-2
+CH
+⚽
+                  Football
+Liga Chile
+12:00
+PRONTO
+Universidad de Chile vs Cobresal
+domingo, 08 de noviembre, 12:00
+Servidores disponibles
+HBO Max 2
+Servidor
+HBO Max 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=max2
+<iframe src="https://streamxhd.sbs/live1.php?stream=max2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Universidad de Chile vs Cobresal
+Cerrar
+Beşiktaş
+VS
+Gençlerbirliği
+PRONTO
+12:00
+BE
+VS
+GE
+TR
+TUR
+Super Lig
+Beşiktaş vs Gençlerbirliği
+PRONTO
+Servidores disponibles
+1
+1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney30
 Ver aquí
 Copiar
-FR
+TR
 ⚽
                   Football
-Ligue 1
-20:05
+Super Lig
+12:00
 PRONTO
-PSG vs Troyes
-sábado, 07 de noviembre, 20:05
+Beşiktaş vs Gençlerbirliği
+domingo, 08 de noviembre, 12:00
 Servidores disponibles
-Espn 4
 Disney +
 Servidor
-Espn 4 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn4
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney30
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney30" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-PSG vs Troyes
+Beşiktaş vs Gençlerbirliği
 Cerrar
-Argentinos Juniors
+Vitória Guimarães
 VS
-Huracán
+Porto
 PRONTO
-20:30
-AR
+12:00
+VI
 VS
-HU
-AR
-AR
-Liga Profesional
-Argentinos Juniors vs Huracán
+PO
+PT
+POR
+Primeira Liga
+Vitória Guimarães vs Porto
 PRONTO
 Servidores disponibles
 1
 1
-Fanatiz 1
-https://streamxhd.sbs/live1.php?stream=fanatiz1
+DSports 2
+https://streamxhd.sbs/live1.php?stream=dsports2
 Ver aquí
 Copiar
-AR
+PT
 ⚽
                   Football
-Liga Profesional
-20:30
+Primeira Liga
+12:00
 PRONTO
-Argentinos Juniors vs Huracán
-sábado, 07 de noviembre, 20:30
+Vitória Guimarães vs Porto
+domingo, 08 de noviembre, 12:00
 Servidores disponibles
-Fanatiz 1
+DSports 2
 Servidor
-Fanatiz 1 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=fanatiz1
-<iframe src="https://streamxhd.sbs/live1.php?stream=fanatiz1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+DSports 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=dsports2
+<iframe src="https://streamxhd.sbs/live1.php?stream=dsports2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Argentinos Juniors vs Huracán
+Vitória Guimarães vs Porto
 Cerrar
-Boca Juniors
+Florida Panthers
 VS
-Defensa y Justicia
+Boston Bruins
 PRONTO
-20:30
-BO
+12:00
+FL
 VS
-DE
-AR
-AR
-Liga Profesional
-Boca Juniors vs Defensa y Justicia
+BO
+NHL
+NHL
+Florida Panthers vs Boston Bruins
 PRONTO
 Servidores disponibles
-5
 1
-TNT Sports
-https://streamxhd.sbs/live1.php?stream=tntsports
-Ver aquí
-Copiar
-2
-ESPN Premium
-https://streamxhd.sbs/live1.php?stream=espnpremium
-Ver aquí
-Copiar
-3
-Fanatiz 2
-https://streamxhd.sbs/live1.php?stream=fanatiz2
-Ver aquí
-Copiar
-4
+1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney1
 Ver aquí
 Copiar
-5
-Espn
-https://streamxhd.sbs/live1.php?stream=espn
-Ver aquí
-Copiar
-AR
-⚽
-                  Football
-Liga Profesional
-20:30
+🏒
+                  Hockey
+NHL
+12:00
 PRONTO
-Boca Juniors vs Defensa y Justicia
-sábado, 07 de noviembre, 20:30
+Florida Panthers vs Boston Bruins
+domingo, 08 de noviembre, 12:00
 Servidores disponibles
-TNT Sports
-ESPN Premium
-Fanatiz 2
 Disney +
-Espn
 Servidor
-TNT Sports · Live1 manual
-https://streamxhd.sbs/live1.php?stream=tntsports
-<iframe src="https://streamxhd.sbs/live1.php?stream=tntsports" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney1
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Boca Juniors vs Defensa y Justicia
+Florida Panthers vs Boston Bruins
 Cerrar
-Rosario Central
+Washington Commanders
 VS
-Estudiantes Río Cuarto
+Los Angeles Rams
 PRONTO
-20:30
-RO
+12:00
+WA
 VS
-ES
-AR
-AR
-Liga Profesional
-Rosario Central vs Estudiantes Río Cuarto
+LO
+NFL
+NFL
+Washington Commanders vs Los Angeles Rams
 PRONTO
 Servidores disponibles
-3
 1
-ESPN 2 AR
-https://streamxhd.sbs/live1.php?stream=espn2ar
+1
+Canal 9 MX
+https://streamxhd.sbs/live1.php?stream=canal9mx
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+12:00
+PRONTO
+Washington Commanders vs Los Angeles Rams
+domingo, 08 de noviembre, 12:00
+Servidores disponibles
+Canal 9 MX
+Servidor
+Canal 9 MX · Live1 manual
+https://streamxhd.sbs/live1.php?stream=canal9mx
+<iframe src="https://streamxhd.sbs/live1.php?stream=canal9mx" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Washington Commanders vs Los Angeles Rams
+Cerrar
+Philadelphia Eagles
+VS
+New York Giants
+PRONTO
+12:00
+PH
+VS
+NE
+NFL
+NFL
+Philadelphia Eagles vs New York Giants
+PRONTO
+Servidores disponibles
+2
+1
+Fox Sports 3 AR
+https://streamxhd.sbs/live1.php?stream=fox3ar
 Ver aquí
 Copiar
 2
+ESPN 7
+https://streamxhd.sbs/live1.php?stream=espn7
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+12:00
+PRONTO
+Philadelphia Eagles vs New York Giants
+domingo, 08 de noviembre, 12:00
+Servidores disponibles
+Fox Sports 3 AR
+ESPN 7
+Servidor
+Fox Sports 3 AR · Live1 manual
+https://streamxhd.sbs/live1.php?stream=fox3ar
+<iframe src="https://streamxhd.sbs/live1.php?stream=fox3ar" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Philadelphia Eagles vs New York Giants
+Cerrar
+Carolina Panthers
+VS
+Denver Broncos
+PRONTO
+12:00
+CA
+VS
+DE
+NFL
+NFL
+Carolina Panthers vs Denver Broncos
+PRONTO
+Servidores disponibles
+2
+1
+ESPN 5
+https://streamxhd.sbs/live1.php?stream=espn5
+Ver aquí
+Copiar
+2
+Fox Sports 2 AR
+https://streamxhd.sbs/live1.php?stream=fox2ar
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+12:00
+PRONTO
+Carolina Panthers vs Denver Broncos
+domingo, 08 de noviembre, 12:00
+Servidores disponibles
+ESPN 5
+Fox Sports 2 AR
+Servidor
+ESPN 5 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn5
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Carolina Panthers vs Denver Broncos
+Cerrar
+Indianapolis Colts
+VS
+Dallas Cowboys
+PRONTO
+12:00
+IN
+VS
+DA
+NFL
+NFL
+Indianapolis Colts vs Dallas Cowboys
+PRONTO
+Servidores disponibles
+1
+1
+FOX One 2
+https://streamxhd.sbs/live1.php?stream=foxone2
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+12:00
+PRONTO
+Indianapolis Colts vs Dallas Cowboys
+domingo, 08 de noviembre, 12:00
+Servidores disponibles
+FOX One 2
+Servidor
+FOX One 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=foxone2
+<iframe src="https://streamxhd.sbs/live1.php?stream=foxone2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Indianapolis Colts vs Dallas Cowboys
+Cerrar
+Kansas City Chiefs
+VS
+New York Jets
+PRONTO
+12:00
+KA
+VS
+NE
+NFL
+NFL
+Kansas City Chiefs vs New York Jets
+PRONTO
+Servidores disponibles
+1
+1
+FOX One 3
+https://streamxhd.sbs/live1.php?stream=foxone3
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+12:00
+PRONTO
+Kansas City Chiefs vs New York Jets
+domingo, 08 de noviembre, 12:00
+Servidores disponibles
+FOX One 3
+Servidor
+FOX One 3 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=foxone3
+<iframe src="https://streamxhd.sbs/live1.php?stream=foxone3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Kansas City Chiefs vs New York Jets
+Cerrar
+Hoffenheim
+VS
+Schalke 04
+PRONTO
+12:30
+HO
+VS
+SC
+ALE
+Bundesliga
+Hoffenheim vs Schalke 04
+PRONTO
+Servidores disponibles
+1
+1
 Disney +
 https://streamxhd.sbs/live1.php?stream=disney2
 Ver aquí
 Copiar
-3
-Espn 7
-https://streamxhd.sbs/live1.php?stream=espn7
-Ver aquí
-Copiar
-AR
 ⚽
                   Football
-Liga Profesional
-20:30
+Bundesliga
+12:30
 PRONTO
-Rosario Central vs Estudiantes Río Cuarto
-sábado, 07 de noviembre, 20:30
+Hoffenheim vs Schalke 04
+domingo, 08 de noviembre, 12:30
 Servidores disponibles
-ESPN 2 AR
 Disney +
-Espn 7
 Servidor
-ESPN 2 AR · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn2ar
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn2ar" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney2
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Rosario Central vs Estudiantes Río Cuarto
+Hoffenheim vs Schalke 04
 Cerrar
-Everton
+Santa Fe
 VS
-Deportes Concepción
+Deportivo Pasto
 PRONTO
-20:30
-EV
+13:00
+SA
 VS
 DE
+CO
+COL
+Liga Colombia
+Santa Fe vs Deportivo Pasto
+PRONTO
+Servidores disponibles
+1
+1
+Win Sports +
+https://streamxhd.sbs/live1.php?stream=winplus
+Ver aquí
+Copiar
+CO
+⚽
+                  Football
+Liga Colombia
+13:00
+PRONTO
+Santa Fe vs Deportivo Pasto
+domingo, 08 de noviembre, 13:00
+Servidores disponibles
+Win Sports +
+Servidor
+Win Sports + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=winplus
+<iframe src="https://streamxhd.sbs/live1.php?stream=winplus" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Santa Fe vs Deportivo Pasto
+Cerrar
+Olympiacos Piraeus
+VS
+PAOK
+PRONTO
+13:00
+OL
+VS
+PA
+GR
+GRE
+Superliga Grecia
+Olympiacos Piraeus vs PAOK
+PRONTO
+Servidores disponibles
+1
+1
+Claro Sports 1
+https://streamxhd.sbs/live1.php?stream=claro1
+Ver aquí
+Copiar
+GR
+⚽
+                  Football
+Superliga Grecia
+13:00
+PRONTO
+Olympiacos Piraeus vs PAOK
+domingo, 08 de noviembre, 13:00
+Servidores disponibles
+Claro Sports 1
+Servidor
+Claro Sports 1 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=claro1
+<iframe src="https://streamxhd.sbs/live1.php?stream=claro1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Olympiacos Piraeus vs PAOK
+Cerrar
+Fiorentina
+VS
+Juventus
+PRONTO
+13:45
+FI
+VS
+JU
+IT
+IT
+Serie A
+Fiorentina vs Juventus
+PRONTO
+Servidores disponibles
+4
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney3
+Ver aquí
+Copiar
+2
+ESPN 2
+https://streamxhd.sbs/live1.php?stream=espn2
+Ver aquí
+Copiar
+3
+ESPN 2 AR
+https://streamxhd.sbs/live1.php?stream=espn2ar
+Ver aquí
+Copiar
+4
+Telemundo
+https://streamxhd.sbs/live1.php?stream=telemundo
+Ver aquí
+Copiar
+IT
+⚽
+                  Football
+Serie A
+13:45
+PRONTO
+Fiorentina vs Juventus
+domingo, 08 de noviembre, 13:45
+Servidores disponibles
+Disney +
+ESPN 2
+ESPN 2 AR
+Telemundo
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney3
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Fiorentina vs Juventus
+Cerrar
+Lens
+VS
+Olympique Marseille
+PRONTO
+13:45
+LE
+VS
+OL
+FR
+FRA
+Ligue 1
+Lens vs Olympique Marseille
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney4
+Ver aquí
+Copiar
+FR
+⚽
+                  Football
+Ligue 1
+13:45
+PRONTO
+Lens vs Olympique Marseille
+domingo, 08 de noviembre, 13:45
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney4
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Lens vs Olympique Marseille
+Cerrar
+Vasco da Gama
+VS
+Palmeiras
+PRONTO
+14:00
+VA
+VS
+PA
+BR
+BRA
+Copa do Brasil
+Vasco da Gama vs Palmeiras
+PRONTO
+Servidores disponibles
+2
+1
+DSports
+https://streamxhd.sbs/live1.php?stream=dsports
+Ver aquí
+Copiar
+2
+SporTV 1
+https://streamxhd.sbs/live1.php?stream=sporttvbr1
+Ver aquí
+Copiar
+BR
+⚽
+                  Football
+Copa do Brasil
+14:00
+PRONTO
+Vasco da Gama vs Palmeiras
+domingo, 08 de noviembre, 14:00
+Servidores disponibles
+DSports
+SporTV 1
+Servidor
+DSports · Live1 manual
+https://streamxhd.sbs/live1.php?stream=dsports
+<iframe src="https://streamxhd.sbs/live1.php?stream=dsports" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Vasco da Gama vs Palmeiras
+Cerrar
+Unión La Calera
+VS
+Huachipato
+PRONTO
+14:30
+UN
+VS
+HU
 CH
 CH
 Liga Chile
-Everton vs Deportes Concepción
+Unión La Calera vs Huachipato
 PRONTO
 Servidores disponibles
 1
@@ -1353,10 +2214,10 @@ CH
 ⚽
                   Football
 Liga Chile
-20:30
+14:30
 PRONTO
-Everton vs Deportes Concepción
-sábado, 07 de noviembre, 20:30
+Unión La Calera vs Huachipato
+domingo, 08 de noviembre, 14:30
 Servidores disponibles
 TNT Sports Chile
 Servidor
@@ -1367,136 +2228,38 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Everton vs Deportes Concepción
+Unión La Calera vs Huachipato
 Cerrar
-FC Cajamarca
+Estrela
 VS
-Alianza Atlético
+Benfica
 PRONTO
-20:30
-FC
+14:30
+ES
 VS
-AL
-PE
-PE
-Liga 1
-FC Cajamarca vs Alianza Atlético
-PRONTO
-Servidores disponibles
-1
-1
-L1 Max
-https://streamxhd.sbs/live1.php?stream=l1max
-Ver aquí
-Copiar
-PE
-⚽
-                  Football
-Liga 1
-20:30
-PRONTO
-FC Cajamarca vs Alianza Atlético
-sábado, 07 de noviembre, 20:30
-Servidores disponibles
-L1 Max
-Servidor
-L1 Max · Live1 manual
-https://streamxhd.sbs/live1.php?stream=l1max
-<iframe src="https://streamxhd.sbs/live1.php?stream=l1max" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-FC Cajamarca vs Alianza Atlético
-Cerrar
-Sporting CP
-VS
-Moreirense
-PRONTO
-20:30
-SP
-VS
-MO
+BE
 PT
 POR
 Primeira Liga
-Sporting CP vs Moreirense
+Estrela vs Benfica
 PRONTO
 Servidores disponibles
 1
-1
-DSports +
-https://streamxhd.sbs/live1.php?stream=dsportsplus
-Ver aquí
-Copiar
-PT
-⚽
-                  Football
-Primeira Liga
-20:30
-PRONTO
-Sporting CP vs Moreirense
-sábado, 07 de noviembre, 20:30
-Servidores disponibles
-DSports +
-Servidor
-DSports + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=dsportsplus
-<iframe src="https://streamxhd.sbs/live1.php?stream=dsportsplus" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Sporting CP vs Moreirense
-Cerrar
-Atlético Mineiro
-VS
-Grêmio
-PRONTO
-21:00
-AT
-VS
-GR
-BR
-BRA
-Copa do Brasil
-Atlético Mineiro vs Grêmio
-PRONTO
-Servidores disponibles
-4
 1
 DSports 2
 https://streamxhd.sbs/live1.php?stream=dsports2
 Ver aquí
 Copiar
-2
-FOX Deportes USA
-https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
-Ver aquí
-Copiar
-3
-SporTV 1
-https://streamxhd.sbs/live1.php?stream=sporttvbr1
-Ver aquí
-Copiar
-4
-Premiere 1
-https://streamxhd.sbs/live1.php?stream=premiere1
-Ver aquí
-Copiar
-BR
+PT
 ⚽
                   Football
-Copa do Brasil
-21:00
+Primeira Liga
+14:30
 PRONTO
-Atlético Mineiro vs Grêmio
-sábado, 07 de noviembre, 21:00
+Estrela vs Benfica
+domingo, 08 de noviembre, 14:30
 Servidores disponibles
 DSports 2
-FOX Deportes USA
-SporTV 1
-Premiere 1
 Servidor
 DSports 2 · Live1 manual
 https://streamxhd.sbs/live1.php?stream=dsports2
@@ -1505,618 +2268,386 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Atlético Mineiro vs Grêmio
+Estrela vs Benfica
 Cerrar
-Inter Miami
+Chicago Bulls
 VS
-Charlotte
+Philadelphia 76ers
 PRONTO
-21:00
-IN
-VS
-CH
-MLS
-MLS
-Inter Miami vs Charlotte
-PRONTO
-Servidores disponibles
-2
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv1
-Ver aquí
-Copiar
-2
-Apple TV English
-https://streamxhd.sbs/live1.php?stream=appletv2
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-Inter Miami vs Charlotte
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Apple TV English
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv1
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Inter Miami vs Charlotte
-Cerrar
-CF Montréal
-VS
-Vancouver Whitecaps
-PRONTO
-21:00
-CF
-VS
-VA
-MLS
-MLS
-CF Montréal vs Vancouver Whitecaps
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv3
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-CF Montréal vs Vancouver Whitecaps
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv3
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-CF Montréal vs Vancouver Whitecaps
-Cerrar
-Chicago Fire
-VS
-Columbus Crew
-PRONTO
-21:00
+14:30
 CH
 VS
-CO
-MLS
-MLS
-Chicago Fire vs Columbus Crew
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv4
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-Chicago Fire vs Columbus Crew
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv4
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Chicago Fire vs Columbus Crew
-Cerrar
-DC United
-VS
-New York City
-PRONTO
-21:00
-DC
-VS
-NE
-MLS
-MLS
-DC United vs New York City
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv5
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-DC United vs New York City
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv5
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-DC United vs New York City
-Cerrar
-Cincinnati
-VS
-Nashville SC
-PRONTO
-21:00
-CI
-VS
-NA
-MLS
-MLS
-Cincinnati vs Nashville SC
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv6
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-Cincinnati vs Nashville SC
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv6
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv6" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Cincinnati vs Nashville SC
-Cerrar
-New York RB
-VS
-Atlanta United
-PRONTO
-21:00
-NE
-VS
-AT
-MLS
-MLS
-New York RB vs Atlanta United
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv7
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-New York RB vs Atlanta United
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv7
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-New York RB vs Atlanta United
-Cerrar
-Orlando City SC
-VS
-New England
-PRONTO
-21:00
-OR
-VS
-NE
-MLS
-MLS
-Orlando City SC vs New England
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv8
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-Orlando City SC vs New England
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv8
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv8" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Orlando City SC vs New England
-Cerrar
-Philadelphia Union
-VS
-Toronto FC
-PRONTO
-21:00
 PH
-VS
-TO
-MLS
-MLS
-Philadelphia Union vs Toronto FC
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv9
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-21:00
-PRONTO
-Philadelphia Union vs Toronto FC
-sábado, 07 de noviembre, 21:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv9
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv9" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Philadelphia Union vs Toronto FC
-Cerrar
-Once Caldas
-VS
-Rionegro Águilas
-PRONTO
-21:05
-ON
-VS
-RI
-CO
-COL
-Liga Colombia
-Once Caldas vs Rionegro Águilas
-PRONTO
-Servidores disponibles
-1
-1
-Win Sports +
-https://streamxhd.sbs/live1.php?stream=winplus
-Ver aquí
-Copiar
-CO
-⚽
-                  Football
-Liga Colombia
-21:05
-PRONTO
-Once Caldas vs Rionegro Águilas
-sábado, 07 de noviembre, 21:05
-Servidores disponibles
-Win Sports +
-Servidor
-Win Sports + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=winplus
-<iframe src="https://streamxhd.sbs/live1.php?stream=winplus" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Once Caldas vs Rionegro Águilas
-Cerrar
-Leones del Norte
-VS
-Guayaquil City
-PRONTO
-21:30
-LE
-VS
-GU
-EC
-ECUA
-Serie A
-Leones del Norte vs Guayaquil City
-PRONTO
-Servidores disponibles
-1
-1
-Zapping EC
-https://streamxhd.sbs/live1.php?stream=zapping_ec
-Ver aquí
-Copiar
-EC
-⚽
-                  Football
-Serie A
-21:30
-PRONTO
-Leones del Norte vs Guayaquil City
-sábado, 07 de noviembre, 21:30
-Servidores disponibles
-Zapping EC
-Servidor
-Zapping EC · Live1 manual
-https://streamxhd.sbs/live1.php?stream=zapping_ec
-<iframe src="https://streamxhd.sbs/live1.php?stream=zapping_ec" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Leones del Norte vs Guayaquil City
-Cerrar
-Indiana Pacers
-VS
-Denver Nuggets
-PRONTO
-22:00
-IN
-VS
-DE
 NBA
 NBA
-Indiana Pacers vs Denver Nuggets
+Chicago Bulls vs Philadelphia 76ers
 PRONTO
 Servidores disponibles
-2
 1
-ESPN 4
-https://streamxhd.sbs/live1.php?stream=espn4
-Ver aquí
-Copiar
-2
-NBA League Pass
+1
+NBA League Pass 1
 https://streamxhd.sbs/live1.php?stream=nba1
 Ver aquí
 Copiar
 🏀
                   Basketball
 NBA
-22:00
+14:30
 PRONTO
-Indiana Pacers vs Denver Nuggets
-sábado, 07 de noviembre, 22:00
+Chicago Bulls vs Philadelphia 76ers
+domingo, 08 de noviembre, 14:30
 Servidores disponibles
-ESPN 4
-NBA League Pass
+NBA League Pass 1
 Servidor
-ESPN 4 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espn4
-<iframe src="https://streamxhd.sbs/live1.php?stream=espn4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+NBA League Pass 1 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba1
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Indiana Pacers vs Denver Nuggets
+Chicago Bulls vs Philadelphia 76ers
 Cerrar
-UFC
+Vegas Golden Knights
+VS
+Buffalo Sabres
 PRONTO
-22:00
-🥋
-UFC
-UFC
-Preliminares
+14:30
+VE
+VS
+BU
+NHL
+NHL
+Vegas Golden Knights vs Buffalo Sabres
 PRONTO
 Servidores disponibles
-3
 1
-Paramount+
-https://streamxhd.sbs/live1.php?stream=paramount1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney5
 Ver aquí
 Copiar
-2
-Paramount+
-https://streamxhd.sbs/live1.php?stream=paramount2
-Ver aquí
-Copiar
-3
-Paramount+
-https://streamxhd.sbs/live1.php?stream=paramount3
-Ver aquí
-Copiar
-🥋
-                  MMA / UFC
-UFC
-22:00
+🏒
+                  Hockey
+NHL
+14:30
 PRONTO
-Preliminares
-sábado, 07 de noviembre, 22:00
+Vegas Golden Knights vs Buffalo Sabres
+domingo, 08 de noviembre, 14:30
 Servidores disponibles
-Paramount+
-Paramount+
-Paramount+
+Disney +
 Servidor
-Paramount+ · Live1 manual
-https://streamxhd.sbs/live1.php?stream=paramount1
-Español
-Español
-<iframe src="https://streamxhd.sbs/live1.php?stream=paramount1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney5
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Preliminares
+Vegas Golden Knights vs Buffalo Sabres
 Cerrar
-Libertad
+Jaguares FC
 VS
-Nacional Asunción
+Atlético Bucaramanga
 PRONTO
-22:30
-LI
+15:05
+JA
 VS
-NA
-LIGAPY
-Primera División
-Libertad vs Nacional Asunción
-PRONTO
-Servidores disponibles
-1
-1
-Tigo Sports
-https://streamxhd.sbs/live1.php?stream=tigo1
-Ver aquí
-Copiar
-⚽
-                  Football
-Primera División
-22:30
-PRONTO
-Libertad vs Nacional Asunción
-sábado, 07 de noviembre, 22:30
-Servidores disponibles
-Tigo Sports
-Servidor
-Tigo Sports · Live1 manual
-https://streamxhd.sbs/live1.php?stream=tigo1
-<iframe src="https://streamxhd.sbs/live1.php?stream=tigo1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Libertad vs Nacional Asunción
-Cerrar
-Atlas
-VS
-Pachuca
-PRONTO
-23:00
 AT
-VS
-PA
-LIGAMX
-Liga MX
-Atlas vs Pachuca
-PRONTO
-Servidores disponibles
-1
-1
-Vix +
-https://streamxhd.sbs/live1.php?stream=vix1
-Ver aquí
-Copiar
-⚽
-                  Football
-Liga MX
-23:00
-PRONTO
-Atlas vs Pachuca
-sábado, 07 de noviembre, 23:00
-Servidores disponibles
-Vix +
-Servidor
-Vix + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=vix1
-<iframe src="https://streamxhd.sbs/live1.php?stream=vix1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Atlas vs Pachuca
-Cerrar
-Melgar
-VS
-Juan Pablo II College
-PRONTO
-23:00
-ME
-VS
-JU
-PE
-PE
-Liga 1
-Melgar vs Juan Pablo II College
-PRONTO
-Servidores disponibles
-1
-1
-L1 Max
-https://streamxhd.sbs/live1.php?stream=l1max
-Ver aquí
-Copiar
-PE
-⚽
-                  Football
-Liga 1
-23:00
-PRONTO
-Melgar vs Juan Pablo II College
-sábado, 07 de noviembre, 23:00
-Servidores disponibles
-L1 Max
-Servidor
-L1 Max · Live1 manual
-https://streamxhd.sbs/live1.php?stream=l1max
-<iframe src="https://streamxhd.sbs/live1.php?stream=l1max" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Melgar vs Juan Pablo II College
-Cerrar
-Atlético Nacional
-VS
-Deportivo Pereira
-PRONTO
-23:10
-AT
-VS
-DE
 CO
 COL
 Liga Colombia
-Atlético Nacional vs Deportivo Pereira
+Jaguares FC vs Atlético Bucaramanga
+PRONTO
+Servidores disponibles
+2
+1
+Win Sports +
+https://streamxhd.sbs/live1.php?stream=winplus
+Ver aquí
+Copiar
+2
+Win Sports
+https://streamxhd.sbs/live1.php?stream=winsports
+Ver aquí
+Copiar
+CO
+⚽
+                  Football
+Liga Colombia
+15:05
+PRONTO
+Jaguares FC vs Atlético Bucaramanga
+domingo, 08 de noviembre, 15:05
+Servidores disponibles
+Win Sports +
+Win Sports
+Servidor
+Win Sports + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=winplus
+<iframe src="https://streamxhd.sbs/live1.php?stream=winplus" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Jaguares FC vs Atlético Bucaramanga
+Cerrar
+San Francisco 49ers
+VS
+Las Vegas Raiders
+PRONTO
+15:25
+SA
+VS
+LA
+NFL
+NFL
+San Francisco 49ers vs Las Vegas Raiders
+PRONTO
+Servidores disponibles
+2
+1
+ESPN 5
+https://streamxhd.sbs/live1.php?stream=espn5
+Ver aquí
+Copiar
+2
+Fox Sports 2 AR
+https://streamxhd.sbs/live1.php?stream=fox2ar
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+15:25
+PRONTO
+San Francisco 49ers vs Las Vegas Raiders
+domingo, 08 de noviembre, 15:25
+Servidores disponibles
+ESPN 5
+Fox Sports 2 AR
+Servidor
+ESPN 5 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn5
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+San Francisco 49ers vs Las Vegas Raiders
+Cerrar
+Seattle Seahawks
+VS
+Arizona Cardinals
+PRONTO
+15:25
+SE
+VS
+AR
+NFL
+NFL
+Seattle Seahawks vs Arizona Cardinals
+PRONTO
+Servidores disponibles
+2
+1
+ESPN 7
+https://streamxhd.sbs/live1.php?stream=espn7
+Ver aquí
+Copiar
+2
+Fox Sports 3 AR
+https://streamxhd.sbs/live1.php?stream=fox3ar
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+15:25
+PRONTO
+Seattle Seahawks vs Arizona Cardinals
+domingo, 08 de noviembre, 15:25
+Servidores disponibles
+ESPN 7
+Fox Sports 3 AR
+Servidor
+ESPN 7 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn7
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Seattle Seahawks vs Arizona Cardinals
+Cerrar
+New England Patriots
+VS
+Green Bay Packers
+PRONTO
+15:25
+NE
+VS
+GR
+NFL
+NFL
+New England Patriots vs Green Bay Packers
+PRONTO
+Servidores disponibles
+1
+1
+Canal 5 MX
+https://streamxhd.sbs/live1.php?stream=canal5mx
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+15:25
+PRONTO
+New England Patriots vs Green Bay Packers
+domingo, 08 de noviembre, 15:25
+Servidores disponibles
+Canal 5 MX
+Servidor
+Canal 5 MX · Live1 manual
+https://streamxhd.sbs/live1.php?stream=canal5mx
+<iframe src="https://streamxhd.sbs/live1.php?stream=canal5mx" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+New England Patriots vs Green Bay Packers
+Cerrar
+Central Córdoba SdE
+VS
+Lanús
+PRONTO
+16:30
+CE
+VS
+LA
+AR
+AR
+Liga Profesional
+Central Córdoba SdE vs Lanús
+PRONTO
+Servidores disponibles
+1
+1
+TNT Sports
+https://streamxhd.sbs/live1.php?stream=tntsports
+Ver aquí
+Copiar
+AR
+⚽
+                  Football
+Liga Profesional
+16:30
+PRONTO
+Central Córdoba SdE vs Lanús
+domingo, 08 de noviembre, 16:30
+Servidores disponibles
+TNT Sports
+Servidor
+TNT Sports · Live1 manual
+https://streamxhd.sbs/live1.php?stream=tntsports
+<iframe src="https://streamxhd.sbs/live1.php?stream=tntsports" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Central Córdoba SdE vs Lanús
+Cerrar
+Universidad de Concepción
+VS
+O'Higgins
+PRONTO
+17:00
+UN
+VS
+O'
+CH
+CH
+Liga Chile
+Universidad de Concepción vs O'Higgins
+PRONTO
+Servidores disponibles
+1
+1
+TNT Sports Chile
+https://streamxhd.sbs/live1.php?stream=tntsportschile
+Ver aquí
+Copiar
+CH
+⚽
+                  Football
+Liga Chile
+17:00
+PRONTO
+Universidad de Concepción vs O'Higgins
+domingo, 08 de noviembre, 17:00
+Servidores disponibles
+TNT Sports Chile
+Servidor
+TNT Sports Chile · Live1 manual
+https://streamxhd.sbs/live1.php?stream=tntsportschile
+<iframe src="https://streamxhd.sbs/live1.php?stream=tntsportschile" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Universidad de Concepción vs O'Higgins
+Cerrar
+Detroit Pistons
+VS
+Los Angeles Lakers
+PRONTO
+17:00
+DE
+VS
+LO
+NBA
+NBA
+Detroit Pistons vs Los Angeles Lakers
+PRONTO
+Servidores disponibles
+1
+1
+NBA League Pass 2
+https://streamxhd.sbs/live1.php?stream=nba2
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+17:00
+PRONTO
+Detroit Pistons vs Los Angeles Lakers
+domingo, 08 de noviembre, 17:00
+Servidores disponibles
+NBA League Pass 2
+Servidor
+NBA League Pass 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba2
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Detroit Pistons vs Los Angeles Lakers
+Cerrar
+Deportes Tolima
+VS
+Millonarios
+PRONTO
+17:10
+DE
+VS
+MI
+CO
+COL
+Liga Colombia
+Deportes Tolima vs Millonarios
 PRONTO
 Servidores disponibles
 1
@@ -2129,10 +2660,10 @@ CO
 ⚽
                   Football
 Liga Colombia
-23:10
+17:10
 PRONTO
-Atlético Nacional vs Deportivo Pereira
-sábado, 07 de noviembre, 23:10
+Deportes Tolima vs Millonarios
+domingo, 08 de noviembre, 17:10
 Servidores disponibles
 Win Sports +
 Servidor
@@ -2143,400 +2674,42 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Atlético Nacional vs Deportivo Pereira
+Deportes Tolima vs Millonarios
 Cerrar
-MAÑANA
-Domingo, 08 de noviembre de 2026
-24
-                  eventos
-Austin
+Querétaro
 VS
-Portland Timbers
+Puebla
 PRONTO
-00:00
-AU
+18:00
+QU
 VS
-PO
-MLS
-MLS
-Austin vs Portland Timbers
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv10
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-Austin vs Portland Timbers
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv10
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv10" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Austin vs Portland Timbers
-Cerrar
-Dallas
-VS
-Colorado Rapids
-PRONTO
-00:00
-DA
-VS
-CO
-MLS
-MLS
-Dallas vs Colorado Rapids
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv11
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-Dallas vs Colorado Rapids
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv11
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv11" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Dallas vs Colorado Rapids
-Cerrar
-Houston Dynamo
-VS
-St. Louis City
-PRONTO
-00:00
-HO
-VS
-ST
-MLS
-MLS
-Houston Dynamo vs St. Louis City
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv12
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-Houston Dynamo vs St. Louis City
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv12
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv12" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Houston Dynamo vs St. Louis City
-Cerrar
-Minnesota United
-VS
-SJ Earthquakes
-PRONTO
-00:00
-MI
-VS
-SJ
-MLS
-MLS
-Minnesota United vs SJ Earthquakes
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv13
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-Minnesota United vs SJ Earthquakes
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv13
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv13" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Minnesota United vs SJ Earthquakes
-Cerrar
-Real Salt Lake
-VS
-LA Galaxy
-PRONTO
-00:00
-RE
-VS
-LA
-MLS
-MLS
-Real Salt Lake vs LA Galaxy
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv14
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-Real Salt Lake vs LA Galaxy
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv14
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv14" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Real Salt Lake vs LA Galaxy
-Cerrar
-San Diego
-VS
-Sporting KC
-PRONTO
-00:00
-SA
-VS
-SP
-MLS
-MLS
-San Diego vs Sporting KC
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv15
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-San Diego vs Sporting KC
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv15
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv15" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-San Diego vs Sporting KC
-Cerrar
-Seattle Sounders FC
-VS
-Los Angeles FC
-PRONTO
-00:00
-SE
-VS
-LO
-MLS
-MLS
-Seattle Sounders FC vs Los Angeles FC
-PRONTO
-Servidores disponibles
-1
-1
-Apple TV Español
-https://streamxhd.sbs/live1.php?stream=appletv16
-Ver aquí
-Copiar
-⚽
-                  Football
-MLS
-00:00
-PRONTO
-Seattle Sounders FC vs Los Angeles FC
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Apple TV Español
-Servidor
-Apple TV Español · Live1 manual
-https://streamxhd.sbs/live1.php?stream=appletv16
-<iframe src="https://streamxhd.sbs/live1.php?stream=appletv16" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Seattle Sounders FC vs Los Angeles FC
-Cerrar
-Montreal Canadiens
-VS
-Toronto Maple Leafs
-PRONTO
-00:00
-MO
-VS
-TO
-NHL
-NHL
-Montreal Canadiens vs Toronto Maple Leafs
-PRONTO
-Servidores disponibles
-1
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney3
-Ver aquí
-Copiar
-🏒
-                  Hockey
-NHL
-00:00
-PRONTO
-Montreal Canadiens vs Toronto Maple Leafs
-domingo, 08 de noviembre, 00:00
-Servidores disponibles
-Disney +
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney3
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Montreal Canadiens vs Toronto Maple Leafs
-Cerrar
-Atlanta Hawks
-VS
-Brooklyn Nets
-PRONTO
-00:30
-AT
-VS
-BR
-NBA
-NBA
-Atlanta Hawks vs Brooklyn Nets
-PRONTO
-Servidores disponibles
-2
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney4
-Ver aquí
-Copiar
-2
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba2
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-00:30
-PRONTO
-Atlanta Hawks vs Brooklyn Nets
-domingo, 08 de noviembre, 00:30
-Servidores disponibles
-Disney +
-NBA League Pass
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney4
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Atlanta Hawks vs Brooklyn Nets
-Cerrar
-Tigres UANL
-VS
-Cruz Azul
-PRONTO
-01:00
-TI
-VS
-CR
+PU
 LIGAMX
 Liga MX
-Tigres UANL vs Cruz Azul
+Querétaro vs Puebla
 PRONTO
 Servidores disponibles
-3
+2
 1
 FOX One
 https://streamxhd.sbs/live1.php?stream=foxone
 Ver aquí
 Copiar
 2
-FOX Deportes USA
-https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
-Ver aquí
-Copiar
-3
-Telemundo
-https://streamxhd.sbs/live1.php?stream=telemundo
+TUDN USA
+https://streamxhd.sbs/live1.php?stream=tudn_usa
 Ver aquí
 Copiar
 ⚽
                   Football
 Liga MX
-01:00
+18:00
 PRONTO
-Tigres UANL vs Cruz Azul
-domingo, 08 de noviembre, 01:00
+Querétaro vs Puebla
+domingo, 08 de noviembre, 18:00
 Servidores disponibles
 FOX One
-FOX Deportes USA
-Telemundo
+TUDN USA
 Servidor
 FOX One · Live1 manual
 https://streamxhd.sbs/live1.php?stream=foxone
@@ -2545,116 +2718,97 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Tigres UANL vs Cruz Azul
+Querétaro vs Puebla
 Cerrar
-Toluca
+Antigua GFC
 VS
-Monterrey
+Malacateco
 PRONTO
-01:00
-TO
+18:00
+AN
 VS
-MO
-LIGAMX
-Liga MX
-Toluca vs Monterrey
+MA
+GT
+GUA
+Liga Guatemala
+Antigua GFC vs Malacateco
 PRONTO
 Servidores disponibles
-3
 1
-TUDN MX
-https://streamxhd.sbs/live1.php?stream=tudnmx
+1
+FOX Deportes USA
+https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
 Ver aquí
 Copiar
-2
-Canal 5 MX
-https://streamxhd.sbs/live1.php?stream=canal5mx
-Ver aquí
-Copiar
-3
-TUDN USA
-https://streamxhd.sbs/live1.php?stream=tudn_usa
-Ver aquí
-Copiar
+GT
 ⚽
                   Football
-Liga MX
-01:00
+Liga Guatemala
+18:00
 PRONTO
-Toluca vs Monterrey
-domingo, 08 de noviembre, 01:00
+Antigua GFC vs Malacateco
+domingo, 08 de noviembre, 18:00
 Servidores disponibles
-TUDN MX
-Canal 5 MX
-TUDN USA
+FOX Deportes USA
 Servidor
-TUDN MX · Live1 manual
-https://streamxhd.sbs/live1.php?stream=tudnmx
-<iframe src="https://streamxhd.sbs/live1.php?stream=tudnmx" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+FOX Deportes USA · Live1 manual
+https://streamxhd.sbs/live1.php?stream=fox_deportes_usa
+<iframe src="https://streamxhd.sbs/live1.php?stream=fox_deportes_usa" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Toluca vs Monterrey
+Antigua GFC vs Malacateco
 Cerrar
-Instituto
+Minnesota Timberwolves
 VS
-Newell's Old Boys
+Utah Jazz
 PRONTO
-01:00
-IN
+18:00
+MI
 VS
+UT
+NBA
+NBA
+Minnesota Timberwolves vs Utah Jazz
+PRONTO
+Servidores disponibles
+1
+1
+NBA League Pass 3
+https://streamxhd.sbs/live1.php?stream=nba3
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+18:00
+PRONTO
+Minnesota Timberwolves vs Utah Jazz
+domingo, 08 de noviembre, 18:00
+Servidores disponibles
+NBA League Pass 3
+Servidor
+NBA League Pass 3 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba3
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Minnesota Timberwolves vs Utah Jazz
+Cerrar
+New Jersey Devils
+VS
+Toronto Maple Leafs
+PRONTO
+18:00
 NE
-AR
-AR
-Liga Profesional
-Instituto vs Newell's Old Boys
-PRONTO
-Servidores disponibles
-2
-1
-ESPN Premium
-https://streamxhd.sbs/live1.php?stream=espnpremium
-Ver aquí
-Copiar
-2
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney5
-Ver aquí
-Copiar
-AR
-⚽
-                  Football
-Liga Profesional
-01:00
-PRONTO
-Instituto vs Newell's Old Boys
-domingo, 08 de noviembre, 01:00
-Servidores disponibles
-ESPN Premium
-Disney +
-Servidor
-ESPN Premium · Live1 manual
-https://streamxhd.sbs/live1.php?stream=espnpremium
-<iframe src="https://streamxhd.sbs/live1.php?stream=espnpremium" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Instituto vs Newell's Old Boys
-Cerrar
-Atlético Morelia
 VS
-Venados
-PRONTO
-01:00
-AT
-VS
-VE
-MX
-MEX
-Liga de Expansión MX
-Atlético Morelia vs Venados
+TO
+NHL
+NHL
+New Jersey Devils vs Toronto Maple Leafs
 PRONTO
 Servidores disponibles
 1
@@ -2663,14 +2817,13 @@ Disney +
 https://streamxhd.sbs/live1.php?stream=disney6
 Ver aquí
 Copiar
-MX
-⚽
-                  Football
-Liga de Expansión MX
-01:00
+🏒
+                  Hockey
+NHL
+18:00
 PRONTO
-Atlético Morelia vs Venados
-domingo, 08 de noviembre, 01:00
+New Jersey Devils vs Toronto Maple Leafs
+domingo, 08 de noviembre, 18:00
 Servidores disponibles
 Disney +
 Servidor
@@ -2681,274 +2834,385 @@ Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Atlético Morelia vs Venados
+New Jersey Devils vs Toronto Maple Leafs
 Cerrar
-Cleveland Cavaliers
+Dallas Mavericks
 VS
-New York Knicks
+Brooklyn Nets
 PRONTO
-01:00
-CL
+18:30
+DA
 VS
-NE
+BR
 NBA
 NBA
-Cleveland Cavaliers vs New York Knicks
+Dallas Mavericks vs Brooklyn Nets
 PRONTO
 Servidores disponibles
 1
 1
-NBA League Pass
-https://streamxhd.sbs/live1.php?stream=nba3
-Ver aquí
-Copiar
-🏀
-                  Basketball
-NBA
-01:00
-PRONTO
-Cleveland Cavaliers vs New York Knicks
-domingo, 08 de noviembre, 01:00
-Servidores disponibles
-NBA League Pass
-Servidor
-NBA League Pass · Live1 manual
-https://streamxhd.sbs/live1.php?stream=nba3
-<iframe src="https://streamxhd.sbs/live1.php?stream=nba3" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Cleveland Cavaliers vs New York Knicks
-Cerrar
-Oklahoma City Thunder
-VS
-Washington Wizards
-PRONTO
-01:00
-OK
-VS
-WA
-NBA
-NBA
-Oklahoma City Thunder vs Washington Wizards
-PRONTO
-Servidores disponibles
-1
-1
-NBA League Pass
+NBA League Pass 4
 https://streamxhd.sbs/live1.php?stream=nba4
 Ver aquí
 Copiar
 🏀
                   Basketball
 NBA
-01:00
+18:30
 PRONTO
-Oklahoma City Thunder vs Washington Wizards
-domingo, 08 de noviembre, 01:00
+Dallas Mavericks vs Brooklyn Nets
+domingo, 08 de noviembre, 18:30
 Servidores disponibles
-NBA League Pass
+NBA League Pass 4
 Servidor
-NBA League Pass · Live1 manual
+NBA League Pass 4 · Live1 manual
 https://streamxhd.sbs/live1.php?stream=nba4
 <iframe src="https://streamxhd.sbs/live1.php?stream=nba4" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Oklahoma City Thunder vs Washington Wizards
+Dallas Mavericks vs Brooklyn Nets
 Cerrar
-UFC
-PRONTO
-01:00
-🥋
-UFC
-UFC
-Waldo Cortés-Acosta vs Johnny Walker
-PRONTO
-Servidores disponibles
-3
-1
-Paramount+
-https://streamxhd.sbs/live1.php?stream=paramount1
-Ver aquí
-Copiar
-2
-Paramount+
-https://streamxhd.sbs/live1.php?stream=paramount2
-Ver aquí
-Copiar
-3
-Paramount+
-https://streamxhd.sbs/live1.php?stream=paramount3
-Ver aquí
-Copiar
-🥋
-                  MMA / UFC
-UFC
-01:00
-PRONTO
-Waldo Cortés-Acosta vs Johnny Walker
-domingo, 08 de noviembre, 01:00
-Servidores disponibles
-Paramount+
-Paramount+
-Paramount+
-Servidor
-Paramount+ · Live1 manual
-https://streamxhd.sbs/live1.php?stream=paramount1
-Español
-Español
-<iframe src="https://streamxhd.sbs/live1.php?stream=paramount1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Waldo Cortés-Acosta vs Johnny Walker
-Cerrar
-América de Cali
+Piratas
 VS
-Deportivo Cali
+Cancún
 PRONTO
-01:15
-AM
+19:00
+PI
 VS
-DE
-CO
-COL
-Liga Colombia
-América de Cali vs Deportivo Cali
+CA
+MX
+MEX
+Liga de Expansión MX
+Piratas vs Cancún
 PRONTO
 Servidores disponibles
-2
 1
-Fanatiz 1
-https://streamxhd.sbs/live1.php?stream=fanatiz1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney7
 Ver aquí
 Copiar
-2
-Win Sports +
-https://streamxhd.sbs/live1.php?stream=winplus
-Ver aquí
-Copiar
-CO
+MX
 ⚽
                   Football
-Liga Colombia
-01:15
+Liga de Expansión MX
+19:00
 PRONTO
-América de Cali vs Deportivo Cali
-domingo, 08 de noviembre, 01:15
+Piratas vs Cancún
+domingo, 08 de noviembre, 19:00
 Servidores disponibles
-Fanatiz 1
-Win Sports +
+Disney +
 Servidor
-Fanatiz 1 · Live1 manual
-https://streamxhd.sbs/live1.php?stream=fanatiz1
-<iframe src="https://streamxhd.sbs/live1.php?stream=fanatiz1" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney7
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-América de Cali vs Deportivo Cali
+Piratas vs Cancún
 Cerrar
-Cienciano
+Milwaukee Bucks
 VS
-Sport Huancayo
+Boston Celtics
 PRONTO
-01:30
-CI
+19:00
+MI
 VS
-SP
-PE
-PE
-Liga 1
-Cienciano vs Sport Huancayo
-PRONTO
-Servidores disponibles
-2
-1
-L1 Max
-https://streamxhd.sbs/live1.php?stream=l1max
-Ver aquí
-Copiar
-2
-Movistar Deportes
-https://streamxhd.sbs/live1.php?stream=movistarpe
-Ver aquí
-Copiar
-PE
-⚽
-                  Football
-Liga 1
-01:30
-PRONTO
-Cienciano vs Sport Huancayo
-domingo, 08 de noviembre, 01:30
-Servidores disponibles
-L1 Max
-Movistar Deportes
-Servidor
-L1 Max · Live1 manual
-https://streamxhd.sbs/live1.php?stream=l1max
-<iframe src="https://streamxhd.sbs/live1.php?stream=l1max" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Cienciano vs Sport Huancayo
-Cerrar
-Golden State Warriors
-VS
-Orlando Magic
-PRONTO
-01:30
-GO
-VS
-OR
+BO
 NBA
 NBA
-Golden State Warriors vs Orlando Magic
+Milwaukee Bucks vs Boston Celtics
 PRONTO
 Servidores disponibles
 1
 1
-NBA League Pass
+NBA League Pass 5
 https://streamxhd.sbs/live1.php?stream=nba5
 Ver aquí
 Copiar
 🏀
                   Basketball
 NBA
-01:30
+19:00
 PRONTO
-Golden State Warriors vs Orlando Magic
-domingo, 08 de noviembre, 01:30
+Milwaukee Bucks vs Boston Celtics
+domingo, 08 de noviembre, 19:00
 Servidores disponibles
-NBA League Pass
+NBA League Pass 5
 Servidor
-NBA League Pass · Live1 manual
+NBA League Pass 5 · Live1 manual
 https://streamxhd.sbs/live1.php?stream=nba5
 <iframe src="https://streamxhd.sbs/live1.php?stream=nba5" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
 Ver aquí
 Copiar URL
 Copiar iframe
 Ver iframe
-Golden State Warriors vs Orlando Magic
+Milwaukee Bucks vs Boston Celtics
 Cerrar
+Pittsburgh Penguins
+VS
+Anaheim Ducks
+PRONTO
+19:00
+PI
+VS
+AN
+NHL
+NHL
+Pittsburgh Penguins vs Anaheim Ducks
+PRONTO
+Servidores disponibles
+1
+1
+Disney +
+https://streamxhd.sbs/live1.php?stream=disney8
+Ver aquí
+Copiar
+🏒
+                  Hockey
+NHL
+19:00
+PRONTO
+Pittsburgh Penguins vs Anaheim Ducks
+domingo, 08 de noviembre, 19:00
+Servidores disponibles
+Disney +
+Servidor
+Disney + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=disney8
+<iframe src="https://streamxhd.sbs/live1.php?stream=disney8" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Pittsburgh Penguins vs Anaheim Ducks
+Cerrar
+Alianza
+VS
+Llaneros
+PRONTO
+19:15
+AL
+VS
+LL
+CO
+COL
+Liga Colombia
+Alianza vs Llaneros
+PRONTO
+Servidores disponibles
+2
+1
+Win Sports +
+https://streamxhd.sbs/live1.php?stream=winplus
+Ver aquí
+Copiar
+2
+Win Sports
+https://streamxhd.sbs/live1.php?stream=winsports
+Ver aquí
+Copiar
+CO
+⚽
+                  Football
+Liga Colombia
+19:15
+PRONTO
+Alianza vs Llaneros
+domingo, 08 de noviembre, 19:15
+Servidores disponibles
+Win Sports +
+Win Sports
+Servidor
+Win Sports + · Live1 manual
+https://streamxhd.sbs/live1.php?stream=winplus
+<iframe src="https://streamxhd.sbs/live1.php?stream=winplus" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Alianza vs Llaneros
+Cerrar
+Chicago Bears
+VS
+Tampa Bay Buccaneers
+PRONTO
+19:20
+CH
+VS
+TA
+NFL
+NFL
+Chicago Bears vs Tampa Bay Buccaneers
+PRONTO
+Servidores disponibles
+1
+1
+ESPN 2
+https://streamxhd.sbs/live1.php?stream=espn2
+Ver aquí
+Copiar
+🏈
+                  American Football
+NFL
+19:20
+PRONTO
+Chicago Bears vs Tampa Bay Buccaneers
+domingo, 08 de noviembre, 19:20
+Servidores disponibles
+ESPN 2
+Servidor
+ESPN 2 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=espn2
+<iframe src="https://streamxhd.sbs/live1.php?stream=espn2" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Chicago Bears vs Tampa Bay Buccaneers
+Cerrar
+Los Angeles Clippers
+VS
+New Orleans Pelicans
+PRONTO
+20:00
+LO
+VS
+NE
+NBA
+NBA
+Los Angeles Clippers vs New Orleans Pelicans
+PRONTO
+Servidores disponibles
+1
+1
+NBA League Pass 6
+https://streamxhd.sbs/live1.php?stream=nba6
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+20:00
+PRONTO
+Los Angeles Clippers vs New Orleans Pelicans
+domingo, 08 de noviembre, 20:00
+Servidores disponibles
+NBA League Pass 6
+Servidor
+NBA League Pass 6 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba6
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba6" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Los Angeles Clippers vs New Orleans Pelicans
+Cerrar
+Sacramento Kings
+VS
+Miami Heat
+PRONTO
+20:00
+SA
+VS
+MI
+NBA
+NBA
+Sacramento Kings vs Miami Heat
+PRONTO
+Servidores disponibles
+1
+1
+NBA League Pass 7
+https://streamxhd.sbs/live1.php?stream=nba7
+Ver aquí
+Copiar
+🏀
+                  Basketball
+NBA
+20:00
+PRONTO
+Sacramento Kings vs Miami Heat
+domingo, 08 de noviembre, 20:00
+Servidores disponibles
+NBA League Pass 7
+Servidor
+NBA League Pass 7 · Live1 manual
+https://streamxhd.sbs/live1.php?stream=nba7
+<iframe src="https://streamxhd.sbs/live1.php?stream=nba7" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+Sacramento Kings vs Miami Heat
+Cerrar
+León
+VS
+Guadalajara
+PRONTO
+20:10
+LE
+VS
+GU
+LIGAMX
+Liga MX
+León vs Guadalajara
+PRONTO
+Servidores disponibles
+2
+1
+FOX One
+https://streamxhd.sbs/live1.php?stream=foxone
+Ver aquí
+Copiar
+2
+TUDN USA
+https://streamxhd.sbs/live1.php?stream=tudn_usa
+Ver aquí
+Copiar
+⚽
+                  Football
+Liga MX
+20:10
+PRONTO
+León vs Guadalajara
+domingo, 08 de noviembre, 20:10
+Servidores disponibles
+FOX One
+TUDN USA
+Servidor
+FOX One · Live1 manual
+https://streamxhd.sbs/live1.php?stream=foxone
+<iframe src="https://streamxhd.sbs/live1.php?stream=foxone" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
+Ver aquí
+Copiar URL
+Copiar iframe
+Ver iframe
+León vs Guadalajara
+Cerrar
+■
+Finalizados
+5 eventos
+AYER
+Sábado, 07 de noviembre de 2026
+5
+                  eventos
 Phoenix Suns
 VS
 Houston Rockets
-PRONTO
-02:00
+FINALIZADO
+20:00
 PH
 VS
 HO
 NBA
 NBA
 Phoenix Suns vs Houston Rockets
-PRONTO
+FINALIZADO
 Servidores disponibles
 1
 1
@@ -2959,10 +3223,10 @@ Copiar
 🏀
                   Basketball
 NBA
-02:00
-PRONTO
+20:00
+FINALIZADO
 Phoenix Suns vs Houston Rockets
-domingo, 08 de noviembre, 02:00
+sábado, 07 de noviembre, 20:00
 Servidores disponibles
 NBA League Pass
 Servidor
@@ -2978,15 +3242,15 @@ Cerrar
 Portland Trail Blazers
 VS
 San Antonio Spurs
-PRONTO
-03:00
+FINALIZADO
+21:00
 PO
 VS
 SA
 NBA
 NBA
 Portland Trail Blazers vs San Antonio Spurs
-PRONTO
+FINALIZADO
 Servidores disponibles
 2
 1
@@ -3002,10 +3266,10 @@ Copiar
 🏀
                   Basketball
 NBA
-03:00
-PRONTO
+21:00
+FINALIZADO
 Portland Trail Blazers vs San Antonio Spurs
-domingo, 08 de noviembre, 03:00
+sábado, 07 de noviembre, 21:00
 Servidores disponibles
 Disney +
 NBA League Pass
@@ -3022,15 +3286,15 @@ Cerrar
 Vancouver Canucks
 VS
 Edmonton Oilers
-PRONTO
-03:00
+FINALIZADO
+21:00
 VA
 VS
 ED
 NHL
 NHL
 Vancouver Canucks vs Edmonton Oilers
-PRONTO
+FINALIZADO
 Servidores disponibles
 1
 1
@@ -3041,10 +3305,10 @@ Copiar
 🏒
                   Hockey
 NHL
-03:00
-PRONTO
+21:00
+FINALIZADO
 Vancouver Canucks vs Edmonton Oilers
-domingo, 08 de noviembre, 03:00
+sábado, 07 de noviembre, 21:00
 Servidores disponibles
 Disney +
 Servidor
@@ -3060,8 +3324,8 @@ Cerrar
 CA La Paz
 VS
 Tlaxcala
-PRONTO
-03:05
+FINALIZADO
+21:05
 CA
 VS
 TL
@@ -3069,7 +3333,7 @@ MX
 MEX
 Liga de Expansión MX
 CA La Paz vs Tlaxcala
-PRONTO
+FINALIZADO
 Servidores disponibles
 1
 1
@@ -3081,10 +3345,10 @@ MX
 ⚽
                   Football
 Liga de Expansión MX
-03:05
-PRONTO
+21:05
+FINALIZADO
 CA La Paz vs Tlaxcala
-domingo, 08 de noviembre, 03:05
+sábado, 07 de noviembre, 21:05
 Servidores disponibles
 Disney +
 Servidor
@@ -3100,15 +3364,15 @@ Cerrar
 Pumas UNAM
 VS
 América
-PRONTO
-03:10
+FINALIZADO
+21:10
 PU
 VS
 AM
 LIGAMX
 Liga MX
 Pumas UNAM vs América
-PRONTO
+FINALIZADO
 Servidores disponibles
 3
 1
@@ -3129,10 +3393,10 @@ Copiar
 ⚽
                   Football
 Liga MX
-03:10
-PRONTO
+21:10
+FINALIZADO
 Pumas UNAM vs América
-domingo, 08 de noviembre, 03:10
+sábado, 07 de noviembre, 21:10
 Servidores disponibles
 TUDN MX
 Canal 5 MX
@@ -3146,58 +3410,5 @@ Copiar URL
 Copiar iframe
 Ver iframe
 Pumas UNAM vs América
-Cerrar
-■
-Finalizados
-1 eventos
-HOY
-Sábado, 07 de noviembre de 2026
-1
-                  evento
-Parma
-VS
-Bologna
-FINALIZADO
-17:00
-PA
-VS
-BO
-IT
-IT
-Serie A
-Parma vs Bologna
-FINALIZADO
-Servidores disponibles
-2
-1
-Disney +
-https://streamxhd.sbs/live1.php?stream=disney15
-Ver aquí
-Copiar
-2
-ESPN 5
-https://streamxhd.sbs/live1.php?stream=espn5
-Ver aquí
-Copiar
-IT
-⚽
-                  Football
-Serie A
-17:00
-FINALIZADO
-Parma vs Bologna
-sábado, 07 de noviembre, 17:00
-Servidores disponibles
-Disney +
-ESPN 5
-Servidor
-Disney + · Live1 manual
-https://streamxhd.sbs/live1.php?stream=disney15
-<iframe src="https://streamxhd.sbs/live1.php?stream=disney15" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen allow="encrypted-media; picture-in-picture"></iframe>
-Ver aquí
-Copiar URL
-Copiar iframe
-Ver iframe
-Parma vs Bologna
 Cerrar
 Copiado
