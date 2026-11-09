@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Extractor UNREALMAT v6 (Fix títulos cortados)
-- Detecta el título real usando el marcador '## ' de la web.
-- Fallback inteligente para evitar tomar abreviaturas de 2 letras.
-- Clasificación NBA / F1 / Fútbol funcionando al 100%.
+Extractor UNREALMAT v7
+- Usa GITHUB_TOKEN automático (no expira).
+- Imprime el error exacto de la API si falla la subida.
 """
 
 import asyncio
@@ -96,11 +95,13 @@ def clave_dedup(titulo: str, hora: str) -> str:
 
 
 def cargar_credenciales_github() -> Tuple[str, str, str]:
-    token = os.environ.get("GH_TOKEN")
-    user = os.environ.get("GH_USER", "adrunreal24")
-    repo = os.environ.get("GH_REPO", "isoposports")
+    # Prioriza el token automático de GitHub Actions (GITHUB_TOKEN) si existe
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    user = "adrunreal24"
+    repo = "isoposports"
+    
     if not token:
-        LOG.error("❌ GH_TOKEN no definido en variables de entorno. Abortando.")
+        LOG.error("❌ No se encontró token (GITHUB_TOKEN ni GH_TOKEN).")
         sys.exit(1)
     return token, user, repo
 
@@ -127,7 +128,7 @@ NBA_KEYWORDS = [normalizar(k) for k in [
 TENIS_KEYWORDS = [normalizar(k) for k in [
     "ATP", "WTA", "TENIS", "TENNIS", "FRITZ", "ALCARAZ", "DJOKOVIC", "NADAL",
     "FEDERER", "SINNER", "MEDVEDEV", "ZVEREV", "TSITSIPAS", "RUNE", "RUBLEV",
-    "WIMBLEDON", "ROLAND GARROS", "AUSTRALIAN OPEN",
+    "WIMBLEDON", "ROLAND GARROS", "AUSTRALIAN OPEN", "SABALENKA", "MUCHOVA"
 ]]
 
 BOXEO_KEYWORDS = [normalizar(k) for k in [
@@ -138,7 +139,7 @@ BOXEO_KEYWORDS = [normalizar(k) for k in [
 NFL_KEYWORDS = [normalizar(k) for k in [
     "NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS",
     "49ERS", "EAGLES", "STEELERS", "BRONCOS", "SUPER BOWL", "TOUCHDOWN",
-    "QUARTERBACK",
+    "QUARTERBACK", "VIKINGS", "BILLS"
 ]]
 
 FUTBOL_ESPECIFICO = [
@@ -221,13 +222,12 @@ async def _scrape_url(url: str) -> List[Dict]:
                 next_start = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto)
                 body_text = texto[m.end():next_start]
 
-                # 1. Intentar sacar el título del detalle "## Titulo Completo"
+                # Título preferente: bloque ##
                 titulo = None
                 detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
                 if detail_m:
                     titulo = detail_m.group(1).strip()
 
-                # 2. Fallback: parseo manual ignorando VS y líneas cortas (abreviaturas)
                 if not titulo:
                     body_compact = body_text.split("\n## ")[0]
                     body_lines = [l.strip() for l in body_compact.split("\n") if l.strip()]
@@ -238,7 +238,6 @@ async def _scrape_url(url: str) -> List[Dict]:
                             continue
                         if line.lower().startswith("servidores disponibles"):
                             break
-                        # Evitar tomar abreviaturas de 2-3 letras como título
                         if len(line) <= 3 and " " not in line:
                             continue
                         titulo = line
@@ -247,10 +246,8 @@ async def _scrape_url(url: str) -> List[Dict]:
                 if not titulo or len(titulo) <= 3:
                     continue
 
-                # 3. Sport hint del emoji
                 sport_hint = _extraer_hint_emoji(body_text[:300].split("\n"))
 
-                # 4. Servidores
                 servidores = []
                 seen = set()
                 for url_match in SERVER_URL_RE.finditer(body_text):
@@ -373,7 +370,11 @@ def subir_github(token: str, user: str, repo: str, path_repo: str, contenido: st
         data["sha"] = sha
 
     resp = requests.put(api, headers=headers, json=data, timeout=30)
-    return resp.status_code in (200, 201)
+    if resp.status_code in (200, 201):
+        return True
+    else:
+        LOG.error(f"GitHub API Error ({path_repo}): {resp.status_code} - {resp.text}")
+        return False
 
 
 # ─── MAIN ────────────────────────────────────────────────────────────────────
@@ -411,8 +412,6 @@ async def main():
         )
         if ok:
             LOG.info(f"✅ Subido agenda_{deporte}.json ({len(lista)} eventos)")
-        else:
-            LOG.error(f"❌ Falló subida de agenda_{deporte}.json")
 
     LOG.info("FIN. Proceso completado.")
     return 0
