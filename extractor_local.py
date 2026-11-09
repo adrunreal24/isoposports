@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Extractor UNREALMAT v8
-- Corrige la extracción del título leyendo los equipos arriba/abajo del "VS".
-- Evita que se guarden nombres de ligas o países como títulos.
+Extractor UNREALMAT v9 (Título exacto y clasificación perfecta)
 """
 
 import asyncio
@@ -97,8 +95,8 @@ def cargar_credenciales_github() -> Tuple[str, str, str]:
     return token, "adrunreal24", "isoposports"
 
 # ─── KEYWORDS ────────────────────────────────────────────────────────────────
-F1_KEYWORDS = [normalizar(k) for k in ["F1", "MOTOGP", "MOTO GP", "PRACTICA", "FREE PRACTICE", "CLASIFICACION", "QUALY", "SPRINT", "GRAND PRIX", "GRAN PREMIO", "VERSTAPPEN", "HAMILTON", "LECLERC", "SAINZ", "ALONSO", "PEREZ", "RED BULL", "FERRARI", "MCLAREN", "FP1", "FP2", "FP3", "ON BOARD", "COLAPINTO"]]
-NBA_KEYWORDS = [normalizar(k) for k in ["NBA", "BASKET", "BALONCESTO", "LAKERS", "CELTICS", "BULLS", "HEAT", "WARRIORS", "BUCKS", "SUNS", "MAVERICKS", "KNICKS", "BLAZERS", "NETS", "76ERS", "NUGGETS", "CLIPPERS", "SPURS", "ROCKETS", "GRIZZLIES", "PELICANS", "THUNDER", "TIMBERWOLVES", "CAVALIERS", "PISTONS", "PACERS", "HORNETS", "WIZARDS", "MAGIC", "HAWKS", "RAPTORS", "KINGS", "JAZZ"]]
+F1_KEYWORDS = [normalizar(k) for k in ["F1", "MOTOGP", "MOTO GP", "PRACTICA", "FREE PRACTICE", "CLASIFICACION", "QUALY", "SPRINT", "GRAND PRIX", "GRAN PREMIO", "VERSTAPPEN", "HAMILTON", "LECLERC", "SAINZ", "ALONSO", "PEREZ", "RED BULL", "FERRARI", "MCLAREN", "FP1", "FP2", "FP3", "ON BOARD", "COLAPINTO", "QATAR"]]
+NBA_KEYWORDS = [normalizar(k) for k in ["NBA", "BASKET", "BALONCESTO", "LAKERS", "CELTICS", "BULLS", "HEAT", "WARRIORS", "BUCKS", "SUNS", "MAVERICKS", "KNICKS", "BLAZERS", "NETS", "76ERS", "SIXERS", "NUGGETS", "CLIPPERS", "SPURS", "ROCKETS", "GRIZZLIES", "PELICANS", "THUNDER", "TIMBERWOLVES", "CAVALIERS", "PISTONS", "PACERS", "HORNETS", "WIZARDS", "MAGIC", "HAWKS", "RAPTORS", "KINGS", "JAZZ"]]
 TENIS_KEYWORDS = [normalizar(k) for k in ["ATP", "WTA", "TENIS", "TENNIS", "FRITZ", "ALCARAZ", "DJOKOVIC", "NADAL", "SABALENKA", "MUCHOVA"]]
 BOXEO_KEYWORDS = [normalizar(k) for k in ["BOXEO", "BOXING", "KNOCKOUT", "BXSTRS", "CANELO", "WBC", "WBA", "IBF", "WBO"]]
 NFL_KEYWORDS = [normalizar(k) for k in ["NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS", "49ERS", "EAGLES", "STEELERS", "BRONCOS", "VIKINGS", "BILLS"]]
@@ -143,39 +141,31 @@ async def _scrape_url(url: str) -> List[Dict]:
                 time_str = m.group(2).zfill(5)
                 next_start = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto)
                 body_text = texto[m.end():next_start]
-                body_lines = [l.strip() for l in body_text.split("\n## ")[0].split("\n") if l.strip()]
 
-                # --- NUEVA LÓGICA DE TÍTULO ---
+                # --- EXTRACCIÓN EXACTA DEL TÍTULO ---
+                # Buscamos la línea que está justo antes de "Servidores disponibles"
                 titulo = None
-                # 1. Si hay un "VS", tomar la línea de arriba y la de abajo
-                for i, line in enumerate(body_lines):
-                    if line.upper() == "VS":
-                        if i > 0 and i + 1 < len(body_lines):
-                            equipo_a = body_lines[i-1]
-                            equipo_b = body_lines[i+1]
-                            # Validar que no sean "Servidores disponibles" ni horas
-                            if not equipo_a.lower().startswith("servidor") and not re.match(r"^\d{1,2}:\d{2}$", equipo_a):
-                                titulo = f"{equipo_a} vs {equipo_b}"
-                                break
+                title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
+                if title_match:
+                    titulo = title_match.group(1).strip()
                 
-                # 2. Fallback: buscar el bloque ## completo
+                # Fallback por si no hay servidores (usar el bloque ##)
                 if not titulo:
                     detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
                     if detail_m:
                         titulo = detail_m.group(1).strip()
 
-                # 3. Filtrar basura como "LIGAPY", "ECUA", "LaLiga SmartBank"
-                if not titulo or len(titulo) <= 3 or normalizar(titulo) in ["LIGAPY", "ECUA", "GB-ENG", "LALIGA SMARTBANK"]:
-                    # Tomar el título de las líneas (aunque no tenga VS explícito)
-                    for line in body_lines:
-                        if not _is_emoji_line(line) and line.upper() != "VS" and not line.lower().startswith("servidor") and len(line) > 3:
-                            titulo = line
-                            break
+                # Limpiar emojis y códigos raros si quedaron en el título
+                if titulo:
+                    titulo = re.sub(r"[\U00010000-\U0010ffff]", "", titulo).strip()
+                    titulo = re.sub(r"^VS\s+", "", titulo)
+                    titulo = re.sub(r"\s+VS$", "", titulo)
 
                 if not titulo or len(titulo) <= 3:
                     continue
 
-                sport_hint = _extraer_hint_emoji(body_lines[:5])
+                # Detección de deporte (Emoji + Palabras clave)
+                sport_hint = _extraer_hint_emoji(body_text[:300].split("\n"))
 
                 servidores = []
                 seen = set()
@@ -259,8 +249,7 @@ def subir_github(token: str, user: str, repo: str, path_repo: str, contenido: st
 async def main():
     token, user, repo = cargar_credenciales_github()
     eventos_crudos = await obtener_eventos()
-    if not eventos_crudos:
-        return 1
+    if not eventos_crudos: return 1
 
     eventos = deduplicar_eventos(eventos_crudos)
     clasificados = clasificar_eventos(eventos)
