@@ -50,10 +50,6 @@ STATUS_PATTERN = re.compile(r"^(EN VIVO|PRONTO|FINALIZADO)[ \t]*\n\s*(\d{1,2}:\d
 SERVER_URL_RE = re.compile(r"https?://streamxhd\.[a-z]+/live1\.php\?stream=([A-Za-z0-9_\-]+)")
 EMOJI_HINT = {"🏎": "F1", "🏎️": "F1", "🥊": "BOXEO", "🎾": "TENIS", "⚽": "FUTBOL", "🏀": "NBA", "🏈": "NFL"}
 
-def _is_emoji_line(line: str) -> bool:
-    if not line or not line.strip(): return False
-    return len(line.strip()) <= 4 and not any(c.isalnum() for c in line)
-
 async def _scrape_url(url: str) -> List[Dict]:
     eventos: List[Dict] = []
     async with async_playwright() as p:
@@ -78,17 +74,30 @@ async def _scrape_url(url: str) -> List[Dict]:
                 next_start = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto)
                 body_text = texto[m.end():next_start]
 
-                # --- EXTRACCIÓN EXACTA DEL TÍTULO ---
                 titulo = None
+                
+                # 1. Intento: Línea antes de "Servidores disponibles"
                 title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
                 if title_match:
                     titulo = title_match.group(1).strip()
-                
-                if not titulo:
+
+                # 2. Intento: Buscar alrededor del "VS"
+                if not titulo or len(titulo) <= 3:
+                    lines = [l.strip() for l in body_text.split("\n## ")[0].split("\n") if l.strip()]
+                    for i, line in enumerate(lines):
+                        if line.upper() in ("VS", "V S") and i > 0 and i + 1 < len(lines):
+                            t = f"{lines[i-1]} vs {lines[i+1]}"
+                            if len(t) > 5:
+                                titulo = t
+                                break
+
+                # 3. Intento: Bloque "## Titulo"
+                if not titulo or len(titulo) <= 3:
                     detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
                     if detail_m:
                         titulo = detail_m.group(1).strip()
 
+                # Limpieza final
                 if titulo:
                     titulo = re.sub(r"[\U00010000-\U0010ffff]", "", titulo).strip()
                     titulo = re.sub(r"^VS\s+", "", titulo)
@@ -112,10 +121,16 @@ async def _scrape_url(url: str) -> List[Dict]:
                         seen.add(full_url)
                         servidores.append({"nombre": CANALES_NOMBRES.get(stream_id.lower(), stream_id.upper()), "url": full_url})
 
-                eventos.append({
-                    "id": f"evt_{idx}", "titulo": titulo, "hora": time_str, "status": status,
-                    "servidores": servidores, "sport_hint": sport_hint
-                })
+                if servidores:
+                    eventos.append({
+                        "id": f"evt_{idx}", "titulo": titulo, "hora": time_str, "status": status,
+                        "servidores": servidores, "sport_hint": sport_hint
+                    })
+            
+            # Si este dominio nos dio eventos válidos, detenemos la búsqueda
+            if eventos:
+                return eventos
+
             await context.close()
         except Exception as e:
             LOG.error(f"Error en {url}: {e}")
@@ -179,7 +194,9 @@ async def main():
     if not token: sys.exit(1)
     
     eventos_crudos = await obtener_eventos()
-    if not eventos_crudos: return 1
+    if not eventos_crudos:
+        LOG.error("❌ No se extrajeron eventos válidos en ningún dominio. Abortando para no vaciar los JSON.")
+        return 1
 
     eventos = deduplicar_eventos(eventos_crudos)
     clasificados = clasificar_eventos(eventos)
@@ -189,7 +206,10 @@ async def main():
 
     for deporte, lista in clasificados.items():
         payload = {"fecha_actualizacion": ahora, "total": len(lista), "eventos": lista}
-        subir_github(token, "adrunreal24", "isoposports", f"output/agenda_{deporte}.json", json.dumps(payload, ensure_ascii=False, indent=2))
+        ok = subir_github(token, "adrunreal24", "isoposports", f"output/agenda_{deporte}.json", json.dumps(payload, ensure_ascii=False, indent=2))
+        if ok:
+            LOG.info(f"✅ Subido agenda_{deporte}.json ({len(lista)} eventos)")
+    
     return 0
 
 if __name__ == "__main__":
