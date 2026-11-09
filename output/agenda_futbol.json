@@ -1,6 +1,6 @@
 {
-  "fecha_actualizacion": "2026-11-09T13:00:19Z",
-  "total": 25,
+  "fecha_actualizacion": "2026-11-09T14:00:29Z",
+  "total": 21,
   "eventos": [
     {
       "id": "evt_0",
@@ -218,10 +218,6 @@
         {
           "nombre": "ESPN 2",
           "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        },
-        {
-          "nombre": "NBA LEAGUE PASS 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
@@ -287,62 +283,6 @@
         {
           "nombre": "DISNEY+ 4",
           "url": "https://streamxhd.sbs/live1.php?stream=disney4"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_23",
-      "titulo": "CH",
-      "hora": "22:20",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_24",
-      "titulo": "LO",
-      "hora": "23:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_25",
-      "titulo": "SA",
-      "hora": "23:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_26",
-      "titulo": "LE",
-      "hora": "23:10",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "FOX ONE",
-          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
-        },
-        {
-          "nombre": "TUDN USA",
-          "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
