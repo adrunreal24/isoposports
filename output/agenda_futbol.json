@@ -1,12 +1,12 @@
 {
-  "fecha_actualizacion": "2026-11-09T15:00:21Z",
-  "total": 21,
+  "fecha_actualizacion": "2026-11-09T18:39:10Z",
+  "total": 13,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "MU",
-      "hora": "15:00",
-      "status": "PRONTO",
+      "titulo": "ECUA",
+      "hora": "12:00",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ZAPPING EC",
@@ -17,8 +17,8 @@
     },
     {
       "id": "evt_1",
-      "titulo": "PL",
-      "hora": "16:30",
+      "titulo": "GB-ENG",
+      "hora": "13:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -30,8 +30,8 @@
     },
     {
       "id": "evt_2",
-      "titulo": "SA",
-      "hora": "16:30",
+      "titulo": "LaLiga SmartBank",
+      "hora": "13:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -39,12 +39,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "LALIGA EA SPORTS"
     },
     {
       "id": "evt_3",
-      "titulo": "SP",
-      "hora": "17:00",
+      "titulo": "LIGAPY",
+      "hora": "14:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -56,8 +56,8 @@
     },
     {
       "id": "evt_4",
-      "titulo": "TEN",
-      "hora": "17:00",
+      "titulo": "WTA Finals",
+      "hora": "14:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -69,8 +69,8 @@
     },
     {
       "id": "evt_5",
-      "titulo": "TÉ",
-      "hora": "17:30",
+      "titulo": "ECUA",
+      "hora": "14:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -82,8 +82,8 @@
     },
     {
       "id": "evt_6",
-      "titulo": "IN",
-      "hora": "17:30",
+      "titulo": "Primera B",
+      "hora": "14:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -95,8 +95,8 @@
     },
     {
       "id": "evt_7",
-      "titulo": "SP",
-      "hora": "19:30",
+      "titulo": "LIGAPY",
+      "hora": "16:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -108,8 +108,8 @@
     },
     {
       "id": "evt_8",
-      "titulo": "JU",
-      "hora": "21:00",
+      "titulo": "Liga Colombia",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -125,81 +125,21 @@
     },
     {
       "id": "evt_9",
-      "titulo": "DE",
-      "hora": "21:00",
+      "titulo": "Copa Uruguay",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
           "nombre": "EVENTO1",
           "url": "https://streamxhd.sbs/live1.php?stream=evento1"
-        },
-        {
-          "nombre": "MAX 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=max1"
-        },
-        {
-          "nombre": "NBA LEAGUE PASS 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_11",
-      "titulo": "CH",
-      "hora": "21:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_12",
-      "titulo": "AT",
-      "hora": "21:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba3"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_13",
-      "titulo": "TO",
-      "hora": "21:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_14",
-      "titulo": "DA",
-      "hora": "22:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "COPA"
     },
     {
       "id": "evt_15",
-      "titulo": "NE",
-      "hora": "22:00",
+      "titulo": "New York Rangers vs Edmonton Oilers",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -210,48 +150,9 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_16",
-      "titulo": "MI",
-      "hora": "22:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_17",
-      "titulo": "HO",
-      "hora": "22:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_18",
-      "titulo": "PH",
-      "hora": "23:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
       "id": "evt_19",
-      "titulo": "PH",
-      "hora": "23:30",
+      "titulo": "Philadelphia Flyers vs Vancouver Canucks",
+      "hora": "20:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -262,22 +163,9 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_20",
-      "titulo": "GO",
-      "hora": "00:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba8"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
       "id": "evt_21",
-      "titulo": "NE",
-      "hora": "00:00",
+      "titulo": "New York Islanders vs San Jose Sharks",
+      "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
         {
