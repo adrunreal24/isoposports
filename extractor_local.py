@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Extractor UNREALMAT v7
-- Usa GITHUB_TOKEN automático (no expira).
-- Imprime el error exacto de la API si falla la subida.
+Extractor UNREALMAT v8
+- Corrige la extracción del título leyendo los equipos arriba/abajo del "VS".
+- Evita que se guarden nombres de ligas o países como títulos.
 """
 
 import asyncio
@@ -80,123 +80,48 @@ LOG.addHandler(sh)
 
 # ─── HELPERS ─────────────────────────────────────────────────────────────────
 def normalizar(texto: str) -> str:
-    if not texto:
-        return ""
-    t = unicodedata.normalize("NFKD", texto).encode("ASCII", "ignore").decode("utf-8")
-    return t.upper().strip()
-
+    if not texto: return ""
+    return unicodedata.normalize("NFKD", texto).encode("ASCII", "ignore").decode("utf-8").upper().strip()
 
 def clave_dedup(titulo: str, hora: str) -> str:
     t = normalizar(titulo)
     t = re.sub(r"[\-–—_,\.\|]+", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
-    h = (hora or "00:00").zfill(5)
-    return f"{t}__{h}"
-
+    return f"{t}__{(hora or '00:00').zfill(5)}"
 
 def cargar_credenciales_github() -> Tuple[str, str, str]:
-    # Prioriza el token automático de GitHub Actions (GITHUB_TOKEN) si existe
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    user = "adrunreal24"
-    repo = "isoposports"
-    
     if not token:
-        LOG.error("❌ No se encontró token (GITHUB_TOKEN ni GH_TOKEN).")
+        LOG.error("❌ No se encontró token.")
         sys.exit(1)
-    return token, user, repo
-
+    return token, "adrunreal24", "isoposports"
 
 # ─── KEYWORDS ────────────────────────────────────────────────────────────────
-F1_KEYWORDS = [normalizar(k) for k in [
-    "F1", "MOTOGP", "MOTO GP", "MOTO2", "MOTO3", "PRACTICA", "FREE PRACTICE",
-    "CLASIFICACION", "QUALY", "QUALIFYING", "SPRINT", "GRAND PRIX", "GRAN PREMIO",
-    "FORMULA", "VERSTAPPEN", "HAMILTON", "LECLERC", "SAINZ", "ALONSO", "PEREZ",
-    "RED BULL", "FERRARI", "MERCEDES", "MCLAREN", "ASTON MARTIN", "ALPINE",
-    "FIA", "POLE POSITION", "PARRILLA", "PADDOCK", "FP1", "FP2", "FP3",
-    "ON BOARD", "COLAPINTO", "CARRERA F1",
-]]
+F1_KEYWORDS = [normalizar(k) for k in ["F1", "MOTOGP", "MOTO GP", "PRACTICA", "FREE PRACTICE", "CLASIFICACION", "QUALY", "SPRINT", "GRAND PRIX", "GRAN PREMIO", "VERSTAPPEN", "HAMILTON", "LECLERC", "SAINZ", "ALONSO", "PEREZ", "RED BULL", "FERRARI", "MCLAREN", "FP1", "FP2", "FP3", "ON BOARD", "COLAPINTO"]]
+NBA_KEYWORDS = [normalizar(k) for k in ["NBA", "BASKET", "BALONCESTO", "LAKERS", "CELTICS", "BULLS", "HEAT", "WARRIORS", "BUCKS", "SUNS", "MAVERICKS", "KNICKS", "BLAZERS", "NETS", "76ERS", "NUGGETS", "CLIPPERS", "SPURS", "ROCKETS", "GRIZZLIES", "PELICANS", "THUNDER", "TIMBERWOLVES", "CAVALIERS", "PISTONS", "PACERS", "HORNETS", "WIZARDS", "MAGIC", "HAWKS", "RAPTORS", "KINGS", "JAZZ"]]
+TENIS_KEYWORDS = [normalizar(k) for k in ["ATP", "WTA", "TENIS", "TENNIS", "FRITZ", "ALCARAZ", "DJOKOVIC", "NADAL", "SABALENKA", "MUCHOVA"]]
+BOXEO_KEYWORDS = [normalizar(k) for k in ["BOXEO", "BOXING", "KNOCKOUT", "BXSTRS", "CANELO", "WBC", "WBA", "IBF", "WBO"]]
+NFL_KEYWORDS = [normalizar(k) for k in ["NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS", "49ERS", "EAGLES", "STEELERS", "BRONCOS", "VIKINGS", "BILLS"]]
 
-NBA_KEYWORDS = [normalizar(k) for k in [
-    "NBA", "BASKET", "BALONCESTO", "LAKERS", "CELTICS", "BULLS", "HEAT",
-    "WARRIORS", "BUCKS", "SUNS", "MAVERICKS", "KNICKS", "BLAZERS", "NETS",
-    "76ERS", "SIXERS", "NUGGETS", "CLIPPERS", "SPURS", "ROCKETS", "GRIZZLIES",
-    "PELICANS", "THUNDER", "TIMBERWOLVES", "CAVALIERS", "PISTONS", "PACERS",
-    "HORNETS", "WIZARDS", "MAGIC", "HAWKS", "RAPTORS", "KINGS", "JAZZ",
-    "EUROLEAGUE", "EUROLIGA", "NCAA", "MARCH MADNESS", "ALL STAR",
-]]
-
-TENIS_KEYWORDS = [normalizar(k) for k in [
-    "ATP", "WTA", "TENIS", "TENNIS", "FRITZ", "ALCARAZ", "DJOKOVIC", "NADAL",
-    "FEDERER", "SINNER", "MEDVEDEV", "ZVEREV", "TSITSIPAS", "RUNE", "RUBLEV",
-    "WIMBLEDON", "ROLAND GARROS", "AUSTRALIAN OPEN", "SABALENKA", "MUCHOVA"
-]]
-
-BOXEO_KEYWORDS = [normalizar(k) for k in [
-    "BOXEO", "BOXING", "KNOCKOUT", "BXSTRS", "DAMIAN ARCE", "GUTIERREZ",
-    "CANELO", "TITLE FIGHT", "WBC", "WBA", "IBF", "WBO",
-]]
-
-NFL_KEYWORDS = [normalizar(k) for k in [
-    "NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS",
-    "49ERS", "EAGLES", "STEELERS", "BRONCOS", "SUPER BOWL", "TOUCHDOWN",
-    "QUARTERBACK", "VIKINGS", "BILLS"
-]]
-
-FUTBOL_ESPECIFICO = [
-    ("CHAMPIONS", "UEFA CHAMPIONS LEAGUE"),
-    ("EUROPA", "UEFA EUROPA LEAGUE"),
-    ("LIBERTADORES", "COPA LIBERTADORES"),
-    ("SUDAMERICANA", "COPA SUDAMERICANA"),
-    ("PREMIER", "PREMIER LEAGUE"),
-    ("BUNDESLIGA", "BUNDESLIGA"),
-    ("SERIE A", "SERIE A"),
-    ("LIGUE 1", "LIGUE 1"),
-    ("LALIGA", "LALIGA EA SPORTS"),
-    ("COPA", "COPA"),
-]
-
+FUTBOL_ESPECIFICO = [("CHAMPIONS", "UEFA CHAMPIONS LEAGUE"), ("EUROPA", "UEFA EUROPA LEAGUE"), ("LIBERTADORES", "COPA LIBERTADORES"), ("SUDAMERICANA", "COPA SUDAMERICANA"), ("PREMIER", "PREMIER LEAGUE"), ("BUNDESLIGA", "BUNDESLIGA"), ("SERIE A", "SERIE A"), ("LIGUE 1", "LIGUE 1"), ("LALIGA", "LALIGA EA SPORTS"), ("COPA", "COPA")]
 
 # ─── SCRAPING ────────────────────────────────────────────────────────────────
-STATUS_PATTERN = re.compile(
-    r"^(EN VIVO|PRONTO|FINALIZADO)[ \t]*\n\s*(\d{1,2}:\d{2})(?:\s|$)",
-    re.MULTILINE,
-)
-
-SERVER_URL_RE = re.compile(
-    r"https?://streamxhd\.[a-z]+/live1\.php\?stream=([A-Za-z0-9_\-]+)"
-)
-
-EMOJI_HINT = {
-    "🏎": "F1", "🏎️": "F1",
-    "🥊": "BOXEO",
-    "🎾": "TENIS",
-    "⚽": "FUTBOL",
-    "🏀": "NBA",
-    "🏈": "NFL",
-}
-
+STATUS_PATTERN = re.compile(r"^(EN VIVO|PRONTO|FINALIZADO)[ \t]*\n\s*(\d{1,2}:\d{2})(?:\s|$)", re.MULTILINE)
+SERVER_URL_RE = re.compile(r"https?://streamxhd\.[a-z]+/live1\.php\?stream=([A-Za-z0-9_\-]+)")
+EMOJI_HINT = {"🏎": "F1", "🏎️": "F1", "🥊": "BOXEO", "🎾": "TENIS", "⚽": "FUTBOL", "🏀": "NBA", "🏈": "NFL"}
 
 def _is_emoji_line(line: str) -> bool:
-    if not line or not line.strip():
-        return False
-    clean = line.strip()
-    if len(clean) > 4:
-        return False
-    return not any(c.isalnum() for c in clean)
-
+    if not line or not line.strip(): return False
+    return len(line.strip()) <= 4 and not any(c.isalnum() for c in line)
 
 def _extraer_hint_emoji(lines: List[str]) -> str:
     for line in lines:
-        clean = line.strip()
         for emoji, hint in EMOJI_HINT.items():
-            if emoji in clean:
-                return hint
+            if emoji in line: return hint
     return ""
-
 
 async def _scrape_url(url: str) -> List[Dict]:
     eventos: List[Dict] = []
-
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox"])
         try:
@@ -206,143 +131,110 @@ async def _scrape_url(url: str) -> List[Dict]:
             await page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
             await page.wait_for_timeout(WAIT_AFTER_LOAD)
 
-            html = await page.content()
-            soup = BeautifulSoup(html, "lxml")
-            for tag in soup(["script", "style", "noscript"]):
-                tag.decompose()
+            soup = BeautifulSoup(await page.content(), "lxml")
+            for tag in soup(["script", "style", "noscript"]): tag.decompose()
             texto = soup.get_text("\n", strip=True)
 
             matches = list(STATUS_PATTERN.finditer(texto))
-            LOG.info(f"Detectados {len(matches)} marcadores de estado en {url}")
+            LOG.info(f"Detectados {len(matches)} marcadores en {url}")
 
             for idx, m in enumerate(matches):
                 status = m.group(1)
                 time_str = m.group(2).zfill(5)
-
                 next_start = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto)
                 body_text = texto[m.end():next_start]
+                body_lines = [l.strip() for l in body_text.split("\n## ")[0].split("\n") if l.strip()]
 
-                # Título preferente: bloque ##
+                # --- NUEVA LÓGICA DE TÍTULO ---
                 titulo = None
-                detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
-                if detail_m:
-                    titulo = detail_m.group(1).strip()
-
+                # 1. Si hay un "VS", tomar la línea de arriba y la de abajo
+                for i, line in enumerate(body_lines):
+                    if line.upper() == "VS":
+                        if i > 0 and i + 1 < len(body_lines):
+                            equipo_a = body_lines[i-1]
+                            equipo_b = body_lines[i+1]
+                            # Validar que no sean "Servidores disponibles" ni horas
+                            if not equipo_a.lower().startswith("servidor") and not re.match(r"^\d{1,2}:\d{2}$", equipo_a):
+                                titulo = f"{equipo_a} vs {equipo_b}"
+                                break
+                
+                # 2. Fallback: buscar el bloque ## completo
                 if not titulo:
-                    body_compact = body_text.split("\n## ")[0]
-                    body_lines = [l.strip() for l in body_compact.split("\n") if l.strip()]
+                    detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
+                    if detail_m:
+                        titulo = detail_m.group(1).strip()
+
+                # 3. Filtrar basura como "LIGAPY", "ECUA", "LaLiga SmartBank"
+                if not titulo or len(titulo) <= 3 or normalizar(titulo) in ["LIGAPY", "ECUA", "GB-ENG", "LALIGA SMARTBANK"]:
+                    # Tomar el título de las líneas (aunque no tenga VS explícito)
                     for line in body_lines:
-                        if _is_emoji_line(line):
-                            continue
-                        if line.upper() in ("VS", "V S"):
-                            continue
-                        if line.lower().startswith("servidores disponibles"):
+                        if not _is_emoji_line(line) and line.upper() != "VS" and not line.lower().startswith("servidor") and len(line) > 3:
+                            titulo = line
                             break
-                        if len(line) <= 3 and " " not in line:
-                            continue
-                        titulo = line
-                        break
 
                 if not titulo or len(titulo) <= 3:
                     continue
 
-                sport_hint = _extraer_hint_emoji(body_text[:300].split("\n"))
+                sport_hint = _extraer_hint_emoji(body_lines[:5])
 
                 servidores = []
                 seen = set()
                 for url_match in SERVER_URL_RE.finditer(body_text):
                     stream_id = url_match.group(1)
                     full_url = url_match.group(0)
-                    if full_url in seen:
-                        continue
-                    seen.add(full_url)
-                    servidores.append({
-                        "nombre": CANALES_NOMBRES.get(stream_id.lower(), stream_id.upper()),
-                        "url": full_url,
-                    })
+                    if full_url not in seen:
+                        seen.add(full_url)
+                        servidores.append({"nombre": CANALES_NOMBRES.get(stream_id.lower(), stream_id.upper()), "url": full_url})
 
                 eventos.append({
-                    "id": f"evt_{idx}",
-                    "titulo": titulo,
-                    "hora": time_str,
-                    "status": status,
-                    "servidores": servidores,
-                    "sport_hint": sport_hint,
+                    "id": f"evt_{idx}", "titulo": titulo, "hora": time_str, "status": status,
+                    "servidores": servidores, "sport_hint": sport_hint
                 })
-
             await context.close()
         except Exception as e:
             LOG.error(f"Error en {url}: {e}")
         finally:
             await browser.close()
-
     return eventos
-
 
 async def obtener_eventos() -> List[Dict]:
     for url in BASE_URLS:
         eventos = await _scrape_url(url)
-        if eventos:
-            LOG.info(f"✅ {len(eventos)} eventos crudos desde {url}")
-            return eventos
-        LOG.warning(f"⚠️ {url} no devolvió eventos, siguiente...")
-    LOG.error("❌ Ningún dominio devolvió eventos.")
+        if eventos: return eventos
     return []
 
-
-# ─── DEDUPLICACIÓN GLOBAL ────────────────────────────────────────────────────
+# ─── DEDUPLICACIÓN Y CLASIFICACIÓN ───────────────────────────────────────────
 def deduplicar_eventos(eventos: List[Dict]) -> List[Dict]:
     dedup: Dict[str, Dict] = {}
     for e in eventos:
         clave = clave_dedup(e["titulo"], e["hora"])
         if clave not in dedup:
-            dedup[clave] = {
-                "id": e["id"],
-                "titulo": e["titulo"],
-                "hora": e["hora"],
-                "status": e["status"],
-                "servidores": list(e["servidores"]),
-                "sport_hint": e.get("sport_hint", ""),
-            }
+            dedup[clave] = e
         else:
-            existente = dedup[clave]
-            urls_vistas = {s["url"] for s in existente["servidores"]}
+            urls_vistas = {s["url"] for s in dedup[clave]["servidores"]}
             for srv in e["servidores"]:
                 if srv["url"] not in urls_vistas:
-                    existente["servidores"].append(srv)
-                    urls_vistas.add(srv["url"])
+                    dedup[clave]["servidores"].append(srv)
             orden = {"EN VIVO": 3, "PRONTO": 2, "FINALIZADO": 1}
-            if orden.get(e["status"], 0) > orden.get(existente["status"], 0):
-                existente["status"] = e["status"]
-            if not existente["sport_hint"] and e.get("sport_hint"):
-                existente["sport_hint"] = e["sport_hint"]
+            if orden.get(e["status"], 0) > orden.get(dedup[clave]["status"], 0):
+                dedup[clave]["status"] = e["status"]
+            if not dedup[clave]["sport_hint"] and e.get("sport_hint"):
+                dedup[clave]["sport_hint"] = e["sport_hint"]
     return list(dedup.values())
 
-
-# ─── CLASIFICACIÓN ───────────────────────────────────────────────────────────
 def clasificar_evento(titulo: str, sport_hint: str) -> Tuple[str, str]:
     t = normalizar(titulo)
-
-    if sport_hint == "F1" or any(k in t for k in F1_KEYWORDS):
-        return "f1", "FÓRMULA 1 / MOTOR"
-    if sport_hint == "NBA" or any(k in t for k in NBA_KEYWORDS):
-        return "nba", "NBA / BALONCESTO"
-    if sport_hint == "TENIS" or any(k in t for k in TENIS_KEYWORDS):
-        return "futbol", "TENIS"
-    if sport_hint == "BOXEO" or any(k in t for k in BOXEO_KEYWORDS):
-        return "futbol", "BOXEO"
-    if sport_hint == "NFL" or any(k in t for k in NFL_KEYWORDS):
-        return "futbol", "NFL"
-
+    if sport_hint == "F1" or any(k in t for k in F1_KEYWORDS): return "f1", "FÓRMULA 1 / MOTOR"
+    if sport_hint == "NBA" or any(k in t for k in NBA_KEYWORDS): return "nba", "NBA / BALONCESTO"
+    if sport_hint == "TENIS" or any(k in t for k in TENIS_KEYWORDS): return "futbol", "TENIS"
+    if sport_hint == "BOXEO" or any(k in t for k in BOXEO_KEYWORDS): return "futbol", "BOXEO"
+    if sport_hint == "NFL" or any(k in t for k in NFL_KEYWORDS): return "futbol", "NFL"
     for key, torneo in FUTBOL_ESPECIFICO:
-        if key in t:
-            return "futbol", torneo
-
+        if key in t: return "futbol", torneo
     return "futbol", "FÚTBOL INTERNACIONAL"
 
-
 def clasificar_eventos(eventos: List[Dict]) -> Dict[str, List[Dict]]:
-    clasificados: Dict[str, List[Dict]] = {"futbol": [], "nba": [], "f1": []}
+    clasificados = {"futbol": [], "nba": [], "f1": []}
     for e in eventos:
         deporte, torneo = clasificar_evento(e["titulo"], e.get("sport_hint", ""))
         e["torneo"] = torneo
@@ -350,72 +242,36 @@ def clasificar_eventos(eventos: List[Dict]) -> Dict[str, List[Dict]]:
         clasificados[deporte].append(e)
     return clasificados
 
-
 # ─── GITHUB ──────────────────────────────────────────────────────────────────
 def subir_github(token: str, user: str, repo: str, path_repo: str, contenido: str) -> bool:
     api = f"https://api.github.com/repos/{user}/{repo}/contents/{path_repo}"
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-    }
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
     r = requests.get(api, headers=headers, timeout=20)
     sha = r.json().get("sha") if r.status_code == 200 else None
-
-    data = {
-        "message": f"chore: update {path_repo}",
-        "content": base64.b64encode(contenido.encode()).decode(),
-        "branch": "main",
-    }
-    if sha:
-        data["sha"] = sha
-
+    data = {"message": f"chore: update {path_repo}", "content": base64.b64encode(contenido.encode()).decode(), "branch": "main"}
+    if sha: data["sha"] = sha
     resp = requests.put(api, headers=headers, json=data, timeout=30)
-    if resp.status_code in (200, 201):
-        return True
-    else:
-        LOG.error(f"GitHub API Error ({path_repo}): {resp.status_code} - {resp.text}")
-        return False
-
+    if resp.status_code in (200, 201): return True
+    LOG.error(f"GitHub Error ({path_repo}): {resp.status_code} - {resp.text}")
+    return False
 
 # ─── MAIN ────────────────────────────────────────────────────────────────────
 async def main():
     token, user, repo = cargar_credenciales_github()
-
     eventos_crudos = await obtener_eventos()
     if not eventos_crudos:
-        LOG.error("Sin eventos. Abortando.")
         return 1
 
-    LOG.info(f"Eventos crudos: {len(eventos_crudos)}")
     eventos = deduplicar_eventos(eventos_crudos)
-    LOG.info(f"Eventos tras deduplicación: {len(eventos)}")
-
     clasificados = clasificar_eventos(eventos)
     ahora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    LOG.info(
-        f"Clasificación → Fútbol={len(clasificados['futbol'])} "
-        f"NBA={len(clasificados['nba'])} "
-        f"F1={len(clasificados['f1'])}"
-    )
+    LOG.info(f"Clasificación → Fútbol={len(clasificados['futbol'])} NBA={len(clasificados['nba'])} F1={len(clasificados['f1'])}")
 
     for deporte, lista in clasificados.items():
-        payload = {
-            "fecha_actualizacion": ahora,
-            "total": len(lista),
-            "eventos": lista,
-        }
-        ok = subir_github(
-            token, user, repo,
-            f"output/agenda_{deporte}.json",
-            json.dumps(payload, ensure_ascii=False, indent=2),
-        )
-        if ok:
-            LOG.info(f"✅ Subido agenda_{deporte}.json ({len(lista)} eventos)")
-
-    LOG.info("FIN. Proceso completado.")
+        payload = {"fecha_actualizacion": ahora, "total": len(lista), "eventos": lista}
+        subir_github(token, user, repo, f"output/agenda_{deporte}.json", json.dumps(payload, ensure_ascii=False, indent=2))
     return 0
-
 
 if __name__ == "__main__":
     sys.exit(asyncio.run(main()))
