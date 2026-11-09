@@ -2,9 +2,7 @@ name: Scrape streamxhd
 
 on:
   schedule:
-    # 00:00 Uruguay = 03:00 UTC
     - cron: "0 3 * * *"
-    # 12:00 Uruguay = 15:00 UTC
     - cron: "0 15 * * *"
   workflow_dispatch: {}
 
@@ -34,9 +32,8 @@ jobs:
 
       - name: Run scraper
         env:
-          GH_TOKEN: "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"
-          GH_USER: "adrunreal24"
-          GH_REPO: "isoposports"
+          # Usa el token automático de GitHub (no expira y no hay que configurar nada)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python extractor_local.py
 
       - name: Commit output
@@ -50,7 +47,7 @@ jobs:
             git commit -m "chore: eventos $(date -u +%Y-%m-%d-%H%M)"
             git push
           fi
-
+          
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
