@@ -76,26 +76,27 @@ async def _scrape_url(url: str) -> List[Dict]:
 
                 titulo = None
                 
-                # 1. Intento: Línea antes de "Servidores disponibles"
-                title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
-                if title_match:
-                    titulo = title_match.group(1).strip()
+                # 1. Bloque de detalle "## Titulo" (El más fiable)
+                detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
+                if detail_m:
+                    titulo = detail_m.group(1).strip()
 
-                # 2. Intento: Buscar alrededor del "VS"
+                # 2. Línea antes de "Servidores disponibles"
+                if not titulo or len(titulo) <= 3:
+                    title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
+                    if title_match:
+                        titulo = title_match.group(1).strip()
+
+                # 3. Alrededor del "VS"
                 if not titulo or len(titulo) <= 3:
                     lines = [l.strip() for l in body_text.split("\n## ")[0].split("\n") if l.strip()]
                     for i, line in enumerate(lines):
                         if line.upper() in ("VS", "V S") and i > 0 and i + 1 < len(lines):
                             t = f"{lines[i-1]} vs {lines[i+1]}"
-                            if len(t) > 5:
+                            # Permitimos que tenga cualquier longitud aquí
+                            if len(t) > 3 and "SERVIDORES" not in t.upper():
                                 titulo = t
                                 break
-
-                # 3. Intento: Bloque "## Titulo"
-                if not titulo or len(titulo) <= 3:
-                    detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
-                    if detail_m:
-                        titulo = detail_m.group(1).strip()
 
                 # Limpieza final
                 if titulo:
@@ -103,7 +104,7 @@ async def _scrape_url(url: str) -> List[Dict]:
                     titulo = re.sub(r"^VS\s+", "", titulo)
                     titulo = re.sub(r"\s+VS$", "", titulo)
 
-                if not titulo or len(titulo) <= 3 or normalizar(titulo) in ["PRONTO", "EN VIVO", "FINALIZADO"]:
+                if not titulo or len(titulo) <= 2 or normalizar(titulo) in ["PRONTO", "EN VIVO", "FINALIZADO"]:
                     continue
 
                 sport_hint = ""
@@ -140,8 +141,11 @@ async def _scrape_url(url: str) -> List[Dict]:
 
 async def obtener_eventos() -> List[Dict]:
     for url in BASE_URLS:
-        eventos = await _scrape_url(url)
-        if eventos: return eventos
+        try:
+            eventos = await _scrape_url(url)
+            if eventos: return eventos
+        except Exception as e:
+            LOG.error(f"Fallo total en {url}: {e}")
     return []
 
 def deduplicar_eventos(eventos: List[Dict]) -> List[Dict]:
@@ -195,7 +199,7 @@ async def main():
     
     eventos_crudos = await obtener_eventos()
     if not eventos_crudos:
-        LOG.error("❌ No se extrajeron eventos válidos en ningún dominio. Abortando para no vaciar los JSON.")
+        LOG.error("❌ No se extrajeron eventos válidos. Abortando para no vaciar los JSON.")
         return 1
 
     eventos = deduplicar_eventos(eventos_crudos)
