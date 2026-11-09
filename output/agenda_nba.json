@@ -1,5 +1,83 @@
 {
-  "fecha_actualizacion": "2026-11-09T19:21:32Z",
-  "total": 0,
-  "eventos": []
+  "fecha_actualizacion": "2026-11-09T20:10:39Z",
+  "total": 5,
+  "eventos": [
+    {
+      "id": "evt_12",
+      "titulo": "PRONTO",
+      "hora": "18:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_13",
+      "titulo": "PRONTO",
+      "hora": "19:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
+        },
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_16",
+      "titulo": "PRONTO",
+      "hora": "19:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_17",
+      "titulo": "PRONTO",
+      "hora": "20:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    },
+    {
+      "id": "evt_19",
+      "titulo": "PRONTO",
+      "hora": "21:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba8"
+        },
+        {
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        }
+      ],
+      "torneo": "NBA / BALONCESTO"
+    }
+  ]
 }
