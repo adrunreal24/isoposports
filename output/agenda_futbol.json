@@ -1,12 +1,25 @@
 {
-  "fecha_actualizacion": "2026-11-08T20:15:20Z",
-  "total": 47,
+  "fecha_actualizacion": "2026-11-09T13:00:19Z",
+  "total": 25,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "FL",
+      "titulo": "MU",
       "hora": "15:00",
-      "status": "EN VIVO",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ZAPPING EC",
+          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_1",
+      "titulo": "PL",
+      "hora": "16:30",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "DISNEY+ 1",
@@ -16,96 +29,62 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_1",
-      "titulo": "WA",
-      "hora": "15:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "CANAL9MX",
-          "url": "https://streamxhd.sbs/live1.php?stream=canal9mx"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
       "id": "evt_2",
-      "titulo": "PH",
-      "hora": "15:00",
-      "status": "EN VIVO",
+      "titulo": "SA",
+      "hora": "16:30",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "FOX SPORTS 3 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox3ar"
-        },
-        {
-          "nombre": "ESPN 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn7"
+          "nombre": "LALIGA HYPERMOTION",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
       "id": "evt_3",
-      "titulo": "CA",
-      "hora": "15:00",
-      "status": "EN VIVO",
+      "titulo": "SP",
+      "hora": "17:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "ESPN 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
-        },
-        {
-          "nombre": "FOX SPORTS 2 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox2ar"
+          "nombre": "TIGO SPORTS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
       "id": "evt_4",
-      "titulo": "IN",
-      "hora": "15:00",
-      "status": "EN VIVO",
+      "titulo": "TEN",
+      "hora": "17:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "FOXONE2",
-          "url": "https://streamxhd.sbs/live1.php?stream=foxone2"
+          "nombre": "ESPN 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn3"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "TENIS"
     },
     {
       "id": "evt_5",
-      "titulo": "KA",
-      "hora": "15:00",
-      "status": "EN VIVO",
+      "titulo": "TÉ",
+      "hora": "17:30",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "FOXONE3",
-          "url": "https://streamxhd.sbs/live1.php?stream=foxone3"
+          "nombre": "ZAPPING EC",
+          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
       "id": "evt_6",
-      "titulo": "HO",
-      "hora": "15:30",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "SA",
-      "hora": "16:00",
-      "status": "EN VIVO",
+      "titulo": "IN",
+      "hora": "17:30",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "WIN SPORTS +",
@@ -115,171 +94,22 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
+      "id": "evt_7",
+      "titulo": "SP",
+      "hora": "19:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TIGO SPORTS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
       "id": "evt_8",
-      "titulo": "OL",
-      "hora": "16:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "CLARO1",
-          "url": "https://streamxhd.sbs/live1.php?stream=claro1"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_9",
-      "titulo": "FI",
-      "hora": "16:45",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
-        },
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        },
-        {
-          "nombre": "ESPN 2 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2ar"
-        },
-        {
-          "nombre": "TELEMUNDO",
-          "url": "https://streamxhd.sbs/live1.php?stream=telemundo"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_10",
-      "titulo": "LE",
-      "hora": "16:45",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_11",
-      "titulo": "AT",
-      "hora": "17:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 10",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
-        },
-        {
-          "nombre": "ESPN",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn"
-        },
-        {
-          "nombre": "ESPN AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
-        },
-        {
-          "nombre": "ESPN +",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnplus1"
-        },
-        {
-          "nombre": "ESPN DEPORTES",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_12",
-      "titulo": "VA",
-      "hora": "17:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
-        },
-        {
-          "nombre": "SPORTV 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_13",
-      "titulo": "PE",
-      "hora": "17:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "LIGA 1 MAX",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_14",
-      "titulo": "UN",
-      "hora": "17:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "TNTSPORTSCHILE",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_15",
-      "titulo": "ES",
-      "hora": "17:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS2",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_16",
-      "titulo": "CH",
-      "hora": "17:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_17",
-      "titulo": "VE",
-      "hora": "17:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_18",
-      "titulo": "JA",
-      "hora": "18:05",
+      "titulo": "JU",
+      "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -294,95 +124,30 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_19",
-      "titulo": "SA",
-      "hora": "18:25",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
-        },
-        {
-          "nombre": "FOX SPORTS 2 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox2ar"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_20",
-      "titulo": "SE",
-      "hora": "18:25",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn7"
-        },
-        {
-          "nombre": "FOX SPORTS 3 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox3ar"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_21",
-      "titulo": "NE",
-      "hora": "18:25",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "CANAL5MX",
-          "url": "https://streamxhd.sbs/live1.php?stream=canal5mx"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_22",
-      "titulo": "CE",
-      "hora": "19:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "TNT SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_23",
-      "titulo": "PE",
-      "hora": "20:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "LIGA 1 MAX",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_24",
-      "titulo": "UN",
-      "hora": "20:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "TNTSPORTSCHILE",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_25",
+      "id": "evt_9",
       "titulo": "DE",
-      "hora": "20:00",
+      "hora": "21:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "EVENTO1",
+          "url": "https://streamxhd.sbs/live1.php?stream=evento1"
+        },
+        {
+          "nombre": "MAX 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=max1"
+        },
+        {
+          "nombre": "NBA LEAGUE PASS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "CH",
+      "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -393,51 +158,8 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_26",
-      "titulo": "DE",
-      "hora": "20:10",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_27",
-      "titulo": "QU",
-      "hora": "21:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "FOX ONE",
-          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
-        },
-        {
-          "nombre": "TUDN USA",
-          "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_28",
-      "titulo": "AN",
-      "hora": "21:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "FOX DEPORTES USA",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_29",
-      "titulo": "MI",
+      "id": "evt_12",
+      "titulo": "AT",
       "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
@@ -449,21 +171,8 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_30",
-      "titulo": "NE",
-      "hora": "21:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_31",
-      "titulo": "DA",
+      "id": "evt_13",
+      "titulo": "TO",
       "hora": "21:30",
       "status": "PRONTO",
       "servidores": [
@@ -475,25 +184,8 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_32",
-      "titulo": "PI",
-      "hora": "22:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
-        },
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_33",
-      "titulo": "MI",
+      "id": "evt_14",
+      "titulo": "DA",
       "hora": "22:00",
       "status": "PRONTO",
       "servidores": [
@@ -505,52 +197,39 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_35",
-      "titulo": "AL",
-      "hora": "22:15",
+      "id": "evt_15",
+      "titulo": "NE",
+      "hora": "22:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        },
-        {
-          "nombre": "WIN SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_36",
-      "titulo": "CH",
-      "hora": "22:20",
+      "id": "evt_16",
+      "titulo": "MI",
+      "hora": "22:00",
       "status": "PRONTO",
       "servidores": [
         {
           "nombre": "ESPN 2",
           "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_37",
-      "titulo": "PE",
-      "hora": "22:30",
-      "status": "PRONTO",
-      "servidores": [
+        },
         {
-          "nombre": "LIGA 1 MAX",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
+          "nombre": "NBA LEAGUE PASS 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_38",
-      "titulo": "LO",
-      "hora": "23:00",
+      "id": "evt_17",
+      "titulo": "HO",
+      "hora": "22:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -561,8 +240,8 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_39",
-      "titulo": "SA",
+      "id": "evt_18",
+      "titulo": "PH",
       "hora": "23:00",
       "status": "PRONTO",
       "servidores": [
@@ -574,10 +253,88 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_40",
+      "id": "evt_19",
+      "titulo": "PH",
+      "hora": "23:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_20",
+      "titulo": "GO",
+      "hora": "00:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba8"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_21",
+      "titulo": "NE",
+      "hora": "00:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_23",
+      "titulo": "CH",
+      "hora": "22:20",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_24",
+      "titulo": "LO",
+      "hora": "23:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_25",
+      "titulo": "SA",
+      "hora": "23:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_26",
       "titulo": "LE",
       "hora": "23:10",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "FOX ONE",
@@ -586,97 +343,6 @@
         {
           "nombre": "TUDN USA",
           "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_41",
-      "titulo": "SE",
-      "hora": "14:30",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn6"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_42",
-      "titulo": "PE",
-      "hora": "15:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "LIGA 1 MAX",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_43",
-      "titulo": "LE",
-      "hora": "15:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY29",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney29"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_44",
-      "titulo": "ÑU",
-      "hora": "15:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "MAX 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=max1"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_45",
-      "titulo": "UN",
-      "hora": "15:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "MAX 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=max2"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_46",
-      "titulo": "BE",
-      "hora": "15:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY30",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney30"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_47",
-      "titulo": "VI",
-      "hora": "15:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS2",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
