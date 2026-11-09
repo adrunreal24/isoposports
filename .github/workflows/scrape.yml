@@ -33,7 +33,11 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
-        run: python scraper.py
+        env:
+          GH_TOKEN: "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"
+          GH_USER: "adrunreal24"
+          GH_REPO: "isoposports"
+        run: python extractor_local.py
 
       - name: Commit output
         run: |
