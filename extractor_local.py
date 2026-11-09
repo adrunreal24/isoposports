@@ -1,452 +1,422 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Scraper streamxhd.sbs — Playwright + exportadores TXT/JSON/CSV/M3U/HTML.
+Extractor UNREALMAT v6 (Fix títulos cortados)
+- Detecta el título real usando el marcador '## ' de la web.
+- Fallback inteligente para evitar tomar abreviaturas de 2 letras.
+- Clasificación NBA / F1 / Fútbol funcionando al 100%.
 """
 
-import csv
+import asyncio
+import base64
 import json
 import logging
 import os
 import re
 import sys
-import asyncio
-from dataclasses import dataclass, field, asdict
-from datetime import date, datetime, timezone
+import unicodedata
+from datetime import datetime, timezone
 from pathlib import Path
-from typing import List, Optional, Dict
+from typing import List, Dict, Tuple
 
+import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 
-BASE_URL = "https://streamxhd.sbs/"
-OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "output"))
-TIMEOUT_MS = 45000
-LOG = logging.getLogger("streamxhd")
+# ─── CONFIG ──────────────────────────────────────────────────────────────────
+BASE_URLS = [
+    "https://streamxhd.com/",
+    "https://streamxhd.st/",
+    "https://streamxhd.click/",
+    "https://streamxhd.sbs/",
+]
 
+LOCAL_OUT = Path(__file__).parent / "output_local"
+LOCAL_OUT.mkdir(exist_ok=True)
 
-@dataclass
-class Servidor:
-    nombre: str
-    url: str
-    numero: Optional[int] = None
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+TIMEOUT_MS = 30000
+WAIT_AFTER_LOAD = 5000
 
-
-@dataclass
-class Evento:
-    hora: str
-    titulo: str
-    deporte: str = ""
-    torneo: str = ""
-    estado: str = ""
-    equipos: List[str] = field(default_factory=list)
-    servidores: List[Servidor] = field(default_factory=list)
-    fecha: str = ""
-
-    @property
-    def fingerprint(self) -> str:
-        return f"{self.fecha}|{self.hora}|{self.titulo}".lower().strip()
-
-
-URL_RE = re.compile(r"https?://streamxhd\.sbs/live1\.php\?stream=([A-Za-z0-9_\-]+)")
-TIME_RE = re.compile(r"\b([0-2]?\d:[0-5]\d)\b")
-DATE_RE = re.compile(
-    r"(?:HOY|AYER)?\s*(?:Lunes|Martes|Mi[eé]rcoles|Jueves|Viernes|S[aá]bado|Domingo)[,\s]+"
-    r"(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})",
-    re.IGNORECASE,
-)
-MESES = {
-    "enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
-    "julio": 7, "agosto": 8, "septiembre": 9, "setiembre": 9, "octubre": 10,
-    "noviembre": 11, "diciembre": 12,
+CANALES_NOMBRES = {
+    "disney": "DISNEY+", "disney1": "DISNEY+ 1", "disney2": "DISNEY+ 2",
+    "disney3": "DISNEY+ 3", "disney4": "DISNEY+ 4", "disney5": "DISNEY+ 5",
+    "disney6": "DISNEY+ 6", "disney7": "DISNEY+ 7", "disney8": "DISNEY+ 8",
+    "disney9": "DISNEY+ 9", "disney10": "DISNEY+ 10", "disney11": "DISNEY+ 11",
+    "disney12": "DISNEY+ 12", "disney13": "DISNEY+ 13", "disney14": "DISNEY+ 14",
+    "disney15": "DISNEY+ 15", "disney16": "DISNEY+ 16",
+    "espn": "ESPN", "espn2": "ESPN 2", "espn3": "ESPN 3", "espn4": "ESPN 4",
+    "espn5": "ESPN 5", "espn6": "ESPN 6", "espn7": "ESPN 7",
+    "espn2ar": "ESPN 2 AR", "espnar": "ESPN AR",
+    "espnpremium": "ESPN PREMIUM", "espnplus1": "ESPN +", "espndeportes": "ESPN DEPORTES",
+    "fox1ar": "FOX SPORTS 1 AR", "fox2ar": "FOX SPORTS 2 AR",
+    "fox3ar": "FOX SPORTS 3 AR", "foxone": "FOX ONE",
+    "fox_deportes_usa": "FOX DEPORTES USA",
+    "l1max": "LIGA 1 MAX", "max1": "MAX 1", "max2": "MAX 2",
+    "premiere1": "PREMIERE 1", "premiere2": "PREMIERE 2",
+    "tigo1": "TIGO SPORTS 1", "tudn_usa": "TUDN USA",
+    "winplus": "WIN SPORTS +", "winsports": "WIN SPORTS", "zapping_ec": "ZAPPING EC",
+    "nba": "NBA TV", "nba1": "NBA LEAGUE PASS 1", "nba2": "NBA LEAGUE PASS 2",
+    "nba3": "NBA LEAGUE PASS 3", "nba4": "NBA LEAGUE PASS 4",
+    "nba5": "NBA LEAGUE PASS 5", "nba6": "NBA LEAGUE PASS 6",
+    "nba7": "NBA LEAGUE PASS 7", "nba8": "NBA LEAGUE PASS 8",
+    "nba9": "NBA LEAGUE PASS 9",
+    "amazon1": "PRIME VIDEO 1", "amazon2": "PRIME VIDEO 2",
+    "dsports": "DSPORTS", "daznlaliga": "DAZN LALIGA",
+    "sporttvbr1": "SPORTV 1", "sporttvbr3": "SPORTV 3",
+    "fanatiz1": "FANATIZ 1", "universo": "UNIVERSO",
+    "tntsports": "TNT SPORTS", "laligahypermotion": "LALIGA HYPERMOTION",
 }
-DEPORTES = ("F1", "MotoGP", "NBA", "MLB", "NFL", "NHL", "UFC", "ESPN KnockOut",
-            "Ligue 1", "La Liga", "Premier League", "Serie A", "Bundesliga",
-            "Champions", "Europa League", "Copa")
+
+LOG = logging.getLogger("extractor")
+LOG.setLevel(logging.INFO)
+fh = logging.FileHandler(LOCAL_OUT / "extractor.log.txt", mode="a", encoding="utf-8")
+fh.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
+LOG.addHandler(fh)
+sh = logging.StreamHandler()
+sh.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
+LOG.addHandler(sh)
 
 
-def _norm(t: str) -> str:
-    return re.sub(r"\s+", " ", t).strip()
-
-
-async def fetch_html() -> Optional[str]:
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(
-            headless=True,
-            args=["--no-sandbox", "--disable-dev-shm-usage"],
-        )
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-            locale="es-ES",
-            viewport={"width": 1366, "height": 900},
-        )
-        page = await context.new_page()
-        try:
-            LOG.info(f"Cargando {BASE_URL}")
-            await page.goto(BASE_URL, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
-            try:
-                await page.wait_for_selector('a[href*="live1.php"]', timeout=TIMEOUT_MS)
-                LOG.info("Links live1.php detectados en el DOM")
-            except Exception:
-                LOG.warning("No aparecieron links live1.php (continuamos igual)")
-            await page.wait_for_timeout(4000)
-            for _ in range(5):
-                await page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
-                await page.wait_for_timeout(800)
-            html = await page.content()
-            LOG.info(f"HTML renderizado: {len(html)} bytes")
-            return html
-        except Exception as e:
-            LOG.error(f"Error Playwright: {e}")
-            return None
-        finally:
-            await context.close()
-            await browser.close()
-
-
-def html_to_text(html: str) -> str:
-    soup = BeautifulSoup(html, "lxml")
-    for tag in soup(["script", "style", "noscript"]):
-        tag.decompose()
-    return soup.get_text("\n", strip=True)
-
-
-def parse_fecha_encabezado(text: str) -> str:
-    m = DATE_RE.search(text)
-    if not m:
+# ─── HELPERS ─────────────────────────────────────────────────────────────────
+def normalizar(texto: str) -> str:
+    if not texto:
         return ""
-    dia = int(m.group(1))
-    mes = MESES.get(m.group(2).lower())
-    anio = int(m.group(3))
-    if mes:
-        try:
-            return date(anio, mes, dia).isoformat()
-        except ValueError:
-            return ""
+    t = unicodedata.normalize("NFKD", texto).encode("ASCII", "ignore").decode("utf-8")
+    return t.upper().strip()
+
+
+def clave_dedup(titulo: str, hora: str) -> str:
+    t = normalizar(titulo)
+    t = re.sub(r"[\-–—_,\.\|]+", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    h = (hora or "00:00").zfill(5)
+    return f"{t}__{h}"
+
+
+def cargar_credenciales_github() -> Tuple[str, str, str]:
+    token = os.environ.get("GH_TOKEN")
+    user = os.environ.get("GH_USER", "adrunreal24")
+    repo = os.environ.get("GH_REPO", "isoposports")
+    if not token:
+        LOG.error("❌ GH_TOKEN no definido en variables de entorno. Abortando.")
+        sys.exit(1)
+    return token, user, repo
+
+
+# ─── KEYWORDS ────────────────────────────────────────────────────────────────
+F1_KEYWORDS = [normalizar(k) for k in [
+    "F1", "MOTOGP", "MOTO GP", "MOTO2", "MOTO3", "PRACTICA", "FREE PRACTICE",
+    "CLASIFICACION", "QUALY", "QUALIFYING", "SPRINT", "GRAND PRIX", "GRAN PREMIO",
+    "FORMULA", "VERSTAPPEN", "HAMILTON", "LECLERC", "SAINZ", "ALONSO", "PEREZ",
+    "RED BULL", "FERRARI", "MERCEDES", "MCLAREN", "ASTON MARTIN", "ALPINE",
+    "FIA", "POLE POSITION", "PARRILLA", "PADDOCK", "FP1", "FP2", "FP3",
+    "ON BOARD", "COLAPINTO", "CARRERA F1",
+]]
+
+NBA_KEYWORDS = [normalizar(k) for k in [
+    "NBA", "BASKET", "BALONCESTO", "LAKERS", "CELTICS", "BULLS", "HEAT",
+    "WARRIORS", "BUCKS", "SUNS", "MAVERICKS", "KNICKS", "BLAZERS", "NETS",
+    "76ERS", "SIXERS", "NUGGETS", "CLIPPERS", "SPURS", "ROCKETS", "GRIZZLIES",
+    "PELICANS", "THUNDER", "TIMBERWOLVES", "CAVALIERS", "PISTONS", "PACERS",
+    "HORNETS", "WIZARDS", "MAGIC", "HAWKS", "RAPTORS", "KINGS", "JAZZ",
+    "EUROLEAGUE", "EUROLIGA", "NCAA", "MARCH MADNESS", "ALL STAR",
+]]
+
+TENIS_KEYWORDS = [normalizar(k) for k in [
+    "ATP", "WTA", "TENIS", "TENNIS", "FRITZ", "ALCARAZ", "DJOKOVIC", "NADAL",
+    "FEDERER", "SINNER", "MEDVEDEV", "ZVEREV", "TSITSIPAS", "RUNE", "RUBLEV",
+    "WIMBLEDON", "ROLAND GARROS", "AUSTRALIAN OPEN",
+]]
+
+BOXEO_KEYWORDS = [normalizar(k) for k in [
+    "BOXEO", "BOXING", "KNOCKOUT", "BXSTRS", "DAMIAN ARCE", "GUTIERREZ",
+    "CANELO", "TITLE FIGHT", "WBC", "WBA", "IBF", "WBO",
+]]
+
+NFL_KEYWORDS = [normalizar(k) for k in [
+    "NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS",
+    "49ERS", "EAGLES", "STEELERS", "BRONCOS", "SUPER BOWL", "TOUCHDOWN",
+    "QUARTERBACK",
+]]
+
+FUTBOL_ESPECIFICO = [
+    ("CHAMPIONS", "UEFA CHAMPIONS LEAGUE"),
+    ("EUROPA", "UEFA EUROPA LEAGUE"),
+    ("LIBERTADORES", "COPA LIBERTADORES"),
+    ("SUDAMERICANA", "COPA SUDAMERICANA"),
+    ("PREMIER", "PREMIER LEAGUE"),
+    ("BUNDESLIGA", "BUNDESLIGA"),
+    ("SERIE A", "SERIE A"),
+    ("LIGUE 1", "LIGUE 1"),
+    ("LALIGA", "LALIGA EA SPORTS"),
+    ("COPA", "COPA"),
+]
+
+
+# ─── SCRAPING ────────────────────────────────────────────────────────────────
+STATUS_PATTERN = re.compile(
+    r"^(EN VIVO|PRONTO|FINALIZADO)[ \t]*\n\s*(\d{1,2}:\d{2})(?:\s|$)",
+    re.MULTILINE,
+)
+
+SERVER_URL_RE = re.compile(
+    r"https?://streamxhd\.[a-z]+/live1\.php\?stream=([A-Za-z0-9_\-]+)"
+)
+
+EMOJI_HINT = {
+    "🏎": "F1", "🏎️": "F1",
+    "🥊": "BOXEO",
+    "🎾": "TENIS",
+    "⚽": "FUTBOL",
+    "🏀": "NBA",
+    "🏈": "NFL",
+}
+
+
+def _is_emoji_line(line: str) -> bool:
+    if not line or not line.strip():
+        return False
+    clean = line.strip()
+    if len(clean) > 4:
+        return False
+    return not any(c.isalnum() for c in clean)
+
+
+def _extraer_hint_emoji(lines: List[str]) -> str:
+    for line in lines:
+        clean = line.strip()
+        for emoji, hint in EMOJI_HINT.items():
+            if emoji in clean:
+                return hint
     return ""
 
 
-def parse_eventos(text: str, fecha_default: str) -> List[Evento]:
-    eventos: List[Evento] = []
-    partes = re.split(r"\n?Servidores disponibles\s*\d*\n?", text)
-    LOG.info(f"Bloques 'Servidores disponibles': {len(partes) - 1}")
-    if len(partes) < 2:
-        return []
+async def _scrape_url(url: str) -> List[Dict]:
+    eventos: List[Dict] = []
 
-    for i in range(1, len(partes)):
-        cuerpo = partes[i - 1]
-        links_bloque = partes[i].split("Servidores disponibles")[0]
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True, args=["--no-sandbox"])
+        try:
+            context = await browser.new_context(user_agent=UA, locale="es-ES")
+            page = await context.new_page()
+            LOG.info(f"Probando: {url}")
+            await page.goto(url, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
+            await page.wait_for_timeout(WAIT_AFTER_LOAD)
 
-        servidores: List[Servidor] = []
-        seen_urls = set()
-        for m_url in URL_RE.finditer(links_bloque):
-            url = m_url.group(0)
-            if url in seen_urls:
-                continue
-            seen_urls.add(url)
-            start = m_url.start()
-            prev_text = links_bloque[max(0, start - 100):start]
-            lines_prev = [l.strip() for l in prev_text.split("\n") if l.strip()]
-            nombre = "Desconocido"
-            numero = None
-            for cand in reversed(lines_prev):
-                cand_clean = re.sub(r"^\d+\s+", "", cand).strip()
-                if cand_clean and not cand_clean.isdigit() and cand_clean != "Servidor":
-                    nombre = cand_clean
-                    m_num = re.match(r"^(\d+)\s+", cand)
-                    if m_num:
-                        numero = int(m_num.group(1))
-                    break
-            servidores.append(Servidor(nombre=nombre, url=url, numero=numero))
+            html = await page.content()
+            soup = BeautifulSoup(html, "lxml")
+            for tag in soup(["script", "style", "noscript"]):
+                tag.decompose()
+            texto = soup.get_text("\n", strip=True)
 
-        if not servidores:
-            continue
+            matches = list(STATUS_PATTERN.finditer(texto))
+            LOG.info(f"Detectados {len(matches)} marcadores de estado en {url}")
 
-        lineas = [_norm(l) for l in cuerpo.split("\n") if l.strip()]
-        if not lineas:
-            continue
+            for idx, m in enumerate(matches):
+                status = m.group(1)
+                time_str = m.group(2).zfill(5)
 
-        hora = ""
-        for l in reversed(lineas):
-            if l.upper() in ("EN VIVO", "PRONTO", "FINALIZADO"):
-                continue
-            m = TIME_RE.fullmatch(l.strip())
-            if m:
-                hora = m.group(1)
-                break
+                next_start = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto)
+                body_text = texto[m.end():next_start]
 
-        estado = ""
-        for l in lineas:
-            lu = l.upper()
-            if lu in ("EN VIVO", "PRONTO", "FINALIZADO"):
-                estado = lu
-                break
+                # 1. Intentar sacar el título del detalle "## Titulo Completo"
+                titulo = None
+                detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
+                if detail_m:
+                    titulo = detail_m.group(1).strip()
 
-        equipos = []
-        for idx_l, l in enumerate(lineas):
-            if l.upper() == "VS" and 0 < idx_l < len(lineas) - 1:
-                eq1 = lineas[idx_l - 1]
-                eq2 = lineas[idx_l + 1]
-                if eq1 and eq2 and eq1.upper() not in ("VS",) and eq2.upper() not in ("VS",):
-                    equipos = [eq1, eq2]
-                    break
+                # 2. Fallback: parseo manual ignorando VS y líneas cortas (abreviaturas)
+                if not titulo:
+                    body_compact = body_text.split("\n## ")[0]
+                    body_lines = [l.strip() for l in body_compact.split("\n") if l.strip()]
+                    for line in body_lines:
+                        if _is_emoji_line(line):
+                            continue
+                        if line.upper() in ("VS", "V S"):
+                            continue
+                        if line.lower().startswith("servidores disponibles"):
+                            break
+                        # Evitar tomar abreviaturas de 2-3 letras como título
+                        if len(line) <= 3 and " " not in line:
+                            continue
+                        titulo = line
+                        break
 
-        titulo = ""
-        if equipos:
-            titulo = f"{equipos[0]} vs {equipos[1]}"
-        else:
-            for l in lineas:
-                if l.upper() in ("EN VIVO", "PRONTO", "FINALIZADO", "VS"):
+                if not titulo or len(titulo) <= 3:
                     continue
-                if TIME_RE.fullmatch(l):
-                    continue
-                if "GP " in l or len(l) > 5:
-                    titulo = l
-                    break
 
-        deporte = ""
-        for tok in DEPORTES:
-            if tok.lower() in cuerpo.lower():
-                deporte = tok
-                break
-        if not deporte:
-            if "🏎" in cuerpo:
-                deporte = "F1"
-            elif "🥊" in cuerpo:
-                deporte = "Boxeo"
-            elif equipos:
-                deporte = "Fútbol"
+                # 3. Sport hint del emoji
+                sport_hint = _extraer_hint_emoji(body_text[:300].split("\n"))
 
-        if not titulo:
-            continue
+                # 4. Servidores
+                servidores = []
+                seen = set()
+                for url_match in SERVER_URL_RE.finditer(body_text):
+                    stream_id = url_match.group(1)
+                    full_url = url_match.group(0)
+                    if full_url in seen:
+                        continue
+                    seen.add(full_url)
+                    servidores.append({
+                        "nombre": CANALES_NOMBRES.get(stream_id.lower(), stream_id.upper()),
+                        "url": full_url,
+                    })
 
-        eventos.append(Evento(
-            hora=hora,
-            titulo=titulo,
-            deporte=deporte,
-            torneo=deporte if deporte in DEPORTES else "",
-            estado=estado,
-            equipos=equipos,
-            servidores=servidores,
-            fecha=fecha_default,
-        ))
+                eventos.append({
+                    "id": f"evt_{idx}",
+                    "titulo": titulo,
+                    "hora": time_str,
+                    "status": status,
+                    "servidores": servidores,
+                    "sport_hint": sport_hint,
+                })
+
+            await context.close()
+        except Exception as e:
+            LOG.error(f"Error en {url}: {e}")
+        finally:
+            await browser.close()
 
     return eventos
 
 
-def merge(eventos: List[Evento]) -> List[Evento]:
-    idx: Dict[str, Evento] = {}
-    for ev in eventos:
-        k = ev.fingerprint
-        if k not in idx:
-            idx[k] = ev
-            continue
-        base = idx[k]
-        existentes = {s.url for s in base.servidores}
-        for s in ev.servidores:
-            if s.url not in existentes:
-                base.servidores.append(s)
-                existentes.add(s.url)
-    return sorted(idx.values(), key=lambda e: (e.hora or "99:99", e.titulo))
+async def obtener_eventos() -> List[Dict]:
+    for url in BASE_URLS:
+        eventos = await _scrape_url(url)
+        if eventos:
+            LOG.info(f"✅ {len(eventos)} eventos crudos desde {url}")
+            return eventos
+        LOG.warning(f"⚠️ {url} no devolvió eventos, siguiente...")
+    LOG.error("❌ Ningún dominio devolvió eventos.")
+    return []
 
 
-# ─── EXPORTADORES ────────────────────────────────────────────────────────────
-
-def write_txt(eventos, path: Path):
-    now = datetime.now(timezone.utc).isoformat()
-    lines = [
-        "=" * 70,
-        f"EVENTOS STREAMXHD — {now}",
-        f"Total: {len(eventos)} eventos",
-        "=" * 70,
-        "",
-    ]
-    for ev in eventos:
-        lines.append(f"── {ev.hora or '--:--'}  {ev.titulo}")
-        if ev.equipos:
-            lines.append(f"   {ev.equipos[0]}  VS  {ev.equipos[1]}")
-        meta = " | ".join(x for x in [ev.deporte, ev.torneo, ev.estado] if x)
-        if meta:
-            lines.append(f"   [{meta}]")
-        lines.append(f"   Servidores: {len(ev.servidores)}")
-        for i, s in enumerate(ev.servidores, 1):
-            lines.append(f"     {i}. {s.nombre}")
-            lines.append(f"        {s.url}")
-        lines.append("")
-    path.write_text("\n".join(lines), encoding="utf-8")
-
-
-def write_json(eventos, path: Path):
-    path.write_text(
-        json.dumps([asdict(e) for e in eventos], ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+# ─── DEDUPLICACIÓN GLOBAL ────────────────────────────────────────────────────
+def deduplicar_eventos(eventos: List[Dict]) -> List[Dict]:
+    dedup: Dict[str, Dict] = {}
+    for e in eventos:
+        clave = clave_dedup(e["titulo"], e["hora"])
+        if clave not in dedup:
+            dedup[clave] = {
+                "id": e["id"],
+                "titulo": e["titulo"],
+                "hora": e["hora"],
+                "status": e["status"],
+                "servidores": list(e["servidores"]),
+                "sport_hint": e.get("sport_hint", ""),
+            }
+        else:
+            existente = dedup[clave]
+            urls_vistas = {s["url"] for s in existente["servidores"]}
+            for srv in e["servidores"]:
+                if srv["url"] not in urls_vistas:
+                    existente["servidores"].append(srv)
+                    urls_vistas.add(srv["url"])
+            orden = {"EN VIVO": 3, "PRONTO": 2, "FINALIZADO": 1}
+            if orden.get(e["status"], 0) > orden.get(existente["status"], 0):
+                existente["status"] = e["status"]
+            if not existente["sport_hint"] and e.get("sport_hint"):
+                existente["sport_hint"] = e["sport_hint"]
+    return list(dedup.values())
 
 
-def write_csv(eventos, path: Path):
-    """Una fila por servidor (evento-servidor)."""
-    with path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.writer(f)
-        w.writerow([
-            "fecha", "hora", "titulo", "equipo_local", "equipo_visitante",
-            "deporte", "torneo", "estado",
-            "servidor_numero", "servidor_nombre", "servidor_url",
-        ])
-        for ev in eventos:
-            if not ev.servidores:
-                w.writerow([ev.fecha, ev.hora, ev.titulo,
-                            ev.equipos[0] if len(ev.equipos) > 0 else "",
-                            ev.equipos[1] if len(ev.equipos) > 1 else "",
-                            ev.deporte, ev.torneo, ev.estado,
-                            "", "", ""])
-                continue
-            for i, s in enumerate(ev.servidores, 1):
-                w.writerow([
-                    ev.fecha, ev.hora, ev.titulo,
-                    ev.equipos[0] if len(ev.equipos) > 0 else "",
-                    ev.equipos[1] if len(ev.equipos) > 1 else "",
-                    ev.deporte, ev.torneo, ev.estado,
-                    s.numero or i, s.nombre, s.url,
-                ])
+# ─── CLASIFICACIÓN ───────────────────────────────────────────────────────────
+def clasificar_evento(titulo: str, sport_hint: str) -> Tuple[str, str]:
+    t = normalizar(titulo)
+
+    if sport_hint == "F1" or any(k in t for k in F1_KEYWORDS):
+        return "f1", "FÓRMULA 1 / MOTOR"
+    if sport_hint == "NBA" or any(k in t for k in NBA_KEYWORDS):
+        return "nba", "NBA / BALONCESTO"
+    if sport_hint == "TENIS" or any(k in t for k in TENIS_KEYWORDS):
+        return "futbol", "TENIS"
+    if sport_hint == "BOXEO" or any(k in t for k in BOXEO_KEYWORDS):
+        return "futbol", "BOXEO"
+    if sport_hint == "NFL" or any(k in t for k in NFL_KEYWORDS):
+        return "futbol", "NFL"
+
+    for key, torneo in FUTBOL_ESPECIFICO:
+        if key in t:
+            return "futbol", torneo
+
+    return "futbol", "FÚTBOL INTERNACIONAL"
 
 
-def _safe_group(name: str) -> str:
-    """Nombre de grupo M3U válido."""
-    name = re.sub(r"[^\w\s\-]", "", name).strip()
-    return name or "Otros"
+def clasificar_eventos(eventos: List[Dict]) -> Dict[str, List[Dict]]:
+    clasificados: Dict[str, List[Dict]] = {"futbol": [], "nba": [], "f1": []}
+    for e in eventos:
+        deporte, torneo = clasificar_evento(e["titulo"], e.get("sport_hint", ""))
+        e["torneo"] = torneo
+        e.pop("sport_hint", None)
+        clasificados[deporte].append(e)
+    return clasificados
 
 
-def write_m3u(eventos, path: Path):
-    """Playlist M3U para VLC/TiviMate/etc. Un canal por servidor."""
-    lines = ["#EXTM3U"]
-    for ev in eventos:
-        grupo = _safe_group(ev.deporte or "Otros")
-        for i, s in enumerate(ev.servidores, 1):
-            display = f"{ev.hora} | {ev.titulo}"
-            if s.nombre:
-                display += f" [{s.nombre}]"
-            lines.append(
-                f'#EXTINF:-1 tvg-name="{ev.titulo}" group-title="{grupo}", {display}'
-            )
-            lines.append(s.url)
-    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+# ─── GITHUB ──────────────────────────────────────────────────────────────────
+def subir_github(token: str, user: str, repo: str, path_repo: str, contenido: str) -> bool:
+    api = f"https://api.github.com/repos/{user}/{repo}/contents/{path_repo}"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+    }
+    r = requests.get(api, headers=headers, timeout=20)
+    sha = r.json().get("sha") if r.status_code == 200 else None
 
+    data = {
+        "message": f"chore: update {path_repo}",
+        "content": base64.b64encode(contenido.encode()).decode(),
+        "branch": "main",
+    }
+    if sha:
+        data["sha"] = sha
 
-def write_html(eventos, path: Path):
-    """HTML estático con diseño responsive."""
-    now = datetime.now(timezone.utc).isoformat()
-    import html as _html
-
-    rows = []
-    for ev in eventos:
-        meta = " · ".join(x for x in [ev.deporte, ev.torneo, ev.estado] if x)
-        servs = ""
-        for i, s in enumerate(ev.servidores, 1):
-            nombre = _html.escape(s.nombre or f"Servidor {i}")
-            servs += (
-                f'<li><span class="num">{i}</span>'
-                f'<span class="sname">{nombre}</span>'
-                f'<a class="btn" href="{_html.escape(s.url)}" target="_blank" rel="noopener">Ver aquí</a>'
-                f'</li>'
-            )
-        rows.append(f"""
-        <div class="event">
-          <div class="head">
-            <div class="time">{_html.escape(ev.hora or '--:--')}</div>
-            <div class="title">{_html.escape(ev.titulo)}</div>
-          </div>
-          <div class="meta">{_html.escape(meta)}</div>
-          <ul class="servers">{servs}</ul>
-        </div>
-        """)
-
-    doc = f"""<!doctype html>
-<html lang="es">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Eventos StreamXHD — {now}</title>
-<style>
-  :root {{
-    --bg: #0d1117; --card: #161b22; --border: #30363d;
-    --text: #e6edf3; --muted: #8b949e; --accent: #2f81f7; --green: #3fb950;
-  }}
-  * {{ box-sizing: border-box; }}
-  body {{ margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-         background: var(--bg); color: var(--text); padding: 20px; }}
-  h1 {{ font-size: 22px; margin: 0 0 4px; }}
-  .sub {{ color: var(--muted); font-size: 13px; margin-bottom: 24px; }}
-  .grid {{ display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }}
-  .event {{ background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }}
-  .head {{ display: flex; gap: 10px; align-items: baseline; margin-bottom: 6px; }}
-  .time {{ color: var(--green); font-weight: 600; font-variant-numeric: tabular-nums; min-width: 48px; }}
-  .title {{ font-weight: 600; }}
-  .meta {{ color: var(--muted); font-size: 12px; margin-bottom: 10px; }}
-  .servers {{ list-style: none; margin: 0; padding: 0; }}
-  .servers li {{ display: flex; align-items: center; gap: 8px; padding: 6px 0;
-                 border-top: 1px solid var(--border); }}
-  .servers li:first-child {{ border-top: 0; }}
-  .num {{ display: inline-flex; width: 20px; height: 20px; border-radius: 50%;
-          background: var(--border); align-items: center; justify-content: center;
-          font-size: 11px; color: var(--muted); flex-shrink: 0; }}
-  .sname {{ flex: 1; font-size: 14px; }}
-  .btn {{ background: var(--accent); color: #fff; text-decoration: none;
-          padding: 4px 12px; border-radius: 6px; font-size: 12px; font-weight: 600; }}
-  .btn:hover {{ opacity: .85; }}
-</style>
-</head>
-<body>
-  <h1>Eventos StreamXHD</h1>
-  <div class="sub">{len(eventos)} eventos · actualizado {now}</div>
-  <div class="grid">
-    {''.join(rows)}
-  </div>
-</body>
-</html>"""
-    path.write_text(doc, encoding="utf-8")
+    resp = requests.put(api, headers=headers, json=data, timeout=30)
+    return resp.status_code in (200, 201)
 
 
 # ─── MAIN ────────────────────────────────────────────────────────────────────
+async def main():
+    token, user, repo = cargar_credenciales_github()
 
-def main() -> int:
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-    html = asyncio.run(fetch_html())
-    if not html:
-        LOG.error("Sin HTML")
+    eventos_crudos = await obtener_eventos()
+    if not eventos_crudos:
+        LOG.error("Sin eventos. Abortando.")
         return 1
 
-    text = html_to_text(html)
-    LOG.info(f"Texto plano: {len(text)} caracteres")
+    LOG.info(f"Eventos crudos: {len(eventos_crudos)}")
+    eventos = deduplicar_eventos(eventos_crudos)
+    LOG.info(f"Eventos tras deduplicación: {len(eventos)}")
 
-    (OUTPUT_DIR / "debug_text.txt").write_text(text, encoding="utf-8")
+    clasificados = clasificar_eventos(eventos)
+    ahora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    fecha_ctx = parse_fecha_encabezado(text) or date.today().isoformat()
-    LOG.info(f"Fecha detectada: {fecha_ctx}")
+    LOG.info(
+        f"Clasificación → Fútbol={len(clasificados['futbol'])} "
+        f"NBA={len(clasificados['nba'])} "
+        f"F1={len(clasificados['f1'])}"
+    )
 
-    eventos = parse_eventos(text, fecha_ctx)
-    LOG.info(f"Eventos parseados: {len(eventos)}")
+    for deporte, lista in clasificados.items():
+        payload = {
+            "fecha_actualizacion": ahora,
+            "total": len(lista),
+            "eventos": lista,
+        }
+        ok = subir_github(
+            token, user, repo,
+            f"output/agenda_{deporte}.json",
+            json.dumps(payload, ensure_ascii=False, indent=2),
+        )
+        if ok:
+            LOG.info(f"✅ Subido agenda_{deporte}.json ({len(lista)} eventos)")
+        else:
+            LOG.error(f"❌ Falló subida de agenda_{deporte}.json")
 
-    if not eventos:
-        LOG.error("Sin eventos")
-        return 1
-
-    eventos = merge(eventos)
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%d")
-    base = OUTPUT_DIR / f"eventos_{stamp}"
-
-    write_txt(eventos, base.with_suffix(".txt"))
-    write_json(eventos, base.with_suffix(".json"))
-    # NUEVO: Guardar copia como _ultimo para el blog
-    write_json(eventos, OUTPUT_DIR / "eventos_ultimo.json")
-    write_csv(eventos, base.with_suffix(".csv"))
-    write_m3u(eventos, base.with_suffix(".m3u"))
-    write_html(eventos, base.with_suffix(".html"))
-
-    LOG.info(f"{len(eventos)} eventos guardados en 5 formatos (TXT/JSON/CSV/M3U/HTML)")
+    LOG.info("FIN. Proceso completado.")
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(asyncio.run(main()))
