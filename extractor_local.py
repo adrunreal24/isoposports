@@ -48,9 +48,7 @@ NHL_KEYWORDS = [normalizar(k) for k in ["NHL", "AVALANCHE", "MAPLE LEAFS", "WILD
 
 FUTBOL_ESPECIFICO = [("CHAMPIONS", "UEFA CHAMPIONS LEAGUE"), ("EUROPA", "UEFA EUROPA LEAGUE"), ("LIBERTADORES", "COPA LIBERTADORES"), ("SUDAMERICANA", "COPA SUDAMERICANA"), ("PREMIER", "PREMIER LEAGUE"), ("BUNDESLIGA", "BUNDESLIGA"), ("SERIE A", "SERIE A"), ("LIGUE 1", "LIGUE 1"), ("LALIGA", "LALIGA EA SPORTS"), ("COPA", "COPA")]
 
-STATUS_PATTERN = re.compile(r"^(EN VIVO|PRONTO|FINALIZADO)[ \t]*\n\s*(\d{1,2}:\d{2})(?:\s|$)", re.MULTILINE)
-SERVER_URL_RE = re.compile(r"https?://streamxhd\.[a-z]+/live1\.php\?stream=([A-Za-z0-9_\-]+)")
-EMOJI_HINT = {"🏎": "F1", "🏎️": "F1", "🥊": "BOXEO", "🎾": "TENIS", "⚽": "FUTBOL", "🏀": "NBA", "🏈": "NFL", "🏒": "NHL"}
+SERVER_URL_RE = re.compile(r"https?://streamxhd\.[a-z]+/(live[12]\.php\?stream=[A-Za-z0-9_\-]+)")
 
 async def _scrape_url(url: str) -> List[Dict]:
     eventos: List[Dict] = []
@@ -64,75 +62,100 @@ async def _scrape_url(url: str) -> List[Dict]:
             await page.wait_for_timeout(WAIT_AFTER_LOAD)
 
             soup = BeautifulSoup(await page.content(), "lxml")
-            for tag in soup(["script", "style", "noscript"]): tag.decompose()
-            texto = soup.get_text("\n", strip=True)
+            articles = soup.find_all("article", class_="event")
 
-            matches = list(STATUS_PATTERN.finditer(texto))
-            LOG.info(f"Detectados {len(matches)} marcadores en {url}")
+            LOG.info(f"Encontrados {len(articles)} partidos válidos en {url}")
 
-            for idx, m in enumerate(matches):
-                status = m.group(1)
-                time_str = m.group(2).zfill(5)
-                next_start = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto)
-                body_text = texto[m.end():next_start]
+            for idx, art in enumerate(articles):
+                # 1. Obtener el meta-título decodificado del base64
+                event_id = art.get("data-event-card")
+                meta_text = ""
+                if event_id:
+                    try:
+                        meta_text = base64.b64decode(event_id).decode('utf-8', errors='ignore')
+                    except Exception:
+                        pass
 
-                titulo = None
+                # 2. Extraer el título visible real (por si el Base64 falla)
+                h2 = art.find("h2", class_="event-title")
+                titulo = h2.text.strip() if h2 else None
                 
-                # --- ESTRATEGIA 1: La línea justo encima de "Servidores disponibles"
-                # Es la forma más fiable porque ahí siempre está el nombre real del partido
-                title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
-                if title_match:
-                    posible_titulo = title_match.group(1).strip()
-                    # Validar que no sea "NBA", "NHL" o algo muy corto
-                    if len(posible_titulo) > 5 and " VS " in normalizar(posible_titulo):
-                        titulo = posible_titulo
+                if not titulo and meta_text:
+                    partes = meta_text.split('|')
+                    if len(partes) > 0:
+                        titulo = partes[0]
 
-                # --- ESTRATEGIA 2: Bloque de detalle "## Titulo"
-                if not titulo:
-                    detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
-                    if detail_m:
-                        titulo = detail_m.group(1).strip()
-
-                # --- ESTRATEGIA 3: Rodear el "VS" con la línea de arriba y abajo
-                if not titulo or len(titulo) <= 3:
-                    lines = [l.strip() for l in body_text.split("\n## ")[0].split("\n") if l.strip()]
-                    for i, line in enumerate(lines):
-                        if line.upper() in ("VS", "V S") and i > 0 and i + 1 < len(lines):
-                            t = f"{lines[i-1]} vs {lines[i+1]}"
-                            if len(t) > 5 and "SERVIDORES" not in t.upper():
-                                titulo = t
-                                break
-
-                # Limpieza final (quitar emojis, VS sueltos, etc)
-                if titulo:
-                    titulo = re.sub(r"[\U00010000-\U0010ffff]", "", titulo).strip()
-                    titulo = re.sub(r"^VS\s+", "", titulo)
-                    titulo = re.sub(r"\s+VS$", "", titulo)
-
-                # Evitar descartes por longitud
-                if not titulo or len(titulo) <= 2 or normalizar(titulo) in ["PRONTO", "EN VIVO", "FINALIZADO"]:
+                if not titulo or len(titulo) < 3:
                     continue
 
-                sport_hint = ""
-                for line in body_text[:300].split("\n"):
-                    for emoji, hint in EMOJI_HINT.items():
-                        if emoji in line: sport_hint = hint; break
-                    if sport_hint: break
+                # 3. Extraer hora del bloque de horario
+                time_tag = art.find("div", class_="event-time") or art.find("span", class_="compact-list-time")
+                time_str = "00:00"
+                if time_tag:
+                    # Intentar sacar del atributo data-full-time o del texto
+                    match = re.search(r"(\d{1,2}:\d{2})", time_tag.text)
+                    if match:
+                        time_str = match.group(1).zfill(5)
 
+                # 4. Extraer Torneo
+                torneo = "DEPORTE"
+                if meta_text:
+                    partes = meta_text.split('|')
+                    if len(partes) >= 4:
+                        torneo = partes[-1]
+                
+                if torneo == "DEPORTE":
+                    league_tag = art.find("span", class_="compact-list-league")
+                    if league_tag:
+                        torneo = league_tag.text.strip()
+
+                # 5. Extraer Deporte (Emoji)
+                sport_hint = ""
+                tags = art.find_all("span", class_="tag")
+                for tag in tags:
+                    if "Football" in tag.text: sport_hint = "FUTBOL"
+                    elif "Basketball" in tag.text: sport_hint = "NBA"
+                    elif "Hockey" in tag.text: sport_hint = "NHL"
+                    elif "Tennis" in tag.text: sport_hint = "TENIS"
+                    elif "Racing" in tag.text or "Motor" in tag.text: sport_hint = "F1"
+
+                # 6. Extraer Servidores (tanto live1 como live2)
                 servidores = []
                 seen = set()
-                for url_match in SERVER_URL_RE.finditer(body_text):
-                    stream_id = url_match.group(1)
-                    full_url = url_match.group(0)
-                    if full_url not in seen:
-                        seen.add(full_url)
-                        servidores.append({"nombre": CANALES_NOMBRES.get(stream_id.lower(), stream_id.upper()), "url": full_url})
+                for a_tag in art.find_all("button", class_="compact-server-action") + art.find_all("button", class_="server"):
+                    stream_url = a_tag.get("data-url") or a_tag.get("data-copy") or a_tag.get("data-target")
+                    # Si viene de un bloque de copiar, quitamos las etiquetas html
+                    if stream_url and "iframe" in stream_url:
+                        m = re.search(r"src=\"(https?://[^\"]+)\"", stream_url)
+                        if m: stream_url = m.group(1)
+                    
+                    if stream_url and "streamxhd" in stream_url:
+                        # Normalizar a live1 para buscar el nombre (aunque use live2)
+                        match = SERVER_URL_RE.search(stream_url)
+                        if match:
+                            path = match.group(1)
+                            stream_id = path.split("stream=")[-1].lower()
+                            
+                            if stream_url not in seen:
+                                seen.add(stream_url)
+                                servidores.append({
+                                    "nombre": CANALES_NOMBRES.get(stream_id, stream_id.upper()),
+                                    "url": stream_url
+                                })
 
-                if servidores:
-                    eventos.append({
-                        "id": f"evt_{idx}", "titulo": titulo, "hora": time_str, "status": status,
-                        "servidores": servidores, "sport_hint": sport_hint
-                    })
+                # Si no tiene servidores, no vale la pena subirlo
+                if not servidores:
+                    continue
+
+                eventos.append({
+                    "id": f"evt_{idx}",
+                    "titulo": titulo,
+                    "hora": time_str,
+                    "status": "PRONTO", # El estado real lo calculará el JS del blog
+                    "servidores": servidores,
+                    "torneo": torneo,
+                    "sport_hint": sport_hint
+                })
             
             if eventos:
                 return eventos
@@ -163,28 +186,33 @@ def deduplicar_eventos(eventos: List[Dict]) -> List[Dict]:
             urls_vistas = {s["url"] for s in dedup[clave]["servidores"]}
             for srv in e["servidores"]:
                 if srv["url"] not in urls_vistas: dedup[clave]["servidores"].append(srv)
-            orden = {"EN VIVO": 3, "PRONTO": 2, "FINALIZADO": 1}
-            if orden.get(e["status"], 0) > orden.get(dedup[clave]["status"], 0):
-                dedup[clave]["status"] = e["status"]
     return list(dedup.values())
 
-def clasificar_evento(titulo: str, sport_hint: str) -> Tuple[str, str]:
+def clasificar_evento(titulo: str, torneo: str, sport_hint: str) -> Tuple[str, str]:
     t = normalizar(titulo)
-    if sport_hint == "F1" or any(k in t for k in F1_KEYWORDS): return "f1", "FÓRMULA 1 / MOTOR"
-    if sport_hint == "NBA" or any(k in t for k in NBA_KEYWORDS): return "nba", "NBA / BALONCESTO"
-    if sport_hint == "TENIS" or any(k in t for k in TENIS_KEYWORDS): return "futbol", "TENIS"
-    if sport_hint == "BOXEO" or any(k in t for k in BOXEO_KEYWORDS): return "futbol", "BOXEO"
-    if sport_hint == "NFL" or any(k in t for k in NFL_KEYWORDS): return "futbol", "NFL"
-    if sport_hint == "NHL" or any(k in t for k in NHL_KEYWORDS): return "futbol", "NHL"
-    for key, torneo in FUTBOL_ESPECIFICO:
-        if key in t: return "futbol", torneo
-    return "futbol", "FÚTBOL INTERNACIONAL"
+    torneo_upper = normalizar(torneo)
+    
+    # Usamos el sport_hint primero (es lo más fiable por el emoji)
+    if sport_hint == "F1" or "F1" in torneo_upper or "MOTOR" in torneo_upper: return "f1", torneo
+    if sport_hint == "NBA" or "NBA" in torneo_upper or "BASKET" in torneo_upper: return "nba", torneo
+    
+    # Si no hay sport_hint, buscamos por palabras clave
+    if any(k in t for k in F1_KEYWORDS): return "f1", torneo
+    if any(k in t for k in NBA_KEYWORDS): return "nba", torneo
+    
+    # El resto va a Fútbol (que incluye Tenis, NFL, NHL, etc.)
+    if "CHAMPIONS" in torneo_upper: return "futbol", "UEFA CHAMPIONS LEAGUE"
+    if "LIGA MX" in torneo_upper: return "futbol", "LIGA MX"
+    if "NHL" in torneo_upper: return "futbol", "NHL"
+    if "NFL" in torneo_upper: return "futbol", "NFL"
+    
+    return "futbol", torneo
 
 def clasificar_eventos(eventos: List[Dict]) -> Dict[str, List[Dict]]:
     clasificados = {"futbol": [], "nba": [], "f1": []}
     for e in eventos:
-        deporte, torneo = clasificar_evento(e["titulo"], e.get("sport_hint", ""))
-        e["torneo"] = torneo
+        deporte, torneo_final = clasificar_evento(e["titulo"], e.get("torneo", ""), e.get("sport_hint", ""))
+        e["torneo"] = torneo_final
         e.pop("sport_hint", None)
         clasificados[deporte].append(e)
     return clasificados
@@ -201,11 +229,13 @@ def subir_github(token: str, user: str, repo: str, path_repo: str, contenido: st
 
 async def main():
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    if not token: sys.exit(1)
+    if not token: 
+        LOG.error("No token found")
+        sys.exit(1)
     
     eventos_crudos = await obtener_eventos()
     if not eventos_crudos:
-        LOG.error("❌ No se extrajeron eventos válidos. Abortando para no vaciar los JSON.")
+        LOG.error("❌ No se extrajeron eventos válidos. Abortando.")
         return 1
 
     eventos = deduplicar_eventos(eventos_crudos)
