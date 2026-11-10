@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-10T17:26:52Z",
-  "total": 22,
+  "fecha_actualizacion": "2026-11-10T19:50:18Z",
+  "total": 20,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "HÄ vs CH",
-      "hora": "12:45",
+      "titulo": "Häcken vs Chelsea",
+      "hora": "09:45",
       "status": "PRONTO",
       "servidores": [
         {
@@ -13,12 +13,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "UEFA CHAMPIONS LEAGUE"
     },
     {
       "id": "evt_1",
-      "titulo": "RE vs PA",
-      "hora": "12:45",
+      "titulo": "Real Madrid vs Paris FC",
+      "hora": "09:45",
       "status": "PRONTO",
       "servidores": [
         {
@@ -30,12 +30,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "UEFA CHAMPIONS LEAGUE"
     },
     {
       "id": "evt_2",
-      "titulo": "AN vs DE",
-      "hora": "13:00",
+      "titulo": "Anaitasuna FT vs Deportivo Alavés",
+      "hora": "10:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -43,12 +43,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espnplus1"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Copa del Rey"
     },
     {
       "id": "evt_3",
-      "titulo": "TI vs VÉ",
-      "hora": "13:00",
+      "titulo": "Tigre vs Vélez Sársfield",
+      "hora": "10:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -56,12 +56,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Torneo Proyección"
     },
     {
       "id": "evt_4",
-      "titulo": "HU vs RI",
-      "hora": "14:30",
+      "titulo": "Huracán FC vs River Plate",
+      "hora": "11:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -69,12 +69,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney2"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Segunda División"
     },
     {
       "id": "evt_5",
-      "titulo": "RO vs SE",
-      "hora": "15:00",
+      "titulo": "Roma vs Servette Chênois",
+      "hora": "12:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -82,12 +82,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney3"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "UEFA CHAMPIONS LEAGUE"
     },
     {
       "id": "evt_6",
-      "titulo": "IN vs MA",
-      "hora": "15:00",
+      "titulo": "Inter Milan vs Manchester City",
+      "hora": "12:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -95,12 +95,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "UEFA CHAMPIONS LEAGUE"
     },
     {
       "id": "evt_7",
-      "titulo": "PS vs BA",
-      "hora": "15:00",
+      "titulo": "PSG vs Bayern Múnich",
+      "hora": "12:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -112,12 +112,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney4"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "UEFA CHAMPIONS LEAGUE"
     },
     {
       "id": "evt_8",
-      "titulo": "TA vs VA",
-      "hora": "15:00",
+      "titulo": "Tavernes vs Valencia",
+      "hora": "12:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -125,12 +125,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espnplus2"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Copa del Rey"
     },
     {
       "id": "evt_9",
-      "titulo": "TA vs SA",
-      "hora": "15:00",
+      "titulo": "Talleres de Córdoba  vs Sarmiento",
+      "hora": "12:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -138,11 +138,24 @@
           "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Torneo Proyección"
     },
     {
       "id": "evt_10",
-      "titulo": "EN vs BO",
+      "titulo": "Envigado vs Boca Juniors de Cali",
+      "hora": "12:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "Primera B"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "Inter Bogotá vs América de Cali",
       "hora": "15:30",
       "status": "PRONTO",
       "servidores": [
@@ -151,25 +164,25 @@
           "url": "https://streamxhd.sbs/live1.php?stream=winplus"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Copa Colombia"
     },
     {
-      "id": "evt_11",
-      "titulo": "IN vs AM",
-      "hora": "18:30",
+      "id": "evt_12",
+      "titulo": "Colorado Avalanche vs Toronto Maple Leafs",
+      "hora": "16:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+          "nombre": "DISNEY+ 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "NHL"
     },
     {
       "id": "evt_13",
-      "titulo": "Washington Capitals vs Ottawa Senators",
-      "hora": "19:00",
+      "titulo": "Minnesota Wild vs Montreal Canadiens",
+      "hora": "16:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -181,8 +194,8 @@
     },
     {
       "id": "evt_14",
-      "titulo": "WA vs OT",
-      "hora": "19:00",
+      "titulo": "Washington Capitals vs Ottawa Senators",
+      "hora": "16:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -194,8 +207,8 @@
     },
     {
       "id": "evt_15",
-      "titulo": "NE vs WI",
-      "hora": "19:00",
+      "titulo": "New Jersey Devils vs Winnipeg Jets",
+      "hora": "16:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -207,8 +220,8 @@
     },
     {
       "id": "evt_17",
-      "titulo": "FL vs CO",
-      "hora": "19:30",
+      "titulo": "Florida Panthers vs Columbus Blue Jackets",
+      "hora": "16:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -220,8 +233,8 @@
     },
     {
       "id": "evt_18",
-      "titulo": "PU vs TI",
-      "hora": "20:00",
+      "titulo": "Pumas UNAM vs Tigres UANL",
+      "hora": "17:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -229,12 +242,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=vix1"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "LIGA MX"
     },
     {
       "id": "evt_20",
-      "titulo": "ON vs AT",
-      "hora": "20:30",
+      "titulo": "Once Caldas vs Atlético Nacional",
+      "hora": "17:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -242,59 +255,20 @@
           "url": "https://streamxhd.sbs/live1.php?stream=winplus"
         }
       ],
-      "torneo": "FÚTBOL INTERNACIONAL"
+      "torneo": "Copa Colombia"
     },
     {
-      "id": "evt_25",
-      "titulo": "NA vs LO",
-      "hora": "22:00",
+      "id": "evt_23",
+      "titulo": "Juárez vs Guadalajara",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DISNEY+ 10",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+          "nombre": "FOX ONE",
+          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
         }
       ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_28",
-      "titulo": "MI vs BU",
-      "hora": "20:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "NFL"
-    },
-    {
-      "id": "evt_31",
-      "titulo": "PH vs VA",
-      "hora": "21:30",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_33",
-      "titulo": "NE vs SA",
-      "hora": "22:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
-        }
-      ],
-      "torneo": "NHL"
+      "torneo": "LIGA MX"
     }
   ]
 }
