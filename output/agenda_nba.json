@@ -1,9 +1,9 @@
 {
-  "fecha_actualizacion": "2026-11-10T19:50:18Z",
+  "fecha_actualizacion": "2026-11-10T21:08:57Z",
   "total": 7,
   "eventos": [
     {
-      "id": "evt_16",
+      "id": "evt_12",
       "titulo": "New York Knicks vs Milwaukee Bucks",
       "hora": "16:30",
       "status": "PRONTO",
@@ -16,7 +16,7 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_19",
+      "id": "evt_15",
       "titulo": "Philadelphia 76ers vs Boston Celtics",
       "hora": "17:00",
       "status": "PRONTO",
@@ -33,7 +33,7 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_21",
+      "id": "evt_17",
       "titulo": "Utah Jazz vs Miami Heat",
       "hora": "18:00",
       "status": "PRONTO",
@@ -46,7 +46,7 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_22",
+      "id": "evt_18",
       "titulo": "Phoenix Suns vs Los Angeles Clippers",
       "hora": "18:00",
       "status": "PRONTO",
@@ -59,7 +59,7 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_24",
+      "id": "evt_20",
       "titulo": "Sacramento Kings vs Orlando Magic",
       "hora": "19:00",
       "status": "PRONTO",
@@ -72,7 +72,7 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_25",
+      "id": "evt_21",
       "titulo": "Nashville Predators vs Los Angeles Kings",
       "hora": "19:00",
       "status": "PRONTO",
@@ -85,7 +85,7 @@
       "torneo": "NHL"
     },
     {
-      "id": "evt_26",
+      "id": "evt_22",
       "titulo": "Portland Trail Blazers vs Oklahoma City Thunder",
       "hora": "20:00",
       "status": "PRONTO",
