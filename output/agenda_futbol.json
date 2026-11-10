@@ -1,112 +1,80 @@
 {
-  "fecha_actualizacion": "2026-11-09T20:10:39Z",
-  "total": 7,
+  "fecha_actualizacion": "2026-11-10T17:26:52Z",
+  "total": 22,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "EN VIVO",
-      "hora": "13:30",
-      "status": "EN VIVO",
+      "titulo": "HÄ vs CH",
+      "hora": "12:45",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "DISNEY+ 1",
           "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_1",
+      "titulo": "RE vs PA",
+      "hora": "12:45",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         },
         {
-          "nombre": "LALIGA HYPERMOTION",
-          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
       "id": "evt_2",
-      "titulo": "EN VIVO",
-      "hora": "14:00",
-      "status": "EN VIVO",
+      "titulo": "AN vs DE",
+      "hora": "13:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "TIGO SPORTS 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
-        },
+          "nombre": "ESPN +",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus1"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_3",
+      "titulo": "TI vs VÉ",
+      "hora": "13:00",
+      "status": "PRONTO",
+      "servidores": [
         {
-          "nombre": "ESPN 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn3"
+          "nombre": "ESPN PREMIUM",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
       "id": "evt_4",
-      "titulo": "PRONTO",
+      "titulo": "HU vs RI",
       "hora": "14:30",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "ZAPPING EC",
-          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
-        },
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_6",
-      "titulo": "PRONTO",
-      "hora": "16:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "TIGO SPORTS 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "PRONTO",
-      "hora": "18:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        },
-        {
-          "nombre": "WIN SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
-        },
-        {
-          "nombre": "EVENTO1",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento1"
-        },
-        {
-          "nombre": "MAX 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=max1"
-        },
-        {
-          "nombre": "NBA LEAGUE PASS 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
-        },
-        {
-          "nombre": "NBA LEAGUE PASS 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
-        },
-        {
-          "nombre": "NBA LEAGUE PASS 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba3"
-        }
-      ],
-      "torneo": "FÚTBOL INTERNACIONAL"
-    },
-    {
-      "id": "evt_18",
-      "titulo": "PRONTO",
-      "hora": "20:30",
+      "id": "evt_5",
+      "titulo": "RO vs SE",
+      "hora": "15:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -117,17 +85,216 @@
       "torneo": "FÚTBOL INTERNACIONAL"
     },
     {
-      "id": "evt_21",
-      "titulo": "FINALIZADO",
-      "hora": "12:00",
-      "status": "FINALIZADO",
+      "id": "evt_6",
+      "titulo": "IN vs MA",
+      "hora": "15:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "ZAPPING EC",
-          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
       ],
       "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_7",
+      "titulo": "PS vs BA",
+      "hora": "15:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        },
+        {
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_8",
+      "titulo": "TA vs VA",
+      "hora": "15:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN + 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus2"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_9",
+      "titulo": "TA vs SA",
+      "hora": "15:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNT SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_10",
+      "titulo": "EN vs BO",
+      "hora": "15:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "IN vs AM",
+      "hora": "18:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_13",
+      "titulo": "Washington Capitals vs Ottawa Senators",
+      "hora": "19:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
+        }
+      ],
+      "torneo": "NHL"
+    },
+    {
+      "id": "evt_14",
+      "titulo": "WA vs OT",
+      "hora": "19:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        }
+      ],
+      "torneo": "NHL"
+    },
+    {
+      "id": "evt_15",
+      "titulo": "NE vs WI",
+      "hora": "19:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        }
+      ],
+      "torneo": "NHL"
+    },
+    {
+      "id": "evt_17",
+      "titulo": "FL vs CO",
+      "hora": "19:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 9",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
+        }
+      ],
+      "torneo": "NHL"
+    },
+    {
+      "id": "evt_18",
+      "titulo": "PU vs TI",
+      "hora": "20:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "VIX 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix1"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_20",
+      "titulo": "ON vs AT",
+      "hora": "20:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "FÚTBOL INTERNACIONAL"
+    },
+    {
+      "id": "evt_25",
+      "titulo": "NA vs LO",
+      "hora": "22:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 10",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+        }
+      ],
+      "torneo": "NHL"
+    },
+    {
+      "id": "evt_28",
+      "titulo": "MI vs BU",
+      "hora": "20:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_31",
+      "titulo": "PH vs VA",
+      "hora": "21:30",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
+        }
+      ],
+      "torneo": "NHL"
+    },
+    {
+      "id": "evt_33",
+      "titulo": "NE vs SA",
+      "hora": "22:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        }
+      ],
+      "torneo": "NHL"
     }
   ]
 }
