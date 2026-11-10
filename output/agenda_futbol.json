@@ -1,24 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-10T21:08:57Z",
-  "total": 20,
+  "fecha_actualizacion": "2026-11-10T22:07:25Z",
+  "total": 15,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Huracán FC vs River Plate",
-      "hora": "11:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "Segunda División"
-    },
-    {
-      "id": "evt_1",
       "titulo": "Roma vs Servette Chênois",
-      "hora": "12:00",
+      "hora": "13:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -26,12 +13,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney3"
         }
       ],
-      "torneo": "UEFA CHAMPIONS LEAGUE"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_2",
+      "id": "evt_1",
       "titulo": "Inter Milan vs Manchester City",
-      "hora": "12:00",
+      "hora": "13:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -39,12 +26,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
       ],
-      "torneo": "UEFA CHAMPIONS LEAGUE"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_3",
+      "id": "evt_2",
       "titulo": "PSG vs Bayern Múnich",
-      "hora": "12:00",
+      "hora": "13:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -56,12 +43,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney4"
         }
       ],
-      "torneo": "UEFA CHAMPIONS LEAGUE"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_4",
+      "id": "evt_3",
       "titulo": "Tavernes vs Valencia",
-      "hora": "12:00",
+      "hora": "13:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -72,9 +59,9 @@
       "torneo": "Copa del Rey"
     },
     {
-      "id": "evt_5",
+      "id": "evt_4",
       "titulo": "Talleres de Córdoba  vs Sarmiento",
-      "hora": "12:00",
+      "hora": "13:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -85,9 +72,9 @@
       "torneo": "Torneo Proyección"
     },
     {
-      "id": "evt_6",
+      "id": "evt_5",
       "titulo": "Envigado vs Boca Juniors de Cali",
-      "hora": "12:30",
+      "hora": "13:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -98,9 +85,9 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_7",
+      "id": "evt_6",
       "titulo": "Inter Bogotá vs América de Cali",
-      "hora": "15:30",
+      "hora": "16:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -111,74 +98,9 @@
       "torneo": "Copa Colombia"
     },
     {
-      "id": "evt_8",
-      "titulo": "Colorado Avalanche vs Toronto Maple Leafs",
-      "hora": "16:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_9",
-      "titulo": "Minnesota Wild vs Montreal Canadiens",
-      "hora": "16:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_10",
-      "titulo": "Washington Capitals vs Ottawa Senators",
-      "hora": "16:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_11",
-      "titulo": "New Jersey Devils vs Winnipeg Jets",
-      "hora": "16:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
       "id": "evt_13",
-      "titulo": "Florida Panthers vs Columbus Blue Jackets",
-      "hora": "16:30",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 9",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_14",
       "titulo": "Pumas UNAM vs Tigres UANL",
-      "hora": "17:00",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -186,12 +108,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=vix1"
         }
       ],
-      "torneo": "LIGA MX"
+      "torneo": "Liga MX Femenil"
     },
     {
-      "id": "evt_16",
+      "id": "evt_15",
       "titulo": "Once Caldas vs Atlético Nacional",
-      "hora": "17:30",
+      "hora": "18:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -202,9 +124,9 @@
       "torneo": "Copa Colombia"
     },
     {
-      "id": "evt_19",
+      "id": "evt_18",
       "titulo": "Juárez vs Guadalajara",
-      "hora": "19:00",
+      "hora": "20:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -212,12 +134,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=foxone"
         }
       ],
-      "torneo": "LIGA MX"
+      "torneo": "Liga MX Femenil"
     },
     {
-      "id": "evt_23",
+      "id": "evt_22",
       "titulo": "Häcken vs Chelsea",
-      "hora": "09:45",
+      "hora": "10:45",
       "status": "PRONTO",
       "servidores": [
         {
@@ -225,12 +147,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "torneo": "UEFA CHAMPIONS LEAGUE"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_24",
+      "id": "evt_23",
       "titulo": "Real Madrid vs Paris FC",
-      "hora": "09:45",
+      "hora": "10:45",
       "status": "PRONTO",
       "servidores": [
         {
@@ -242,12 +164,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
         }
       ],
-      "torneo": "UEFA CHAMPIONS LEAGUE"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_25",
+      "id": "evt_24",
       "titulo": "Anaitasuna FT vs Deportivo Alavés",
-      "hora": "10:00",
+      "hora": "11:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -258,9 +180,9 @@
       "torneo": "Copa del Rey"
     },
     {
-      "id": "evt_26",
+      "id": "evt_25",
       "titulo": "Tigre vs Vélez Sársfield",
-      "hora": "10:00",
+      "hora": "11:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -269,6 +191,19 @@
         }
       ],
       "torneo": "Torneo Proyección"
+    },
+    {
+      "id": "evt_26",
+      "titulo": "Huracán FC vs River Plate",
+      "hora": "12:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        }
+      ],
+      "torneo": "Segunda División"
     }
   ]
 }
