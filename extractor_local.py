@@ -17,9 +17,9 @@ WAIT_AFTER_LOAD = 5000
 
 CANALES_NOMBRES = {
     "disney": "DISNEY+", "disney1": "DISNEY+ 1", "disney2": "DISNEY+ 2", "disney3": "DISNEY+ 3", "disney4": "DISNEY+ 4", "disney5": "DISNEY+ 5", "disney6": "DISNEY+ 6", "disney7": "DISNEY+ 7", "disney8": "DISNEY+ 8", "disney9": "DISNEY+ 9", "disney10": "DISNEY+ 10", "disney11": "DISNEY+ 11", "disney12": "DISNEY+ 12", "disney13": "DISNEY+ 13", "disney14": "DISNEY+ 14", "disney15": "DISNEY+ 15", "disney16": "DISNEY+ 16",
-    "espn": "ESPN", "espn2": "ESPN 2", "espn3": "ESPN 3", "espn4": "ESPN 4", "espn5": "ESPN 5", "espn6": "ESPN 6", "espn7": "ESPN 7", "espn2ar": "ESPN 2 AR", "espnar": "ESPN AR", "espnpremium": "ESPN PREMIUM", "espnplus1": "ESPN +", "espndeportes": "ESPN DEPORTES",
+    "espn": "ESPN", "espn2": "ESPN 2", "espn3": "ESPN 3", "espn4": "ESPN 4", "espn5": "ESPN 5", "espn6": "ESPN 6", "espn7": "ESPN 7", "espn2ar": "ESPN 2 AR", "espnar": "ESPN AR", "espnpremium": "ESPN PREMIUM", "espnplus1": "ESPN +", "espnplus2": "ESPN + 2", "espndeportes": "ESPN DEPORTES",
     "fox1ar": "FOX SPORTS 1 AR", "fox2ar": "FOX SPORTS 2 AR", "fox3ar": "FOX SPORTS 3 AR", "foxone": "FOX ONE", "fox_deportes_usa": "FOX DEPORTES USA",
-    "l1max": "LIGA 1 MAX", "max1": "MAX 1", "max2": "MAX 2", "premiere1": "PREMIERE 1", "premiere2": "PREMIERE 2", "tigo1": "TIGO SPORTS 1", "tudn_usa": "TUDN USA", "winplus": "WIN SPORTS +", "winsports": "WIN SPORTS", "zapping_ec": "ZAPPING EC",
+    "l1max": "LIGA 1 MAX", "max1": "MAX 1", "max2": "MAX 2", "premiere1": "PREMIERE 1", "premiere2": "PREMIERE 2", "tigo1": "TIGO SPORTS 1", "tudn_usa": "TUDN USA", "winplus": "WIN SPORTS +", "winsports": "WIN SPORTS", "zapping_ec": "ZAPPING EC", "vix1": "VIX 1",
     "nba": "NBA TV", "nba1": "NBA LEAGUE PASS 1", "nba2": "NBA LEAGUE PASS 2", "nba3": "NBA LEAGUE PASS 3", "nba4": "NBA LEAGUE PASS 4", "nba5": "NBA LEAGUE PASS 5", "nba6": "NBA LEAGUE PASS 6", "nba7": "NBA LEAGUE PASS 7", "nba8": "NBA LEAGUE PASS 8", "nba9": "NBA LEAGUE PASS 9",
     "amazon1": "PRIME VIDEO 1", "amazon2": "PRIME VIDEO 2", "dsports": "DSPORTS", "daznlaliga": "DAZN LALIGA", "sporttvbr1": "SPORTV 1", "sporttvbr3": "SPORTV 3", "fanatiz1": "FANATIZ 1", "universo": "UNIVERSO", "tntsports": "TNT SPORTS", "laligahypermotion": "LALIGA HYPERMOTION"
 }
@@ -44,11 +44,13 @@ NBA_KEYWORDS = [normalizar(k) for k in ["NBA", "BASKET", "BALONCESTO", "LAKERS",
 TENIS_KEYWORDS = [normalizar(k) for k in ["ATP", "WTA", "TENIS", "TENNIS", "FRITZ", "ALCARAZ", "DJOKOVIC", "NADAL", "SABALENKA", "MUCHOVA"]]
 BOXEO_KEYWORDS = [normalizar(k) for k in ["BOXEO", "BOXING", "KNOCKOUT", "BXSTRS", "CANELO", "WBC", "WBA", "IBF", "WBO"]]
 NFL_KEYWORDS = [normalizar(k) for k in ["NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS", "49ERS", "EAGLES", "STEELERS", "BRONCOS", "VIKINGS", "BILLS"]]
+NHL_KEYWORDS = [normalizar(k) for k in ["NHL", "AVALANCHE", "MAPLE LEAFS", "WILD", "CANADIENS", "CAPITALS", "SENATORS", "DEVILS", "JETS", "PANTHERS", "BLUE JACKETS", "PREDATORS", "KINGS", "ISLANDERS", "SHARKS", "OILERS", "RANGERS", "FLYERS", "CANUCKS"]]
+
 FUTBOL_ESPECIFICO = [("CHAMPIONS", "UEFA CHAMPIONS LEAGUE"), ("EUROPA", "UEFA EUROPA LEAGUE"), ("LIBERTADORES", "COPA LIBERTADORES"), ("SUDAMERICANA", "COPA SUDAMERICANA"), ("PREMIER", "PREMIER LEAGUE"), ("BUNDESLIGA", "BUNDESLIGA"), ("SERIE A", "SERIE A"), ("LIGUE 1", "LIGUE 1"), ("LALIGA", "LALIGA EA SPORTS"), ("COPA", "COPA")]
 
 STATUS_PATTERN = re.compile(r"^(EN VIVO|PRONTO|FINALIZADO)[ \t]*\n\s*(\d{1,2}:\d{2})(?:\s|$)", re.MULTILINE)
 SERVER_URL_RE = re.compile(r"https?://streamxhd\.[a-z]+/live1\.php\?stream=([A-Za-z0-9_\-]+)")
-EMOJI_HINT = {"🏎": "F1", "🏎️": "F1", "🥊": "BOXEO", "🎾": "TENIS", "⚽": "FUTBOL", "🏀": "NBA", "🏈": "NFL"}
+EMOJI_HINT = {"🏎": "F1", "🏎️": "F1", "🥊": "BOXEO", "🎾": "TENIS", "⚽": "FUTBOL", "🏀": "NBA", "🏈": "NFL", "🏒": "NHL"}
 
 async def _scrape_url(url: str) -> List[Dict]:
     eventos: List[Dict] = []
@@ -76,34 +78,38 @@ async def _scrape_url(url: str) -> List[Dict]:
 
                 titulo = None
                 
-                # 1. Bloque de detalle "## Titulo" (El más fiable)
-                detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
-                if detail_m:
-                    titulo = detail_m.group(1).strip()
+                # --- ESTRATEGIA 1: La línea justo encima de "Servidores disponibles"
+                # Es la forma más fiable porque ahí siempre está el nombre real del partido
+                title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
+                if title_match:
+                    posible_titulo = title_match.group(1).strip()
+                    # Validar que no sea "NBA", "NHL" o algo muy corto
+                    if len(posible_titulo) > 5 and " VS " in normalizar(posible_titulo):
+                        titulo = posible_titulo
 
-                # 2. Línea antes de "Servidores disponibles"
-                if not titulo or len(titulo) <= 3:
-                    title_match = re.search(r"\n([^\n]+)\nServidores disponibles", body_text)
-                    if title_match:
-                        titulo = title_match.group(1).strip()
+                # --- ESTRATEGIA 2: Bloque de detalle "## Titulo"
+                if not titulo:
+                    detail_m = re.search(r"\n##\s*([^\n]+)", body_text)
+                    if detail_m:
+                        titulo = detail_m.group(1).strip()
 
-                # 3. Alrededor del "VS"
+                # --- ESTRATEGIA 3: Rodear el "VS" con la línea de arriba y abajo
                 if not titulo or len(titulo) <= 3:
                     lines = [l.strip() for l in body_text.split("\n## ")[0].split("\n") if l.strip()]
                     for i, line in enumerate(lines):
                         if line.upper() in ("VS", "V S") and i > 0 and i + 1 < len(lines):
                             t = f"{lines[i-1]} vs {lines[i+1]}"
-                            # Permitimos que tenga cualquier longitud aquí
-                            if len(t) > 3 and "SERVIDORES" not in t.upper():
+                            if len(t) > 5 and "SERVIDORES" not in t.upper():
                                 titulo = t
                                 break
 
-                # Limpieza final
+                # Limpieza final (quitar emojis, VS sueltos, etc)
                 if titulo:
                     titulo = re.sub(r"[\U00010000-\U0010ffff]", "", titulo).strip()
                     titulo = re.sub(r"^VS\s+", "", titulo)
                     titulo = re.sub(r"\s+VS$", "", titulo)
 
+                # Evitar descartes por longitud
                 if not titulo or len(titulo) <= 2 or normalizar(titulo) in ["PRONTO", "EN VIVO", "FINALIZADO"]:
                     continue
 
@@ -128,7 +134,6 @@ async def _scrape_url(url: str) -> List[Dict]:
                         "servidores": servidores, "sport_hint": sport_hint
                     })
             
-            # Si este dominio nos dio eventos válidos, detenemos la búsqueda
             if eventos:
                 return eventos
 
@@ -170,6 +175,7 @@ def clasificar_evento(titulo: str, sport_hint: str) -> Tuple[str, str]:
     if sport_hint == "TENIS" or any(k in t for k in TENIS_KEYWORDS): return "futbol", "TENIS"
     if sport_hint == "BOXEO" or any(k in t for k in BOXEO_KEYWORDS): return "futbol", "BOXEO"
     if sport_hint == "NFL" or any(k in t for k in NFL_KEYWORDS): return "futbol", "NFL"
+    if sport_hint == "NHL" or any(k in t for k in NHL_KEYWORDS): return "futbol", "NHL"
     for key, torneo in FUTBOL_ESPECIFICO:
         if key in t: return "futbol", torneo
     return "futbol", "FÚTBOL INTERNACIONAL"
