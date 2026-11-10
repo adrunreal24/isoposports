@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-10T17:26:52Z",
-  "total": 9,
+  "fecha_actualizacion": "2026-11-10T19:50:18Z",
+  "total": 7,
   "eventos": [
     {
       "id": "evt_16",
-      "titulo": "Florida Panthers vs Columbus Blue Jackets",
-      "hora": "19:30",
+      "titulo": "New York Knicks vs Milwaukee Bucks",
+      "hora": "16:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -13,12 +13,12 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba1"
         }
       ],
-      "torneo": "NBA / BALONCESTO"
+      "torneo": "NBA"
     },
     {
       "id": "evt_19",
-      "titulo": "Once Caldas vs Atlético Nacional",
-      "hora": "20:00",
+      "titulo": "Philadelphia 76ers vs Boston Celtics",
+      "hora": "17:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -30,25 +30,38 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba2"
         }
       ],
-      "torneo": "NBA / BALONCESTO"
+      "torneo": "NBA"
     },
     {
-      "id": "evt_23",
-      "titulo": "Sacramento Kings vs Orlando Magic",
-      "hora": "22:00",
+      "id": "evt_21",
+      "titulo": "Utah Jazz vs Miami Heat",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "FOX ONE",
-          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
+          "nombre": "NBA LEAGUE PASS 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba3"
         }
       ],
-      "torneo": "NBA / BALONCESTO"
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_22",
+      "titulo": "Phoenix Suns vs Los Angeles Clippers",
+      "hora": "18:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
+        }
+      ],
+      "torneo": "NBA"
     },
     {
       "id": "evt_24",
-      "titulo": "SA vs OR",
-      "hora": "22:00",
+      "titulo": "Sacramento Kings vs Orlando Magic",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -56,12 +69,25 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba5"
         }
       ],
-      "torneo": "NBA / BALONCESTO"
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_25",
+      "titulo": "Nashville Predators vs Los Angeles Kings",
+      "hora": "19:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 10",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+        }
+      ],
+      "torneo": "NHL"
     },
     {
       "id": "evt_26",
-      "titulo": "PO vs OK",
-      "hora": "23:00",
+      "titulo": "Portland Trail Blazers vs Oklahoma City Thunder",
+      "hora": "20:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -73,59 +99,7 @@
           "url": "https://streamxhd.sbs/live1.php?stream=nba6"
         }
       ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_27",
-      "titulo": "DA vs IN",
-      "hora": "20:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_29",
-      "titulo": "HO vs DE",
-      "hora": "20:30",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_30",
-      "titulo": "PH vs SA",
-      "hora": "21:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
-    },
-    {
-      "id": "evt_32",
-      "titulo": "GO vs NE",
-      "hora": "22:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba8"
-        }
-      ],
-      "torneo": "NBA / BALONCESTO"
+      "torneo": "NBA"
     }
   ]
 }
