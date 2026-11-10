@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-10T21:08:57Z",
-  "total": 7,
+  "fecha_actualizacion": "2026-11-10T22:07:25Z",
+  "total": 6,
   "eventos": [
     {
-      "id": "evt_12",
+      "id": "evt_11",
       "titulo": "New York Knicks vs Milwaukee Bucks",
-      "hora": "16:30",
+      "hora": "17:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -16,9 +16,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_15",
+      "id": "evt_14",
       "titulo": "Philadelphia 76ers vs Boston Celtics",
-      "hora": "17:00",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -33,9 +33,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_17",
+      "id": "evt_16",
       "titulo": "Utah Jazz vs Miami Heat",
-      "hora": "18:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -46,9 +46,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_18",
+      "id": "evt_17",
       "titulo": "Phoenix Suns vs Los Angeles Clippers",
-      "hora": "18:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -59,9 +59,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_20",
+      "id": "evt_19",
       "titulo": "Sacramento Kings vs Orlando Magic",
-      "hora": "19:00",
+      "hora": "20:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -73,21 +73,8 @@
     },
     {
       "id": "evt_21",
-      "titulo": "Nashville Predators vs Los Angeles Kings",
-      "hora": "19:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 10",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
-        }
-      ],
-      "torneo": "NHL"
-    },
-    {
-      "id": "evt_22",
       "titulo": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "hora": "20:00",
+      "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
         {
