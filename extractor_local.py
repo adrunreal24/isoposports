@@ -82,14 +82,15 @@ async def _scrape_url(url: str) -> List[Dict]:
                 if not titulo or len(titulo) < 3:
                     continue
 
-                time_tag = art.find("div", class_="event-time") or art.find("span", class_="compact-list-time")
+                time_div = art.find("div", class_="event-time") or art.find("span", class_="compact-list-time")
                 time_str = "00:00"
-                if time_tag:
-                    match = re.search(r"(\d{1,2}:\d{2})", time_tag.text)
+                fecha_completa = None # <-- AÑADIDO: Extraer la fecha con zona horaria
+                if time_div:
+                    fecha_completa = time_div.get("data-full-time") or time_div.get("data-time")
+                    match = re.search(r"(\d{1,2}:\d{2})", time_div.text)
                     if match:
                         time_str = match.group(1).zfill(5)
 
-                # --- EXTRAER EL ESTADO REAL (FINALIZADO, EN VIVO, PRONTO) ---
                 status_elem = art.find(class_="status") or art.find(class_="compact-list-status")
                 status_text = status_elem.text.strip().upper() if status_elem else "PRONTO"
                 if "VIVO" in status_text: status_text = "EN VIVO"
@@ -133,8 +134,14 @@ async def _scrape_url(url: str) -> List[Dict]:
                 if not servidores: continue
 
                 eventos.append({
-                    "id": f"evt_{idx}", "titulo": titulo, "hora": time_str, "status": status_text,
-                    "servidores": servidores, "torneo": torneo, "sport_hint": sport_hint
+                    "id": f"evt_{idx}", 
+                    "titulo": titulo, 
+                    "hora": time_str, 
+                    "fecha_completa": fecha_completa, # <-- Guardamos la fecha
+                    "status": status_text,
+                    "servidores": servidores, 
+                    "torneo": torneo, 
+                    "sport_hint": sport_hint
                 })
             
             if eventos: return eventos
@@ -164,7 +171,6 @@ def deduplicar_eventos(eventos: List[Dict]) -> List[Dict]:
             urls_vistas = {s["url"] for s in dedup[clave]["servidores"]}
             for srv in e["servidores"]:
                 if srv["url"] not in urls_vistas: dedup[clave]["servidores"].append(srv)
-            # Priorizar el estado más relevante
             if e["status"] == "EN VIVO": dedup[clave]["status"] = "EN VIVO"
             elif e["status"] == "PRONTO" and dedup[clave]["status"] == "FINALIZADO": dedup[clave]["status"] = "PRONTO"
     return list(dedup.values())
