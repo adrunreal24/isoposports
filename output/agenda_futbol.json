@@ -1,13 +1,13 @@
 {
-  "fecha_actualizacion": "2026-11-11T17:34:08Z",
+  "fecha_actualizacion": "2026-11-11T17:49:21Z",
   "total": 12,
   "eventos": [
     {
       "id": "evt_0",
       "titulo": "OH Leuven vs Køge Kvinder",
-      "hora": "09:45",
+      "hora": "10:45",
       "fecha_completa": "2026-11-11 12:45",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN DEPORTES",
@@ -23,7 +23,7 @@
     {
       "id": "evt_1",
       "titulo": "Independiente vs Lanús",
-      "hora": "10:00",
+      "hora": "11:00",
       "fecha_completa": "2026-11-11T13:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -37,7 +37,7 @@
     {
       "id": "evt_2",
       "titulo": "SL Benfica vs Austria Wien",
-      "hora": "12:00",
+      "hora": "13:00",
       "fecha_completa": "2026-11-11T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -51,7 +51,7 @@
     {
       "id": "evt_3",
       "titulo": "Juventus vs OL Lyonnes",
-      "hora": "12:00",
+      "hora": "13:00",
       "fecha_completa": "2026-11-11T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -69,7 +69,7 @@
     {
       "id": "evt_4",
       "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
-      "hora": "15:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-11T18:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -83,7 +83,7 @@
     {
       "id": "evt_8",
       "titulo": "América vs Toluca",
-      "hora": "17:00",
+      "hora": "18:00",
       "fecha_completa": "2026-11-11T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -101,7 +101,7 @@
     {
       "id": "evt_13",
       "titulo": "Deportes Quindío vs Tigres FC",
-      "hora": "17:10",
+      "hora": "18:10",
       "fecha_completa": "2026-11-11T20:10:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -115,7 +115,7 @@
     {
       "id": "evt_14",
       "titulo": "Piratas FC vs Atlético La Paz",
-      "hora": "18:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-11T21:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -129,7 +129,7 @@
     {
       "id": "evt_17",
       "titulo": "Pachuca vs Monterrey",
-      "hora": "19:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-11T22:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -143,7 +143,7 @@
     {
       "id": "evt_25",
       "titulo": "Pumas UNAM vs Tigres UANL",
-      "hora": "17:00",
+      "hora": "18:00",
       "fecha_completa": "2026-11-10T20:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -157,7 +157,7 @@
     {
       "id": "evt_27",
       "titulo": "Once Caldas vs Atlético Nacional",
-      "hora": "17:30",
+      "hora": "18:30",
       "fecha_completa": "2026-11-10 20:30",
       "status": "FINALIZADO",
       "servidores": [
@@ -171,7 +171,7 @@
     {
       "id": "evt_30",
       "titulo": "Juárez vs Guadalajara",
-      "hora": "19:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-10T22:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
