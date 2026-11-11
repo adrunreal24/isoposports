@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-11T10:26:33Z",
+  "fecha_actualizacion": "2026-11-11T17:04:13Z",
   "total": 12,
   "eventos": [
     {
       "id": "evt_0",
       "titulo": "OH Leuven vs Køge Kvinder",
-      "hora": "12:45",
+      "hora": "11:45",
       "status": "PRONTO",
       "servidores": [
         {
@@ -22,7 +22,7 @@
     {
       "id": "evt_1",
       "titulo": "Independiente vs Lanús",
-      "hora": "13:00",
+      "hora": "12:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -35,7 +35,7 @@
     {
       "id": "evt_2",
       "titulo": "SL Benfica vs Austria Wien",
-      "hora": "15:00",
+      "hora": "14:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -48,7 +48,7 @@
     {
       "id": "evt_3",
       "titulo": "Juventus vs OL Lyonnes",
-      "hora": "15:00",
+      "hora": "14:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -65,7 +65,7 @@
     {
       "id": "evt_4",
       "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
-      "hora": "18:00",
+      "hora": "17:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -78,7 +78,7 @@
     {
       "id": "evt_8",
       "titulo": "América vs Toluca",
-      "hora": "20:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -95,7 +95,7 @@
     {
       "id": "evt_13",
       "titulo": "Deportes Quindío vs Tigres FC",
-      "hora": "20:10",
+      "hora": "19:10",
       "status": "PRONTO",
       "servidores": [
         {
@@ -108,7 +108,7 @@
     {
       "id": "evt_14",
       "titulo": "Piratas FC vs Atlético La Paz",
-      "hora": "21:00",
+      "hora": "20:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -121,7 +121,7 @@
     {
       "id": "evt_17",
       "titulo": "Pachuca vs Monterrey",
-      "hora": "22:00",
+      "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -134,8 +134,8 @@
     {
       "id": "evt_25",
       "titulo": "Pumas UNAM vs Tigres UANL",
-      "hora": "20:00",
-      "status": "PRONTO",
+      "hora": "19:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "VIX 1",
@@ -147,8 +147,8 @@
     {
       "id": "evt_27",
       "titulo": "Once Caldas vs Atlético Nacional",
-      "hora": "20:30",
-      "status": "PRONTO",
+      "hora": "19:30",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "WIN SPORTS +",
@@ -160,8 +160,8 @@
     {
       "id": "evt_30",
       "titulo": "Juárez vs Guadalajara",
-      "hora": "22:00",
-      "status": "PRONTO",
+      "hora": "21:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "FOX ONE",
