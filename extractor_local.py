@@ -46,8 +46,6 @@ BOXEO_KEYWORDS = [normalizar(k) for k in ["BOXEO", "BOXING", "KNOCKOUT", "BXSTRS
 NFL_KEYWORDS = [normalizar(k) for k in ["NFL", "RAVENS", "JAGUARS", "CHIEFS", "PATRIOTS", "COWBOYS", "PACKERS", "49ERS", "EAGLES", "STEELERS", "BRONCOS", "VIKINGS", "BILLS"]]
 NHL_KEYWORDS = [normalizar(k) for k in ["NHL", "AVALANCHE", "MAPLE LEAFS", "WILD", "CANADIENS", "CAPITALS", "SENATORS", "DEVILS", "JETS", "PANTHERS", "BLUE JACKETS", "PREDATORS", "ISLANDERS", "SHARKS", "OILERS", "RANGERS", "FLYERS", "CANUCKS"]]
 
-FUTBOL_ESPECIFICO = [("CHAMPIONS", "UEFA CHAMPIONS LEAGUE"), ("EUROPA", "UEFA EUROPA LEAGUE"), ("LIBERTADORES", "COPA LIBERTADORES"), ("SUDAMERICANA", "COPA SUDAMERICANA"), ("PREMIER", "PREMIER LEAGUE"), ("BUNDESLIGA", "BUNDESLIGA"), ("SERIE A", "SERIE A"), ("LIGUE 1", "LIGUE 1"), ("LALIGA", "LALIGA EA SPORTS"), ("COPA", "COPA")]
-
 SERVER_URL_RE = re.compile(r"https?://streamxhd\.[a-z]+/(live[12]\.php\?stream=[A-Za-z0-9_\-]+)")
 
 async def _scrape_url(url: str) -> List[Dict]:
@@ -76,7 +74,6 @@ async def _scrape_url(url: str) -> List[Dict]:
 
                 h2 = art.find("h2", class_="event-title")
                 titulo = h2.text.strip() if h2 else None
-                
                 if not titulo and meta_text:
                     partes = meta_text.split('|')
                     if len(partes) > 0:
@@ -92,16 +89,21 @@ async def _scrape_url(url: str) -> List[Dict]:
                     if match:
                         time_str = match.group(1).zfill(5)
 
+                # --- EXTRAER EL ESTADO REAL (FINALIZADO, EN VIVO, PRONTO) ---
+                status_elem = art.find(class_="status") or art.find(class_="compact-list-status")
+                status_text = status_elem.text.strip().upper() if status_elem else "PRONTO"
+                if "VIVO" in status_text: status_text = "EN VIVO"
+                elif "FINAL" in status_text: status_text = "FINALIZADO"
+                elif "PRONTO" in status_text: status_text = "PRONTO"
+
                 torneo = "DEPORTE"
                 if meta_text:
                     partes = meta_text.split('|')
                     if len(partes) >= 4:
                         torneo = partes[-1]
-                
                 if torneo == "DEPORTE":
                     league_tag = art.find("span", class_="compact-list-league")
-                    if league_tag:
-                        torneo = league_tag.text.strip()
+                    if league_tag: torneo = league_tag.text.strip()
 
                 sport_hint = ""
                 tags = art.find_all("span", class_="tag")
@@ -123,32 +125,19 @@ async def _scrape_url(url: str) -> List[Dict]:
                     if stream_url and "streamxhd" in stream_url:
                         match = SERVER_URL_RE.search(stream_url)
                         if match:
-                            path = match.group(1)
-                            stream_id = path.split("stream=")[-1].lower()
-                            
+                            stream_id = match.group(1).split("stream=")[-1].lower()
                             if stream_url not in seen:
                                 seen.add(stream_url)
-                                servidores.append({
-                                    "nombre": CANALES_NOMBRES.get(stream_id, stream_id.upper()),
-                                    "url": stream_url
-                                })
+                                servidores.append({"nombre": CANALES_NOMBRES.get(stream_id, stream_id.upper()), "url": stream_url})
 
-                if not servidores:
-                    continue
+                if not servidores: continue
 
                 eventos.append({
-                    "id": f"evt_{idx}",
-                    "titulo": titulo,
-                    "hora": time_str,
-                    "status": "PRONTO",
-                    "servidores": servidores,
-                    "torneo": torneo,
-                    "sport_hint": sport_hint
+                    "id": f"evt_{idx}", "titulo": titulo, "hora": time_str, "status": status_text,
+                    "servidores": servidores, "torneo": torneo, "sport_hint": sport_hint
                 })
             
-            if eventos:
-                return eventos
-
+            if eventos: return eventos
             await context.close()
         except Exception as e:
             LOG.error(f"Error en {url}: {e}")
@@ -175,36 +164,28 @@ def deduplicar_eventos(eventos: List[Dict]) -> List[Dict]:
             urls_vistas = {s["url"] for s in dedup[clave]["servidores"]}
             for srv in e["servidores"]:
                 if srv["url"] not in urls_vistas: dedup[clave]["servidores"].append(srv)
+            # Priorizar el estado más relevante
+            if e["status"] == "EN VIVO": dedup[clave]["status"] = "EN VIVO"
+            elif e["status"] == "PRONTO" and dedup[clave]["status"] == "FINALIZADO": dedup[clave]["status"] = "PRONTO"
     return list(dedup.values())
 
 def clasificar_evento(titulo: str, torneo: str, sport_hint: str) -> Tuple[str, str]:
     t = normalizar(titulo)
     torneo_upper = normalizar(torneo)
     
-    # 1. FILTRO EXCLUSIVO: Eliminar NHL (Hockey) para que no ensucie el blog
     if sport_hint == "NHL" or "NHL" in torneo_upper or "HOCKEY" in torneo_upper or any(k in t for k in NHL_KEYWORDS):
         return "descartar", "NHL"
 
-    # 2. Clasificar F1
-    if sport_hint == "F1" or "F1" in torneo_upper or "MOTOR" in torneo_upper or any(k in t for k in F1_KEYWORDS):
-        return "f1", torneo
-        
-    # 3. Clasificar NBA
-    if sport_hint == "NBA" or "NBA" in torneo_upper or "BASKET" in torneo_upper or any(k in t for k in NBA_KEYWORDS):
-        return "nba", torneo
-        
-    # 4. Todo lo demás (Fútbol, Tenis, NFL, etc.) va al blog de Fútbol
+    if sport_hint == "F1" or "F1" in torneo_upper or "MOTOR" in torneo_upper or any(k in t for k in F1_KEYWORDS): return "f1", torneo
+    if sport_hint == "NBA" or "NBA" in torneo_upper or "BASKET" in torneo_upper or any(k in t for k in NBA_KEYWORDS): return "nba", torneo
+    
     return "futbol", torneo
 
 def clasificar_eventos(eventos: List[Dict]) -> Dict[str, List[Dict]]:
     clasificados = {"futbol": [], "nba": [], "f1": []}
     for e in eventos:
         deporte, torneo_final = clasificar_evento(e["titulo"], e.get("torneo", ""), e.get("sport_hint", ""))
-        
-        # Si se marca para descartar, lo ignoramos
-        if deporte == "descartar":
-            continue
-            
+        if deporte == "descartar": continue
         e["torneo"] = torneo_final
         e.pop("sport_hint", None)
         clasificados[deporte].append(e)
@@ -222,26 +203,22 @@ def subir_github(token: str, user: str, repo: str, path_repo: str, contenido: st
 
 async def main():
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    if not token: 
-        LOG.error("No token found")
-        sys.exit(1)
+    if not token: sys.exit(1)
     
     eventos_crudos = await obtener_eventos()
     if not eventos_crudos:
-        LOG.error("❌ No se extrajeron eventos válidos. Abortando.")
+        LOG.error("❌ No se extrajeron eventos válidos.")
         return 1
 
     eventos = deduplicar_eventos(eventos_crudos)
     clasificados = clasificar_eventos(eventos)
     ahora = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    LOG.info(f"Clasificación → Fútbol={len(clasificados['futbol'])} NBA={len(clasificados['nba'])} F1={len(clasificados['f1'])} (NHL descartados)")
+    LOG.info(f"Clasificación → Fútbol={len(clasificados['futbol'])} NBA={len(clasificados['nba'])} F1={len(clasificados['f1'])}")
 
     for deporte, lista in clasificados.items():
         payload = {"fecha_actualizacion": ahora, "total": len(lista), "eventos": lista}
-        ok = subir_github(token, "adrunreal24", "isoposports", f"output/agenda_{deporte}.json", json.dumps(payload, ensure_ascii=False, indent=2))
-        if ok:
-            LOG.info(f"✅ Subido agenda_{deporte}.json ({len(lista)} eventos)")
+        subir_github(token, "adrunreal24", "isoposports", f"output/agenda_{deporte}.json", json.dumps(payload, ensure_ascii=False, indent=2))
     
     return 0
 
