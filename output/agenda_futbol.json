@@ -1,45 +1,13 @@
 {
-  "fecha_actualizacion": "2026-11-11T17:49:21Z",
-  "total": 12,
+  "fecha_actualizacion": "2026-11-11T21:40:57Z",
+  "total": 9,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "OH Leuven vs Køge Kvinder",
-      "hora": "10:45",
-      "fecha_completa": "2026-11-11 12:45",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "ESPN DEPORTES",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
-        },
-        {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_1",
-      "titulo": "Independiente vs Lanús",
-      "hora": "11:00",
-      "fecha_completa": "2026-11-11T13:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN PREMIUM",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
-        }
-      ],
-      "torneo": "Torneo de Reserva"
-    },
-    {
-      "id": "evt_2",
       "titulo": "SL Benfica vs Austria Wien",
-      "hora": "13:00",
+      "hora": "15:00",
       "fecha_completa": "2026-11-11T15:00:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 2",
@@ -49,11 +17,11 @@
       "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_3",
+      "id": "evt_1",
       "titulo": "Juventus vs OL Lyonnes",
-      "hora": "13:00",
+      "hora": "15:00",
       "fecha_completa": "2026-11-11T15:00:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -67,9 +35,9 @@
       "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_4",
+      "id": "evt_2",
       "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
-      "hora": "16:00",
+      "hora": "18:00",
       "fecha_completa": "2026-11-11T18:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -81,10 +49,10 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_8",
+      "id": "evt_6",
       "titulo": "América vs Toluca",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-11T20:00:00-05:00",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-11 20:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -99,9 +67,9 @@
       "torneo": "Liga MX Femenil"
     },
     {
-      "id": "evt_13",
+      "id": "evt_11",
       "titulo": "Deportes Quindío vs Tigres FC",
-      "hora": "18:10",
+      "hora": "20:10",
       "fecha_completa": "2026-11-11T20:10:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -113,9 +81,9 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_14",
+      "id": "evt_12",
       "titulo": "Piratas FC vs Atlético La Paz",
-      "hora": "19:00",
+      "hora": "21:00",
       "fecha_completa": "2026-11-11T21:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -127,9 +95,9 @@
       "torneo": "Liga de Expansión MX"
     },
     {
-      "id": "evt_17",
+      "id": "evt_15",
       "titulo": "Pachuca vs Monterrey",
-      "hora": "20:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-11T22:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -141,46 +109,36 @@
       "torneo": "Liga MX Femenil"
     },
     {
-      "id": "evt_25",
-      "titulo": "Pumas UNAM vs Tigres UANL",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-10T20:00:00-05:00",
+      "id": "evt_17",
+      "titulo": "OH Leuven vs Køge Kvinder",
+      "hora": "12:45",
+      "fecha_completa": "2026-11-11 12:45",
       "status": "FINALIZADO",
       "servidores": [
         {
-          "nombre": "VIX 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=vix1"
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        },
+        {
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "torneo": "Liga MX Femenil"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_27",
-      "titulo": "Once Caldas vs Atlético Nacional",
-      "hora": "18:30",
-      "fecha_completa": "2026-11-10 20:30",
+      "id": "evt_18",
+      "titulo": "Independiente vs Lanús",
+      "hora": "13:00",
+      "fecha_completa": "2026-11-11T13:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
         {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+          "nombre": "ESPN PREMIUM",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
         }
       ],
-      "torneo": "Copa Colombia"
-    },
-    {
-      "id": "evt_30",
-      "titulo": "Juárez vs Guadalajara",
-      "hora": "20:00",
-      "fecha_completa": "2026-11-10T22:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "FOX ONE",
-          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
-        }
-      ],
-      "torneo": "Liga MX Femenil"
+      "torneo": "Torneo de Reserva"
     }
   ]
 }
