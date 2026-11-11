@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-11T10:26:33Z",
+  "fecha_actualizacion": "2026-11-11T17:04:13Z",
   "total": 16,
   "eventos": [
     {
       "id": "evt_5",
       "titulo": "Indiana Pacers vs Washington Wizards",
-      "hora": "19:00",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -18,7 +18,7 @@
     {
       "id": "evt_6",
       "titulo": "Toronto Raptors vs Boston Celtics",
-      "hora": "19:00",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -31,7 +31,7 @@
     {
       "id": "evt_7",
       "titulo": "New York Knicks vs Cleveland Cavaliers",
-      "hora": "19:00",
+      "hora": "18:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -48,7 +48,7 @@
     {
       "id": "evt_9",
       "titulo": "Chicago Bulls vs San Antonio Spurs",
-      "hora": "20:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -61,7 +61,7 @@
     {
       "id": "evt_10",
       "titulo": "Milwaukee Bucks vs Los Angeles Lakers",
-      "hora": "20:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -74,7 +74,7 @@
     {
       "id": "evt_11",
       "titulo": "New Orleans Pelicans vs Brooklyn Nets",
-      "hora": "20:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -87,7 +87,7 @@
     {
       "id": "evt_12",
       "titulo": "Memphis Grizzlies vs Denver Nuggets",
-      "hora": "20:00",
+      "hora": "19:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -100,7 +100,7 @@
     {
       "id": "evt_15",
       "titulo": "Utah Jazz vs Orlando Magic",
-      "hora": "21:00",
+      "hora": "20:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -113,7 +113,7 @@
     {
       "id": "evt_16",
       "titulo": "Houston Rockets vs Golden State Warriors",
-      "hora": "21:30",
+      "hora": "20:30",
       "status": "PRONTO",
       "servidores": [
         {
@@ -130,7 +130,7 @@
     {
       "id": "evt_18",
       "titulo": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "hora": "22:00",
+      "hora": "21:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -143,8 +143,8 @@
     {
       "id": "evt_23",
       "titulo": "New York Knicks vs Milwaukee Bucks",
-      "hora": "19:30",
-      "status": "PRONTO",
+      "hora": "18:30",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 1",
@@ -156,8 +156,8 @@
     {
       "id": "evt_26",
       "titulo": "Philadelphia 76ers vs Boston Celtics",
-      "hora": "20:00",
-      "status": "PRONTO",
+      "hora": "19:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "MAX 1",
@@ -173,8 +173,8 @@
     {
       "id": "evt_28",
       "titulo": "Utah Jazz vs Miami Heat",
-      "hora": "21:00",
-      "status": "PRONTO",
+      "hora": "20:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 3",
@@ -186,8 +186,8 @@
     {
       "id": "evt_29",
       "titulo": "Phoenix Suns vs Los Angeles Clippers",
-      "hora": "21:00",
-      "status": "PRONTO",
+      "hora": "20:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 4",
@@ -199,8 +199,8 @@
     {
       "id": "evt_31",
       "titulo": "Sacramento Kings vs Orlando Magic",
-      "hora": "22:00",
-      "status": "PRONTO",
+      "hora": "21:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 5",
@@ -212,8 +212,8 @@
     {
       "id": "evt_33",
       "titulo": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "hora": "23:00",
-      "status": "PRONTO",
+      "hora": "22:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "MAX 1",
