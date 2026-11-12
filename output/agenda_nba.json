@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-12T10:42:49Z",
+  "fecha_actualizacion": "2026-11-12T19:18:34Z",
   "total": 14,
   "eventos": [
     {
-      "id": "evt_14",
+      "id": "evt_12",
       "titulo": "Philadelphia 76ers vs Toronto Raptors",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-12T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -21,9 +21,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_15",
+      "id": "evt_13",
       "titulo": "Washington Wizards vs Detroit Pistons",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-12T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -35,9 +35,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_17",
+      "id": "evt_15",
       "titulo": "Minnesota Timberwolves vs Dallas Mavericks",
-      "hora": "19:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-12T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -49,9 +49,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_18",
+      "id": "evt_16",
       "titulo": "Phoenix Suns vs Charlotte Hornets",
-      "hora": "20:00",
+      "hora": "18:00",
       "fecha_completa": "2026-11-12T21:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -63,9 +63,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_20",
+      "id": "evt_18",
       "titulo": "Indiana Pacers vs Washington Wizards",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-11T19:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -77,9 +77,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_21",
+      "id": "evt_19",
       "titulo": "Toronto Raptors vs Boston Celtics",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-11T19:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -91,9 +91,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_22",
+      "id": "evt_20",
       "titulo": "New York Knicks vs Cleveland Cavaliers",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-11T19:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -109,9 +109,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_24",
+      "id": "evt_22",
       "titulo": "Chicago Bulls vs San Antonio Spurs",
-      "hora": "19:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-11T20:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -123,9 +123,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_25",
+      "id": "evt_23",
       "titulo": "Milwaukee Bucks vs Los Angeles Lakers",
-      "hora": "19:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-11T20:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -137,9 +137,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_26",
+      "id": "evt_24",
       "titulo": "New Orleans Pelicans vs Brooklyn Nets",
-      "hora": "19:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-11T20:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -151,9 +151,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_27",
+      "id": "evt_25",
       "titulo": "Memphis Grizzlies vs Denver Nuggets",
-      "hora": "19:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-11T20:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -165,9 +165,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_30",
+      "id": "evt_28",
       "titulo": "Utah Jazz vs Orlando Magic",
-      "hora": "20:00",
+      "hora": "18:00",
       "fecha_completa": "2026-11-11T21:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -179,9 +179,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_31",
+      "id": "evt_29",
       "titulo": "Houston Rockets vs Golden State Warriors",
-      "hora": "20:30",
+      "hora": "18:30",
       "fecha_completa": "2026-11-11 21:30",
       "status": "FINALIZADO",
       "servidores": [
@@ -197,9 +197,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_33",
+      "id": "evt_31",
       "titulo": "Portland Trail Blazers vs Oklahoma City Thunder",
-      "hora": "21:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-11T22:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
