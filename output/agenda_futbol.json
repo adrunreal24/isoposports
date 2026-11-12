@@ -1,27 +1,49 @@
 {
-  "fecha_actualizacion": "2026-11-11T21:40:57Z",
-  "total": 9,
+  "fecha_actualizacion": "2026-11-12T10:42:49Z",
+  "total": 20,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "SL Benfica vs Austria Wien",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-11T15:00:00-05:00",
-      "status": "EN VIVO",
+      "titulo": "Armenia vs Chipre",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-12 12:00",
+      "status": "PRONTO",
       "servidores": [
+        {
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_1",
+      "titulo": "Turquía vs Bélgica",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-12T12:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        },
+        {
+          "nombre": "ESPN AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
+        },
         {
           "nombre": "DISNEY+ 2",
           "url": "https://streamxhd.sbs/live1.php?stream=disney2"
         }
       ],
-      "torneo": "Champions League Femenina"
+      "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_1",
-      "titulo": "Juventus vs OL Lyonnes",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-11T15:00:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_2",
+      "titulo": "Barcelona vs Arsenal",
+      "hora": "11:45",
+      "fecha_completa": "2026-11-12T12:45:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -35,11 +57,219 @@
       "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_2",
-      "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-11T18:00:00-05:00",
+      "id": "evt_3",
+      "titulo": "Rosario Central vs River Plate",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-12T13:00:00-05:00",
       "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNT SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
+        }
+      ],
+      "torneo": "Torneo de Reserva"
+    },
+    {
+      "id": "evt_4",
+      "titulo": "San Marino vs Bielorrusia",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12 14:45",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_5",
+      "titulo": "Montenegro vs Letonia",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12 14:45",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_6",
+      "titulo": "Italia vs Francia",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T14:45:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        },
+        {
+          "nombre": "ESPN AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
+        },
+        {
+          "nombre": "DISNEY+ 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
+        },
+        {
+          "nombre": "VIX 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix1"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_7",
+      "titulo": "Inglaterra vs Croacia",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T14:45:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "ESPN 2 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2ar"
+        },
+        {
+          "nombre": "DISNEY+ 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
+        },
+        {
+          "nombre": "VIX2",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix2"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_8",
+      "titulo": "Albania vs Finlandia",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12 14:45",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_9",
+      "titulo": "República Checa vs España",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T14:45:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn3"
+        },
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        },
+        {
+          "nombre": "LA1ES",
+          "url": "https://streamxhd.sbs/live1.php?stream=la1es"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_10",
+      "titulo": "Bonaire vs Cuba",
+      "hora": "14:00",
+      "fecha_completa": "2026-11-12T15:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "VIX3",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix3"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "Deportivo Pasto vs Junior",
+      "hora": "16:00",
+      "fecha_completa": "2026-11-12T17:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "Liga Colombia"
+    },
+    {
+      "id": "evt_12",
+      "titulo": "Estudiantes vs Independiente Rivadavia",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-12T18:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
+        },
+        {
+          "nombre": "DISNEY+ 9",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
+        }
+      ],
+      "torneo": "Supercopa Argentina"
+    },
+    {
+      "id": "evt_13",
+      "titulo": "Llaneros vs Boyacá Chicó",
+      "hora": "18:00",
+      "fecha_completa": "2026-11-12T19:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        },
+        {
+          "nombre": "WIN SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
+        }
+      ],
+      "torneo": "Liga Colombia"
+    },
+    {
+      "id": "evt_16",
+      "titulo": "Curazao vs Panamá",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-12 19:30",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "VIX4",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix4"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_19",
+      "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-11T18:00:00-05:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "WIN SPORTS +",
@@ -49,11 +279,11 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_6",
+      "id": "evt_23",
       "titulo": "América vs Toluca",
-      "hora": "20:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-11 20:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "TUDN USA",
@@ -67,11 +297,11 @@
       "torneo": "Liga MX Femenil"
     },
     {
-      "id": "evt_11",
+      "id": "evt_28",
       "titulo": "Deportes Quindío vs Tigres FC",
-      "hora": "20:10",
+      "hora": "19:10",
       "fecha_completa": "2026-11-11T20:10:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "WIN SPORTS",
@@ -81,11 +311,11 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_12",
+      "id": "evt_29",
       "titulo": "Piratas FC vs Atlético La Paz",
-      "hora": "21:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-11T21:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 3",
@@ -95,11 +325,11 @@
       "torneo": "Liga de Expansión MX"
     },
     {
-      "id": "evt_15",
+      "id": "evt_32",
       "titulo": "Pachuca vs Monterrey",
-      "hora": "22:00",
+      "hora": "21:00",
       "fecha_completa": "2026-11-11T22:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "FOX ONE",
@@ -107,38 +337,6 @@
         }
       ],
       "torneo": "Liga MX Femenil"
-    },
-    {
-      "id": "evt_17",
-      "titulo": "OH Leuven vs Køge Kvinder",
-      "hora": "12:45",
-      "fecha_completa": "2026-11-11 12:45",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN DEPORTES",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
-        },
-        {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_18",
-      "titulo": "Independiente vs Lanús",
-      "hora": "13:00",
-      "fecha_completa": "2026-11-11T13:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN PREMIUM",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
-        }
-      ],
-      "torneo": "Torneo de Reserva"
     }
   ]
 }
