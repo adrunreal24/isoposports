@@ -1,49 +1,13 @@
 {
-  "fecha_actualizacion": "2026-11-12T10:42:49Z",
+  "fecha_actualizacion": "2026-11-12T19:18:34Z",
   "total": 20,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Armenia vs Chipre",
-      "hora": "11:00",
-      "fecha_completa": "2026-11-12 12:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
-        }
-      ],
-      "torneo": "Liga de Naciones"
-    },
-    {
-      "id": "evt_1",
-      "titulo": "Turquía vs Bélgica",
-      "hora": "11:00",
-      "fecha_completa": "2026-11-12T12:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn"
-        },
-        {
-          "nombre": "ESPN AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
-        },
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "Liga de Naciones"
-    },
-    {
-      "id": "evt_2",
       "titulo": "Barcelona vs Arsenal",
-      "hora": "11:45",
+      "hora": "09:45",
       "fecha_completa": "2026-11-12T12:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -57,11 +21,11 @@
       "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_3",
+      "id": "evt_1",
       "titulo": "Rosario Central vs River Plate",
-      "hora": "12:00",
+      "hora": "10:00",
       "fecha_completa": "2026-11-12T13:00:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "TNT SPORTS",
@@ -71,9 +35,9 @@
       "torneo": "Torneo de Reserva"
     },
     {
-      "id": "evt_4",
+      "id": "evt_2",
       "titulo": "San Marino vs Bielorrusia",
-      "hora": "13:45",
+      "hora": "11:45",
       "fecha_completa": "2026-11-12 14:45",
       "status": "PRONTO",
       "servidores": [
@@ -85,9 +49,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_5",
+      "id": "evt_3",
       "titulo": "Montenegro vs Letonia",
-      "hora": "13:45",
+      "hora": "11:45",
       "fecha_completa": "2026-11-12 14:45",
       "status": "PRONTO",
       "servidores": [
@@ -99,9 +63,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_6",
+      "id": "evt_4",
       "titulo": "Italia vs Francia",
-      "hora": "13:45",
+      "hora": "11:45",
       "fecha_completa": "2026-11-12T14:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -125,9 +89,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_7",
+      "id": "evt_5",
       "titulo": "Inglaterra vs Croacia",
-      "hora": "13:45",
+      "hora": "11:45",
       "fecha_completa": "2026-11-12T14:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -151,9 +115,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_8",
+      "id": "evt_6",
       "titulo": "Albania vs Finlandia",
-      "hora": "13:45",
+      "hora": "11:45",
       "fecha_completa": "2026-11-12 14:45",
       "status": "PRONTO",
       "servidores": [
@@ -165,9 +129,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_9",
+      "id": "evt_7",
       "titulo": "República Checa vs España",
-      "hora": "13:45",
+      "hora": "11:45",
       "fecha_completa": "2026-11-12T14:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -187,9 +151,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_10",
+      "id": "evt_8",
       "titulo": "Bonaire vs Cuba",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-12T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -201,9 +165,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_11",
+      "id": "evt_9",
       "titulo": "Deportivo Pasto vs Junior",
-      "hora": "16:00",
+      "hora": "14:00",
       "fecha_completa": "2026-11-12T17:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -215,9 +179,9 @@
       "torneo": "Liga Colombia"
     },
     {
-      "id": "evt_12",
+      "id": "evt_10",
       "titulo": "Estudiantes vs Independiente Rivadavia",
-      "hora": "17:00",
+      "hora": "15:00",
       "fecha_completa": "2026-11-12T18:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -233,9 +197,9 @@
       "torneo": "Supercopa Argentina"
     },
     {
-      "id": "evt_13",
+      "id": "evt_11",
       "titulo": "Llaneros vs Boyacá Chicó",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-12T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -251,9 +215,9 @@
       "torneo": "Liga Colombia"
     },
     {
-      "id": "evt_16",
+      "id": "evt_14",
       "titulo": "Curazao vs Panamá",
-      "hora": "18:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-12 19:30",
       "status": "PRONTO",
       "servidores": [
@@ -265,9 +229,9 @@
       "torneo": "Liga de Naciones"
     },
     {
-      "id": "evt_19",
+      "id": "evt_17",
       "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
-      "hora": "17:00",
+      "hora": "15:00",
       "fecha_completa": "2026-11-11T18:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -279,9 +243,9 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_23",
+      "id": "evt_21",
       "titulo": "América vs Toluca",
-      "hora": "19:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-11 20:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -297,9 +261,9 @@
       "torneo": "Liga MX Femenil"
     },
     {
-      "id": "evt_28",
+      "id": "evt_26",
       "titulo": "Deportes Quindío vs Tigres FC",
-      "hora": "19:10",
+      "hora": "17:10",
       "fecha_completa": "2026-11-11T20:10:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -311,9 +275,9 @@
       "torneo": "Primera B"
     },
     {
-      "id": "evt_29",
+      "id": "evt_27",
       "titulo": "Piratas FC vs Atlético La Paz",
-      "hora": "20:00",
+      "hora": "18:00",
       "fecha_completa": "2026-11-11T21:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -325,9 +289,9 @@
       "torneo": "Liga de Expansión MX"
     },
     {
-      "id": "evt_32",
+      "id": "evt_30",
       "titulo": "Pachuca vs Monterrey",
-      "hora": "21:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-11T22:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
@@ -337,6 +301,42 @@
         }
       ],
       "torneo": "Liga MX Femenil"
+    },
+    {
+      "id": "evt_32",
+      "titulo": "Armenia vs Chipre",
+      "hora": "09:00",
+      "fecha_completa": "2026-11-12 12:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+        }
+      ],
+      "torneo": "Liga de Naciones"
+    },
+    {
+      "id": "evt_33",
+      "titulo": "Turquía vs Bélgica",
+      "hora": "09:00",
+      "fecha_completa": "2026-11-12T12:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        },
+        {
+          "nombre": "ESPN AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
+        },
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        }
+      ],
+      "torneo": "Liga de Naciones"
     }
   ]
 }
