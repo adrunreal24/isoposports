@@ -82,14 +82,25 @@ async def _scrape_url(url: str) -> List[Dict]:
                 if not titulo or len(titulo) < 3:
                     continue
 
+                # --- CORRECCIÓN DE HORA: LEER TEXTO VISIBLE Y FORZAR ZONA HORARIA URUGUAY ---
                 time_div = art.find("div", class_="event-time") or art.find("span", class_="compact-list-time")
                 fecha_completa = None
                 time_str = "00:00"
                 if time_div:
-                    fecha_completa = time_div.get("data-full-time") or time_div.get("data-time")
                     match = re.search(r"(\d{1,2}:\d{2})", time_div.text)
                     if match:
                         time_str = match.group(1).zfill(5)
+                        
+                        # Extraer la fecha del atributo data-time (ej. 2026-11-12T14:45:00-05:00)
+                        raw_date = time_div.get("data-full-time") or time_div.get("data-time")
+                        if raw_date and "T" in raw_date:
+                            fecha_base = raw_date.split("T")[0]
+                        else:
+                            fecha_base = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+                            
+                        # Reconstruir la fecha forzando la hora exacta visible y la zona -03:00 (Uruguay)
+                        # Esto garantiza que el navegador muestre exactamente lo que dice la web.
+                        fecha_completa = f"{fecha_base}T{time_str}:00-03:00"
 
                 status_elem = art.find(class_="status") or art.find(class_="compact-list-status")
                 status_text = status_elem.text.strip().upper() if status_elem else "PRONTO"
