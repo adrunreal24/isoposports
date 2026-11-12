@@ -82,7 +82,6 @@ async def _scrape_url(url: str) -> List[Dict]:
                 if not titulo or len(titulo) < 3:
                     continue
 
-                # Extraemos la fecha completa CON zona horaria si es posible
                 time_div = art.find("div", class_="event-time") or art.find("span", class_="compact-list-time")
                 fecha_completa = None
                 time_str = "00:00"
