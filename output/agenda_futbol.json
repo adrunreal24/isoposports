@@ -1,12 +1,12 @@
 {
-  "fecha_actualizacion": "2026-11-12T19:18:34Z",
+  "fecha_actualizacion": "2026-11-12T19:27:00Z",
   "total": 20,
   "eventos": [
     {
       "id": "evt_0",
       "titulo": "Barcelona vs Arsenal",
-      "hora": "09:45",
-      "fecha_completa": "2026-11-12T12:45:00-05:00",
+      "hora": "11:45",
+      "fecha_completa": "2026-11-12T11:45:00-03:00",
       "status": "EN VIVO",
       "servidores": [
         {
@@ -23,8 +23,8 @@
     {
       "id": "evt_1",
       "titulo": "Rosario Central vs River Plate",
-      "hora": "10:00",
-      "fecha_completa": "2026-11-12T13:00:00-05:00",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-12T12:00:00-03:00",
       "status": "EN VIVO",
       "servidores": [
         {
@@ -37,8 +37,8 @@
     {
       "id": "evt_2",
       "titulo": "San Marino vs Bielorrusia",
-      "hora": "11:45",
-      "fecha_completa": "2026-11-12 14:45",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T13:45:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -51,8 +51,8 @@
     {
       "id": "evt_3",
       "titulo": "Montenegro vs Letonia",
-      "hora": "11:45",
-      "fecha_completa": "2026-11-12 14:45",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T13:45:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -65,8 +65,8 @@
     {
       "id": "evt_4",
       "titulo": "Italia vs Francia",
-      "hora": "11:45",
-      "fecha_completa": "2026-11-12T14:45:00-05:00",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T13:45:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -91,8 +91,8 @@
     {
       "id": "evt_5",
       "titulo": "Inglaterra vs Croacia",
-      "hora": "11:45",
-      "fecha_completa": "2026-11-12T14:45:00-05:00",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T13:45:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -117,8 +117,8 @@
     {
       "id": "evt_6",
       "titulo": "Albania vs Finlandia",
-      "hora": "11:45",
-      "fecha_completa": "2026-11-12 14:45",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T13:45:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -131,8 +131,8 @@
     {
       "id": "evt_7",
       "titulo": "República Checa vs España",
-      "hora": "11:45",
-      "fecha_completa": "2026-11-12T14:45:00-05:00",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-12T13:45:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -153,8 +153,8 @@
     {
       "id": "evt_8",
       "titulo": "Bonaire vs Cuba",
-      "hora": "12:00",
-      "fecha_completa": "2026-11-12T15:00:00-05:00",
+      "hora": "14:00",
+      "fecha_completa": "2026-11-12T14:00:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -167,8 +167,8 @@
     {
       "id": "evt_9",
       "titulo": "Deportivo Pasto vs Junior",
-      "hora": "14:00",
-      "fecha_completa": "2026-11-12T17:00:00-05:00",
+      "hora": "16:00",
+      "fecha_completa": "2026-11-12T16:00:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -181,8 +181,8 @@
     {
       "id": "evt_10",
       "titulo": "Estudiantes vs Independiente Rivadavia",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-12T18:00:00-05:00",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-12T17:00:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -199,8 +199,8 @@
     {
       "id": "evt_11",
       "titulo": "Llaneros vs Boyacá Chicó",
-      "hora": "16:00",
-      "fecha_completa": "2026-11-12T19:00:00-05:00",
+      "hora": "18:00",
+      "fecha_completa": "2026-11-12T18:00:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -217,8 +217,8 @@
     {
       "id": "evt_14",
       "titulo": "Curazao vs Panamá",
-      "hora": "16:30",
-      "fecha_completa": "2026-11-12 19:30",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-12T18:30:00-03:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -231,8 +231,8 @@
     {
       "id": "evt_17",
       "titulo": "Real Soacha Cundinamarca vs Real Cartagena",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-11T18:00:00-05:00",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-11T17:00:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
@@ -245,8 +245,8 @@
     {
       "id": "evt_21",
       "titulo": "América vs Toluca",
-      "hora": "17:00",
-      "fecha_completa": "2026-11-11 20:00",
+      "hora": "19:00",
+      "fecha_completa": "2026-11-12T19:00:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
@@ -263,8 +263,8 @@
     {
       "id": "evt_26",
       "titulo": "Deportes Quindío vs Tigres FC",
-      "hora": "17:10",
-      "fecha_completa": "2026-11-11T20:10:00-05:00",
+      "hora": "19:10",
+      "fecha_completa": "2026-11-11T19:10:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
@@ -277,8 +277,8 @@
     {
       "id": "evt_27",
       "titulo": "Piratas FC vs Atlético La Paz",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-11T21:00:00-05:00",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-11T20:00:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
@@ -291,8 +291,8 @@
     {
       "id": "evt_30",
       "titulo": "Pachuca vs Monterrey",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-11T22:00:00-05:00",
+      "hora": "21:00",
+      "fecha_completa": "2026-11-11T21:00:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
@@ -305,8 +305,8 @@
     {
       "id": "evt_32",
       "titulo": "Armenia vs Chipre",
-      "hora": "09:00",
-      "fecha_completa": "2026-11-12 12:00",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-12T11:00:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
@@ -319,8 +319,8 @@
     {
       "id": "evt_33",
       "titulo": "Turquía vs Bélgica",
-      "hora": "09:00",
-      "fecha_completa": "2026-11-12T12:00:00-05:00",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-12T11:00:00-03:00",
       "status": "FINALIZADO",
       "servidores": [
         {
