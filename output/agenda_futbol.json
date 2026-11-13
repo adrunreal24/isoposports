@@ -1,69 +1,13 @@
 {
-  "fecha_actualizacion": "2026-11-13T10:38:40Z",
-  "total": 29,
+  "fecha_actualizacion": "2026-11-13T21:07:28Z",
+  "total": 22,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Singapur vs Paraguay",
-      "hora": "04:00",
-      "fecha_completa": "2026-11-13T07:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "EVENTO1",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento1"
-        }
-      ],
-      "torneo": "Amistoso Internacional"
-    },
-    {
-      "id": "evt_1",
-      "titulo": "Emiratos Árabes Unidos vs Honduras",
-      "hora": "06:10",
-      "fecha_completa": "2026-11-13T09:10:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "EVENTO2",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento2"
-        }
-      ],
-      "torneo": "Amistoso Internacional"
-    },
-    {
-      "id": "evt_2",
-      "titulo": "Arabia Saudita vs Corea del Sur",
-      "hora": "06:30",
-      "fecha_completa": "2026-11-13T09:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "EVENTO3",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento3"
-        }
-      ],
-      "torneo": "Amistoso Internacional"
-    },
-    {
-      "id": "evt_4",
-      "titulo": "Moldavia vs Kazajistán",
-      "hora": "09:00",
-      "fecha_completa": "2026-11-13T12:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_5",
       "titulo": "Puerto Rico vs Dominica",
-      "hora": "11:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-13T14:00:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "VIX 1",
@@ -73,11 +17,11 @@
       "torneo": "Liga de Naciones de la CONCACAF"
     },
     {
-      "id": "evt_6",
+      "id": "evt_1",
       "titulo": "Leganés vs Burgos",
-      "hora": "11:30",
+      "hora": "19:30",
       "fecha_completa": "2026-11-13T14:30:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "LALIGA HYPERMOTION",
@@ -87,11 +31,11 @@
       "torneo": "LaLiga SmartBank"
     },
     {
-      "id": "evt_7",
+      "id": "evt_2",
       "titulo": "Luxemburgo vs Estonia",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 1",
@@ -101,11 +45,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_8",
+      "id": "evt_3",
       "titulo": "Andorra vs Gibraltar",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 2",
@@ -115,11 +59,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_9",
+      "id": "evt_4",
       "titulo": "Liechtenstein vs Azerbaiyán",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 3",
@@ -129,11 +73,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_10",
+      "id": "evt_5",
       "titulo": "Escocia vs Macedonia del Norte",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 4",
@@ -143,11 +87,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_11",
+      "id": "evt_6",
       "titulo": "Eslovenia vs Suiza",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN 4",
@@ -157,11 +101,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_12",
+      "id": "evt_7",
       "titulo": "Países Bajos vs Grecia",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -171,11 +115,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_13",
+      "id": "evt_8",
       "titulo": "Serbia vs Alemania",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN",
@@ -185,11 +129,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_14",
+      "id": "evt_9",
       "titulo": "Bulgaria vs Islandia",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 5",
@@ -199,11 +143,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_15",
+      "id": "evt_10",
       "titulo": "Eslovaquia vs Islas Feroe",
-      "hora": "11:45",
+      "hora": "19:45",
       "fecha_completa": "2026-11-13T14:45:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DISNEY+ 6",
@@ -213,11 +157,11 @@
       "torneo": "Liga de Naciones de la UEFA"
     },
     {
-      "id": "evt_16",
+      "id": "evt_11",
       "titulo": "Salamanca UDS vs Celta de Vigo",
-      "hora": "12:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-13T15:00:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "ESPN +",
@@ -227,9 +171,9 @@
       "torneo": "Copa del Rey"
     },
     {
-      "id": "evt_17",
+      "id": "evt_12",
       "titulo": "Colo-Colo vs Racing Club",
-      "hora": "14:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-13T17:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -241,9 +185,9 @@
       "torneo": "Amistoso Internacional"
     },
     {
-      "id": "evt_18",
+      "id": "evt_13",
       "titulo": "Argentina vs Uruguay",
-      "hora": "15:00",
+      "hora": "23:00",
       "fecha_completa": "2026-11-13T18:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -267,9 +211,9 @@
       "torneo": "Amistoso Internacional"
     },
     {
-      "id": "evt_19",
+      "id": "evt_14",
       "titulo": "Saint Martin vs El Salvador",
-      "hora": "15:00",
+      "hora": "23:00",
       "fecha_completa": "2026-11-13T18:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -281,9 +225,9 @@
       "torneo": "Liga de Naciones de la CONCACAF"
     },
     {
-      "id": "evt_20",
+      "id": "evt_15",
       "titulo": "Ecuador vs Costa Rica",
-      "hora": "16:00",
+      "hora": "00:00",
       "fecha_completa": "2026-11-13T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -295,9 +239,9 @@
       "torneo": "Amistoso Internacional"
     },
     {
-      "id": "evt_21",
+      "id": "evt_16",
       "titulo": "Colombia vs Chile",
-      "hora": "16:00",
+      "hora": "00:00",
       "fecha_completa": "2026-11-13T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -309,9 +253,9 @@
       "torneo": "Amistoso Internacional"
     },
     {
-      "id": "evt_22",
+      "id": "evt_17",
       "titulo": "Montserrat vs Nicaragua",
-      "hora": "16:00",
+      "hora": "00:00",
       "fecha_completa": "2026-11-13T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -323,9 +267,9 @@
       "torneo": "Liga de Naciones de la CONCACAF"
     },
     {
-      "id": "evt_25",
+      "id": "evt_20",
       "titulo": "Perú vs Bolivia",
-      "hora": "17:00",
+      "hora": "01:00",
       "fecha_completa": "2026-11-13T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -337,9 +281,9 @@
       "torneo": "Amistoso Internacional"
     },
     {
-      "id": "evt_29",
+      "id": "evt_24",
       "titulo": "Inter Bogotá vs Santa Fe",
-      "hora": "17:30",
+      "hora": "01:30",
       "fecha_completa": "2026-11-13T20:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -351,9 +295,9 @@
       "torneo": "Liga Colombia"
     },
     {
-      "id": "evt_31",
+      "id": "evt_26",
       "titulo": "Guatemala vs Canadá",
-      "hora": "18:00",
+      "hora": "02:00",
       "fecha_completa": "2026-11-13T21:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -365,68 +309,18 @@
       "torneo": "Liga de Naciones de la CONCACAF"
     },
     {
-      "id": "evt_35",
-      "titulo": "Deportivo Pasto vs Junior",
-      "hora": "14:00",
-      "fecha_completa": "2026-11-12T17:00:00-05:00",
+      "id": "evt_30",
+      "titulo": "Moldavia vs Kazajistán",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-13T12:00:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
         {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
       ],
-      "torneo": "Liga Colombia"
-    },
-    {
-      "id": "evt_36",
-      "titulo": "Estudiantes vs Independiente Rivadavia",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-12T18:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
-        },
-        {
-          "nombre": "DISNEY+ 9",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
-        }
-      ],
-      "torneo": "Supercopa Argentina"
-    },
-    {
-      "id": "evt_37",
-      "titulo": "Llaneros vs Boyacá Chicó",
-      "hora": "16:00",
-      "fecha_completa": "2026-11-12T19:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        },
-        {
-          "nombre": "WIN SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
-        }
-      ],
-      "torneo": "Liga Colombia"
-    },
-    {
-      "id": "evt_40",
-      "titulo": "Curazao vs Panamá",
-      "hora": "16:30",
-      "fecha_completa": "2026-11-12T19:30:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "VIX4",
-          "url": "https://streamxhd.sbs/live1.php?stream=vix4"
-        }
-      ],
-      "torneo": "Liga de Naciones"
+      "torneo": "Liga de Naciones de la UEFA"
     }
   ]
 }
