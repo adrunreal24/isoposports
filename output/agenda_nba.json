@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-17T11:32:10Z",
-  "total": 6,
+  "fecha_actualizacion": "2026-11-17T22:44:45Z",
+  "total": 5,
   "eventos": [
     {
-      "id": "evt_18",
+      "id": "evt_6",
       "titulo": "Toronto Raptors vs New York Knicks",
-      "hora": "16:30",
+      "hora": "18:30",
       "fecha_completa": "2026-11-17T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -17,9 +17,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_20",
+      "id": "evt_8",
       "titulo": "San Antonio Spurs vs Detroit Pistons",
-      "hora": "17:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-17T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -35,9 +35,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_21",
+      "id": "evt_9",
       "titulo": "Minnesota Timberwolves vs Portland Trail Blazers",
-      "hora": "17:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-17T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -49,9 +49,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_27",
+      "id": "evt_15",
       "titulo": "Los Angeles Clippers vs Utah Jazz",
-      "hora": "19:30",
+      "hora": "21:30",
       "fecha_completa": "2026-11-17T22:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -63,9 +63,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_28",
+      "id": "evt_16",
       "titulo": "Los Angeles Lakers vs Charlotte Hornets",
-      "hora": "20:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-17T23:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -76,20 +76,6 @@
         {
           "nombre": "NBA LEAGUE PASS 5",
           "url": "https://streamxhd.sbs/live1.php?stream=nba5"
-        }
-      ],
-      "torneo": "NBA"
-    },
-    {
-      "id": "evt_29",
-      "titulo": "Denver Nuggets vs Phoenix Suns",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-16T21:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "NBA LEAGUE PASS 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba8"
         }
       ],
       "torneo": "NBA"
