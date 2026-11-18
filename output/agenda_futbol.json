@@ -1,105 +1,193 @@
 {
-  "fecha_actualizacion": "2026-11-17T22:44:45Z",
-  "total": 19,
+  "fecha_actualizacion": "2026-11-18T11:14:26Z",
+  "total": 16,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Argentina vs Costa Rica",
-      "hora": "17:00",
-      "fecha_completa": "2026-11-17T18:00:00-05:00",
+      "titulo": "Carlos Alcaraz vs Daniil Medvedev",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-18T08:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DSPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
-        },
-        {
-          "nombre": "TYCSPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=tycsports"
-        },
-        {
-          "nombre": "VIX 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=vix1"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
       ],
-      "torneo": "Amistoso Internacional"
+      "torneo": "ATP Finals"
     },
     {
       "id": "evt_1",
-      "titulo": "Chile vs Colombia",
-      "hora": "17:00",
-      "fecha_completa": "2026-11-17T18:00:00-05:00",
+      "titulo": "Real Madrid vs Inter Milano",
+      "hora": "12:45",
+      "fecha_completa": "2026-11-18T12:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "EVENTO1",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento1"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
         }
       ],
-      "torneo": "Amistoso Internacional"
+      "torneo": "Champions League Femenina"
     },
     {
       "id": "evt_2",
-      "titulo": "Ecuador vs Bolivia",
-      "hora": "17:30",
-      "fecha_completa": "2026-11-17T18:30:00-05:00",
+      "titulo": "Häcken vs Manchester City",
+      "hora": "12:45",
+      "fecha_completa": "2026-11-18T12:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "EVENTO2",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento2"
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "torneo": "Amistoso Internacional"
+      "torneo": "Champions League Femenina"
     },
     {
       "id": "evt_3",
-      "titulo": "Uruguay vs República Dominicana",
-      "hora": "17:30",
-      "fecha_completa": "2026-11-17T18:30:00-05:00",
+      "titulo": "Juventus vs OH Leuven",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-18T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "EVENTO3",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento3"
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
         }
       ],
-      "torneo": "Amistoso Internacional"
+      "torneo": "Champions League Femenina"
     },
     {
       "id": "evt_4",
-      "titulo": "Atlético Nacional vs Once Caldas",
-      "hora": "17:30",
-      "fecha_completa": "2026-11-17T18:30:00-05:00",
+      "titulo": "Chelsea vs PSG",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-18T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+          "nombre": "ESPN 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
         }
       ],
-      "torneo": "Copa Colombia"
+      "torneo": "Champions League Femenina"
     },
     {
       "id": "evt_5",
-      "titulo": "Estados Unidos vs Haití",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-17T19:00:00-05:00",
+      "titulo": "Alianza Atlético vs Melgar",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-18T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "UNIVERSO",
-          "url": "https://streamxhd.sbs/live1.php?stream=universo"
+          "nombre": "LIGA 1 MAX",
+          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
         }
       ],
-      "torneo": "Liga de Naciones de la CONCACAF"
+      "torneo": "Liga 1"
     },
     {
-      "id": "evt_10",
-      "titulo": "El Salvador vs Saint Martin",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-17T20:00:00-05:00",
+      "id": "evt_6",
+      "titulo": "Coritiba vs Santos",
+      "hora": "17:30",
+      "fecha_completa": "2026-11-18T17:30:00-05:00",
       "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE7",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere7"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_7",
+      "titulo": "Remo vs Chapecoense",
+      "hora": "18:00",
+      "fecha_completa": "2026-11-18T18:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE6",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere6"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_8",
+      "titulo": "Flamengo vs Athletico-PR",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-18T18:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "SPORTV 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1"
+        },
+        {
+          "nombre": "PREMIERE 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere1"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_9",
+      "titulo": "Cruzeiro vs Palmeiras",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-18T18:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere2"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_18",
+      "titulo": "Grêmio vs Bahia",
+      "hora": "19:30",
+      "fecha_completa": "2026-11-18T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE5",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere5"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_19",
+      "titulo": "Corinthians vs Botafogo",
+      "hora": "19:30",
+      "fecha_completa": "2026-11-18T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE3",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere3"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_31",
+      "titulo": "El Salvador vs Saint Martin",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-17T20:00:00-05:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "VIX2",
@@ -109,11 +197,11 @@
       "torneo": "Liga de Naciones de la CONCACAF"
     },
     {
-      "id": "evt_11",
+      "id": "evt_32",
       "titulo": "América de Cali vs Inter Bogotá",
-      "hora": "19:30",
+      "hora": "20:30",
       "fecha_completa": "2026-11-17T20:30:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "WIN SPORTS +",
@@ -123,11 +211,11 @@
       "torneo": "Copa Colombia"
     },
     {
-      "id": "evt_12",
+      "id": "evt_33",
       "titulo": "México vs Jamaica",
-      "hora": "20:30",
+      "hora": "21:30",
       "fecha_completa": "2026-11-17T21:30:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "CANAL5MX",
@@ -145,11 +233,11 @@
       "torneo": "Liga de Naciones de la CONCACAF"
     },
     {
-      "id": "evt_14",
+      "id": "evt_35",
       "titulo": "Nicaragua vs Montserrat",
-      "hora": "21:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-17T22:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "VIX3",
@@ -157,148 +245,6 @@
         }
       ],
       "torneo": "Liga de Naciones de la CONCACAF"
-    },
-    {
-      "id": "evt_17",
-      "titulo": "Kuwait vs Honduras",
-      "hora": "10:30",
-      "fecha_completa": "2026-11-17T11:30:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "EVENTO3",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento3"
-        }
-      ],
-      "torneo": "Amistoso Internacional"
-    },
-    {
-      "id": "evt_18",
-      "titulo": "Bosnia-Herzegovina vs Rumania",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_19",
-      "titulo": "Hungría vs Irlanda del Norte",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_20",
-      "titulo": "República de Irlanda vs Kosovo",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_21",
-      "titulo": "Israel vs Austria",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_22",
-      "titulo": "Polonia vs Suecia",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
-        },
-        {
-          "nombre": "SPORTTVBR2",
-          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2"
-        },
-        {
-          "nombre": "DISNEY+ 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_23",
-      "titulo": "Gales vs Portugal",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn"
-        },
-        {
-          "nombre": "DISNEY+ 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_24",
-      "titulo": "Dinamarca vs Noruega",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4"
-        },
-        {
-          "nombre": "DISNEY+ 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
-    },
-    {
-      "id": "evt_25",
-      "titulo": "Ucrania vs Georgia",
-      "hora": "13:45",
-      "fecha_completa": "2026-11-17T14:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        }
-      ],
-      "torneo": "Liga de Naciones de la UEFA"
     }
   ]
 }
