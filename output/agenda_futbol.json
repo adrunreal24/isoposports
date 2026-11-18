@@ -1,103 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-18T11:14:26Z",
-  "total": 16,
+  "fecha_actualizacion": "2026-11-18T22:26:36Z",
+  "total": 11,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Carlos Alcaraz vs Daniil Medvedev",
-      "hora": "08:00",
-      "fecha_completa": "2026-11-18T08:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "ATP Finals"
-    },
-    {
-      "id": "evt_1",
-      "titulo": "Real Madrid vs Inter Milano",
-      "hora": "12:45",
-      "fecha_completa": "2026-11-18T12:45:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        },
-        {
-          "nombre": "ESPN DEPORTES",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_2",
-      "titulo": "Häcken vs Manchester City",
-      "hora": "12:45",
-      "fecha_completa": "2026-11-18T12:45:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_3",
-      "titulo": "Juventus vs OH Leuven",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-18T15:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_4",
-      "titulo": "Chelsea vs PSG",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-18T15:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4"
-        },
-        {
-          "nombre": "ESPN DEPORTES",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_5",
-      "titulo": "Alianza Atlético vs Melgar",
-      "hora": "15:00",
-      "fecha_completa": "2026-11-18T15:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "LIGA 1 MAX",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
-        }
-      ],
-      "torneo": "Liga 1"
-    },
-    {
-      "id": "evt_6",
       "titulo": "Coritiba vs Santos",
-      "hora": "17:30",
+      "hora": "14:30",
       "fecha_completa": "2026-11-18T17:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -109,9 +17,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_7",
+      "id": "evt_1",
       "titulo": "Remo vs Chapecoense",
-      "hora": "18:00",
+      "hora": "15:00",
       "fecha_completa": "2026-11-18T18:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -123,9 +31,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_8",
+      "id": "evt_2",
       "titulo": "Flamengo vs Athletico-PR",
-      "hora": "18:30",
+      "hora": "15:30",
       "fecha_completa": "2026-11-18T18:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -141,9 +49,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_9",
+      "id": "evt_3",
       "titulo": "Cruzeiro vs Palmeiras",
-      "hora": "18:30",
+      "hora": "15:30",
       "fecha_completa": "2026-11-18T18:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -155,9 +63,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_18",
+      "id": "evt_12",
       "titulo": "Grêmio vs Bahia",
-      "hora": "19:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-18T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -169,9 +77,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_19",
+      "id": "evt_13",
       "titulo": "Corinthians vs Botafogo",
-      "hora": "19:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-18T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -183,68 +91,82 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_31",
-      "titulo": "El Salvador vs Saint Martin",
-      "hora": "20:00",
-      "fecha_completa": "2026-11-17T20:00:00-05:00",
+      "id": "evt_21",
+      "titulo": "Real Madrid vs Inter Milano",
+      "hora": "09:45",
+      "fecha_completa": "2026-11-18T12:45:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
         {
-          "nombre": "VIX2",
-          "url": "https://streamxhd.sbs/live1.php?stream=vix2"
-        }
-      ],
-      "torneo": "Liga de Naciones de la CONCACAF"
-    },
-    {
-      "id": "evt_32",
-      "titulo": "América de Cali vs Inter Bogotá",
-      "hora": "20:30",
-      "fecha_completa": "2026-11-17T20:30:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        }
-      ],
-      "torneo": "Copa Colombia"
-    },
-    {
-      "id": "evt_33",
-      "titulo": "México vs Jamaica",
-      "hora": "21:30",
-      "fecha_completa": "2026-11-17T21:30:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "CANAL5MX",
-          "url": "https://streamxhd.sbs/live1.php?stream=canal5mx"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         },
         {
-          "nombre": "PRIME VIDEO 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=amazon1"
-        },
-        {
-          "nombre": "AZTECA7",
-          "url": "https://streamxhd.sbs/live1.php?stream=azteca7"
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
         }
       ],
-      "torneo": "Liga de Naciones de la CONCACAF"
+      "torneo": "Champions League Femenina"
     },
     {
-      "id": "evt_35",
-      "titulo": "Nicaragua vs Montserrat",
-      "hora": "22:00",
-      "fecha_completa": "2026-11-17T22:00:00-05:00",
+      "id": "evt_22",
+      "titulo": "Häcken vs Manchester City",
+      "hora": "09:45",
+      "fecha_completa": "2026-11-18T12:45:00-05:00",
       "status": "FINALIZADO",
       "servidores": [
         {
-          "nombre": "VIX3",
-          "url": "https://streamxhd.sbs/live1.php?stream=vix3"
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "torneo": "Liga de Naciones de la CONCACAF"
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_23",
+      "titulo": "Juventus vs OH Leuven",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-18T15:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        }
+      ],
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_24",
+      "titulo": "Chelsea vs PSG",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-18T15:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        }
+      ],
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_25",
+      "titulo": "Alianza Atlético vs Melgar",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-18T15:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "LIGA 1 MAX",
+          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
+        }
+      ],
+      "torneo": "Liga 1"
     }
   ]
 }
