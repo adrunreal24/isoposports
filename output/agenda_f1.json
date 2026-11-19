@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-19T11:12:46Z",
+  "fecha_actualizacion": "2026-11-19T22:32:12Z",
   "total": 6,
   "eventos": [
     {
-      "id": "evt_17",
+      "id": "evt_4",
       "titulo": "GP Las Vegas - Práctica 1",
-      "hora": "17:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-19T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -33,9 +33,9 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_18",
+      "id": "evt_5",
       "titulo": "GP Las Vegas - On Board Colapinto",
-      "hora": "17:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-19T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -47,9 +47,9 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_19",
+      "id": "evt_6",
       "titulo": "GP Las Vegas - On Board Norris",
-      "hora": "17:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-19T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -61,9 +61,9 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_26",
+      "id": "evt_13",
       "titulo": "GP Las Vegas - Práctica 2",
-      "hora": "21:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-19T23:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -91,9 +91,9 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_27",
+      "id": "evt_14",
       "titulo": "GP Las Vegas - On Board Colapinto",
-      "hora": "21:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-19T23:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -105,9 +105,9 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_28",
+      "id": "evt_15",
       "titulo": "GP Las Vegas - On Board Norris",
-      "hora": "21:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-19T23:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
