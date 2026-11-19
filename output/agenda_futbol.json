@@ -1,195 +1,13 @@
 {
-  "fecha_actualizacion": "2026-11-19T11:12:46Z",
+  "fecha_actualizacion": "2026-11-19T22:32:12Z",
   "total": 19,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Nueva Caledonia vs Ecuador",
-      "hora": "06:00",
-      "fecha_completa": "2026-11-19T08:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS2",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
-        }
-      ],
-      "torneo": "Copa Mundial Sub-17"
-    },
-    {
-      "id": "evt_1",
-      "titulo": "Arabia Saudita vs Uruguay",
-      "hora": "07:00",
-      "fecha_completa": "2026-11-19T09:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
-        }
-      ],
-      "torneo": "Copa Mundial Sub-17"
-    },
-    {
-      "id": "evt_2",
-      "titulo": "Catar vs Panamá",
-      "hora": "08:30",
-      "fecha_completa": "2026-11-19T10:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "TUDNMX",
-          "url": "https://streamxhd.sbs/live1.php?stream=tudnmx"
-        }
-      ],
-      "torneo": "Copa Mundial Sub-17"
-    },
-    {
-      "id": "evt_3",
-      "titulo": "Argentina vs Australia",
-      "hora": "09:00",
-      "fecha_completa": "2026-11-19T11:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTSPLUS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus"
-        }
-      ],
-      "torneo": "Copa Mundial Sub-17"
-    },
-    {
-      "id": "evt_4",
-      "titulo": "Austria Wien vs Bayern",
-      "hora": "10:45",
-      "fecha_completa": "2026-11-19T12:45:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_5",
-      "titulo": "Paris FC vs Køge Kvinder",
-      "hora": "10:45",
-      "fecha_completa": "2026-11-19T12:45:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_6",
-      "titulo": "Celta de Vigo vs Espanyol",
-      "hora": "11:00",
-      "fecha_completa": "2026-11-19T13:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 3",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
-        }
-      ],
-      "torneo": "Copa de la Reina"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "Progreso vs Torque",
-      "hora": "12:30",
-      "fecha_completa": "2026-11-19T14:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
-        }
-      ],
-      "torneo": "Liga Uruguay"
-    },
-    {
-      "id": "evt_8",
-      "titulo": "Peñarol vs Cerro Largo",
-      "hora": "12:30",
-      "fecha_completa": "2026-11-19T14:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
-        }
-      ],
-      "torneo": "Liga Uruguay"
-    },
-    {
-      "id": "evt_9",
-      "titulo": "Boston River vs Deportivo Maldonado",
-      "hora": "12:30",
-      "fecha_completa": "2026-11-19T14:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 6",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
-        }
-      ],
-      "torneo": "Liga Uruguay"
-    },
-    {
-      "id": "evt_10",
-      "titulo": "Arsenal vs OL Lyonnes",
-      "hora": "13:00",
-      "fecha_completa": "2026-11-19T15:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_11",
-      "titulo": "Barcelona vs Servette Chênois Féminin",
-      "hora": "13:00",
-      "fecha_completa": "2026-11-19T15:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_12",
-      "titulo": "SL Benfica vs Roma",
-      "hora": "13:00",
-      "fecha_completa": "2026-11-19T15:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_13",
       "titulo": "Vitória vs RB Bragantino",
-      "hora": "15:30",
+      "hora": "14:30",
       "fecha_completa": "2026-11-19T17:30:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "PREMIERE3",
@@ -199,11 +17,11 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_14",
+      "id": "evt_1",
       "titulo": "Vasco da Gama vs Internacional",
-      "hora": "15:30",
+      "hora": "14:30",
       "fecha_completa": "2026-11-19T17:30:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "SPORTV 1",
@@ -217,9 +35,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_15",
+      "id": "evt_2",
       "titulo": "São Paulo vs Fluminense",
-      "hora": "17:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-19T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -231,9 +49,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_16",
+      "id": "evt_3",
       "titulo": "Orlando City SC vs Cincinnati",
-      "hora": "17:30",
+      "hora": "16:30",
       "fecha_completa": "2026-11-19T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -245,9 +63,9 @@
       "torneo": "MLS"
     },
     {
-      "id": "evt_20",
+      "id": "evt_7",
       "titulo": "Houston Texans vs Indianapolis Colts",
-      "hora": "18:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-19T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -259,9 +77,9 @@
       "torneo": "NFL"
     },
     {
-      "id": "evt_25",
+      "id": "evt_12",
       "titulo": "Seattle Sounders FC vs Real Salt Lake",
-      "hora": "20:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-19T22:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -271,6 +89,188 @@
         }
       ],
       "torneo": "MLS"
+    },
+    {
+      "id": "evt_27",
+      "titulo": "Nueva Caledonia vs Ecuador",
+      "hora": "05:00",
+      "fecha_completa": "2026-11-19T08:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
+        }
+      ],
+      "torneo": "Copa Mundial Sub-17"
+    },
+    {
+      "id": "evt_28",
+      "titulo": "Arabia Saudita vs Uruguay",
+      "hora": "06:00",
+      "fecha_completa": "2026-11-19T09:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
+        }
+      ],
+      "torneo": "Copa Mundial Sub-17"
+    },
+    {
+      "id": "evt_29",
+      "titulo": "Catar vs Panamá",
+      "hora": "07:30",
+      "fecha_completa": "2026-11-19T10:30:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "TUDNMX",
+          "url": "https://streamxhd.sbs/live1.php?stream=tudnmx"
+        }
+      ],
+      "torneo": "Copa Mundial Sub-17"
+    },
+    {
+      "id": "evt_30",
+      "titulo": "Argentina vs Australia",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-19T11:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DSPORTSPLUS",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus"
+        }
+      ],
+      "torneo": "Copa Mundial Sub-17"
+    },
+    {
+      "id": "evt_31",
+      "titulo": "Austria Wien vs Bayern",
+      "hora": "09:45",
+      "fecha_completa": "2026-11-19T12:45:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+        }
+      ],
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_32",
+      "titulo": "Paris FC vs Køge Kvinder",
+      "hora": "09:45",
+      "fecha_completa": "2026-11-19T12:45:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        }
+      ],
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_33",
+      "titulo": "Celta de Vigo vs Espanyol",
+      "hora": "10:00",
+      "fecha_completa": "2026-11-19T13:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
+        }
+      ],
+      "torneo": "Copa de la Reina"
+    },
+    {
+      "id": "evt_34",
+      "titulo": "Progreso vs Torque",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-19T14:30:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        }
+      ],
+      "torneo": "Liga Uruguay"
+    },
+    {
+      "id": "evt_35",
+      "titulo": "Peñarol vs Cerro Largo",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-19T14:30:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
+        }
+      ],
+      "torneo": "Liga Uruguay"
+    },
+    {
+      "id": "evt_36",
+      "titulo": "Boston River vs Deportivo Maldonado",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-19T14:30:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
+        }
+      ],
+      "torneo": "Liga Uruguay"
+    },
+    {
+      "id": "evt_37",
+      "titulo": "Arsenal vs OL Lyonnes",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-19T15:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        }
+      ],
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_38",
+      "titulo": "Barcelona vs Servette Chênois Féminin",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-19T15:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        }
+      ],
+      "torneo": "Champions League Femenina"
+    },
+    {
+      "id": "evt_39",
+      "titulo": "SL Benfica vs Roma",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-19T15:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        }
+      ],
+      "torneo": "Champions League Femenina"
     }
   ]
 }
