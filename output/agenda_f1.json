@@ -1,5 +1,122 @@
 {
-  "fecha_actualizacion": "2026-11-18T22:26:36Z",
-  "total": 0,
-  "eventos": []
+  "fecha_actualizacion": "2026-11-19T11:12:46Z",
+  "total": 6,
+  "eventos": [
+    {
+      "id": "evt_17",
+      "titulo": "GP Las Vegas - Práctica 1",
+      "hora": "17:30",
+      "fecha_completa": "2026-11-19T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 9",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        },
+        {
+          "nombre": "DAZNF1",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznf1"
+        },
+        {
+          "nombre": "SPORTV 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_18",
+      "titulo": "GP Las Vegas - On Board Colapinto",
+      "hora": "17:30",
+      "fecha_completa": "2026-11-19T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 10",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_19",
+      "titulo": "GP Las Vegas - On Board Norris",
+      "hora": "17:30",
+      "fecha_completa": "2026-11-19T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 11",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney11"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_26",
+      "titulo": "GP Las Vegas - Práctica 2",
+      "hora": "21:00",
+      "fecha_completa": "2026-11-19T23:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 12",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney12"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        },
+        {
+          "nombre": "DAZNF1",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznf1"
+        },
+        {
+          "nombre": "SPORTV 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_27",
+      "titulo": "GP Las Vegas - On Board Colapinto",
+      "hora": "21:00",
+      "fecha_completa": "2026-11-19T23:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 13",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney13"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_28",
+      "titulo": "GP Las Vegas - On Board Norris",
+      "hora": "21:00",
+      "fecha_completa": "2026-11-19T23:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 14",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney14"
+        }
+      ],
+      "torneo": "F1"
+    }
+  ]
 }
