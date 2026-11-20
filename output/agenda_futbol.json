@@ -1,130 +1,46 @@
 {
-  "fecha_actualizacion": "2026-11-19T22:32:12Z",
-  "total": 19,
+  "fecha_actualizacion": "2026-11-20T10:58:49Z",
+  "total": 26,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Vitória vs RB Bragantino",
-      "hora": "14:30",
-      "fecha_completa": "2026-11-19T17:30:00-05:00",
-      "status": "EN VIVO",
+      "titulo": "Sorteo Fase Final",
+      "hora": "03:00",
+      "fecha_completa": "2026-11-20T06:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "PREMIERE3",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere3"
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         }
       ],
-      "torneo": "Brasileirão"
+      "torneo": "Liga de Naciones de la UEFA"
     },
     {
       "id": "evt_1",
-      "titulo": "Vasco da Gama vs Internacional",
-      "hora": "14:30",
-      "fecha_completa": "2026-11-19T17:30:00-05:00",
-      "status": "EN VIVO",
+      "titulo": "Carlos Alcaraz vs Flavio Cobolli",
+      "hora": "05:00",
+      "fecha_completa": "2026-11-20T08:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "SPORTV 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1"
-        },
-        {
-          "nombre": "PREMIERE 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere1"
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
         }
       ],
-      "torneo": "Brasileirão"
+      "torneo": "ATP Finals"
     },
     {
       "id": "evt_2",
-      "titulo": "São Paulo vs Fluminense",
-      "hora": "16:30",
-      "fecha_completa": "2026-11-19T19:30:00-05:00",
+      "titulo": "España vs China",
+      "hora": "06:00",
+      "fecha_completa": "2026-11-20T09:00:00-05:00",
       "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "PREMIERE 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere2"
-        }
-      ],
-      "torneo": "Brasileirão"
-    },
-    {
-      "id": "evt_3",
-      "titulo": "Orlando City SC vs Cincinnati",
-      "hora": "16:30",
-      "fecha_completa": "2026-11-19T19:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "APPLETV1",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv1"
-        }
-      ],
-      "torneo": "MLS"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "Houston Texans vs Indianapolis Colts",
-      "hora": "17:00",
-      "fecha_completa": "2026-11-19T20:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "ESPN 5",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
-        }
-      ],
-      "torneo": "NFL"
-    },
-    {
-      "id": "evt_12",
-      "titulo": "Seattle Sounders FC vs Real Salt Lake",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-19T22:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "APPLETV2",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv2"
-        }
-      ],
-      "torneo": "MLS"
-    },
-    {
-      "id": "evt_27",
-      "titulo": "Nueva Caledonia vs Ecuador",
-      "hora": "05:00",
-      "fecha_completa": "2026-11-19T08:00:00-05:00",
-      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DSPORTS2",
           "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
-        }
-      ],
-      "torneo": "Copa Mundial Sub-17"
-    },
-    {
-      "id": "evt_28",
-      "titulo": "Arabia Saudita vs Uruguay",
-      "hora": "06:00",
-      "fecha_completa": "2026-11-19T09:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
-        }
-      ],
-      "torneo": "Copa Mundial Sub-17"
-    },
-    {
-      "id": "evt_29",
-      "titulo": "Catar vs Panamá",
-      "hora": "07:30",
-      "fecha_completa": "2026-11-19T10:30:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
+        },
         {
           "nombre": "TUDNMX",
           "url": "https://streamxhd.sbs/live1.php?stream=tudnmx"
@@ -133,67 +49,53 @@
       "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_30",
-      "titulo": "Argentina vs Australia",
-      "hora": "08:00",
-      "fecha_completa": "2026-11-19T11:00:00-05:00",
-      "status": "FINALIZADO",
+      "id": "evt_3",
+      "titulo": "Independiente del Valle vs Macará",
+      "hora": "09:00",
+      "fecha_completa": "2026-11-20T12:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DSPORTSPLUS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus"
+          "nombre": "ZAPPING EC",
+          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
         }
       ],
-      "torneo": "Copa Mundial Sub-17"
+      "torneo": "Liga Ecuador"
     },
     {
-      "id": "evt_31",
-      "titulo": "Austria Wien vs Bayern",
-      "hora": "09:45",
-      "fecha_completa": "2026-11-19T12:45:00-05:00",
-      "status": "FINALIZADO",
+      "id": "evt_4",
+      "titulo": "Al-Ahli vs Al Nassr",
+      "hora": "09:30",
+      "fecha_completa": "2026-11-20T12:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+          "nombre": "FOX DEPORTES USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa"
         }
       ],
-      "torneo": "Champions League Femenina"
+      "torneo": "Saudi Pro League"
     },
     {
-      "id": "evt_32",
-      "titulo": "Paris FC vs Køge Kvinder",
-      "hora": "09:45",
-      "fecha_completa": "2026-11-19T12:45:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "DISNEY+ 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
-        }
-      ],
-      "torneo": "Champions League Femenina"
-    },
-    {
-      "id": "evt_33",
-      "titulo": "Celta de Vigo vs Espanyol",
-      "hora": "10:00",
-      "fecha_completa": "2026-11-19T13:00:00-05:00",
-      "status": "FINALIZADO",
+      "id": "evt_5",
+      "titulo": "Racing vs Central Español",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-20T14:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "DISNEY+ 3",
           "url": "https://streamxhd.sbs/live1.php?stream=disney3"
         }
       ],
-      "torneo": "Copa de la Reina"
+      "torneo": "Liga Uruguay"
     },
     {
-      "id": "evt_34",
-      "titulo": "Progreso vs Torque",
+      "id": "evt_6",
+      "titulo": "Cerro vs Nacional",
       "hora": "11:30",
-      "fecha_completa": "2026-11-19T14:30:00-05:00",
-      "status": "FINALIZADO",
+      "fecha_completa": "2026-11-20T14:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "DISNEY+ 4",
@@ -203,11 +105,11 @@
       "torneo": "Liga Uruguay"
     },
     {
-      "id": "evt_35",
-      "titulo": "Peñarol vs Cerro Largo",
+      "id": "evt_7",
+      "titulo": "Liverpool vs Wanderers",
       "hora": "11:30",
-      "fecha_completa": "2026-11-19T14:30:00-05:00",
-      "status": "FINALIZADO",
+      "fecha_completa": "2026-11-20T14:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "DISNEY+ 5",
@@ -217,60 +119,288 @@
       "torneo": "Liga Uruguay"
     },
     {
-      "id": "evt_36",
-      "titulo": "Boston River vs Deportivo Maldonado",
+      "id": "evt_8",
+      "titulo": "Bayern München vs Köln",
       "hora": "11:30",
-      "fecha_completa": "2026-11-19T14:30:00-05:00",
-      "status": "FINALIZADO",
+      "fecha_completa": "2026-11-20T14:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        },
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        },
+        {
+          "nombre": "UNIVERSO",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo"
+        }
+      ],
+      "torneo": "Bundesliga"
+    },
+    {
+      "id": "evt_9",
+      "titulo": "FC Andorra vs Leganés",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-20T14:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "LALIGA HYPERMOTION",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
+        }
+      ],
+      "torneo": "LaLiga SmartBank"
+    },
+    {
+      "id": "evt_10",
+      "titulo": "Daniil Medvedev vs Frances Tiafoe",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-20T14:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "ATP Finals"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "Troyes vs Le Havre",
+      "hora": "11:45",
+      "fecha_completa": "2026-11-20T14:45:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "DISNEY+ 6",
           "url": "https://streamxhd.sbs/live1.php?stream=disney6"
         }
       ],
-      "torneo": "Liga Uruguay"
+      "torneo": "Ligue 1"
     },
     {
-      "id": "evt_37",
-      "titulo": "Arsenal vs OL Lyonnes",
+      "id": "evt_12",
+      "titulo": "Athletic Club vs Espanyol",
       "hora": "12:00",
-      "fecha_completa": "2026-11-19T15:00:00-05:00",
-      "status": "FINALIZADO",
+      "fecha_completa": "2026-11-20T15:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
+        },
+        {
+          "nombre": "ESPN +",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus1"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        }
+      ],
+      "torneo": "LaLiga"
+    },
+    {
+      "id": "evt_13",
+      "titulo": "Sportivo Ameliano vs Sportivo Luqueño",
+      "hora": "12:30",
+      "fecha_completa": "2026-11-20T15:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TIGO SPORTS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
+        }
+      ],
+      "torneo": "Liga Paraguay"
+    },
+    {
+      "id": "evt_14",
+      "titulo": "Porto vs Paredes",
+      "hora": "12:45",
+      "fecha_completa": "2026-11-20T15:45:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        }
+      ],
+      "torneo": "Copa de Portugal"
+    },
+    {
+      "id": "evt_15",
+      "titulo": "Cobresal vs Audax Italiano",
+      "hora": "13:00",
+      "fecha_completa": "2026-11-20T16:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNTSPORTSCHILE",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
+        }
+      ],
+      "torneo": "Liga Chile"
+    },
+    {
+      "id": "evt_16",
+      "titulo": "Medellín vs Santa Fe",
+      "hora": "13:30",
+      "fecha_completa": "2026-11-20T16:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "Liga Colombia"
+    },
+    {
+      "id": "evt_17",
+      "titulo": "Deportivo Recoleta vs Guaraní",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-20T18:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TIGO SPORTS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
+        }
+      ],
+      "torneo": "Liga Paraguay"
+    },
+    {
+      "id": "evt_18",
+      "titulo": "Vélez Sarsfield vs Belgrano",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-20T18:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNT SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
+        }
+      ],
+      "torneo": "Liga Profesional"
+    },
+    {
+      "id": "evt_19",
+      "titulo": "Palestino vs Unión La Calera",
+      "hora": "15:30",
+      "fecha_completa": "2026-11-20T18:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNTSPORTSCHILE",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
+        }
+      ],
+      "torneo": "Liga Chile"
+    },
+    {
+      "id": "evt_20",
+      "titulo": "Atlético Bucaramanga vs América de Cali",
+      "hora": "15:35",
+      "fecha_completa": "2026-11-20T18:35:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "Liga Colombia"
+    },
+    {
+      "id": "evt_28",
+      "titulo": "Puebla vs Atlético San Luis",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-20T20:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 10",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+        },
+        {
+          "nombre": "TUDN USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
+        }
+      ],
+      "torneo": "Liga MX"
+    },
+    {
+      "id": "evt_31",
+      "titulo": "Deportivo Cali vs Millonarios",
+      "hora": "17:40",
+      "fecha_completa": "2026-11-20T20:40:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "Liga Colombia"
+    },
+    {
+      "id": "evt_32",
+      "titulo": "Marcus Breno vs Eduardo Torres",
+      "hora": "18:00",
+      "fecha_completa": "2026-11-20T21:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "ESPN 5",
           "url": "https://streamxhd.sbs/live1.php?stream=espn5"
         }
       ],
-      "torneo": "Champions League Femenina"
+      "torneo": "ESPN KnockOut - LFA 247"
     },
     {
-      "id": "evt_38",
-      "titulo": "Barcelona vs Servette Chênois Féminin",
-      "hora": "12:00",
-      "fecha_completa": "2026-11-19T15:00:00-05:00",
-      "status": "FINALIZADO",
+      "id": "evt_34",
+      "titulo": "Juárez vs Atlas",
+      "hora": "19:00",
+      "fecha_completa": "2026-11-20T22:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DISNEY+ 7",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+          "nombre": "UNIVERSO",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo"
+        },
+        {
+          "nombre": "FOX ONE",
+          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
+        },
+        {
+          "nombre": "AZTECA7",
+          "url": "https://streamxhd.sbs/live1.php?stream=azteca7"
         }
       ],
-      "torneo": "Champions League Femenina"
+      "torneo": "Liga MX"
     },
     {
-      "id": "evt_39",
-      "titulo": "SL Benfica vs Roma",
-      "hora": "12:00",
-      "fecha_completa": "2026-11-19T15:00:00-05:00",
-      "status": "FINALIZADO",
+      "id": "evt_37",
+      "titulo": "Tijuana vs Atlante",
+      "hora": "19:10",
+      "fecha_completa": "2026-11-20T22:10:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DISNEY+ 8",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+          "nombre": "TUDN USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
+        },
+        {
+          "nombre": "FOXONE2",
+          "url": "https://streamxhd.sbs/live1.php?stream=foxone2"
         }
       ],
-      "torneo": "Champions League Femenina"
+      "torneo": "Liga MX"
     }
   ]
 }
