@@ -1,11 +1,11 @@
 {
-  "fecha_actualizacion": "2026-11-20T10:58:49Z",
-  "total": 9,
+  "fecha_actualizacion": "2026-11-20T22:04:23Z",
+  "total": 16,
   "eventos": [
     {
-      "id": "evt_21",
+      "id": "evt_10",
       "titulo": "Atlanta Hawks vs Charlotte Hornets",
-      "hora": "16:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-20T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -17,9 +17,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_25",
+      "id": "evt_14",
       "titulo": "Brooklyn Nets vs Orlando Magic",
-      "hora": "16:30",
+      "hora": "19:30",
       "fecha_completa": "2026-11-20T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -31,9 +31,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_26",
+      "id": "evt_15",
       "titulo": "Cleveland Cavaliers vs Indiana Pacers",
-      "hora": "16:30",
+      "hora": "19:30",
       "fecha_completa": "2026-11-20T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -45,9 +45,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_27",
+      "id": "evt_16",
       "titulo": "Detroit Pistons vs Toronto Raptors",
-      "hora": "16:30",
+      "hora": "19:30",
       "fecha_completa": "2026-11-20T19:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -63,9 +63,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_29",
+      "id": "evt_18",
       "titulo": "Chicago Bulls vs Washington Wizards",
-      "hora": "17:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-20T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -77,9 +77,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_30",
+      "id": "evt_19",
       "titulo": "Oklahoma City Thunder vs New Orleans Pelicans",
-      "hora": "17:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-20T20:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -91,9 +91,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_33",
+      "id": "evt_22",
       "titulo": "Utah Jazz vs Phoenix Suns",
-      "hora": "18:30",
+      "hora": "21:30",
       "fecha_completa": "2026-11-20T21:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -105,9 +105,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_35",
+      "id": "evt_24",
       "titulo": "Los Angeles Lakers vs Sacramento Kings",
-      "hora": "19:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-20T22:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -119,9 +119,9 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_36",
+      "id": "evt_25",
       "titulo": "Denver Nuggets vs Houston Rockets",
-      "hora": "19:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-20T22:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -132,6 +132,108 @@
         {
           "nombre": "NBA LEAGUE PASS 9",
           "url": "https://streamxhd.sbs/live1.php?stream=nba9"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_36",
+      "titulo": "Galatasaray vs Samsunspor",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-21T08:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
+        }
+      ],
+      "torneo": "Super Lig"
+    },
+    {
+      "id": "evt_73",
+      "titulo": "Philadelphia 76ers vs Milwaukee Bucks",
+      "hora": "13:00",
+      "fecha_completa": "2026-11-21T13:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_101",
+      "titulo": "New York Knicks vs Portland Trail Blazers",
+      "hora": "19:30",
+      "fecha_completa": "2026-11-21T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_104",
+      "titulo": "San Antonio Spurs vs New Orleans Pelicans",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-21T20:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba3"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_105",
+      "titulo": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-21T20:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        },
+        {
+          "nombre": "NBA LEAGUE PASS 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_106",
+      "titulo": "Dallas Mavericks vs Los Angeles Clippers",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-21T20:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_111",
+      "titulo": "Sacramento Kings vs Boston Celtics",
+      "hora": "22:00",
+      "fecha_completa": "2026-11-21T22:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
         }
       ],
       "torneo": "NBA"
