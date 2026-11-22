@@ -1,187 +1,67 @@
 {
-  "fecha_actualizacion": "2026-11-21T20:43:51Z",
-  "total": 34,
+  "fecha_actualizacion": "2026-11-22T10:47:53Z",
+  "total": 65,
   "eventos": [
     {
       "id": "evt_1",
-      "titulo": "Jiří Procházka vs Navajo Stirling",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-21T13:00:00-05:00",
-      "status": "EN VIVO",
+      "titulo": "Juventus vs Venezia",
+      "hora": "05:30",
+      "fecha_completa": "2026-11-22T06:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "PARAMOUNT1",
-          "url": "https://streamxhd.sbs/live1.php?stream=paramount1"
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
         },
         {
-          "nombre": "PARAMOUNT2",
-          "url": "https://streamxhd.sbs/live1.php?stream=paramount2"
+          "nombre": "ESPN 2 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2ar"
         },
         {
-          "nombre": "PARAMOUNT3",
-          "url": "https://streamxhd.sbs/live1.php?stream=paramount3"
-        }
-      ],
-      "torneo": "UFC"
-    },
-    {
-      "id": "evt_2",
-      "titulo": "Técnico Universitario vs Deportivo Cuenca",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-21T14:00:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "ZAPPING EC",
-          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
-        }
-      ],
-      "torneo": "Liga Ecuador"
-    },
-    {
-      "id": "evt_3",
-      "titulo": "New England vs Philadelphia Union",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-21T14:00:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "APPLETV1",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv1"
-        }
-      ],
-      "torneo": "MLS"
-    },
-    {
-      "id": "evt_4",
-      "titulo": "St. Pauli vs VfL Bochum",
-      "hora": "19:30",
-      "fecha_completa": "2026-11-21T14:30:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "FOX SPORTS 2 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox2ar"
-        }
-      ],
-      "torneo": "Bundesliga 2"
-    },
-    {
-      "id": "evt_5",
-      "titulo": "Palmeiras vs Flamengo",
-      "hora": "19:30",
-      "fecha_completa": "2026-11-21T14:30:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
         },
         {
-          "nombre": "PREMIERE 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere1"
-        },
-        {
-          "nombre": "FANATIZ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=fanatiz1"
-        }
-      ],
-      "torneo": "Brasileirão"
-    },
-    {
-      "id": "evt_6",
-      "titulo": "Alexander Zverev vs Rival por confirmar",
-      "hora": "19:30",
-      "fecha_completa": "2026-11-21T14:30:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "ESPN 4",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4"
-        }
-      ],
-      "torneo": "ATP Finals"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "Lens vs Toulouse",
-      "hora": "19:45",
-      "fecha_completa": "2026-11-21T14:45:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY25",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney25"
-        }
-      ],
-      "torneo": "Ligue 1"
-    },
-    {
-      "id": "evt_8",
-      "titulo": "Lille vs Olympique Lyonnais",
-      "hora": "19:45",
-      "fecha_completa": "2026-11-21T14:45:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY26",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney26"
-        }
-      ],
-      "torneo": "Ligue 1"
-    },
-    {
-      "id": "evt_9",
-      "titulo": "Monaco vs Auxerre",
-      "hora": "19:45",
-      "fecha_completa": "2026-11-21T14:45:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY27",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney27"
-        }
-      ],
-      "torneo": "Ligue 1"
-    },
-    {
-      "id": "evt_10",
-      "titulo": "Strasbourg vs Brest",
-      "hora": "19:45",
-      "fecha_completa": "2026-11-21T14:45:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY28",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney28"
-        }
-      ],
-      "torneo": "Ligue 1"
-    },
-    {
-      "id": "evt_11",
-      "titulo": "Napoli vs Torino",
-      "hora": "19:45",
-      "fecha_completa": "2026-11-21T14:45:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DISNEY24",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney24"
-        },
-        {
-          "nombre": "TELEMUNDO",
-          "url": "https://streamxhd.sbs/live1.php?stream=telemundo"
+          "nombre": "UNIVERSO",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo"
         }
       ],
       "torneo": "Serie A"
     },
     {
-      "id": "evt_12",
-      "titulo": "Tenerife vs Mallorca",
-      "hora": "20:00",
-      "fecha_completa": "2026-11-21T15:00:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_2",
+      "titulo": "Burnley vs Blackburn Rovers",
+      "hora": "06:00",
+      "fecha_completa": "2026-11-22T07:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        }
+      ],
+      "torneo": "Championship"
+    },
+    {
+      "id": "evt_3",
+      "titulo": "Energie Cottbus vs Hertha BSC",
+      "hora": "06:30",
+      "fecha_completa": "2026-11-22T07:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        }
+      ],
+      "torneo": "Bundesliga 2"
+    },
+    {
+      "id": "evt_4",
+      "titulo": "Córdoba vs Real Oviedo",
+      "hora": "07:00",
+      "fecha_completa": "2026-11-22T08:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
           "nombre": "LALIGA HYPERMOTION",
@@ -191,96 +71,194 @@
       "torneo": "LaLiga SmartBank"
     },
     {
-      "id": "evt_13",
-      "titulo": "Real Madrid vs Celta de Vigo",
-      "hora": "20:00",
-      "fecha_completa": "2026-11-21T15:00:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_5",
+      "titulo": "Barcelona vs Villarreal",
+      "hora": "07:00",
+      "fecha_completa": "2026-11-22T08:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DISNEY29",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney29"
+          "nombre": "DSPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
         },
         {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        },
-        {
-          "nombre": "ESPNPLUS4",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnplus4"
+          "nombre": "DAZN LALIGA",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznlaliga"
         },
         {
           "nombre": "ESPN DEPORTES",
           "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        },
+        {
+          "nombre": "ESPN +",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus1"
         }
       ],
       "torneo": "LaLiga"
     },
     {
-      "id": "evt_14",
-      "titulo": "Argentinos Juniors vs Independiente",
-      "hora": "20:00",
-      "fecha_completa": "2026-11-21T15:00:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_6",
+      "titulo": "Ecuador vs Uganda",
+      "hora": "07:00",
+      "fecha_completa": "2026-11-22T08:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "TNT SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
         }
       ],
-      "torneo": "Liga Profesional"
+      "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_16",
-      "titulo": "Vitória Guimarães vs Sporting Braga",
-      "hora": "20:30",
-      "fecha_completa": "2026-11-21T15:30:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_7",
+      "titulo": "Konyaspor vs Beşiktaş",
+      "hora": "07:00",
+      "fecha_completa": "2026-11-22T08:00:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+          "nombre": "ESPN 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn7"
         },
         {
-          "nombre": "FOX SPORTS 1 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+          "nombre": "FOX SPORTS 2 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox2ar"
         }
       ],
-      "torneo": "Copa de Portugal"
+      "torneo": "Super Lig"
     },
     {
-      "id": "evt_17",
-      "titulo": "Bahia vs Coritiba",
-      "hora": "20:30",
-      "fecha_completa": "2026-11-21T15:30:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_8",
+      "titulo": "Sparta Rotterdam vs AZ",
+      "hora": "07:30",
+      "fecha_completa": "2026-11-22T08:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "PREMIERE 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere2"
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
         }
       ],
-      "torneo": "Brasileirão"
+      "torneo": "Eredivisie"
     },
     {
-      "id": "evt_18",
-      "titulo": "Alianza Lima vs FC Cajamarca",
-      "hora": "20:30",
-      "fecha_completa": "2026-11-21T15:30:00-05:00",
-      "status": "EN VIVO",
+      "id": "evt_9",
+      "titulo": "Ajax vs ADO Den Haag",
+      "hora": "07:30",
+      "fecha_completa": "2026-11-22T08:30:00-05:00",
+      "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "LIGA 1 MAX",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
+          "nombre": "DISNEY+ 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4"
+        },
+        {
+          "nombre": "ESPN 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn3"
         }
       ],
-      "torneo": "Liga 1"
+      "torneo": "Eredivisie"
     },
     {
-      "id": "evt_19",
-      "titulo": "O'Higgins vs Universidad de Chile",
-      "hora": "21:00",
-      "fecha_completa": "2026-11-21T16:00:00-05:00",
+      "id": "evt_10",
+      "titulo": "Paris FC vs Angers SCO",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-22T09:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8"
+        }
+      ],
+      "torneo": "Ligue 1"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "Sassuolo vs Genoa",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-22T09:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
+        },
+        {
+          "nombre": "ESPN 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4"
+        }
+      ],
+      "torneo": "Serie A"
+    },
+    {
+      "id": "evt_12",
+      "titulo": "Bologna vs Udinese",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-22T09:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        }
+      ],
+      "torneo": "Serie A"
+    },
+    {
+      "id": "evt_13",
+      "titulo": "Hull City vs Brighton & Hove Albion",
+      "hora": "08:00",
+      "fecha_completa": "2026-11-22T09:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
+        },
+        {
+          "nombre": "ESPN 2 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2ar"
+        },
+        {
+          "nombre": "TELEMUNDO",
+          "url": "https://streamxhd.sbs/live1.php?stream=telemundo"
+        },
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        }
+      ],
+      "torneo": "Premier League"
+    },
+    {
+      "id": "evt_14",
+      "titulo": "Augsburg vs Mainz 05",
+      "hora": "08:30",
+      "fecha_completa": "2026-11-22T09:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 9",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney9"
+        },
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        },
+        {
+          "nombre": "UNIVERSO",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo"
+        }
+      ],
+      "torneo": "Bundesliga"
+    },
+    {
+      "id": "evt_15",
+      "titulo": "Huachipato vs Deportes Concepción",
+      "hora": "09:00",
+      "fecha_completa": "2026-11-22T10:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -291,24 +269,118 @@
       "torneo": "Liga Chile"
     },
     {
-      "id": "evt_20",
-      "titulo": "Dallas vs Portland Timbers",
-      "hora": "21:00",
-      "fecha_completa": "2026-11-21T16:00:00-05:00",
+      "id": "evt_16",
+      "titulo": "Sporting Gijón vs Las Palmas",
+      "hora": "09:15",
+      "fecha_completa": "2026-11-22T10:15:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "APPLETV2",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv2"
+          "nombre": "LALIGA HYPERMOTION",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
         }
       ],
-      "torneo": "MLS"
+      "torneo": "LaLiga SmartBank"
+    },
+    {
+      "id": "evt_17",
+      "titulo": "Racing Santander vs Real Sociedad",
+      "hora": "09:15",
+      "fecha_completa": "2026-11-22T10:15:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 10",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        },
+        {
+          "nombre": "ESPN + 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus2"
+        },
+        {
+          "nombre": "CANAL5MX",
+          "url": "https://streamxhd.sbs/live1.php?stream=canal5mx"
+        }
+      ],
+      "torneo": "LaLiga"
+    },
+    {
+      "id": "evt_18",
+      "titulo": "Uruguay vs Haití",
+      "hora": "09:30",
+      "fecha_completa": "2026-11-22T10:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
+        }
+      ],
+      "torneo": "Copa Mundial Sub-17"
+    },
+    {
+      "id": "evt_19",
+      "titulo": "Argentina vs Mozambique",
+      "hora": "09:30",
+      "fecha_completa": "2026-11-22T10:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTSPLUS",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus"
+        },
+        {
+          "nombre": "TUDNMX",
+          "url": "https://streamxhd.sbs/live1.php?stream=tudnmx"
+        }
+      ],
+      "torneo": "Copa Mundial Sub-17"
+    },
+    {
+      "id": "evt_20",
+      "titulo": "Trabzonspor vs Eyüpspor",
+      "hora": "10:00",
+      "fecha_completa": "2026-11-22T11:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn7"
+        },
+        {
+          "nombre": "FOX SPORTS 3 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox3ar"
+        }
+      ],
+      "torneo": "Super Lig"
     },
     {
       "id": "evt_21",
-      "titulo": "Universidad Católica vs Barcelona",
-      "hora": "21:30",
-      "fecha_completa": "2026-11-21T16:30:00-05:00",
+      "titulo": "Lorient vs Rennes",
+      "hora": "10:15",
+      "fecha_completa": "2026-11-22T11:15:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 11",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney11"
+        }
+      ],
+      "torneo": "Ligue 1"
+    },
+    {
+      "id": "evt_22",
+      "titulo": "Manta vs Delfín",
+      "hora": "10:30",
+      "fecha_completa": "2026-11-22T11:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -319,19 +391,23 @@
       "torneo": "Liga Ecuador"
     },
     {
-      "id": "evt_22",
-      "titulo": "Atlético Mineiro vs Boca Juniors",
-      "hora": "22:30",
-      "fecha_completa": "2026-11-21T17:30:00-05:00",
+      "id": "evt_23",
+      "titulo": "Liverpool vs Manchester United",
+      "hora": "10:30",
+      "fecha_completa": "2026-11-22T11:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DSPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports"
+          "nombre": "DISNEY+ 12",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney12"
         },
         {
-          "nombre": "DISNEY30",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney30"
+          "nombre": "ESPN AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
+        },
+        {
+          "nombre": "TELEMUNDO",
+          "url": "https://streamxhd.sbs/live1.php?stream=telemundo"
         },
         {
           "nombre": "ESPN",
@@ -342,81 +418,213 @@
           "url": "https://streamxhd.sbs/live1.php?stream=mligacampeones"
         }
       ],
-      "torneo": "Copa Sudamericana"
+      "torneo": "Premier League"
     },
     {
-      "id": "evt_23",
-      "titulo": "Pachuca vs Toluca",
-      "hora": "22:50",
-      "fecha_completa": "2026-11-21T17:50:00-05:00",
+      "id": "evt_24",
+      "titulo": "Werder Bremen vs Hamburger SV",
+      "hora": "10:30",
+      "fecha_completa": "2026-11-22T11:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "TUDN USA",
-          "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
+          "nombre": "DISNEY+ 13",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney13"
+        }
+      ],
+      "torneo": "Bundesliga"
+    },
+    {
+      "id": "evt_25",
+      "titulo": "Milan vs Frosinone",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-22T12:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 14",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney14"
         },
+        {
+          "nombre": "UNIVERSO",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo"
+        }
+      ],
+      "torneo": "Serie A"
+    },
+    {
+      "id": "evt_26",
+      "titulo": "Carlos Alcaraz vs Alexander Zverev | Final",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-22T12:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn3"
+        }
+      ],
+      "torneo": "ATP Finals"
+    },
+    {
+      "id": "evt_27",
+      "titulo": "Celta de Vigo II vs Real Valladolid",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-22T12:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "LALIGAHYPERMOTION2",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion2"
+        }
+      ],
+      "torneo": "LaLiga SmartBank"
+    },
+    {
+      "id": "evt_28",
+      "titulo": "Girona vs Eibar",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-22T12:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "LALIGA HYPERMOTION",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
+        }
+      ],
+      "torneo": "LaLiga SmartBank"
+    },
+    {
+      "id": "evt_29",
+      "titulo": "Osasuna vs Málaga",
+      "hora": "11:30",
+      "fecha_completa": "2026-11-22T12:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 15",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney15"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        },
+        {
+          "nombre": "ESPNPLUS3",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus3"
+        }
+      ],
+      "torneo": "LaLiga"
+    },
+    {
+      "id": "evt_30",
+      "titulo": "Dallas Cowboys vs Tennessee Titans",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-22T13:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
         {
           "nombre": "FOX ONE",
           "url": "https://streamxhd.sbs/live1.php?stream=foxone"
         }
       ],
-      "torneo": "Liga MX"
+      "torneo": "NFL"
     },
     {
-      "id": "evt_24",
-      "titulo": "Santos Laguna vs León",
-      "hora": "23:00",
-      "fecha_completa": "2026-11-21T18:00:00-05:00",
+      "id": "evt_31",
+      "titulo": "Philadelphia Eagles vs Pittsburgh Steelers",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-22T13:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
-          "nombre": "DISNEY+ 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+          "nombre": "FOX SPORTS 2 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox2ar"
+        },
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        },
+        {
+          "nombre": "CANAL9MX",
+          "url": "https://streamxhd.sbs/live1.php?stream=canal9mx"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_32",
+      "titulo": "Chicago Bears vs New Orleans Saints",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-22T13:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn7"
+        },
+        {
+          "nombre": "FOX SPORTS 3 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox3ar"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_33",
+      "titulo": "Kansas City Chiefs vs Arizona Cardinals",
+      "hora": "12:00",
+      "fecha_completa": "2026-11-22T13:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "SPORTTVBR2",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_34",
+      "titulo": "Orense vs Mushuc Runa",
+      "hora": "13:00",
+      "fecha_completa": "2026-11-22T14:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ZAPPING EC",
+          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
+        }
+      ],
+      "torneo": "Liga Ecuador"
+    },
+    {
+      "id": "evt_35",
+      "titulo": "Rosario Central vs Gimnasia Mendoza",
+      "hora": "13:00",
+      "fecha_completa": "2026-11-22T14:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN PREMIUM",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
         },
         {
           "nombre": "VIX 1",
           "url": "https://streamxhd.sbs/live1.php?stream=vix1"
         }
       ],
-      "torneo": "Liga MX"
+      "torneo": "Liga Profesional"
     },
     {
-      "id": "evt_25",
-      "titulo": "Inter Miami vs Columbus Crew",
-      "hora": "23:00",
-      "fecha_completa": "2026-11-21T18:00:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "APPLETV3",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv3"
-        },
-        {
-          "nombre": "APPLETV4",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv4"
-        }
-      ],
-      "torneo": "MLS"
-    },
-    {
-      "id": "evt_26",
-      "titulo": "Universidad de Concepción vs Ñublense",
-      "hora": "23:30",
-      "fecha_completa": "2026-11-21T18:30:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "TNTSPORTSCHILE",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
-        }
-      ],
-      "torneo": "Liga Chile"
-    },
-    {
-      "id": "evt_27",
-      "titulo": "Chapecoense vs Cruzeiro",
-      "hora": "00:00",
-      "fecha_completa": "2026-11-21T19:00:00-05:00",
+      "id": "evt_36",
+      "titulo": "Athletico-PR vs Remo",
+      "hora": "13:00",
+      "fecha_completa": "2026-11-22T14:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -427,11 +635,425 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_29",
-      "titulo": "Pumas UNAM vs Monterrey",
-      "hora": "01:00",
-      "fecha_completa": "2026-11-21T20:00:00-05:00",
+      "id": "evt_37",
+      "titulo": "Olympique Marseille vs Le Mans",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-22T14:45:00-05:00",
       "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY17",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney17"
+        },
+        {
+          "nombre": "ESPN 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn3"
+        }
+      ],
+      "torneo": "Ligue 1"
+    },
+    {
+      "id": "evt_38",
+      "titulo": "Atalanta vs Internazionale",
+      "hora": "13:45",
+      "fecha_completa": "2026-11-22T14:45:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 16",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney16"
+        },
+        {
+          "nombre": "ESPN 2 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2ar"
+        },
+        {
+          "nombre": "TELEMUNDO",
+          "url": "https://streamxhd.sbs/live1.php?stream=telemundo"
+        },
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "Serie A"
+    },
+    {
+      "id": "evt_39",
+      "titulo": "Burgos vs Albacete",
+      "hora": "14:00",
+      "fecha_completa": "2026-11-22T15:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "LALIGA HYPERMOTION",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion"
+        }
+      ],
+      "torneo": "LaLiga SmartBank"
+    },
+    {
+      "id": "evt_40",
+      "titulo": "Getafe vs Atlético Madrid",
+      "hora": "14:00",
+      "fecha_completa": "2026-11-22T15:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY18",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney18"
+        },
+        {
+          "nombre": "ESPN AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnar"
+        },
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        },
+        {
+          "nombre": "ESPN DEPORTES",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes"
+        },
+        {
+          "nombre": "ESPNPLUS4",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus4"
+        }
+      ],
+      "torneo": "LaLiga"
+    },
+    {
+      "id": "evt_41",
+      "titulo": "Sporting Cristal vs Cienciano",
+      "hora": "14:00",
+      "fecha_completa": "2026-11-22T15:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "FANATIZ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=fanatiz1"
+        },
+        {
+          "nombre": "LIGA1",
+          "url": "https://streamxhd.sbs/live1.php?stream=liga1"
+        }
+      ],
+      "torneo": "Liga 1"
+    },
+    {
+      "id": "evt_42",
+      "titulo": "Sport Huancayo vs Universitario",
+      "hora": "14:00",
+      "fecha_completa": "2026-11-22T15:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "FANATIZ2",
+          "url": "https://streamxhd.sbs/live1.php?stream=fanatiz2"
+        },
+        {
+          "nombre": "LIGA 1 MAX",
+          "url": "https://streamxhd.sbs/live1.php?stream=l1max"
+        },
+        {
+          "nombre": "FANATIZ3",
+          "url": "https://streamxhd.sbs/live1.php?stream=fanatiz3"
+        }
+      ],
+      "torneo": "Liga 1"
+    },
+    {
+      "id": "evt_44",
+      "titulo": "Torreense vs Benfica",
+      "hora": "14:45",
+      "fecha_completa": "2026-11-22T15:45:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        }
+      ],
+      "torneo": "Copa de Portugal"
+    },
+    {
+      "id": "evt_45",
+      "titulo": "Colo-Colo vs Universidad Católica",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-22T16:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNTSPORTSCHILE",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
+        }
+      ],
+      "torneo": "Liga Chile"
+    },
+    {
+      "id": "evt_46",
+      "titulo": "Nashville SC vs Cincinnati",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-22T16:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "APPLETV1",
+          "url": "https://streamxhd.sbs/live1.php?stream=appletv1"
+        },
+        {
+          "nombre": "FOX DEPORTES USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa"
+        }
+      ],
+      "torneo": "MLS"
+    },
+    {
+      "id": "evt_47",
+      "titulo": "Olimpia vs Sportivo Trinidense",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-22T16:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TIGO SPORTS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo1"
+        }
+      ],
+      "torneo": "Liga Paraguay"
+    },
+    {
+      "id": "evt_48",
+      "titulo": "Rubio Ñu vs Libertad",
+      "hora": "15:00",
+      "fecha_completa": "2026-11-22T16:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TIGO2",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo2"
+        }
+      ],
+      "torneo": "Liga Paraguay"
+    },
+    {
+      "id": "evt_50",
+      "titulo": "New York Giants vs Jacksonville Jaguars",
+      "hora": "15:25",
+      "fecha_completa": "2026-11-22T16:25:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "FOX ONE",
+          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
+        },
+        {
+          "nombre": "SPORTTVBR2",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_51",
+      "titulo": "Denver Broncos vs Las Vegas Raiders",
+      "hora": "15:25",
+      "fecha_completa": "2026-11-22T16:25:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        },
+        {
+          "nombre": "CANAL9MX",
+          "url": "https://streamxhd.sbs/live1.php?stream=canal9mx"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_52",
+      "titulo": "LDU Quito vs Aucas",
+      "hora": "15:30",
+      "fecha_completa": "2026-11-22T16:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ZAPPING EC",
+          "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec"
+        }
+      ],
+      "torneo": "Liga Ecuador"
+    },
+    {
+      "id": "evt_53",
+      "titulo": "Fluminense vs Mirassol",
+      "hora": "15:30",
+      "fecha_completa": "2026-11-22T16:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere2"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_54",
+      "titulo": "River Plate vs Lanús",
+      "hora": "16:00",
+      "fecha_completa": "2026-11-22T17:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNT SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsports"
+        },
+        {
+          "nombre": "DISNEY19",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney19"
+        },
+        {
+          "nombre": "VIX2",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix2"
+        },
+        {
+          "nombre": "ESPN",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn"
+        },
+        {
+          "nombre": "MLIGACAMPEONES",
+          "url": "https://streamxhd.sbs/live1.php?stream=mligacampeones"
+        }
+      ],
+      "torneo": "Liga Profesional"
+    },
+    {
+      "id": "evt_55",
+      "titulo": "RB Bragantino vs Vasco da Gama",
+      "hora": "16:30",
+      "fecha_completa": "2026-11-22T17:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PREMIERE 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere1"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_57",
+      "titulo": "Guadalajara vs Cruz Azul",
+      "hora": "17:07",
+      "fecha_completa": "2026-11-22T18:07:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TELEMUNDO",
+          "url": "https://streamxhd.sbs/live1.php?stream=telemundo"
+        },
+        {
+          "nombre": "PRIME VIDEO 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
+        }
+      ],
+      "torneo": "Liga MX"
+    },
+    {
+      "id": "evt_58",
+      "titulo": "Deportes Limache vs La Serena",
+      "hora": "17:30",
+      "fecha_completa": "2026-11-22T18:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "TNTSPORTSCHILE",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile"
+        }
+      ],
+      "torneo": "Liga Chile"
+    },
+    {
+      "id": "evt_59",
+      "titulo": "Chicago Fire vs Charlotte",
+      "hora": "17:30",
+      "fecha_completa": "2026-11-22T18:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "APPLETV2",
+          "url": "https://streamxhd.sbs/live1.php?stream=appletv2"
+        },
+        {
+          "nombre": "FOX DEPORTES USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa"
+        }
+      ],
+      "torneo": "MLS"
+    },
+    {
+      "id": "evt_64",
+      "titulo": "Instituto vs Huracán",
+      "hora": "19:00",
+      "fecha_completa": "2026-11-22T20:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN PREMIUM",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
+        },
+        {
+          "nombre": "VIX3",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix3"
+        }
+      ],
+      "torneo": "Liga Profesional"
+    },
+    {
+      "id": "evt_66",
+      "titulo": "Querétaro vs Necaxa",
+      "hora": "19:10",
+      "fecha_completa": "2026-11-22T20:10:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "FOX ONE",
+          "url": "https://streamxhd.sbs/live1.php?stream=foxone"
+        },
+        {
+          "nombre": "TUDN USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa"
+        }
+      ],
+      "torneo": "Liga MX"
+    },
+    {
+      "id": "evt_68",
+      "titulo": "Vancouver Whitecaps vs Real Salt Lake",
+      "hora": "19:30",
+      "fecha_completa": "2026-11-22T20:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "APPLETV3",
+          "url": "https://streamxhd.sbs/live1.php?stream=appletv3"
+        }
+      ],
+      "torneo": "MLS"
+    },
+    {
+      "id": "evt_71",
+      "titulo": "Pumas UNAM vs Monterrey",
+      "hora": "19:00",
+      "fecha_completa": "2026-11-21T20:00:00-05:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "TUDNMX",
@@ -449,11 +1071,11 @@
       "torneo": "Liga MX"
     },
     {
-      "id": "evt_30",
+      "id": "evt_72",
       "titulo": "Washington Spirit vs Kansas City Current",
-      "hora": "01:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-21T20:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "ESPN 4",
@@ -463,11 +1085,11 @@
       "torneo": "NWSL"
     },
     {
-      "id": "evt_34",
+      "id": "evt_76",
       "titulo": "Once Caldas vs Atlético Nacional",
-      "hora": "01:15",
+      "hora": "19:15",
       "fecha_completa": "2026-11-21T20:15:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "WIN SPORTS +",
@@ -477,11 +1099,11 @@
       "torneo": "Liga Colombia"
     },
     {
-      "id": "evt_35",
+      "id": "evt_77",
       "titulo": "Atlético Morelia vs Atlético La Paz | Final de ida",
-      "hora": "02:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-21T21:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 3",
@@ -491,11 +1113,11 @@
       "torneo": "Liga de Expansión MX"
     },
     {
-      "id": "evt_36",
+      "id": "evt_78",
       "titulo": "Yoali Mosqueda vs Rubén Lezama",
-      "hora": "02:00",
-      "fecha_completa": "2026-11-21T21:00:00-05:00",
-      "status": "PRONTO",
+      "hora": "20:45",
+      "fecha_completa": "2026-11-21T21:45:00-05:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "ESPN",
@@ -505,11 +1127,11 @@
       "torneo": "ESPN KnockOut - BXSTRS"
     },
     {
-      "id": "evt_37",
+      "id": "evt_79",
       "titulo": "Tigres UANL vs América",
-      "hora": "03:00",
+      "hora": "21:00",
       "fecha_completa": "2026-11-21T22:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "TELEMUNDO",
@@ -529,42 +1151,6 @@
         }
       ],
       "torneo": "Liga MX"
-    },
-    {
-      "id": "evt_44",
-      "titulo": "Sporting CP vs UD da Serra",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-21T13:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        },
-        {
-          "nombre": "FOX SPORTS 1 AR",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
-        }
-      ],
-      "torneo": "Copa de Portugal"
-    },
-    {
-      "id": "evt_45",
-      "titulo": "Defensa y Justicia vs Barracas Central",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-21T13:00:00-05:00",
-      "status": "FINALIZADO",
-      "servidores": [
-        {
-          "nombre": "ESPN PREMIUM",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnpremium"
-        },
-        {
-          "nombre": "DISNEY23",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney23"
-        }
-      ],
-      "torneo": "Liga Profesional"
     }
   ]
 }
