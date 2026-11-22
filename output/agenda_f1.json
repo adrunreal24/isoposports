@@ -1,13 +1,27 @@
 {
-  "fecha_actualizacion": "2026-11-21T20:43:51Z",
-  "total": 5,
+  "fecha_actualizacion": "2026-11-22T10:47:53Z",
+  "total": 6,
   "eventos": [
     {
-      "id": "evt_39",
+      "id": "evt_0",
+      "titulo": "GP Portugal - Carrera Moto3, Moto2 y MotoGP",
+      "hora": "03:45",
+      "fecha_completa": "2026-11-22T04:45:00-05:00",
+      "status": "EN VIVO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "MotoGP"
+    },
+    {
+      "id": "evt_81",
       "titulo": "GP Las Vegas – Carrera",
-      "hora": "04:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-21T23:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 4",
@@ -33,11 +47,11 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_40",
+      "id": "evt_82",
       "titulo": "GP Las Vegas – Race Hub",
-      "hora": "04:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-21T23:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 5",
@@ -47,11 +61,11 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_41",
+      "id": "evt_83",
       "titulo": "GP Las Vegas – On Board Colapinto",
-      "hora": "04:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-21T23:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 6",
@@ -61,11 +75,11 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_42",
+      "id": "evt_84",
       "titulo": "GP Las Vegas – On Board Norris",
-      "hora": "04:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-21T23:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 7",
@@ -75,11 +89,11 @@
       "torneo": "F1"
     },
     {
-      "id": "evt_43",
+      "id": "evt_85",
       "titulo": "GP Las Vegas – Cámara On Board",
-      "hora": "04:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-21T23:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DISNEY+ 8",
