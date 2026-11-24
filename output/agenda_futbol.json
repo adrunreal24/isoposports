@@ -1,81 +1,13 @@
 {
-  "fecha_actualizacion": "2026-11-24T01:58:18Z",
+  "fecha_actualizacion": "2026-11-24T13:21:24Z",
   "total": 28,
   "eventos": [
     {
       "id": "evt_0",
-      "titulo": "Santos vs Grêmio",
-      "hora": "18:00",
-      "fecha_completa": "2026-11-23T19:00:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "SPORTV 1",
-          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1"
-        },
-        {
-          "nombre": "PREMIERE3",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere3"
-        }
-      ],
-      "torneo": "Brasileirão"
-    },
-    {
-      "id": "evt_3",
-      "titulo": "Boca Juniors de Cali vs Deportes Quindío",
-      "hora": "18:30",
-      "fecha_completa": "2026-11-23T19:30:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "WIN SPORTS",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
-        },
-        {
-          "nombre": "WIN SPORTS +",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
-        }
-      ],
-      "torneo": "Primera B"
-    },
-    {
-      "id": "evt_7",
-      "titulo": "Washington Commanders vs Cincinnati Bengals",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-23T20:00:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "ESPN 2",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
-        }
-      ],
-      "torneo": "NFL"
-    },
-    {
-      "id": "evt_8",
-      "titulo": "St. Louis City vs Los Angeles FC",
-      "hora": "19:00",
-      "fecha_completa": "2026-11-23T20:00:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "APPLETV1",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv1"
-        },
-        {
-          "nombre": "FOX DEPORTES USA",
-          "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa"
-        }
-      ],
-      "torneo": "MLS"
-    },
-    {
-      "id": "evt_14",
       "titulo": "Venezuela vs Rumanía",
-      "hora": "06:30",
+      "hora": "04:30",
       "fecha_completa": "2026-11-24T07:30:00-05:00",
-      "status": "PRONTO",
+      "status": "EN VIVO",
       "servidores": [
         {
           "nombre": "DSPORTS",
@@ -85,9 +17,9 @@
       "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_15",
+      "id": "evt_1",
       "titulo": "México vs Camerún",
-      "hora": "07:30",
+      "hora": "05:30",
       "fecha_completa": "2026-11-24T08:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -103,9 +35,9 @@
       "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_16",
+      "id": "evt_2",
       "titulo": "República Dominicana vs Chile",
-      "hora": "08:30",
+      "hora": "06:30",
       "fecha_completa": "2026-11-24T09:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -117,9 +49,9 @@
       "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_17",
+      "id": "evt_3",
       "titulo": "Brasil vs Tanzania",
-      "hora": "09:00",
+      "hora": "07:00",
       "fecha_completa": "2026-11-24T10:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -131,9 +63,9 @@
       "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_18",
+      "id": "evt_4",
       "titulo": "Honduras vs Colombia",
-      "hora": "09:30",
+      "hora": "07:30",
       "fecha_completa": "2026-11-24T10:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -145,9 +77,9 @@
       "torneo": "Copa Mundial Sub-17"
     },
     {
-      "id": "evt_19",
+      "id": "evt_5",
       "titulo": "Shabab Al Ahli vs Al Qadisiya",
-      "hora": "10:00",
+      "hora": "08:00",
       "fecha_completa": "2026-11-24T11:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -159,9 +91,9 @@
       "torneo": "AFC Champions League Elite"
     },
     {
-      "id": "evt_20",
+      "id": "evt_6",
       "titulo": "Zenit St. Petersburg vs Krylia Sovetov",
-      "hora": "10:30",
+      "hora": "08:30",
       "fecha_completa": "2026-11-24T11:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -173,9 +105,9 @@
       "torneo": "Copa de Rusia"
     },
     {
-      "id": "evt_21",
+      "id": "evt_7",
       "titulo": "Galatasaray vs Aston Villa",
-      "hora": "11:45",
+      "hora": "09:45",
       "fecha_completa": "2026-11-24T12:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -199,9 +131,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_22",
+      "id": "evt_8",
       "titulo": "Bodø/Glimt vs LASK Linz",
-      "hora": "11:45",
+      "hora": "09:45",
       "fecha_completa": "2026-11-24T12:45:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -221,9 +153,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_23",
+      "id": "evt_9",
       "titulo": "Al Nassr vs Al Sadd",
-      "hora": "12:15",
+      "hora": "10:15",
       "fecha_completa": "2026-11-24T13:15:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -235,9 +167,9 @@
       "torneo": "AFC Champions League Elite"
     },
     {
-      "id": "evt_24",
+      "id": "evt_10",
       "titulo": "Feyenoord vs Porto",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -257,9 +189,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_25",
+      "id": "evt_11",
       "titulo": "Como vs AEK Athens",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -275,9 +207,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_26",
+      "id": "evt_12",
       "titulo": "Arsenal vs Borussia Dortmund",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -301,9 +233,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_27",
+      "id": "evt_13",
       "titulo": "Manchester City vs Napoli",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -323,9 +255,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_28",
+      "id": "evt_14",
       "titulo": "RB Leipzig vs Lens",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -341,9 +273,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_29",
+      "id": "evt_15",
       "titulo": "Real Madrid vs PSV",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -367,9 +299,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_30",
+      "id": "evt_16",
       "titulo": "Slovan Bratislava vs Real Betis",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -385,9 +317,9 @@
       "torneo": "Champions League"
     },
     {
-      "id": "evt_31",
+      "id": "evt_17",
       "titulo": "Wolverhampton vs Derby County",
-      "hora": "14:00",
+      "hora": "12:00",
       "fecha_completa": "2026-11-24T15:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -399,9 +331,9 @@
       "torneo": "Championship"
     },
     {
-      "id": "evt_32",
+      "id": "evt_18",
       "titulo": "Chapecoense vs Palmeiras",
-      "hora": "15:00",
+      "hora": "13:00",
       "fecha_completa": "2026-11-24T16:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -413,9 +345,9 @@
       "torneo": "Brasileirão"
     },
     {
-      "id": "evt_33",
+      "id": "evt_19",
       "titulo": "Millonarios vs Atlético Bucaramanga",
-      "hora": "17:20",
+      "hora": "15:20",
       "fecha_completa": "2026-11-24T18:20:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -427,9 +359,9 @@
       "torneo": "Liga Colombia"
     },
     {
-      "id": "evt_34",
+      "id": "evt_20",
       "titulo": "Barcelona SC vs Independiente del Valle",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-24T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -441,9 +373,9 @@
       "torneo": "Liga Ecuador"
     },
     {
-      "id": "evt_36",
+      "id": "evt_22",
       "titulo": "Toros vs Caimanes",
-      "hora": "18:00",
+      "hora": "16:00",
       "fecha_completa": "2026-11-24T19:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -455,9 +387,9 @@
       "torneo": "Béisbol Colombiano"
     },
     {
-      "id": "evt_39",
+      "id": "evt_25",
       "titulo": "América de Cali vs Deportivo Cali",
-      "hora": "19:30",
+      "hora": "17:30",
       "fecha_completa": "2026-11-24T20:30:00-05:00",
       "status": "PRONTO",
       "servidores": [
@@ -469,15 +401,83 @@
       "torneo": "Liga Colombia"
     },
     {
-      "id": "evt_40",
+      "id": "evt_26",
       "titulo": "San Jose Earthquakes vs Houston Dynamo",
-      "hora": "21:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-24T22:00:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
           "nombre": "APPLETV1",
           "url": "https://streamxhd.sbs/live1.php?stream=appletv1"
+        }
+      ],
+      "torneo": "MLS"
+    },
+    {
+      "id": "evt_28",
+      "titulo": "Santos vs Grêmio",
+      "hora": "16:00",
+      "fecha_completa": "2026-11-23T19:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "SPORTV 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1"
+        },
+        {
+          "nombre": "PREMIERE3",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere3"
+        }
+      ],
+      "torneo": "Brasileirão"
+    },
+    {
+      "id": "evt_31",
+      "titulo": "Boca Juniors de Cali vs Deportes Quindío",
+      "hora": "16:30",
+      "fecha_completa": "2026-11-23T19:30:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "WIN SPORTS",
+          "url": "https://streamxhd.sbs/live1.php?stream=winsports"
+        },
+        {
+          "nombre": "WIN SPORTS +",
+          "url": "https://streamxhd.sbs/live1.php?stream=winplus"
+        }
+      ],
+      "torneo": "Primera B"
+    },
+    {
+      "id": "evt_35",
+      "titulo": "Washington Commanders vs Cincinnati Bengals",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-23T20:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "ESPN 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2"
+        }
+      ],
+      "torneo": "NFL"
+    },
+    {
+      "id": "evt_36",
+      "titulo": "St. Louis City vs Los Angeles FC",
+      "hora": "17:00",
+      "fecha_completa": "2026-11-23T20:00:00-05:00",
+      "status": "FINALIZADO",
+      "servidores": [
+        {
+          "nombre": "APPLETV1",
+          "url": "https://streamxhd.sbs/live1.php?stream=appletv1"
+        },
+        {
+          "nombre": "FOX DEPORTES USA",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa"
         }
       ],
       "torneo": "MLS"
