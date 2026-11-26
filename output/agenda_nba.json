@@ -1,13 +1,55 @@
 {
-  "fecha_actualizacion": "2026-11-25T23:26:12Z",
+  "fecha_actualizacion": "2026-11-26T11:57:26Z",
   "total": 12,
   "eventos": [
     {
-      "id": "evt_0",
+      "id": "evt_42",
+      "titulo": "Uruguay vs Canadá",
+      "hora": "17:10",
+      "fecha_completa": "2026-11-26T17:10:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
+        }
+      ],
+      "torneo": "FIBA Copa Mundial"
+    },
+    {
+      "id": "evt_46",
+      "titulo": "Argentina vs Bahamas",
+      "hora": "19:40",
+      "fecha_completa": "2026-11-26T19:40:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTSPLUS",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus"
+        }
+      ],
+      "torneo": "FIBA Copa Mundial"
+    },
+    {
+      "id": "evt_49",
+      "titulo": "Panamá vs Puerto Rico",
+      "hora": "20:40",
+      "fecha_completa": "2026-11-26T20:40:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
+        }
+      ],
+      "torneo": "FIBA Copa Mundial"
+    },
+    {
+      "id": "evt_51",
       "titulo": "Philadelphia 76ers vs Miami Heat",
-      "hora": "15:00",
+      "hora": "17:00",
       "fecha_completa": "2026-11-25T17:00:00-05:00",
-      "status": "EN VIVO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -21,11 +63,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_5",
+      "id": "evt_55",
       "titulo": "Charlotte Hornets vs Chicago Bulls",
-      "hora": "17:00",
+      "hora": "19:00",
       "fecha_completa": "2026-11-25T19:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 2",
@@ -35,11 +77,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_7",
+      "id": "evt_57",
       "titulo": "New York Knicks vs Cleveland Cavaliers",
-      "hora": "17:30",
+      "hora": "19:30",
       "fecha_completa": "2026-11-25T19:30:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 3",
@@ -49,11 +91,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_8",
+      "id": "evt_58",
       "titulo": "Oklahoma City Thunder vs Minnesota Timberwolves",
-      "hora": "17:30",
+      "hora": "19:30",
       "fecha_completa": "2026-11-25T19:30:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -67,11 +109,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_10",
+      "id": "evt_60",
       "titulo": "Milwaukee Bucks vs Brooklyn Nets",
-      "hora": "18:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-25T20:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 5",
@@ -81,11 +123,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_11",
+      "id": "evt_61",
       "titulo": "Memphis Grizzlies vs Los Angeles Clippers",
-      "hora": "18:00",
+      "hora": "20:00",
       "fecha_completa": "2026-11-25T20:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 6",
@@ -95,11 +137,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_13",
+      "id": "evt_64",
       "titulo": "Houston Rockets vs Phoenix Suns",
-      "hora": "18:30",
+      "hora": "20:30",
       "fecha_completa": "2026-11-25T20:30:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 7",
@@ -109,11 +151,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_15",
+      "id": "evt_66",
       "titulo": "Portland Trail Blazers vs San Antonio Spurs",
-      "hora": "20:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-25T22:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "ESPN 2",
@@ -127,11 +169,11 @@
       "torneo": "NBA"
     },
     {
-      "id": "evt_16",
+      "id": "evt_67",
       "titulo": "Golden State Warriors vs Sacramento Kings",
-      "hora": "20:00",
+      "hora": "22:00",
       "fecha_completa": "2026-11-25T22:00:00-05:00",
-      "status": "PRONTO",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "NBA LEAGUE PASS 9",
@@ -139,48 +181,6 @@
         }
       ],
       "torneo": "NBA"
-    },
-    {
-      "id": "evt_59",
-      "titulo": "Uruguay vs Canadá",
-      "hora": "15:10",
-      "fecha_completa": "2026-11-26T17:10:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS2",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
-        }
-      ],
-      "torneo": "FIBA Copa Mundial"
-    },
-    {
-      "id": "evt_63",
-      "titulo": "Argentina vs Bahamas",
-      "hora": "17:40",
-      "fecha_completa": "2026-11-26T19:40:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTSPLUS",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus"
-        }
-      ],
-      "torneo": "FIBA Copa Mundial"
-    },
-    {
-      "id": "evt_66",
-      "titulo": "Panamá vs Puerto Rico",
-      "hora": "18:40",
-      "fecha_completa": "2026-11-26T20:40:00-05:00",
-      "status": "PRONTO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS2",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
-        }
-      ],
-      "torneo": "FIBA Copa Mundial"
     }
   ]
 }
