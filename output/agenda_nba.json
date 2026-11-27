@@ -1,26 +1,12 @@
 {
-  "fecha_actualizacion": "2026-11-26T23:25:30Z",
-  "total": 3,
+  "fecha_actualizacion": "2026-11-27T11:49:48Z",
+  "total": 15,
   "eventos": [
     {
-      "id": "evt_1",
-      "titulo": "Uruguay vs Canadá",
-      "hora": "14:10",
-      "fecha_completa": "2026-11-26T17:10:00-05:00",
-      "status": "EN VIVO",
-      "servidores": [
-        {
-          "nombre": "DSPORTS2",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
-        }
-      ],
-      "torneo": "FIBA Copa Mundial"
-    },
-    {
-      "id": "evt_5",
-      "titulo": "Argentina vs Bahamas",
+      "id": "evt_28",
+      "titulo": "Chile vs México",
       "hora": "16:40",
-      "fecha_completa": "2026-11-26T19:40:00-05:00",
+      "fecha_completa": "2026-11-27T17:40:00-05:00",
       "status": "PRONTO",
       "servidores": [
         {
@@ -31,11 +17,201 @@
       "torneo": "FIBA Copa Mundial"
     },
     {
-      "id": "evt_8",
-      "titulo": "Panamá vs Puerto Rico",
-      "hora": "17:40",
-      "fecha_completa": "2026-11-26T20:40:00-05:00",
+      "id": "evt_31",
+      "titulo": "Brasil vs Estados Unidos",
+      "hora": "17:10",
+      "fecha_completa": "2026-11-27T18:10:00-05:00",
       "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
+        }
+      ],
+      "torneo": "FIBA Copa Mundial"
+    },
+    {
+      "id": "evt_34",
+      "titulo": "New York Knicks vs Miami Heat",
+      "hora": "18:00",
+      "fecha_completa": "2026-11-27T19:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PRIME VIDEO 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon1"
+        },
+        {
+          "nombre": "NBA LEAGUE PASS 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_35",
+      "titulo": "Indiana Pacers vs Philadelphia 76ers",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-27T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_36",
+      "titulo": "Toronto Raptors vs Brooklyn Nets",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-27T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba3"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_37",
+      "titulo": "Detroit Pistons vs Milwaukee Bucks",
+      "hora": "18:30",
+      "fecha_completa": "2026-11-27T19:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 4",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_39",
+      "titulo": "Boston Celtics vs Atlanta Hawks",
+      "hora": "19:00",
+      "fecha_completa": "2026-11-27T20:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba5"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_41",
+      "titulo": "Colombia vs República Dominicana",
+      "hora": "19:10",
+      "fecha_completa": "2026-11-27T20:10:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DSPORTS2",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2"
+        }
+      ],
+      "torneo": "FIBA Copa Mundial"
+    },
+    {
+      "id": "evt_42",
+      "titulo": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "hora": "19:30",
+      "fecha_completa": "2026-11-27T20:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba6"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_44",
+      "titulo": "Phoenix Suns vs Dallas Mavericks",
+      "hora": "20:00",
+      "fecha_completa": "2026-11-27T21:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba7"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_45",
+      "titulo": "San Antonio Spurs vs Los Angeles Lakers",
+      "hora": "20:30",
+      "fecha_completa": "2026-11-27T21:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "PRIME VIDEO 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=amazon2"
+        },
+        {
+          "nombre": "NBA LEAGUE PASS 8",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba8"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_46",
+      "titulo": "Los Angeles Clippers vs New Orleans Pelicans",
+      "hora": "20:30",
+      "fecha_completa": "2026-11-27T21:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA LEAGUE PASS 9",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba9"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_47",
+      "titulo": "Utah Jazz vs Denver Nuggets",
+      "hora": "20:30",
+      "fecha_completa": "2026-11-27T21:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA10",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba10"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_48",
+      "titulo": "Portland Trail Blazers vs Golden State Warriors",
+      "hora": "20:30",
+      "fecha_completa": "2026-11-27T21:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "NBA11",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba11"
+        }
+      ],
+      "torneo": "NBA"
+    },
+    {
+      "id": "evt_50",
+      "titulo": "Panamá vs Puerto Rico",
+      "hora": "19:40",
+      "fecha_completa": "2026-11-26T20:40:00-05:00",
+      "status": "FINALIZADO",
       "servidores": [
         {
           "nombre": "DSPORTS2",
