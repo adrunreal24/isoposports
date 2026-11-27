@@ -1,5 +1,128 @@
 {
-  "fecha_actualizacion": "2026-11-26T23:25:30Z",
-  "total": 0,
-  "eventos": []
+  "fecha_actualizacion": "2026-11-27T11:49:48Z",
+  "total": 7,
+  "eventos": [
+    {
+      "id": "evt_1",
+      "titulo": "GP Qatar – Práctica 1",
+      "hora": "07:30",
+      "fecha_completa": "2026-11-27T08:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 1",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        },
+        {
+          "nombre": "DAZNF1",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznf1"
+        },
+        {
+          "nombre": "SPORTV 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_2",
+      "titulo": "GP Qatar – Práctica 1 - On Board Colapinto",
+      "hora": "07:30",
+      "fecha_completa": "2026-11-27T08:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 2",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_3",
+      "titulo": "GP Qatar – Práctica 1 - On Board Leclerc",
+      "hora": "07:30",
+      "fecha_completa": "2026-11-27T08:30:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_6",
+      "titulo": "GP Lusail – Clasificación",
+      "hora": "08:50",
+      "fecha_completa": "2026-11-27T09:50:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "ESPN 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5"
+        }
+      ],
+      "torneo": "F2"
+    },
+    {
+      "id": "evt_10",
+      "titulo": "GP Qatar – Práctica 2",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-27T12:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 5",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5"
+        },
+        {
+          "nombre": "FOX SPORTS 1 AR",
+          "url": "https://streamxhd.sbs/live1.php?stream=fox1ar"
+        },
+        {
+          "nombre": "DAZNF1",
+          "url": "https://streamxhd.sbs/live1.php?stream=daznf1"
+        },
+        {
+          "nombre": "SPORTV 3",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_11",
+      "titulo": "GP Qatar – Práctica 2 - On Board Colapinto",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-27T12:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 6",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6"
+        }
+      ],
+      "torneo": "F1"
+    },
+    {
+      "id": "evt_12",
+      "titulo": "GP Qatar – Práctica 2 - On Board Leclerc",
+      "hora": "11:00",
+      "fecha_completa": "2026-11-27T12:00:00-05:00",
+      "status": "PRONTO",
+      "servidores": [
+        {
+          "nombre": "DISNEY+ 7",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7"
+        }
+      ],
+      "torneo": "F1"
+    }
+  ]
 }
